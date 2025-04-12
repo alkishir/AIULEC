@@ -46,5 +46,9 @@ If you use this corpus in your research or publication, please cite:
 
 ## 📩 Contact
 
-For questions, feedback, or contributions, please open an issue or contact **@alkishir** on GitHub .
+For questions, feedback, or contributions, please open an issue or contact **@alkishir** on GitHub.
 
+## 📄 License
+
+This project is licensed under the [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/).  
+You may share and adapt the materials for non-commercial purposes, provided that appropriate credit is given.

@@ -38,11 +38,17 @@ AIULEC is designed for:
 
 > This corpus is primarily for research and educational use.
 
+## 📄 Related Publication
+
+If you would like to learn more about the design, methodology, and analysis behind AIULEC, please refer to the following paper:
+
+> AIULEC: Building a Learner Corpus of English at Alasmarya Islamic University
+
 ## 📖 Citation
 
 If you use this corpus in your research or publication, please cite:
 
-> Alkishir, E. (2025). AIULEC: Alasmarya Islamic University Learner English Corpus. [GitHub link or DOI]_
+> Alkishir, E. (2025). AIULEC: Alasmarya Islamic University Learner English Corpus. 
 
 ## 📩 Contact
 

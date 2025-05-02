@@ -1,6 +1,6 @@
-# AIULEC /ˈaɪ.juː.lɛk/: Alasmarya Islamic University Learner English Corpus 
+# AIULEC /ˈaɪ.juː.lɛk/: Al-asmarya Islamic University Learner English Corpus 
 
-**AIULEC** is a learner corpus of English writing produced by English major students at Alasmarya Islamic University (AIU). This corpus consists of written texts collected from students in all semesters across the English departments at AIU during the Spring semester of 2024.
+**AIULEC** is a learner corpus of English writing produced by English major students at Al-asmarya Islamic University (AIU). This corpus consists of written texts collected from students in all semesters across the English departments at AIU during the Spring semester of 2024.
 
 ## 📚 About the Corpus
 
@@ -42,13 +42,13 @@ AIULEC is designed for:
 
 If you would like to learn more about the design, methodology, and analysis behind AIULEC, please refer to the following paper:
 
-> AIULEC: Building a Learner Corpus of English at Alasmarya Islamic University
+> AIULEC: Building a Learner Corpus of English at Al-asmarya Islamic University
 
 ## 📖 Citation
 
 If you use this corpus in your research or publication, please cite:
 
-> Alkishir, E. (2025). AIULEC: Alasmarya Islamic University Learner English Corpus. 
+> Alkishir, E. (2025). Building Al-asmarya Islamic University Learner English Corpus (AIULEC).  
 
 ## 📩 Contact
 

@@ -48,7 +48,7 @@ If you would like to learn more about the design, methodology, and analysis behi
 
 If you use this corpus in your research or publication, please cite:
 
-> Alkishir, E. (2025). Building Al-asmarya Islamic University Learner English Corpus (AIULEC).  
+> 
 
 ## 📩 Contact
 

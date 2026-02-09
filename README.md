@@ -27,7 +27,6 @@ Each file includes **metadata** such as semester, gender, and other learner vari
 
 - **POS Tagging Scheme**: [CLAWS C5 Tagset](https://ucrel.lancs.ac.uk/claws5tags.html)
 - **Error Annotation Tool**: [UCLEE Software](https://oer.uclouvain.be/jspui/handle/20.500.12279/968)
-- **Corpus Analysis Tool**: [#LancsBox](https://lancsbox.lancs.ac.uk/)
 
 ## 🎯 Intended Use
 
@@ -42,7 +41,7 @@ AIULEC is designed for:
 
 If you would like to learn more about the design, methodology, and analysis behind AIULEC, please refer to the following paper:
 
-> AIULEC: Building a Learner Corpus of English at Al-asmarya Islamic University
+> A corpus-based analysis of lexical, syntactic and error patterns in the Alasmarya Islamic University Learner English Corpus (AIULEC). (2026). In Proceedings of the Third Undergraduate and Graduate Students Conference, Alasmarya Islamic University.
 
 ## 📖 Citation
 

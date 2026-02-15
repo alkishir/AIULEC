@@ -1,59 +1,50 @@
-# AIULEC /ˈaɪ.juː.lɛk/: Al-asmarya Islamic University Learner English Corpus 
+# AIULEC: Al-asmarya Islamic University Learner English Corpus
 
-**AIULEC** is a learner corpus of English writing produced by English major students at Al-asmarya Islamic University (AIU). This corpus consists of written texts collected from students in all semesters across the English departments at AIU during the Spring semester of 2024.
+**AIULEC** is a learner corpus of **written English** produced by **Libyan Arabic (L1) university students** majoring in English at **Al-asmarya Islamic University (AIU)**. The corpus was collected during supervised writing sessions in **Spring 2024**.
 
-## 📚 About the Corpus
+## Corpus Summary
+- **272 documents**
+- ~**20,000 words**
+- Learners: English majors across all semesters (mostly female)
+- Writing conditions: **60-minute timed writing**, no phones, no grammar/spell-check tools
+- Texts are **anonymized** (no personally identifying information)
 
-Since no learner corpus of Libyan Arabic speakers' English was previously available at AIU or other institutions in Libya, this project was initiated to fill that gap. Resources like this are invaluable for researchers and educators alike, providing authentic data for language acquisition studies, corpus linguistics, error analysis, and curriculum development.
+## Contents & Formats
+This repository includes:
 
-### Key Features:
-- **272 documents** written by students from all academic levels (mostly females).
-- Topics selected by English department teachers.
-- Texts written **without the aid of phones or digital grammar/spell check tools**.
-- Supervised writing sessions to ensure authenticity.
-- Varying lengths based on student proficiency levels.
+- **XML files**: learner texts with embedded **metadata** and **CLAWS C5 POS tags**
+- **UCLEE error-tagged files**: manually annotated learner errors (UCLEE format)
+- **TXT files**: plain-text versions of the learner writings
+- **CSV file**: combined metadata table for all documents
+- **PDF files**: teacher-friendly reading versions *(not recommended for corpus processing)*
 
-## 🔍 What's Included
+## Metadata
+Each document includes learner variables such as:
+- semester level
+- topic
+- lived in an English-speaking country (yes/no)
+- age (available for some participants)
 
-Download the repository to access the following files:
+## Tools & Tagging
+- POS tagset: **CLAWS C5**
+- Error annotation: **UCLEE format**
 
-- **PDF files** containing the original student texts with learner metadata.
-- **XML files** annotated with **POS tags** using the **CLAWS tagger**.
-- **Error-tagged files** for analysis of learner mistakes.
+## Intended Use
+AIULEC can be used for:
+- learner corpus research
+- SLA studies
+- error analysis
+- NLP for learner English (e.g., tagging, classification, GEC)
 
-Each file includes **metadata** such as semester, gender, and other learner variables.
+## Related Publication
+A paper describing the corpus design and methodology has been accepted for presentation at:
 
-## 🛠️ Tools & Tagging
+> Alkishir, M., Mohsen, G., & Alzabob, H. (2025). *A corpus-based analysis of lexical, syntactic and error patterns in the Al-asmarya Islamic University Learner English Corpus (AIULEC).* In *Proceedings of the Third Undergraduate and Graduate Students Conference*, Al-asmarya Islamic University.
 
-- **POS Tagging Scheme**: [CLAWS C5 Tagset](https://ucrel.lancs.ac.uk/claws5tags.html)
-- **Error Annotation Tool**: [UCLEE Software](https://oer.uclouvain.be/jspui/handle/20.500.12279/968)
 
-## 🎯 Intended Use
-
-AIULEC is designed for:
-- Researchers working in **second language acquisition**, **learner corpus research**, and **error analysis**.
-- Teachers interested in applying **corpus-based methods** in the classroom.
-- Developers of **NLP models** for learner English and error correction.
-
-> This corpus is primarily for research and educational use.
-
-## 📄 Related Publication
-
-If you would like to learn more about the design, methodology, and analysis behind AIULEC, please refer to the following paper:
-
-> A corpus-based analysis of lexical, syntactic and error patterns in the Alasmarya Islamic University Learner English Corpus (AIULEC). (2026). In Proceedings of the Third Undergraduate and Graduate Students Conference, Alasmarya Islamic University.
-
-## 📖 Citation
-
-If you use this corpus in your research or publication, please cite:
-
-> 
-
-## 📩 Contact
-
-For questions, feedback, or contributions, please open an issue or contact **@alkishir** on GitHub.
-
-## 📄 License
-
-This project is licensed under the [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/).  
+## License
+This project is licensed under the **Creative Commons Attribution–NonCommercial 4.0 International (CC BY-NC 4.0)** license.  
 You may share and adapt the materials for non-commercial purposes, provided that appropriate credit is given.
+
+## Contact
+For questions, feedback, or contributions, please open an issue or contact **@alkishir** on GitHub.

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<file name="" tagset="uclee-en-2.0.tag">
+Title: <FS corr="Some University Studnts Want to Learn about Other Subjects. Others Believe It Is More Important to Give All Their Time and Attention to Studying for a Qualification. Discuss This View and Give Your Own Opinion ">Some university students want to learn about other subjects. Others belive it is more important to give all their time and attention to studying for a qualification. Discuss this view and give your own opinion </FS>
+
+I simply <LSV corr="think?">words</LSV> some students at university prefer to learn other subjects with the main <GNN corr="subjects">subject</GNN> that will improve their knowledge and skills <LP corr="at the same time">in the same time</LP> with their main subjects<QM corr=",">\0</QM> which they want to study and know more about <GPP corr="0">it</GPP>. 
+
+<FS corr="Other">other</FS> <GNN corr="students">student</GNN> just prefer to concentrate their time and effort on what they want to study at university to come up with a result in this <LSN corr="major">subject</LSN> and its skills.
+
+In my opinion<QM corr=",">\0</QM> <GVNF corr="studying">study</GVNF> more than one subject and its branches and types <GVAUX corr="will">would</GVAUX> improve the <GNC corr="student's knowledge">student knowledge</GNC> and experience in the practical and personal life, and help the student <XVCO corr="grow up">to grow up</XVCO> and understand the other <FS corr="preferences">prefernences</FS> and <FS corr="their">thier</FS> abilities. 
+
+In <GA corr="the">\0</GA>future<QM corr=",">\0</QM> that will help them <XVCO corr="know">to know</XVCO> the abilities of <FS corr="their">thier</FS> <GNN corr="students">student</GNN> and how they are thinking.
+</file>

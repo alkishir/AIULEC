@@ -1,0 +1,94 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <corpus>
+    <text>
+      <metadata>
+        <Faculty>Human Sciences</Faculty>
+        <Semester>6</Semester>
+        <Age>20</Age>
+        <Time_spent_at_an_EnglishSpeaking_country>X</Time_spent_at_an_EnglishSpeaking_country>
+        <Topic>Eating at restaurants with your family is a good way to build family ties</Topic>
+        <Title>Eating at restaurants with your family is a good way to build family ties</Title>
+        </metadata>
+      <body>
+        <word pos="PNP">I</word>
+        <word pos="VVB">agree</word>
+        <word pos="PRP">with</word>
+        <word pos="DT0">that</word>
+        <word pos="PUN">,</word>
+        <word pos="CJS">because</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">family</word>
+        <word pos="VM0">will</word>
+        <word pos="VHI">have</word>
+        <word pos="AT0">a</word>
+        <word pos="AJ0">different</word>
+        <word pos="NN1">day</word>
+        <word pos="PUN">,</word>
+        <word pos="VVB">make</word>
+        <word pos="AT0">a</word>
+        <word pos="NN1">change</word>
+        <word pos="PRP">in</word>
+        <word pos="DPS">their</word>
+        <word pos="NN1">routine</word>
+        <word pos="PUN">,</word>
+        <word pos="VHI">have</word>
+        <word pos="AT0">a</word>
+        <word pos="NN1">time</word>
+        <word pos="AV0">together</word>
+        <word pos="AV0">maybe</word>
+        <word pos="PNP">they</word>
+        <word pos="VM0">ca</word>
+        <word pos="XX0">n't</word>
+        <word pos="VHB">have</word>
+        <word pos="PRP">in</word>
+        <word pos="DPS">their</word>
+        <word pos="NN1">home</word>
+        <word pos="PUN">,</word>
+        <word pos="VVB">talk</word>
+        <word pos="PRP">to</word>
+        <word pos="PNX">each</word>
+        <word pos="PNX">other</word>
+        <word pos="PUN">.</word>
+        <word pos="PNP">It</word>
+        <word pos="VBZ">'s</word>
+        <word pos="AT0">a</word>
+        <word pos="AJ0">good</word>
+        <word pos="NN1">idea</word>
+        <word pos="TO0">to</word>
+        <word pos="VVI">make</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">relation</word>
+        <word pos="PRP">between</word>
+        <word pos="PNP">them</word>
+        <word pos="AV0">more</word>
+        <word pos="AJ0">beautiful</word>
+        <word pos="CJC">and</word>
+        <word pos="AJC">stronger</word>
+        <word pos="PUN">,</word>
+        <word pos="XX0">not</word>
+        <word pos="AV0">just</word>
+        <word pos="TO0">to</word>
+        <word pos="VVI">eat</word>
+        <word pos="PRP">in</word>
+        <word pos="NN1">restaurant</word>
+        <word pos="VVB">build</word>
+        <word pos="NN1">family</word>
+        <word pos="NN2">ties</word>
+        <word pos="PUN">;</word>
+        <word pos="PNI">anything</word>
+        <word pos="VVB">make</word>
+        <word pos="AT0">a</word>
+        <word pos="VVI">differ</word>
+        <word pos="PRP">in</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">family</word>
+        <word pos="NN1">lifestyle</word>
+        <word pos="VM0">can</word>
+        <word pos="VVI">build</word>
+        <word pos="NN1">family</word>
+        <word pos="NN2">ties</word>
+        </body>
+      </text>
+    </corpus>
+  </root>

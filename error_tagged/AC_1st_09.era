@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<file name="" tagset="uclee-en-2.0.tag">
+Title: School 
+
+<GA corr="0">The</GA> school is the best place. You learn about <GPI corr="everything">any things</GPI> <LCC corr="and">or</LCC> <WM corr="has all the">\0</WM>information you need. And it is the best place to know <FS corr="different">defferent</FS> people<QC corr=",">.</QC> and <LP corr="get to know">make <XNUC corr="loves">loves</XNUC> with</LP> them. 
+
+<GA corr="0">The</GA> school has many classes<QM corr=".">\0</QM> there are many students in the same class. 
+
+<GA corr="0">The</GA> <GNN corr="schools">school</GNN> in Libya <LSV corr="teach">learns</LSV> <FS corr="a lot of">alot of</FS> subjects<QM corr=",">\0</QM> like<QR corr="0">:</QR> math, <FS corr="history">History</FS>, English and <FS corr="Arabic">Arapic</FS>.
+</file>

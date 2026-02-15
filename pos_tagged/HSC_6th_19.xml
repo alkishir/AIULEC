@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <corpus>
+    <text>
+      <metadata>
+        <Faculty>Human Sciences</Faculty>
+        <Semester>6</Semester>
+        <Age>22</Age>
+        <Time_spent_at_an_EnglishSpeaking_country>X</Time_spent_at_an_EnglishSpeaking_country>
+        <Topic>Eating at restaurants with your family is a good way to build family ties</Topic>
+        <Title>Eating at restaurants with your family is a good way to build family</Title>
+        </metadata>
+      <body>
+        <word pos="VVB">Focus</word>
+        <word pos="PRP">on</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">communication</word>
+        <word pos="CJC">and</word>
+        <word pos="NN1">engagement</word>
+        <word pos="PUN">.</word>
+        <word pos="VVB">Encourage</word>
+        <word pos="DT0">all</word>
+        <word pos="NN1">family</word>
+        <word pos="PUN">.</word>
+        <word pos="VVB">Avoid</word>
+        <word pos="VVG">using</word>
+        <word pos="AJ0">mobile</word>
+        <word pos="NN2">phones</word>
+        <word pos="PUN">,</word>
+        <word pos="VVB">Try</word>
+        <word pos="TO0">to</word>
+        <word pos="VVI">keep</word>
+        <word pos="DT0">all</word>
+        <word pos="AJ0">digital</word>
+        <word pos="NN2">distances</word>
+        <word pos="AV0">away</word>
+        <word pos="PUN">.</word>
+        <word pos="VVB">Enjoy</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">time</word>
+        <word pos="AV0">together</word>
+        <word pos="VVB">focus</word>
+        <word pos="PRP">on</word>
+        <word pos="VVG">savoring</word>
+        <word pos="AT0">the</word>
+        <word pos="AJ0">shared</word>
+        <word pos="NN1">time</word>
+        <word pos="PUN">,</word>
+        <word pos="XX0">not</word>
+        <word pos="AV0">just</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">food</word>
+        <word pos="PUN">.</word>
+        </body>
+      </text>
+    </corpus>
+  </root>

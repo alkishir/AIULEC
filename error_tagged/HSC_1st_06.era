@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<file name="" tagset="uclee-en-2.0.tag">
+Title:.........
+
+Animals: I love <GA corr="0">the</GA> <FS corr="animals">Animals</FS> so much<QM corr=".">\0</QM> I like <XVPR corr="caring for"><XVCO corr="caring"><FS corr="care">cear</FS></XVCO></XVPR> <GA corr="0">the</GA> <FS corr="animals">Animals</FS> and giving <GPP corr="them">\0</GPP><GA corr="0">a</GA> food <GWC corr="especially"><LSADJ corr="especial"><FS corr="special">spachel</FS></LSADJ></GWC> <GA corr="0">the</GA> cats<QM corr=".">\0</QM> I have some cats in my house. <FS corr="When">when</FS> I spend my time with <FS corr="animals">Animals</FS><QC corr=",">.</QC> I feel<QR corr="0">,</QR> happy and <GWC corr="relaxed">relax</GWC>. 
+
+Music: I like <XVPR corr="listening to"><FS corr="listening">lestening</FS></XVPR> English music <FS corr="because">becuse</FS> I <XVPR corr="want to">want </XVPR><FS corr="learn">lern</FS> English<QM corr=".">\0</QM> <FS corr="It">it</FS> <GVN corr="helps">help</GVN> me <FS corr="because">becuse</FS> <GPP corr="it">\0</GPP><LSV corr="teaches"><GVN corr="gives">give</GVN></LSV> me <GA corr="0">a</GA> new words.
+</file>

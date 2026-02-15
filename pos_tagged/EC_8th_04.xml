@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <corpus>
+    <text>
+      <metadata>
+        <Faculty>Education</Faculty>
+        <Semester>8</Semester>
+        <Age>22</Age>
+        <Time_spent_at_an_EnglishSpeaking_country>X</Time_spent_at_an_EnglishSpeaking_country>
+        <Topic>Honor of My Family</Topic>
+        <Title>Honor of My family</Title>
+        </metadata>
+      <body>
+        <word pos="AT0">The</word>
+        <word pos="NN1">role</word>
+        <word pos="PRF">of</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">family</word>
+        <word pos="PRP">in</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">life</word>
+        <word pos="PRF">of</word>
+        <word pos="NN1">human</word>
+        <word pos="VBZ">is</word>
+        <word pos="AV0">very</word>
+        <word pos="AJ0">important</word>
+        <word pos="NN1">role</word>
+        <word pos="PUN">.</word>
+        <word pos="NN1">Mother</word>
+        <word pos="CJC">and</word>
+        <word pos="NN1">father</word>
+        <word pos="VBZ">is</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">origin</word>
+        <word pos="PRF">of</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">family</word>
+        <word pos="CJC">and</word>
+        <word pos="AT0">the</word>
+        <word pos="AJ0">basic</word>
+        <word pos="PRF">of</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">home</word>
+        <word pos="PUN">.</word>
+        <word pos="NN2">Sons</word>
+        <word pos="AV0">also</word>
+        <word pos="VBB">are</word>
+        <word pos="AT0">the</word>
+        <word pos="NN2">branches</word>
+        <word pos="PRF">of</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">family</word>
+        <word pos="NN1">tree</word>
+        <word pos="PUN">.</word>
+        </body>
+      </text>
+    </corpus>
+  </root>

@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <corpus>
+    <text>
+      <metadata>
+        <Faculty>Human Sciences</Faculty>
+        <Semester>4</Semester>
+        <Age>24</Age>
+        <Time_spent_at_an_EnglishSpeaking_country>X</Time_spent_at_an_EnglishSpeaking_country>
+        <Topic>Describing a picture</Topic>
+        <Title>house for dog</Title>
+        </metadata>
+      <body>
+        <word pos="NP0">Ali</word>
+        <word pos="VVG">making</word>
+        <word pos="NN1">house</word>
+        <word pos="PRP">to</word>
+        <word pos="DPS">his</word>
+        <word pos="NN1">dog</word>
+        <word pos="PUN">.</word>
+        <word pos="PNP">He</word>
+        <word pos="VVG">making</word>
+        <word pos="NN1">house</word>
+        <word pos="PRF">of</word>
+        <word pos="NN1">wood</word>
+        <word pos="PUN">.</word>
+        <word pos="DPS">my</word>
+        <word pos="NN1">dog</word>
+        <word pos="VBD">was</word>
+        <word pos="AJ0">happy</word>
+        <word pos="PRP">to</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">house</word>
+        </body>
+      </text>
+    </corpus>
+  </root>

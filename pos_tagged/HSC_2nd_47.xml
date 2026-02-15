@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <corpus>
+    <text>
+      <metadata>
+        <Faculty>Human Sciences</Faculty>
+        <Semester>2</Semester>
+        <Age>20</Age>
+        <Time_spent_at_an_EnglishSpeaking_country>X</Time_spent_at_an_EnglishSpeaking_country>
+        <Topic>A strange experience</Topic>
+        <Title>A strange experience</Title>
+        </metadata>
+      <body>
+        <word pos="AT0">An</word>
+        <word pos="AJ0">unforgettable</word>
+        <word pos="NN1">experience</word>
+        <word pos="PRP">in</word>
+        <word pos="DPS">my</word>
+        <word pos="AJ0">live</word>
+        <word pos="CJS">when</word>
+        <word pos="PNP">I</word>
+        <word pos="VVD">decided</word>
+        <word pos="NN1">arrangement</word>
+        <word pos="PRP">in</word>
+        <word pos="NP0">Quran</word>
+        <word pos="NN1">memorization</word>
+        <word pos="NN1">exam</word>
+        <word pos="PUN">.</word>
+        <word pos="AV0">At</word>
+        <word pos="AV0">first</word>
+        <word pos="PNP">it</word>
+        <word pos="VBD">was</word>
+        <word pos="DPS">my</word>
+        <word pos="NN1">father</word>
+        <word pos="POS">'s</word>
+        <word pos="NN1">idea</word>
+        <word pos="PUN">.</word>
+        <word pos="AV0">Then</word>
+        <word pos="PNP">I</word>
+        <word pos="VVD">liked</word>
+        <word pos="DT0">this</word>
+        <word pos="NN1">idea</word>
+        <word pos="PUN">,</word>
+        <word pos="CJC">and</word>
+        <word pos="PNP">I</word>
+        <word pos="VVB">read</word>
+        <word pos="PRP">with</word>
+        <word pos="AV0">seriously</word>
+        <word pos="CJS">until</word>
+        <word pos="PNP">I</word>
+        <word pos="VHB">have</word>
+        <word pos="DPS">my</word>
+        <word pos="NN1">father</word>
+        <word pos="POS">'s</word>
+        <word pos="NN1">dream</word>
+        <word pos="PUN">.</word>
+        <word pos="AV0">finally</word>
+        <word pos="PNP">I</word>
+        <word pos="VDD">did</word>
+        <word pos="PNP">it</word>
+        <word pos="CJC">and</word>
+        <word pos="PNP">I</word>
+        <word pos="AJ0">successful</word>
+        </body>
+      </text>
+    </corpus>
+  </root>

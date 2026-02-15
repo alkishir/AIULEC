@@ -1,0 +1,94 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <corpus>
+    <text>
+      <metadata>
+        <Faculty>Human Sciences</Faculty>
+        <Semester>4</Semester>
+        <Age>20</Age>
+        <Time_spent_at_an_EnglishSpeaking_country>X</Time_spent_at_an_EnglishSpeaking_country>
+        <Topic>Describing a picture</Topic>
+        <Title>Jack and his dog</Title>
+        </metadata>
+      <body>
+        <word pos="EX0">There</word>
+        <word pos="VBZ">is</word>
+        <word pos="AT0">a</word>
+        <word pos="NN1">boy</word>
+        <word pos="VVN">named</word>
+        <word pos="NP0">Jack</word>
+        <word pos="PUN">,</word>
+        <word pos="CRD">7</word>
+        <word pos="NN2">years</word>
+        <word pos="AJ0">old</word>
+        <word pos="PUN">.</word>
+        <word pos="PNP">He</word>
+        <word pos="VBD">was</word>
+        <word pos="XX0">n't</word>
+        <word pos="AJ0">happy</word>
+        <word pos="CJS">because</word>
+        <word pos="PNP">he</word>
+        <word pos="VDD">did</word>
+        <word pos="XX0">n't</word>
+        <word pos="VHI">have</word>
+        <word pos="AT0">a</word>
+        <word pos="NN1">home</word>
+        <word pos="PRP">for</word>
+        <word pos="DPS">his</word>
+        <word pos="NN1">dog</word>
+        <word pos="PUN">.</word>
+        <word pos="CJS">while</word>
+        <word pos="PNP">he</word>
+        <word pos="VBD">was</word>
+        <word pos="VVG">walking</word>
+        <word pos="PRP">with</word>
+        <word pos="DPS">his</word>
+        <word pos="NN1">dog</word>
+        <word pos="PUN">,</word>
+        <word pos="PNP">he</word>
+        <word pos="VVD">found</word>
+        <word pos="AT0">a</word>
+        <word pos="AJ0">broken</word>
+        <word pos="NN1">house</word>
+        <word pos="PUN">,</word>
+        <word pos="CJS">so</word>
+        <word pos="PNP">he</word>
+        <word pos="VVD">fixed</word>
+        <word pos="PNP">it</word>
+        <word pos="PUN">,</word>
+        <word pos="CJS">so</word>
+        <word pos="PNP">he</word>
+        <word pos="VVD">repaired</word>
+        <word pos="PNP">it</word>
+        <word pos="CJC">and</word>
+        <word pos="VVD">put</word>
+        <word pos="DPS">his</word>
+        <word pos="NN1">dog</word>
+        <word pos="PRP">in</word>
+        <word pos="PNP">it</word>
+        <word pos="PUN">.</word>
+        <word pos="AV0">Then</word>
+        <word pos="PNP">he</word>
+        <word pos="VVD">felt</word>
+        <word pos="AJ0">happy</word>
+        <word pos="CJS">because</word>
+        <word pos="PNP">he</word>
+        <word pos="VDD">did</word>
+        <word pos="DT0">this</word>
+        <word pos="AJ0">good</word>
+        <word pos="NN1">work</word>
+        <word pos="PUN">,</word>
+        <word pos="CJC">and</word>
+        <word pos="VVD">made</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">dog</word>
+        <word pos="VHI">have</word>
+        <word pos="AT0">a</word>
+        <word pos="NN1">place</word>
+        <word pos="TO0">to</word>
+        <word pos="VVI">rest</word>
+        <word pos="PUN">.</word>
+        </body>
+      </text>
+    </corpus>
+  </root>

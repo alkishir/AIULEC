@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <corpus>
+    <text>
+      <metadata>
+        <Faculty>Education</Faculty>
+        <Semester>1</Semester>
+        <Age>19</Age>
+        <Time_spent_at_an_EnglishSpeaking_country>X</Time_spent_at_an_EnglishSpeaking_country>
+        <Topic>An interesting place</Topic>
+        <Title>Tripol is beautiful place</Title>
+        </metadata>
+      <body>
+        <word pos="PRP">with</word>
+        <word pos="DT0">many</word>
+        <word pos="AJ0">wonderful</word>
+        <word pos="NN2">things</word>
+        <word pos="PUN">,</word>
+        <word pos="NN1">museum</word>
+        <word pos="CJC">and</word>
+        <word pos="EX0">there</word>
+        <word pos="VBZ">'s</word>
+        <word pos="AT0">a</word>
+        <word pos="NN1">theater</word>
+        <word pos="CJC">and</word>
+        <word pos="PNP">I</word>
+        <word pos="VHB">have</word>
+        <word pos="TO0">to</word>
+        <word pos="VVI">visit</word>
+        <word pos="PNP">them</word>
+        <word pos="PRP">in</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">summer</word>
+        <word pos="TO0">to</word>
+        <word pos="VVI">go</word>
+        <word pos="PRP">to</word>
+        <word pos="PNP">her</word>
+        <word pos="AT0">a</word>
+        <word pos="AJ0">beautiful</word>
+        <word pos="NN1">place</word>
+        <word pos="NN1">sea</word>
+        <word pos="CJC">and</word>
+        <word pos="EX0">there</word>
+        <word pos="VBZ">'s</word>
+        <word pos="NN1">field</word>
+        <word pos="VVB">know</word>
+        <word pos="PRP">as</word>
+        <word pos="AT0">the</word>
+        <word pos="NP0">Martyrs</word>
+        <word pos="PUN">.</word>
+        <word pos="AT0">The</word>
+        <word pos="NN1">atmosphere</word>
+        <word pos="VBZ">is</word>
+        <word pos="AJ0">wonderful</word>
+        <word pos="AV0">especially</word>
+        <word pos="PRP">in</word>
+        <word pos="UNC">lille</word>
+        <word pos="PUN">.</word>
+        </body>
+      </text>
+    </corpus>
+  </root>

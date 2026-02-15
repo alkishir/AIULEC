@@ -1,0 +1,161 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <corpus>
+    <text>
+      <metadata>
+        <Faculty>Human Sciences</Faculty>
+        <Semester>4</Semester>
+        <Age>19</Age>
+        <Time_spent_at_an_EnglishSpeaking_country>X</Time_spent_at_an_EnglishSpeaking_country>
+        <Topic>Describing a picture</Topic>
+        <Title>A special house for my puppy</Title>
+        </metadata>
+      <body>
+        <word pos="AV0">Once</word>
+        <word pos="PRP">upon</word>
+        <word pos="AT0">a</word>
+        <word pos="NN1">time</word>
+        <word pos="PUN">,</word>
+        <word pos="PRP">in</word>
+        <word pos="AT0">a</word>
+        <word pos="NN1">village</word>
+        <word pos="PUN">,</word>
+        <word pos="EX0">there</word>
+        <word pos="VVD">lived</word>
+        <word pos="AT0">a</word>
+        <word pos="AJ0">little</word>
+        <word pos="NN1">boy</word>
+        <word pos="VVN">named</word>
+        <word pos="NP0">John</word>
+        <word pos="PUN">.</word>
+        <word pos="PNP">He</word>
+        <word pos="VVD">lived</word>
+        <word pos="PRP">with</word>
+        <word pos="DPS">his</word>
+        <word pos="NN1">family</word>
+        <word pos="PRP">in</word>
+        <word pos="AT0">a</word>
+        <word pos="NN1">house</word>
+        <word pos="VVN">surrounded</word>
+        <word pos="PRP">by</word>
+        <word pos="NN1">wheat</word>
+        <word pos="CJC">and</word>
+        <word pos="NN2">flowers</word>
+        <word pos="PUN">.</word>
+        <word pos="CRD">One</word>
+        <word pos="NN1">day</word>
+        <word pos="PUN">,</word>
+        <word pos="CJS">while</word>
+        <word pos="NP0">John</word>
+        <word pos="VBD">was</word>
+        <word pos="VVG">exploring</word>
+        <word pos="AT0">the</word>
+        <word pos="NN2">outskirts</word>
+        <word pos="PRF">of</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">village</word>
+        <word pos="PUN">,</word>
+        <word pos="PNP">he</word>
+        <word pos="VVD">found</word>
+        <word pos="AT0">a</word>
+        <word pos="AJ0">small</word>
+        <word pos="NN1">puppy</word>
+        <word pos="PUN">.</word>
+        <word pos="PNP">It</word>
+        <word pos="VBD">was</word>
+        <word pos="AJ0">sad</word>
+        <word pos="CJC">and</word>
+        <word pos="AJ0">full</word>
+        <word pos="PRF">of</word>
+        <word pos="NN1">dirt</word>
+        <word pos="PUN">.</word>
+        <word pos="NP0">Johns</word>
+        <word pos="PRP">without</word>
+        <word pos="NN1">hesitation</word>
+        <word pos="PUN">,</word>
+        <word pos="PNP">he</word>
+        <word pos="VVB">decide</word>
+        <word pos="TO0">to</word>
+        <word pos="VVI">take</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">puppy</word>
+        <word pos="AV0">home</word>
+        <word pos="PUN">.</word>
+        <word pos="CJS">when</word>
+        <word pos="PNP">he</word>
+        <word pos="VVD">returned</word>
+        <word pos="AV0">home</word>
+        <word pos="PUN">,</word>
+        <word pos="DPS">his</word>
+        <word pos="NN2">parents</word>
+        <word pos="VVD">told</word>
+        <word pos="PNP">him</word>
+        <word pos="PUN">:</word>
+        <word pos="PNP">you</word>
+        <word pos="VM0">can</word>
+        <word pos="VVI">keep</word>
+        <word pos="PNP">him</word>
+        <word pos="PUN">,</word>
+        <word pos="CJC">but</word>
+        <word pos="PNP">he</word>
+        <word pos="VM0">should</word>
+        <word pos="XX0">n't</word>
+        <word pos="VBI">be</word>
+        <word pos="PRP">inside</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">house</word>
+        <word pos="PUN">,</word>
+        <word pos="CJS">so</word>
+        <word pos="PNP">you</word>
+        <word pos="VM0">can</word>
+        <word pos="VVI">build</word>
+        <word pos="AT0">a</word>
+        <word pos="AJ0">special</word>
+        <word pos="NN1">house</word>
+        <word pos="PRP">for</word>
+        <word pos="PNP">him</word>
+        <word pos="PUN">.</word>
+        <word pos="PNP">He</word>
+        <word pos="VBD">was</word>
+        <word pos="AV0">very</word>
+        <word pos="AJ0">excited</word>
+        <word pos="CJC">and</word>
+        <word pos="VVD">took</word>
+        <word pos="AT0">a</word>
+        <word pos="AJ0">wooden</word>
+        <word pos="NN1">plank</word>
+        <word pos="PUN">,</word>
+        <word pos="AT0">a</word>
+        <word pos="NN1">hammer</word>
+        <word pos="CJC">and</word>
+        <word pos="DT0">some</word>
+        <word pos="NN2">rails</word>
+        <word pos="CJC">and</word>
+        <word pos="PNP">he</word>
+        <word pos="VVD">started</word>
+        <word pos="PRP">to</word>
+        <word pos="VVG">building</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">house</word>
+        <word pos="CJS">when</word>
+        <word pos="NP0">John</word>
+        <word pos="VVD">finished</word>
+        <word pos="PUN">,</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">puppy</word>
+        <word pos="VVD">seemed</word>
+        <word pos="AJ0">happy</word>
+        <word pos="CJC">and</word>
+        <word pos="VVD">expressed</word>
+        <word pos="DT0">this</word>
+        <word pos="PRP">by</word>
+        <word pos="VVG">barking</word>
+        <word pos="CJC">and</word>
+        <word pos="VVI">play</word>
+        <word pos="PRP">with</word>
+        <word pos="NP0">John</word>
+        <word pos="PUN">.</word>
+        </body>
+      </text>
+    </corpus>
+  </root>

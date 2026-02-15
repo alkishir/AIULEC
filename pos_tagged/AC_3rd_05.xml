@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <corpus>
+    <text>
+      <metadata>
+        <Faculty>Arts</Faculty>
+        <Semester>3</Semester>
+        <Age>none</Age>
+        <Time_spent_at_an_EnglishSpeaking_country>none</Time_spent_at_an_EnglishSpeaking_country>
+        <Topic>Sport</Topic>
+        <Title>Sport</Title>
+        </metadata>
+      <body>
+        <word pos="DPS">My</word>
+        <word pos="AJ0">favorite</word>
+        <word pos="NN1">sport</word>
+        <word pos="VBZ">is</word>
+        <word pos="NN1">football</word>
+        <word pos="PUN">.</word>
+        <word pos="NN1">Football</word>
+        <word pos="VBZ">is</word>
+        <word pos="AJ0">popular</word>
+        <word pos="NN1">sport</word>
+        <word pos="PRP">in</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">world</word>
+        <word pos="PUN">.</word>
+        <word pos="PNP">It</word>
+        <word pos="VBZ">is</word>
+        <word pos="AJ0">interesting</word>
+        <word pos="NN1">game</word>
+        <word pos="PUN">,</word>
+        <word pos="PNP">I</word>
+        <word pos="VVB">like</word>
+        <word pos="VVI">watch</word>
+        <word pos="NN2">matches</word>
+        <word pos="CJS">when</word>
+        <word pos="PNP">I</word>
+        <word pos="VBD">was</word>
+        <word pos="NN1">child</word>
+        <word pos="PUN">,</word>
+        <word pos="PNP">I</word>
+        <word pos="AV0">always</word>
+        <word pos="VVB">go</word>
+        <word pos="PRP">to</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">club</word>
+        <word pos="PUN">,</word>
+        <word pos="CJS">when</word>
+        <word pos="PNP">I</word>
+        <word pos="VVB">want</word>
+        <word pos="TO0">to</word>
+        <word pos="VVD">played</word>
+        <word pos="PUN">,</word>
+        <word pos="PNP">I</word>
+        <word pos="VVB">go</word>
+        <word pos="TO0">to</word>
+        <word pos="VVI">near</word>
+        <word pos="NN1">club</word>
+        <word pos="PUN">.</word>
+        </body>
+      </text>
+    </corpus>
+  </root>

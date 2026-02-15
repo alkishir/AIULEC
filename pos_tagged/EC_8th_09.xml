@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <corpus>
+    <text>
+      <metadata>
+        <Faculty>Education</Faculty>
+        <Semester>8</Semester>
+        <Age>22</Age>
+        <Time_spent_at_an_EnglishSpeaking_country>X</Time_spent_at_an_EnglishSpeaking_country>
+        <Topic>Honor of My Family</Topic>
+        <Title>The honor of my family</Title>
+        </metadata>
+      <body>
+        <word pos="DPS">My</word>
+        <word pos="NN1">family</word>
+        <word pos="VBZ">is</word>
+        <word pos="VVI">consist</word>
+        <word pos="PRF">of</word>
+        <word pos="CRD">three</word>
+        <word pos="NN2">girls</word>
+        <word pos="CJC">and</word>
+        <word pos="CRD">four</word>
+        <word pos="NN2">brothers</word>
+        <word pos="PUN">,</word>
+        <word pos="PNP">I</word>
+        <word pos="VVB">pride</word>
+        <word pos="PRP">for</word>
+        <word pos="DPS">my</word>
+        <word pos="NN1">father</word>
+        <word pos="PUN">,</word>
+        <word pos="PNP">he</word>
+        <word pos="VBZ">is</word>
+        <word pos="VVN">worked</word>
+        <word pos="PRP">on</word>
+        <word pos="NN1">company</word>
+        <word pos="CJC">and</word>
+        <word pos="DPS">my</word>
+        <word pos="NN1">mother</word>
+        <word pos="VVD">worked</word>
+        <word pos="CJS">as</word>
+        <word pos="NN1">teacher</word>
+        <word pos="CJC">and</word>
+        <word pos="PNP">I</word>
+        <word pos="VVB">pride</word>
+        <word pos="PRP">to</word>
+        <word pos="DPS">my</word>
+        <word pos="NN1">husband</word>
+        <word pos="PUN">.</word>
+        <word pos="PRP">For</word>
+        <word pos="NN1">work</word>
+        <word pos="CJS">as</word>
+        <word pos="NN1">doctor</word>
+        <word pos="PUN">.</word>
+        <word pos="PNP">I</word>
+        <word pos="VVB">pride</word>
+        <word pos="PRP">for</word>
+        <word pos="DPS">my</word>
+        <word pos="NN1">family</word>
+        <word pos="PRP">for</word>
+        <word pos="PNP">them</word>
+        <word pos="VVB">work</word>
+        <word pos="PUN">.</word>
+        </body>
+      </text>
+    </corpus>
+  </root>

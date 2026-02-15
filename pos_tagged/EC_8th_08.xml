@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <corpus>
+    <text>
+      <metadata>
+        <Faculty>Education</Faculty>
+        <Semester>8</Semester>
+        <Age>22</Age>
+        <Time_spent_at_an_EnglishSpeaking_country>X</Time_spent_at_an_EnglishSpeaking_country>
+        <Topic>Honor of My Family</Topic>
+        <Title>The honor of my family</Title>
+        </metadata>
+      <body>
+        <word pos="DPS">My</word>
+        <word pos="NN1">family</word>
+        <word pos="VBZ">is</word>
+        <word pos="AT0">the</word>
+        <word pos="ORD">first</word>
+        <word pos="AJS">best</word>
+        <word pos="NN1">thing</word>
+        <word pos="PRP">in</word>
+        <word pos="DPS">my</word>
+        <word pos="NN1">life</word>
+        <word pos="PUN">.</word>
+        <word pos="AV0">Of</word>
+        <word pos="AV0">course</word>
+        <word pos="PNI">everyone</word>
+        <word pos="VVB">honor</word>
+        <word pos="DPS">his</word>
+        <word pos="NN1">family</word>
+        <word pos="CJC">and</word>
+        <word pos="PNP">I</word>
+        <word pos="VVB">honor</word>
+        <word pos="DPS">my</word>
+        <word pos="NN1">family</word>
+        <word pos="CJS">because</word>
+        <word pos="PNP">them</word>
+        <word pos="VVG">learning</word>
+        <word pos="PNP">me</word>
+        <word pos="AT0">a</word>
+        <word pos="NN1">respect</word>
+        <word pos="PRF">of</word>
+        <word pos="AJ0">other</word>
+        <word pos="NN0">people</word>
+        <word pos="PRP">in</word>
+        <word pos="AT0">a</word>
+        <word pos="NN1">society</word>
+        <word pos="PUN">.</word>
+        <word pos="DPS">My</word>
+        <word pos="NN1">family</word>
+        <word pos="VBZ">is</word>
+        <word pos="DPS">my</word>
+        <word pos="NN1">honor</word>
+        <word pos="CJS">because</word>
+        <word pos="PNP">them</word>
+        <word pos="VVZ">learns</word>
+        <word pos="DPS">my</word>
+        <word pos="NN1">love</word>
+        <word pos="NN2">others</word>
+        <word pos="AV0">always</word>
+        <word pos="VVZ">tells</word>
+        <word pos="PNP">me</word>
+        <word pos="PUN">,</word>
+        <word pos="VVB">love</word>
+        <word pos="NN1">life</word>
+        <word pos="TO0">to</word>
+        <word pos="VVI">live</word>
+        <word pos="PRP">with</word>
+        <word pos="PNP">us</word>
+        <word pos="PUN">,</word>
+        <word pos="PNP">they</word>
+        <word pos="VBB">are</word>
+        <word pos="AT0">the</word>
+        <word pos="ORD">first</word>
+        <word pos="NN1">support</word>
+        <word pos="PRP">for</word>
+        <word pos="PNP">me</word>
+        <word pos="PUN">.</word>
+        </body>
+      </text>
+    </corpus>
+  </root>

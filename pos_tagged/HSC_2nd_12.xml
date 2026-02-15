@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <corpus>
+    <text>
+      <metadata>
+        <Faculty>Human Sciences</Faculty>
+        <Semester>2</Semester>
+        <Age>22</Age>
+        <Time_spent_at_an_EnglishSpeaking_country>X</Time_spent_at_an_EnglishSpeaking_country>
+        <Topic>none</Topic>
+        <Title>my timetable for a day</Title>
+        </metadata>
+      <body>
+        <word pos="PNP">I</word>
+        <word pos="VVB">wake</word>
+        <word pos="AVP">up</word>
+        <word pos="AV0">early</word>
+        <word pos="PUN">.</word>
+        <word pos="ORD">First</word>
+        <word pos="PUN">,</word>
+        <word pos="PNP">I</word>
+        <word pos="VVB">prepare</word>
+        <word pos="PNX">myself</word>
+        <word pos="CJC">and</word>
+        <word pos="VVB">eat</word>
+        <word pos="DPS">my</word>
+        <word pos="NN1">breakfast</word>
+        <word pos="PUN">.</word>
+        <word pos="AV0">Then</word>
+        <word pos="PNP">I</word>
+        <word pos="VVB">go</word>
+        <word pos="PRP">to</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">college</word>
+        <word pos="PUN">.</word>
+        <word pos="ORD">Third</word>
+        <word pos="PUN">,</word>
+        <word pos="PNP">I</word>
+        <word pos="VVB">meet</word>
+        <word pos="DPS">my</word>
+        <word pos="NN2">friends</word>
+        <word pos="CJC">and</word>
+        <word pos="VVB">take</word>
+        <word pos="DPS">my</word>
+        <word pos="NN2">chapters</word>
+        <word pos="PRP">to</word>
+        <word pos="AT0">the</word>
+        <word pos="NN2">lessons</word>
+        <word pos="PUN">.</word>
+        <word pos="PRP">After</word>
+        <word pos="DT0">that</word>
+        <word pos="PUN">,</word>
+        <word pos="PNP">I</word>
+        <word pos="AVP">back</word>
+        <word pos="PRP">to</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">home</word>
+        <word pos="CJC">and</word>
+        <word pos="VVB">drink</word>
+        <word pos="DT0">some</word>
+        <word pos="NN1">coffee</word>
+        <word pos="PRP">with</word>
+        <word pos="DPS">my</word>
+        <word pos="NN1">mother</word>
+        <word pos="DT0">this</word>
+        <word pos="VBZ">'s</word>
+        <word pos="AT0">the</word>
+        <word pos="AJS">best</word>
+        <word pos="NN1">time</word>
+        <word pos="PRP">for</word>
+        <word pos="PNP">me</word>
+        <word pos="AV0">finally</word>
+        <word pos="PUN">,</word>
+        <word pos="PNP">I</word>
+        <word pos="VVB">work</word>
+        <word pos="DTQ">what</word>
+        <word pos="PNP">I</word>
+        <word pos="VHB">have</word>
+        <word pos="TO0">to</word>
+        <word pos="VDI">do</word>
+        <word pos="CJC">and</word>
+        <word pos="VVI">go</word>
+        <word pos="PRP">to</word>
+        <word pos="NN1">sleep</word>
+        <word pos="PUN">.</word>
+        </body>
+      </text>
+    </corpus>
+  </root>

@@ -1,0 +1,153 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <corpus>
+    <text>
+      <metadata>
+        <Faculty>Human Sciences</Faculty>
+        <Semester>3</Semester>
+        <Age>19</Age>
+        <Time_spent_at_an_EnglishSpeaking_country>X</Time_spent_at_an_EnglishSpeaking_country>
+        <Topic>Sport</Topic>
+        <Title>Sports</Title>
+        </metadata>
+      <body>
+        <word pos="NN2">Sports</word>
+        <word pos="VBB">are</word>
+        <word pos="AJ0">important</word>
+        <word pos="NN1">part</word>
+        <word pos="PRF">of</word>
+        <word pos="DPS">our</word>
+        <word pos="NN1">life</word>
+        <word pos="PUN">,</word>
+        <word pos="VBB">are</word>
+        <word pos="AJ0">useful</word>
+        <word pos="PRP">for</word>
+        <word pos="DPS">our</word>
+        <word pos="AJ0">physical</word>
+        <word pos="CJC">and</word>
+        <word pos="AJ0">emotional</word>
+        <word pos="CJC">and</word>
+        <word pos="AJ0">mental</word>
+        <word pos="NN1">health</word>
+        <word pos="PUN">,</word>
+        <word pos="CJS">So</word>
+        <word pos="VBZ">is</word>
+        <word pos="AJ0">necessary</word>
+        <word pos="TO0">to</word>
+        <word pos="VVI">make</word>
+        <word pos="NN2">sports</word>
+        <word pos="NN1">part</word>
+        <word pos="PRF">of</word>
+        <word pos="DPS">our</word>
+        <word pos="AJ0">daily</word>
+        <word pos="NN1">routine</word>
+        <word pos="PUN">.</word>
+        <word pos="PNP">We</word>
+        <word pos="VM0">can</word>
+        <word pos="VVI">improve</word>
+        <word pos="DPS">our</word>
+        <word pos="AJ0">physical</word>
+        <word pos="NN1">health</word>
+        <word pos="PRP">by</word>
+        <word pos="NN1">exercise</word>
+        <word pos="AT0">every</word>
+        <word pos="NN1">day</word>
+        <word pos="AV0">at</word>
+        <word pos="AV0">least</word>
+        <word pos="PRP">by</word>
+        <word pos="VVG">walking</word>
+        <word pos="CRD">one</word>
+        <word pos="NN1">hour</word>
+        <word pos="AT0">every</word>
+        <word pos="NN1">morning</word>
+        <word pos="CJC">or</word>
+        <word pos="VVB">ride</word>
+        <word pos="AJ0">physical</word>
+        <word pos="PUN">,</word>
+        <word pos="PNP">they</word>
+        <word pos="VBB">are</word>
+        <word pos="AV0">very</word>
+        <word pos="AJ0">interesting</word>
+        <word pos="NN2">sports</word>
+        <word pos="CJC">and</word>
+        <word pos="AV0">very</word>
+        <word pos="AJ0">easy</word>
+        <word pos="PUN">,</word>
+        <word pos="AV0">then</word>
+        <word pos="PNP">you</word>
+        <word pos="VM0">can</word>
+        <word pos="VDI">do</word>
+        <word pos="PNP">them</word>
+        <word pos="AT0">every</word>
+        <word pos="NN1">day</word>
+        <word pos="CRD">One</word>
+        <word pos="PRF">of</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">exercise</word>
+        <word pos="CJT">that</word>
+        <word pos="VVZ">helps</word>
+        <word pos="PNP">you</word>
+        <word pos="TO0">to</word>
+        <word pos="VVI">keep</word>
+        <word pos="DPS">your</word>
+        <word pos="AJ0">mental</word>
+        <word pos="NN1">health</word>
+        <word pos="CJC">and</word>
+        <word pos="AJ0">emotional</word>
+        <word pos="NN1">health</word>
+        <word pos="NN1">good</word>
+        <word pos="VBZ">is</word>
+        <word pos="NN1">yoga</word>
+        <word pos="PNP">it</word>
+        <word pos="AV0">well</word>
+        <word pos="NN1">sport</word>
+        <word pos="DTQ">which</word>
+        <word pos="VVZ">makes</word>
+        <word pos="PNP">you</word>
+        <word pos="AV0">more</word>
+        <word pos="AJ0">relaxed</word>
+        <word pos="CJC">and</word>
+        <word pos="PNP">it</word>
+        <word pos="VVZ">helps</word>
+        <word pos="PNP">you</word>
+        <word pos="VVI">clean</word>
+        <word pos="DPS">your</word>
+        <word pos="AJ0">mental</word>
+        <word pos="PRP">from</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">confusion</word>
+        <word pos="CJC">and</word>
+        <word pos="NN1">life</word>
+        <word pos="NN2">problems</word>
+        <word pos="PUN">,</word>
+        <word pos="EX0">there</word>
+        <word pos="VBZ">is</word>
+        <word pos="DT0">another</word>
+        <word pos="NN1">sport</word>
+        <word pos="VM0">will</word>
+        <word pos="VVZ">makes</word>
+        <word pos="PNP">you</word>
+        <word pos="TO0">to</word>
+        <word pos="VBI">be</word>
+        <word pos="AJ0">happy</word>
+        <word pos="DTQ">which</word>
+        <word pos="VBZ">is</word>
+        <word pos="VDN">done</word>
+        <word pos="AV0">therefore</word>
+        <word pos="PUN">,</word>
+        <word pos="VVB">keep</word>
+        <word pos="CJC">and</word>
+        <word pos="VVB">continue</word>
+        <word pos="TO0">to</word>
+        <word pos="VDI">do</word>
+        <word pos="NN1">sport</word>
+        <word pos="PRP">for</word>
+        <word pos="DPS">your</word>
+        <word pos="NN1">health</word>
+        <word pos="CJC">and</word>
+        <word pos="DPS">your</word>
+        <word pos="NN1">happiness</word>
+        </body>
+      </text>
+    </corpus>
+  </root>

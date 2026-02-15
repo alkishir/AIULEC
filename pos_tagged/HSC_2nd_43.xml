@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <corpus>
+    <text>
+      <metadata>
+        <Faculty>Human Sciences</Faculty>
+        <Semester>2</Semester>
+        <Age>19</Age>
+        <Time_spent_at_an_EnglishSpeaking_country>X</Time_spent_at_an_EnglishSpeaking_country>
+        <Topic>An event changed your life</Topic>
+        <Title>An event changed your life</Title>
+        </metadata>
+      <body>
+        <word pos="VBZ">Is</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">day</word>
+        <word pos="PNP">I</word>
+        <word pos="VVD">graduated</word>
+        <word pos="PRP">from</word>
+        <word pos="AJ0">high</word>
+        <word pos="NN1">School</word>
+        <word pos="PUN">,</word>
+        <word pos="VVD">traveled</word>
+        <word pos="PRP">to</word>
+        <word pos="NP0">Tunisia</word>
+        <word pos="PRP">for</word>
+        <word pos="NN1">tourism</word>
+        <word pos="CJC">and</word>
+        <word pos="DPS">my</word>
+        <word pos="NN1">dream</word>
+        <word pos="VBZ">is</word>
+        <word pos="TO0">to</word>
+        <word pos="VVI">become</word>
+        <word pos="AT0">the</word>
+        <word pos="AJS">best</word>
+        <word pos="AJ0">English</word>
+        <word pos="NN1">teacher</word>
+        <word pos="CJS">because</word>
+        <word pos="DPS">My</word>
+        <word pos="NN1">ambition</word>
+        <word pos="TO0">to</word>
+        <word pos="VVI">learn</word>
+        <word pos="AV0">more</word>
+        <word pos="CJS">than</word>
+        <word pos="CRD">one</word>
+        <word pos="NN1">language</word>
+        <word pos="CJC">and</word>
+        <word pos="VVG">learning</word>
+        <word pos="NN1">English</word>
+        <word pos="VVZ">helps</word>
+        <word pos="PNP">me</word>
+        <word pos="VVI">travel</word>
+        <word pos="PRP">to</word>
+        <word pos="DT0">any</word>
+        <word pos="AJ0">international</word>
+        <word pos="NN1">language</word>
+        <word pos="PNP">it</word>
+        <word pos="VBZ">'s</word>
+        <word pos="VVN">spoken</word>
+        <word pos="PRP">by</word>
+        <word pos="DT0">most</word>
+        <word pos="NN2">countries</word>
+        <word pos="PRP">around</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">world</word>
+        <word pos="PUN">.</word>
+        </body>
+      </text>
+    </corpus>
+  </root>

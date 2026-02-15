@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <corpus>
+    <text>
+      <metadata>
+        <Faculty>Human Sciences</Faculty>
+        <Semester>5</Semester>
+        <Age>22</Age>
+        <Time_spent_at_an_EnglishSpeaking_country>2 years</Time_spent_at_an_EnglishSpeaking_country>
+        <Topic>Talk about teaching method</Topic>
+        <Title>Methods of teaching language</Title>
+        </metadata>
+      <body>
+        <word pos="EX0">There</word>
+        <word pos="VBB">are</word>
+        <word pos="DT0">many</word>
+        <word pos="NN2">methods</word>
+        <word pos="PRF">of</word>
+        <word pos="NN1">language</word>
+        <word pos="NN1">teaching</word>
+        <word pos="PUN">.</word>
+        <word pos="AT0">The</word>
+        <word pos="NN1">teacher</word>
+        <word pos="VVZ">chooses</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">method</word>
+        <word pos="PRP">according</word>
+        <word pos="DPS">his</word>
+        <word pos="NN1">student</word>
+        <word pos="NN1">level</word>
+        <word pos="PRP">in</word>
+        <word pos="NN1">language</word>
+        <word pos="PUN">,</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">number</word>
+        <word pos="PRF">of</word>
+        <word pos="NN1">student</word>
+        <word pos="PUN">,</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">size</word>
+        <word pos="PRF">of</word>
+        <word pos="NN1">class</word>
+        <word pos="CJC">and</word>
+        <word pos="AV0">sometimes</word>
+        <word pos="PRP">according</word>
+        <word pos="PRP">to</word>
+        <word pos="AT0">The</word>
+        <word pos="NN1">school</word>
+        <word pos="PUN">.</word>
+        <word pos="AJ0">Direct</word>
+        <word pos="NN1">method</word>
+        <word pos="VBZ">is</word>
+        <word pos="AT0">the</word>
+        <word pos="AV0">most</word>
+        <word pos="AJ0">useful</word>
+        <word pos="NN1">method</word>
+        <word pos="PRP">in</word>
+        <word pos="ORD">last</word>
+        <word pos="NN2">years</word>
+        <word pos="PUN">.</word>
+        <word pos="CJC">and</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">student</word>
+        <word pos="VVB">feel</word>
+        <word pos="AJ0">interested</word>
+        <word pos="PRP">with</word>
+        <word pos="DT0">this</word>
+        <word pos="NN1">method</word>
+        <word pos="PUN">.</word>
+        <word pos="PRP">in</word>
+        <word pos="DT0">this</word>
+        <word pos="NN1">method</word>
+        <word pos="EX0">there</word>
+        <word pos="VBZ">is</word>
+        <word pos="AT0">no</word>
+        <word pos="NN1">use</word>
+        <word pos="PRP">to</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">mother</word>
+        <word pos="NN1">tongue</word>
+        <word pos="PUN">,</word>
+        <word pos="DT0">this</word>
+        <word pos="NN1">point</word>
+        <word pos="VVB">make</word>
+        <word pos="NN1">student</word>
+        <word pos="VVI">feel</word>
+        <word pos="PNP">they</word>
+        <word pos="AV0">really</word>
+        <word pos="VVB">learn</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">language</word>
+        <word pos="PUN">.</word>
+        </body>
+      </text>
+    </corpus>
+  </root>

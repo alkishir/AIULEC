@@ -1,0 +1,128 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <corpus>
+    <text>
+      <metadata>
+        <Faculty>Human Sciences</Faculty>
+        <Semester>6</Semester>
+        <Age>21</Age>
+        <Time_spent_at_an_EnglishSpeaking_country>X</Time_spent_at_an_EnglishSpeaking_country>
+        <Topic>Eating at restaurants with your family is a good way to build family ties</Topic>
+        <Title>Eating at restaurants with your family is a good way to build family ties</Title>
+        </metadata>
+      <body>
+        <word pos="VVB">Make</word>
+        <word pos="AT0">a</word>
+        <word pos="NN1">time</word>
+        <word pos="PRP">for</word>
+        <word pos="NN1">family</word>
+        <word pos="TO0">to</word>
+        <word pos="VVG">chatting</word>
+        <word pos="CJC">and</word>
+        <word pos="VVB">eat</word>
+        <word pos="PRP">at</word>
+        <word pos="NN2">restaurants</word>
+        <word pos="VBZ">is</word>
+        <word pos="AT0">a</word>
+        <word pos="AJ0">great</word>
+        <word pos="NN1">way</word>
+        <word pos="TO0">to</word>
+        <word pos="VVI">build</word>
+        <word pos="AT0">a</word>
+        <word pos="AJ0">strong</word>
+        <word pos="NN1">family</word>
+        <word pos="NN2">ties</word>
+        <word pos="PUN">.</word>
+        <word pos="PNP">It</word>
+        <word pos="VBZ">is</word>
+        <word pos="AJ0">important</word>
+        <word pos="TO0">to</word>
+        <word pos="VVI">spend</word>
+        <word pos="NN1">time</word>
+        <word pos="PRP">with</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">family</word>
+        <word pos="CJC">and</word>
+        <word pos="VVI">talk</word>
+        <word pos="PRP">to</word>
+        <word pos="PNP">them</word>
+        <word pos="PRP">about</word>
+        <word pos="DTQ">what</word>
+        <word pos="VBZ">is</word>
+        <word pos="VVG">happening</word>
+        <word pos="PRP">with</word>
+        <word pos="PNP">us</word>
+        <word pos="PRP">in</word>
+        <word pos="DPS">our</word>
+        <word pos="NN2">lives</word>
+        <word pos="PUN">,</word>
+        <word pos="DT0">this</word>
+        <word pos="VVZ">makes</word>
+        <word pos="PNP">us</word>
+        <word pos="VVI">feel</word>
+        <word pos="AJ0">comfortable</word>
+        <word pos="PUN">.</word>
+        <word pos="VVB">eat</word>
+        <word pos="PRP">at</word>
+        <word pos="NN1">restaurant</word>
+        <word pos="VBZ">is</word>
+        <word pos="CRD">one</word>
+        <word pos="PRF">of</word>
+        <word pos="AT0">the</word>
+        <word pos="AJS">best</word>
+        <word pos="NN1">way</word>
+        <word pos="TO0">to</word>
+        <word pos="VVI">make</word>
+        <word pos="AT0">a</word>
+        <word pos="AJ0">specific</word>
+        <word pos="NN1">time</word>
+        <word pos="PRP">for</word>
+        <word pos="NN1">family</word>
+        <word pos="PUN">.</word>
+        <word pos="VVB">talk</word>
+        <word pos="PRP">about</word>
+        <word pos="PNX">ourself</word>
+        <word pos="CJS">while</word>
+        <word pos="VVG">eating</word>
+        <word pos="AT0">a</word>
+        <word pos="AJ0">delicious</word>
+        <word pos="NN1">meal</word>
+        <word pos="PUN">.</word>
+        <word pos="VVN">Known</word>
+        <word pos="PRP">about</word>
+        <word pos="PNX">each</word>
+        <word pos="PNX">other</word>
+        <word pos="AV0">more</word>
+        <word pos="PUN">,</word>
+        <word pos="VVB">Make</word>
+        <word pos="PNP">us</word>
+        <word pos="PRP">as</word>
+        <word pos="AT0">a</word>
+        <word pos="AJ0">real</word>
+        <word pos="AJ0">good</word>
+        <word pos="NN1">family</word>
+        <word pos="CJC">and</word>
+        <word pos="VVB">make</word>
+        <word pos="AT0">a</word>
+        <word pos="AJ0">strong</word>
+        <word pos="NN1">family</word>
+        <word pos="NN2">ties</word>
+        <word pos="VVG">Eating</word>
+        <word pos="PRP">at</word>
+        <word pos="NN2">restaurants</word>
+        <word pos="PRP">with</word>
+        <word pos="VVB">talk</word>
+        <word pos="PRP">to</word>
+        <word pos="NN1">family</word>
+        <word pos="VBZ">is</word>
+        <word pos="AT0">a</word>
+        <word pos="AJ0">great</word>
+        <word pos="NN1">way</word>
+        <word pos="TO0">to</word>
+        <word pos="VVI">build</word>
+        <word pos="NN1">family</word>
+        <word pos="NN2">ties</word>
+        </body>
+      </text>
+    </corpus>
+  </root>

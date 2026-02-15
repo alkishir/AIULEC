@@ -1,0 +1,120 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <corpus>
+    <text>
+      <metadata>
+        <Faculty>Human Sciences</Faculty>
+        <Semester>3</Semester>
+        <Age>20</Age>
+        <Time_spent_at_an_EnglishSpeaking_country>X</Time_spent_at_an_EnglishSpeaking_country>
+        <Topic>Sport</Topic>
+        <Title>Sports</Title>
+        </metadata>
+      <body>
+        <word pos="DT0">This</word>
+        <word pos="AJ0">beautiful</word>
+        <word pos="PUN">,</word>
+        <word pos="CRD">one</word>
+        <word pos="PRF">of</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">beast</word>
+        <word pos="NN2">things</word>
+        <word pos="AT0">the</word>
+        <word pos="AV0">more</word>
+        <word pos="AJ0">interesting</word>
+        <word pos="PRP">in</word>
+        <word pos="AJ0">live</word>
+        <word pos="NN0">people</word>
+        <word pos="PUN">.</word>
+        <word pos="CJC">and</word>
+        <word pos="AT0">an</word>
+        <word pos="DT0">all</word>
+        <word pos="NN1">person</word>
+        <word pos="VVG">working</word>
+        <word pos="CJC">and</word>
+        <word pos="VVG">playing</word>
+        <word pos="PRP">in</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">sport</word>
+        <word pos="PUN">.</word>
+        <word pos="EX0">There</word>
+        <word pos="VBB">are</word>
+        <word pos="DT0">many</word>
+        <word pos="PRF">of</word>
+        <word pos="NN2">sports</word>
+        <word pos="AJ0">important</word>
+        <word pos="CJC">and</word>
+        <word pos="NN2">parts</word>
+        <word pos="PRP">to</word>
+        <word pos="DT0">many</word>
+        <word pos="PRP">like</word>
+        <word pos="DT0">this</word>
+        <word pos="PUN">:</word>
+        <word pos="NN1">football</word>
+        <word pos="CJC">and</word>
+        <word pos="VVG">swimming</word>
+        <word pos="CJC">and</word>
+        <word pos="VVG">running</word>
+        <word pos="CJC">and</word>
+        <word pos="NN1">basketball</word>
+        <word pos="CJC">and</word>
+        <word pos="NN1">karate</word>
+        <word pos="CJC">and</word>
+        <word pos="AV0">there</word>
+        <word pos="DT0">more</word>
+        <word pos="DT0">this</word>
+        <word pos="PUN">.</word>
+        <word pos="CJC">and</word>
+        <word pos="DT0">this</word>
+        <word pos="VBZ">is</word>
+        <word pos="AV0">very</word>
+        <word pos="AJ0">good</word>
+        <word pos="PUN">.</word>
+        <word pos="AT0">The</word>
+        <word pos="DT0">much</word>
+        <word pos="NN1">time</word>
+        <word pos="TO0">to</word>
+        <word pos="VVI">work</word>
+        <word pos="PRP">in</word>
+        <word pos="AT0">the</word>
+        <word pos="NN2">sports</word>
+        <word pos="AV0">about</word>
+        <word pos="CRD">0</word>
+        <word pos="PUN">–</word>
+        <word pos="CRD">6</word>
+        <word pos="NN2">months</word>
+        <word pos="CJC">or</word>
+        <word pos="NN2">years</word>
+        <word pos="AV0">ago</word>
+        <word pos="PUN">.</word>
+        <word pos="CJS">When</word>
+        <word pos="NN1">work</word>
+        <word pos="PRP">in</word>
+        <word pos="AT0">the</word>
+        <word pos="NN2">sports</word>
+        <word pos="VM0">must</word>
+        <word pos="PNP">you</word>
+        <word pos="XX0">not</word>
+        <word pos="VVG">eating</word>
+        <word pos="PRP">at</word>
+        <word pos="NN1">house</word>
+        <word pos="PRP">like</word>
+        <word pos="DT0">this</word>
+        <word pos="NN1">hamburger</word>
+        <word pos="CJC">and</word>
+        <word pos="NN1">pizza</word>
+        <word pos="PUN">.</word>
+        <word pos="PNP">you</word>
+        <word pos="AV0">most</word>
+        <word pos="AT0">an</word>
+        <word pos="VVG">eating</word>
+        <word pos="NN1">vegetable</word>
+        <word pos="CJC">and</word>
+        <word pos="NN2">fruits</word>
+        <word pos="DT0">that</word>
+        <word pos="VBZ">is</word>
+        <word pos="PUN">.</word>
+        </body>
+      </text>
+    </corpus>
+  </root>

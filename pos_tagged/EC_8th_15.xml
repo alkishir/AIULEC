@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <corpus>
+    <text>
+      <metadata>
+        <Faculty>Education</Faculty>
+        <Semester>8</Semester>
+        <Age>22</Age>
+        <Time_spent_at_an_EnglishSpeaking_country>X</Time_spent_at_an_EnglishSpeaking_country>
+        <Topic>Honor of My Family</Topic>
+        <Title>The honor of My family</Title>
+        </metadata>
+      <body>
+        <word pos="NN1">Family</word>
+        <word pos="VBZ">is</word>
+        <word pos="AT0">an</word>
+        <word pos="AJ0">essential</word>
+        <word pos="NN1">word</word>
+        <word pos="VVZ">carries</word>
+        <word pos="AT0">an</word>
+        <word pos="NN2">emotions</word>
+        <word pos="CJC">and</word>
+        <word pos="NN1">mix</word>
+        <word pos="PRF">of</word>
+        <word pos="NN2">feelings</word>
+        <word pos="PRP">in</word>
+        <word pos="NN1">heart</word>
+        <word pos="AT0">every</word>
+        <word pos="NN1">member</word>
+        <word pos="PRF">of</word>
+        <word pos="PNP">it</word>
+        <word pos="PUN">.</word>
+        <word pos="PNI">Everyone</word>
+        <word pos="VVZ">belongs</word>
+        <word pos="PRP">to</word>
+        <word pos="DPS">his</word>
+        <word pos="NN1">family</word>
+        <word pos="VVZ">feels</word>
+        <word pos="AJ0">proud</word>
+        <word pos="PRF">of</word>
+        <word pos="PNP">it</word>
+        <word pos="AV0">even</word>
+        <word pos="AV0">just</word>
+        <word pos="PRP">in</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">name</word>
+        <word pos="PRF">of</word>
+        <word pos="PNP">it</word>
+        <word pos="CJC">and</word>
+        <word pos="VVB">try</word>
+        <word pos="TO0">to</word>
+        <word pos="VVI">rise</word>
+        <word pos="PNP">it</word>
+        <word pos="PRP">to</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">top</word>
+        <word pos="PUN">.</word>
+        </body>
+      </text>
+    </corpus>
+  </root>

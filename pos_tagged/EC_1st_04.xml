@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <corpus>
+    <text>
+      <metadata>
+        <Faculty>Education</Faculty>
+        <Semester>1</Semester>
+        <Age>19</Age>
+        <Time_spent_at_an_EnglishSpeaking_country>X</Time_spent_at_an_EnglishSpeaking_country>
+        <Topic>An interesting place</Topic>
+        <Title>An interesting place</Title>
+        </metadata>
+      <body>
+        <word pos="AT0">The</word>
+        <word pos="AJS">best</word>
+        <word pos="NN1">place</word>
+        <word pos="PNP">I</word>
+        <word pos="VVD">went</word>
+        <word pos="TO0">to</word>
+        <word pos="VBZ">is</word>
+        <word pos="DPS">my</word>
+        <word pos="AJ0">middle</word>
+        <word pos="NN1">school</word>
+        <word pos="PUN">.</word>
+        <word pos="PNP">It</word>
+        <word pos="VBZ">'s</word>
+        <word pos="AT0">a</word>
+        <word pos="AJ0">beautiful</word>
+        <word pos="NN1">school</word>
+        <word pos="PUN">.</word>
+        <word pos="PNP">It</word>
+        <word pos="VBZ">'s</word>
+        <word pos="AT0">a</word>
+        <word pos="AJ0">big</word>
+        <word pos="NN1">school</word>
+        <word pos="CJC">and</word>
+        <word pos="AJ0">fun</word>
+        <word pos="PUN">.</word>
+        <word pos="PNP">I</word>
+        <word pos="VVD">spent</word>
+        <word pos="DPS">my</word>
+        <word pos="AJS">best</word>
+        <word pos="NN1">time</word>
+        <word pos="VVG">warming</word>
+        <word pos="PNP">it</word>
+        <word pos="AVP">up</word>
+        <word pos="PUN">.</word>
+        <word pos="PNP">I</word>
+        <word pos="VVB">like</word>
+        <word pos="DPS">my</word>
+        <word pos="NN1">school</word>
+        <word pos="CJS">because</word>
+        <word pos="EX0">there</word>
+        <word pos="VBZ">is</word>
+        <word pos="NN1">theater</word>
+        <word pos="PUN">.</word>
+        <word pos="PNP">It</word>
+        <word pos="VBZ">'s</word>
+        <word pos="AV0">very</word>
+        <word pos="AJ0">interesting</word>
+        <word pos="PUN">.</word>
+        <word pos="PNP">I</word>
+        <word pos="VVD">met</word>
+        <word pos="PRP">with</word>
+        <word pos="DPS">my</word>
+        <word pos="AJ0">favorite</word>
+        <word pos="NN2">friends</word>
+        <word pos="PUN">.</word>
+        </body>
+      </text>
+    </corpus>
+  </root>

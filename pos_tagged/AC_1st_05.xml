@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <corpus>
+    <text>
+      <metadata>
+        <Faculty>Arts</Faculty>
+        <Semester>1</Semester>
+        <Age>18</Age>
+        <Time_spent_at_an_EnglishSpeaking_country>none</Time_spent_at_an_EnglishSpeaking_country>
+        <Topic>Animals </Topic>
+        <Title>Animals</Title>
+        </metadata>
+      <body>
+        <word pos="EX0">There</word>
+        <word pos="VBB">are</word>
+        <word pos="DT0">many</word>
+        <word pos="NN2">animals</word>
+        <word pos="AT0">The</word>
+        <word pos="NN1">elephant</word>
+        <word pos="VBZ">is</word>
+        <word pos="AJ0">large</word>
+        <word pos="NN2">animals</word>
+        <word pos="AT0">The</word>
+        <word pos="NN1">rabbit</word>
+        <word pos="VBZ">is</word>
+        <word pos="AJ0">small</word>
+        <word pos="NN1">animal</word>
+        <word pos="PUN">,</word>
+        <word pos="PNP">it</word>
+        <word pos="VHZ">has</word>
+        <word pos="CRD">four</word>
+        <word pos="NN2">legs</word>
+        <word pos="CJC">and</word>
+        <word pos="CRD">two</word>
+        <word pos="NN2">ears</word>
+        <word pos="PUN">.</word>
+        </body>
+      </text>
+    </corpus>
+  </root>

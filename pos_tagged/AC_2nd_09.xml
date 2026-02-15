@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <corpus>
+    <text>
+      <metadata>
+        <Faculty>Arts</Faculty>
+        <Semester>2</Semester>
+        <Age>21</Age>
+        <Time_spent_at_an_EnglishSpeaking_country>X</Time_spent_at_an_EnglishSpeaking_country>
+        <Topic>An Event that change your life</Topic>
+        <Title>Event changed life</Title>
+        </metadata>
+      <body>
+        <word pos="CJS">When</word>
+        <word pos="PNP">I</word>
+        <word pos="VVD">moved</word>
+        <word pos="PRP">from</word>
+        <word pos="NN1">pharmacy</word>
+        <word pos="NN1">college</word>
+        <word pos="PRP">into</word>
+        <word pos="NP0">Aladdab</word>
+        <word pos="NN1">college</word>
+        <word pos="PUN">,</word>
+        <word pos="VBD">was</word>
+        <word pos="VVG">changing</word>
+        <word pos="AV0">very</word>
+        <word pos="AJ0">difficult</word>
+        <word pos="PUN">,</word>
+        <word pos="CJC">but</word>
+        <word pos="VBD">was</word>
+        <word pos="AJC">better</word>
+        <word pos="PRP">to</word>
+        <word pos="PNP">me</word>
+        <word pos="CJS">because</word>
+        <word pos="VVB">want</word>
+        <word pos="TO0">to</word>
+        <word pos="PNP">me</word>
+        <word pos="AT0">a</word>
+        <word pos="NN1">lot</word>
+        <word pos="PRF">of</word>
+        <word pos="NN1">stress</word>
+        <word pos="PUN">,</word>
+        <word pos="AV0">However</word>
+        <word pos="PUN">,</word>
+        <word pos="PNP">It</word>
+        <word pos="VBZ">'s</word>
+        <word pos="AT0">a</word>
+        <word pos="AJ0">wonderful</word>
+        <word pos="PUN">,</word>
+        <word pos="AJ0">beautiful</word>
+        <word pos="CJC">and</word>
+        <word pos="NN1">noise</word>
+        <word pos="NN1">department</word>
+        <word pos="AV0">There</word>
+        <word pos="PUN">,</word>
+        <word pos="PNP">I</word>
+        <word pos="VVD">found</word>
+        <word pos="NN2">friends</word>
+        <word pos="AV0">very</word>
+        <word pos="AJ0">easy</word>
+        <word pos="PUN">,</word>
+        <word pos="CJS">Whereas</word>
+        <word pos="PRP">in</word>
+        <word pos="NP0">Aladdab</word>
+        <word pos="NN1">college</word>
+        <word pos="AV0">too</word>
+        <word pos="AJ0">difficult</word>
+        <word pos="TO0">to</word>
+        <word pos="VVI">find</word>
+        <word pos="NN1">friend</word>
+        <word pos="CJS">because</word>
+        <word pos="VBZ">is</word>
+        <word pos="AJ0">new</word>
+        <word pos="PRP">to</word>
+        <word pos="PNP">me</word>
+        </body>
+      </text>
+    </corpus>
+  </root>

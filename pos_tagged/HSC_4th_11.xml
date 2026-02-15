@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <corpus>
+    <text>
+      <metadata>
+        <Faculty>Human Sciences</Faculty>
+        <Semester>4</Semester>
+        <Age>20</Age>
+        <Time_spent_at_an_EnglishSpeaking_country>X</Time_spent_at_an_EnglishSpeaking_country>
+        <Topic>Describing a picture</Topic>
+        <Title>Jack and dog</Title>
+        </metadata>
+      <body>
+        <word pos="PRP">In</word>
+        <word pos="CRD">one</word>
+        <word pos="NN1">day</word>
+        <word pos="PUN">,</word>
+        <word pos="NP0">Jack</word>
+        <word pos="VBD">was</word>
+        <word pos="VVG">walking</word>
+        <word pos="PRP">in</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">park</word>
+        <word pos="PUN">,</word>
+        <word pos="EX0">there</word>
+        <word pos="VBD">was</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">dog</word>
+        <word pos="PUN">,</word>
+        <word pos="NP0">Jack</word>
+        <word pos="VVD">saw</word>
+        <word pos="CJT">that</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">dog</word>
+        <word pos="CJC">and</word>
+        <word pos="VVB">like</word>
+        <word pos="PNP">it</word>
+        <word pos="PUN">,</word>
+        <word pos="NP0">Jack</word>
+        <word pos="VVD">went</word>
+        <word pos="PRP">to</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">dog</word>
+        <word pos="CJC">and</word>
+        <word pos="VVD">played</word>
+        <word pos="PNP">it</word>
+        <word pos="PUN">,</word>
+        <word pos="CJC">and</word>
+        <word pos="CJS">when</word>
+        <word pos="AV0">late</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">time</word>
+        <word pos="PUN">,</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">dog</word>
+        <word pos="VBD">was</word>
+        <word pos="AV0">only</word>
+        <word pos="NP0">Jack</word>
+        <word pos="VVB">take</word>
+        <word pos="NN1">wood</word>
+        <word pos="CJC">and</word>
+        <word pos="VVD">builded</word>
+        <word pos="PNP">it</word>
+        <word pos="NN1">house</word>
+        <word pos="PUN">.</word>
+        </body>
+      </text>
+    </corpus>
+  </root>

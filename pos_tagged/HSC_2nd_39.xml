@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <corpus>
+    <text>
+      <metadata>
+        <Faculty>Human Sciences</Faculty>
+        <Semester>2</Semester>
+        <Age>19</Age>
+        <Time_spent_at_an_EnglishSpeaking_country>3 weeks</Time_spent_at_an_EnglishSpeaking_country>
+        <Topic>Your best memory</Topic>
+        <Title>Your best memory</Title>
+        </metadata>
+      <body>
+        <word pos="ORD">last</word>
+        <word pos="NN1">year</word>
+        <word pos="AVQ">when</word>
+        <word pos="PNP">we</word>
+        <word pos="VVD">went</word>
+        <word pos="DT0">all</word>
+        <word pos="NN1">family</word>
+        <word pos="PRP">to</word>
+        <word pos="NP0">France</word>
+        <word pos="PUN">,</word>
+        <word pos="PRP">after</word>
+        <word pos="VVD">finished</word>
+        <word pos="NN1">school</word>
+        <word pos="PNP">we</word>
+        <word pos="VVD">went</word>
+        <word pos="PNP">it</word>
+        <word pos="PUN">,</word>
+        <word pos="PNP">it</word>
+        <word pos="VBD">was</word>
+        <word pos="AJ0">nice</word>
+        <word pos="NN2">years</word>
+        <word pos="PUN">.</word>
+        <word pos="EX0">There</word>
+        <word pos="VBB">are</word>
+        <word pos="AJ0">beautiful</word>
+        <word pos="NN2">streets</word>
+        <word pos="PUN">,</word>
+        <word pos="NN2">parks</word>
+        <word pos="CJC">and</word>
+        <word pos="NN2">places</word>
+        <word pos="PUN">.</word>
+        </body>
+      </text>
+    </corpus>
+  </root>

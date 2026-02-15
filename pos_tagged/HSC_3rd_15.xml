@@ -1,0 +1,130 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <corpus>
+    <text>
+      <metadata>
+        <Faculty>Human Sciences</Faculty>
+        <Semester>3</Semester>
+        <Age>25</Age>
+        <Time_spent_at_an_EnglishSpeaking_country>X</Time_spent_at_an_EnglishSpeaking_country>
+        <Topic>University study</Topic>
+        <Title>University study</Title>
+        </metadata>
+      <body>
+        <word pos="PNP">It</word>
+        <word pos="VBZ">'s</word>
+        <word pos="AJ0">new</word>
+        <word pos="NN1">life</word>
+        <word pos="CJC">and</word>
+        <word pos="NN1">university</word>
+        <word pos="NN1">study</word>
+        <word pos="VBZ">is</word>
+        <word pos="VVG">moving</word>
+        <word pos="PRP">from</word>
+        <word pos="AJ0">basic</word>
+        <word pos="NN1">education</word>
+        <word pos="NN1">stage</word>
+        <word pos="PRP">to</word>
+        <word pos="NN1">college</word>
+        <word pos="NN1">education</word>
+        <word pos="NN1">stage</word>
+        <word pos="PUN">,</word>
+        <word pos="PNP">It</word>
+        <word pos="VBZ">'s</word>
+        <word pos="PRP">between</word>
+        <word pos="AJ0">difficult</word>
+        <word pos="CJC">and</word>
+        <word pos="AJ0">easy</word>
+        <word pos="PUN">.</word>
+        <word pos="PNP">It</word>
+        <word pos="VVB">is</word>
+        <word pos="XX0">n't</word>
+        <word pos="DT0">same</word>
+        <word pos="AV0">any</word>
+        <word pos="AJ0">previous</word>
+        <word pos="NN1">stage</word>
+        <word pos="PUN">.</word>
+        <word pos="PNP">I</word>
+        <word pos="AJ0">favorite</word>
+        <word pos="NN1">life</word>
+        <word pos="AJ0">new</word>
+        <word pos="PUN">,</word>
+        <word pos="EX0">There</word>
+        <word pos="VBB">are</word>
+        <word pos="AJ0">new</word>
+        <word pos="NN2">rules</word>
+        <word pos="CJC">and</word>
+        <word pos="AJ0">new</word>
+        <word pos="NN1">system</word>
+        <word pos="PUN">,</word>
+        <word pos="DT0">all</word>
+        <word pos="NN1">thing</word>
+        <word pos="VBZ">is</word>
+        <word pos="AJ0">new</word>
+        <word pos="CJC">and</word>
+        <word pos="DT0">that</word>
+        <word pos="VVZ">sounds</word>
+        <word pos="AJ0">interesting</word>
+        <word pos="PUN">,</word>
+        <word pos="PNP">I</word>
+        <word pos="VDB">do</word>
+        <word pos="XX0">n't</word>
+        <word pos="VVI">feel</word>
+        <word pos="DT0">This</word>
+        <word pos="VBZ">is</word>
+        <word pos="AJ0">bad</word>
+        <word pos="PUN">,</word>
+        <word pos="PNP">I</word>
+        <word pos="VBB">'m</word>
+        <word pos="VVG">living</word>
+        <word pos="NN1">life</word>
+        <word pos="PRP">in</word>
+        <word pos="AJ0">beautiful</word>
+        <word pos="CJC">and</word>
+        <word pos="PNP">I</word>
+        <word pos="VVD">learned</word>
+        <word pos="AT0">a</word>
+        <word pos="NN1">lot</word>
+        <word pos="PRF">of</word>
+        <word pos="NN2">things</word>
+        <word pos="PUN">.</word>
+        <word pos="AT0">The</word>
+        <word pos="NN2">teachers</word>
+        <word pos="VBB">are</word>
+        <word pos="AJ0">friendly</word>
+        <word pos="CJC">and</word>
+        <word pos="VVB">keep</word>
+        <word pos="PRP">on</word>
+        <word pos="AT0">the</word>
+        <word pos="NN2">students</word>
+        <word pos="PUN">,</word>
+        <word pos="PNP">They</word>
+        <word pos="VVZ">gives</word>
+        <word pos="AV0">all</word>
+        <word pos="PNP">him</word>
+        <word pos="NN1">information</word>
+        <word pos="PRP">to</word>
+        <word pos="PNP">him</word>
+        <word pos="NN2">students</word>
+        <word pos="PUN">.</word>
+        <word pos="AV0">finally</word>
+        <word pos="PUN">,</word>
+        <word pos="AT0">The</word>
+        <word pos="NN1">university</word>
+        <word pos="NN1">study</word>
+        <word pos="VBZ">is</word>
+        <word pos="AV0">very</word>
+        <word pos="AJ0">beautiful</word>
+        <word pos="PUN">,</word>
+        <word pos="PNP">I</word>
+        <word pos="VVB">hope</word>
+        <word pos="DT0">All</word>
+        <word pos="NN2">students</word>
+        <word pos="VVB">study</word>
+        <word pos="PRP">in</word>
+        <word pos="NN1">university</word>
+        <word pos="PUN">.</word>
+        </body>
+      </text>
+    </corpus>
+  </root>

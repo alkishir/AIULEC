@@ -1,0 +1,119 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <corpus>
+    <text>
+      <metadata>
+        <Faculty>Human Sciences</Faculty>
+        <Semester>6</Semester>
+        <Age>25</Age>
+        <Time_spent_at_an_EnglishSpeaking_country>X</Time_spent_at_an_EnglishSpeaking_country>
+        <Topic>Eating at restaurants with your family is a good way to build family ties</Topic>
+        <Title>the froks in restaurants</Title>
+        </metadata>
+      <body>
+        <word pos="CJS">if</word>
+        <word pos="PNP">you</word>
+        <word pos="VVB">want</word>
+        <word pos="AJ0">maximum</word>
+        <word pos="NN1">happiness</word>
+        <word pos="PUN">,</word>
+        <word pos="VVZ">keeps</word>
+        <word pos="NN1">family</word>
+        <word pos="NN2">gatherings</word>
+        <word pos="PRP">away</word>
+        <word pos="PRP">from</word>
+        <word pos="NN2">restaurants</word>
+        <word pos="PUN">.</word>
+        <word pos="AV0">Especially</word>
+        <word pos="PUN">.</word>
+        <word pos="CJS">if</word>
+        <word pos="PNP">you</word>
+        <word pos="VHB">have</word>
+        <word pos="AT0">a</word>
+        <word pos="NN1">family</word>
+        <word pos="VVB">discuss</word>
+        <word pos="AV0">very</word>
+        <word pos="NN2">problems</word>
+        <word pos="PRP">on</word>
+        <word pos="NN1">table</word>
+        <word pos="PUN">.</word>
+        <word pos="CRD">one</word>
+        <word pos="NN1">thing</word>
+        <word pos="VM0">will</word>
+        <word pos="VVI">make</word>
+        <word pos="PNP">you</word>
+        <word pos="AT0">a</word>
+        <word pos="AJ0">tense</word>
+        <word pos="PRF">of</word>
+        <word pos="DT0">any</word>
+        <word pos="NN1">discussion</word>
+        <word pos="CJT">that</word>
+        <word pos="PRP">in</word>
+        <word pos="DT0">that</word>
+        <word pos="NN1">time</word>
+        <word pos="VBZ">is</word>
+        <word pos="DPS">your</word>
+        <word pos="NN1">prestige</word>
+        <word pos="PRP">in</word>
+        <word pos="PRP">front</word>
+        <word pos="NN0">people</word>
+        <word pos="AV0">around</word>
+        <word pos="PUN">.</word>
+        <word pos="PRP">in</word>
+        <word pos="AT0">the</word>
+        <word pos="DT0">most</word>
+        <word pos="NN1">severance</word>
+        <word pos="NN1">situation</word>
+        <word pos="VM0">will</word>
+        <word pos="VBI">be</word>
+        <word pos="VVN">expelled</word>
+        <word pos="CJS">because</word>
+        <word pos="DPS">your</word>
+        <word pos="NN1">father</word>
+        <word pos="VVZ">throws</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">fork</word>
+        <word pos="PRP">on</word>
+        <word pos="DPS">your</word>
+        <word pos="AJ0">little</word>
+        <word pos="PUN">-</word>
+        <word pos="NN1">brother</word>
+        <word pos="CJC">and</word>
+        <word pos="AVQ">why</word>
+        <word pos="PUN">!</word>
+        <word pos="PUN">!</word>
+        <word pos="PUN">?</word>
+        <word pos="CJS">because</word>
+        <word pos="PNP">he</word>
+        <word pos="VVD">laughed</word>
+        <word pos="VBB">are</word>
+        <word pos="PRP">on</word>
+        <word pos="NN1">table</word>
+        <word pos="PRP">next</word>
+        <word pos="PNP">you</word>
+        <word pos="PRP">for</word>
+        <word pos="NN2">reasons</word>
+        <word pos="PNP">you</word>
+        <word pos="VM0">should</word>
+        <word pos="VVI">keep</word>
+        <word pos="DPS">your</word>
+        <word pos="NN1">family</word>
+        <word pos="PRP">away</word>
+        <word pos="PRP">from</word>
+        <word pos="DT0">any</word>
+        <word pos="NN2">restaurants</word>
+        <word pos="PRP">in</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">city</word>
+        <word pos="CJC">and</word>
+        <word pos="VVB">enjoy</word>
+        <word pos="DPS">your</word>
+        <word pos="NN1">mother</word>
+        <word pos="POS">'s</word>
+        <word pos="VVI">cook</word>
+        <word pos="PRP">at</word>
+        <word pos="NN1">home</word>
+        </body>
+      </text>
+    </corpus>
+  </root>

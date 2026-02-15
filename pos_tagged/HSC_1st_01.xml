@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <corpus>
+    <text>
+      <metadata>
+        <Faculty>Human Sciences</Faculty>
+        <Semester>1</Semester>
+        <Age>20</Age>
+        <Time_spent_at_an_EnglishSpeaking_country>X</Time_spent_at_an_EnglishSpeaking_country>
+        <Topic>school/animle</Topic>
+        <Title>school/animle</Title>
+        </metadata>
+      <body>
+        <word pos="PNP">She</word>
+        <word pos="VVZ">goes</word>
+        <word pos="PRP">to</word>
+        <word pos="NN1">school</word>
+        <word pos="PRP">at</word>
+        <word pos="CRD">8</word>
+        <word pos="AV0">o'clock</word>
+        <word pos="AT0">The</word>
+        <word pos="AJS">best</word>
+        <word pos="NN1">object</word>
+        <word pos="VBZ">is</word>
+        <word pos="NN1">mathematics</word>
+        <word pos="AT0">The</word>
+        <word pos="AJ0">English</word>
+        <word pos="NN1">language</word>
+        <word pos="VBZ">is</word>
+        <word pos="AT0">the</word>
+        <word pos="AJS">best</word>
+        <word pos="PRP">for</word>
+        <word pos="PNP">me</word>
+        <word pos="AT0">The</word>
+        <word pos="NN1">university</word>
+        <word pos="VBZ">is</word>
+        <word pos="AJC">better</word>
+        <word pos="CJS">than</word>
+        <word pos="AT0">the</word>
+        <word pos="AJ0">high</word>
+        <word pos="NN1">school</word>
+        <word pos="PNP">I</word>
+        <word pos="VVB">want</word>
+        <word pos="TO0">to</word>
+        <word pos="VBI">be</word>
+        <word pos="AT0">a</word>
+        <word pos="NN1">teacher</word>
+        <word pos="PRP">in</word>
+        <word pos="NN1">future</word>
+        <word pos="PNP">He</word>
+        <word pos="VM0">used</word>
+        <word pos="TO0">to</word>
+        <word pos="VBI">be</word>
+        <word pos="AT0">a</word>
+        <word pos="AJ0">good</word>
+        <word pos="NN1">student</word>
+        <word pos="PRP">in</word>
+        <word pos="DPS">his</word>
+        <word pos="NN1">school</word>
+        <word pos="CJS">If</word>
+        <word pos="PNP">you</word>
+        <word pos="VVB">study</word>
+        <word pos="AV0">hard</word>
+        <word pos="PUN">,</word>
+        <word pos="PNP">you</word>
+        <word pos="VM0">will</word>
+        <word pos="VVI">pass</word>
+        <word pos="AT0">the</word>
+        <word pos="NN2">exams</word>
+        <word pos="PNP">I</word>
+        <word pos="VVD">saw</word>
+        <word pos="AT0">an</word>
+        <word pos="NN1">elephant</word>
+        <word pos="PRP">in</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">zoo</word>
+        <word pos="NN2">Cats</word>
+        <word pos="VBB">are</word>
+        <word pos="AT0">a</word>
+        <word pos="AJ0">beautiful</word>
+        <word pos="AJ0">small</word>
+        <word pos="NN1">animal</word>
+        <word pos="ZZ0">A</word>
+        <word pos="NN1">dog</word>
+        <word pos="VBZ">is</word>
+        <word pos="AT0">a</word>
+        <word pos="NN1">pet</word>
+        </body>
+      </text>
+    </corpus>
+  </root>

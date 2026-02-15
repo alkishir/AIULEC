@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <corpus>
+    <text>
+      <metadata>
+        <Faculty>Human Sciences</Faculty>
+        <Semester>2</Semester>
+        <Age>19</Age>
+        <Time_spent_at_an_EnglishSpeaking_country>x</Time_spent_at_an_EnglishSpeaking_country>
+        <Topic>my best memory</Topic>
+        <Title>my best memory</Title>
+        </metadata>
+      <body>
+        <word pos="DPS">My</word>
+        <word pos="AJS">best</word>
+        <word pos="NN1">memory</word>
+        <word pos="VBD">was</word>
+        <word pos="CJS">when</word>
+        <word pos="PNP">I</word>
+        <word pos="VVD">visited</word>
+        <word pos="NP0">Tripoli</word>
+        <word pos="PUN">,</word>
+        <word pos="PNP">I</word>
+        <word pos="VVB">get</word>
+        <word pos="PRP">to</word>
+        <word pos="NN2">Malls</word>
+        <word pos="PUN">,</word>
+        <word pos="CJC">and</word>
+        <word pos="PNP">I</word>
+        <word pos="VVD">visited</word>
+        <word pos="DPS">My</word>
+        <word pos="NN1">sister</word>
+        <word pos="NN1">house</word>
+        <word pos="CJC">and</word>
+        <word pos="PNP">I</word>
+        <word pos="VVD">met</word>
+        <word pos="DPS">her</word>
+        <word pos="NN2">Children</word>
+        <word pos="CJC">and</word>
+        <word pos="PNP">we</word>
+        <word pos="VVZ">goes</word>
+        <word pos="AV0">Together</word>
+        <word pos="PRP">to</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">restaurant</word>
+        <word pos="CJC">and</word>
+        <word pos="VVB">eat</word>
+        <word pos="AJ0">delicious</word>
+        <word pos="NN2">meals</word>
+        <word pos="CJC">and</word>
+        <word pos="AV0">then</word>
+        <word pos="PNP">we</word>
+        <word pos="VVB">go</word>
+        <word pos="PRP">to</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">home</word>
+        </body>
+      </text>
+    </corpus>
+  </root>

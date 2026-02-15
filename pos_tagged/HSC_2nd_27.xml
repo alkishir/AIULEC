@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <corpus>
+    <text>
+      <metadata>
+        <Faculty>Human Sciences</Faculty>
+        <Semester>2</Semester>
+        <Age>20</Age>
+        <Time_spent_at_an_EnglishSpeaking_country>X</Time_spent_at_an_EnglishSpeaking_country>
+        <Topic>A special place</Topic>
+        <Title>The house</Title>
+        </metadata>
+      <body>
+        <word pos="AT0">The</word>
+        <word pos="NN1">house</word>
+        <word pos="VBZ">is</word>
+        <word pos="AJ0">big</word>
+        <word pos="PUN">.</word>
+        <word pos="CJC">and</word>
+        <word pos="NN1">color</word>
+        <word pos="AJ0">brown</word>
+        <word pos="EX0">There</word>
+        <word pos="VBB">are</word>
+        <word pos="CRD">two</word>
+        <word pos="NN1">room</word>
+        <word pos="CJC">and</word>
+        <word pos="NN1">kitchen</word>
+        <word pos="CJC">and</word>
+        <word pos="NN1">dining</word>
+        <word pos="NN1">room</word>
+        <word pos="CJC">and</word>
+        <word pos="NN1">toilet</word>
+        </body>
+      </text>
+    </corpus>
+  </root>

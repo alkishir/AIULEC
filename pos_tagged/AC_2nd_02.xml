@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <corpus>
+    <text>
+      <metadata>
+        <Faculty>Arts</Faculty>
+        <Semester>2</Semester>
+        <Age>33</Age>
+        <Time_spent_at_an_EnglishSpeaking_country>none</Time_spent_at_an_EnglishSpeaking_country>
+        <Topic>A special place</Topic>
+        <Title>A special place</Title>
+        </metadata>
+      <body>
+        <word pos="DPS">My</word>
+        <word pos="AJ0">special</word>
+        <word pos="NN1">place</word>
+        <word pos="VBZ">is</word>
+        <word pos="NN1">beach</word>
+        <word pos="PNP">I</word>
+        <word pos="VVB">relax</word>
+        <word pos="PRP">in</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">beach</word>
+        <word pos="CJS">when</word>
+        <word pos="PNP">I</word>
+        <word pos="VVB">go</word>
+        <word pos="PRP">to</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">beach</word>
+        <word pos="PNP">I</word>
+        <word pos="VVB">relax</word>
+        <word pos="CJS">when</word>
+        <word pos="PNP">I</word>
+        <word pos="VVB">smell</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">air</word>
+        <word pos="CJC">and</word>
+        <word pos="VVB">walk</word>
+        <word pos="PRP">on</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">sea</word>
+        <word pos="CJC">and</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">beach</word>
+        <word pos="VHB">have</word>
+        <word pos="AT0">a</word>
+        <word pos="AJ0">fresh</word>
+        <word pos="NN1">air</word>
+        <word pos="CJC">and</word>
+        <word pos="AJ0">slaty</word>
+        <word pos="NN1">water</word>
+        <word pos="CJC">and</word>
+        <word pos="AJ0">cold</word>
+        <word pos="CJC">and</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">food</word>
+        <word pos="PNP">it</word>
+        <word pos="VBZ">'s</word>
+        <word pos="AJ0">great</word>
+        <word pos="PRP">in</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">beach</word>
+        <word pos="EX0">there</word>
+        <word pos="VBB">are</word>
+        <word pos="AT0">a</word>
+        <word pos="NN1">lot</word>
+        <word pos="PRF">of</word>
+        <word pos="NN1">noise</word>
+        <word pos="PRP">for</word>
+        <word pos="NN2">children</word>
+        <word pos="PUN">,</word>
+        <word pos="PNP">I</word>
+        <word pos="VVB">love</word>
+        <word pos="VVG">walking</word>
+        <word pos="PRP">on</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">beach</word>
+        <word pos="CJC">and</word>
+        <word pos="VVB">relax</word>
+        <word pos="CJS">when</word>
+        <word pos="PNP">I</word>
+        <word pos="VVB">go</word>
+        <word pos="PRP">to</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">beach</word>
+        <word pos="PUN">.</word>
+        </body>
+      </text>
+    </corpus>
+  </root>

@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <corpus>
+    <text>
+      <metadata>
+        <Faculty>Arts</Faculty>
+        <Semester>1</Semester>
+        <Age>24</Age>
+        <Time_spent_at_an_EnglishSpeaking_country>none</Time_spent_at_an_EnglishSpeaking_country>
+        <Topic>Animals </Topic>
+        <Title>Animals</Title>
+        </metadata>
+      <body>
+        <word pos="DPS">My</word>
+        <word pos="AJ0">favorite</word>
+        <word pos="NN1">animal</word>
+        <word pos="VBZ">is</word>
+        <word pos="NN1">cat</word>
+        <word pos="PUN">.</word>
+        <word pos="PNP">It</word>
+        <word pos="VHZ">has</word>
+        <word pos="AJ0">soft</word>
+        <word pos="NN1">hair</word>
+        <word pos="CJC">and</word>
+        <word pos="PNP">it</word>
+        <word pos="VBZ">is</word>
+        <word pos="AV0">so</word>
+        <word pos="AJ0">cute</word>
+        <word pos="PNP">I</word>
+        <word pos="VVD">loved</word>
+        <word pos="NN2">cats</word>
+        <word pos="CJC">but</word>
+        <word pos="PNP">I</word>
+        <word pos="XX0">not</word>
+        <word pos="VVB">like</word>
+        <word pos="VVI">touch</word>
+        <word pos="DPS">its</word>
+        <word pos="PUN">.</word>
+        <word pos="EX0">there</word>
+        <word pos="AT0">a</word>
+        <word pos="NN1">lot</word>
+        <word pos="PRF">of</word>
+        <word pos="NN2">animals</word>
+        <word pos="AJ0">dangerous</word>
+        <word pos="DT0">such</word>
+        <word pos="NN1">lion</word>
+        <word pos="CJC">and</word>
+        <word pos="NN1">tiger</word>
+        <word pos="PUN">.</word>
+        </body>
+      </text>
+    </corpus>
+  </root>

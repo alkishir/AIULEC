@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <corpus>
+    <text>
+      <metadata>
+        <Faculty>Human Sciences</Faculty>
+        <Semester>4</Semester>
+        <Age>20</Age>
+        <Time_spent_at_an_EnglishSpeaking_country>X</Time_spent_at_an_EnglishSpeaking_country>
+        <Topic>Describing a picture</Topic>
+        <Title>Ahmed and a dog</Title>
+        </metadata>
+      <body>
+        <word pos="AV0">Once</word>
+        <word pos="AV0">day</word>
+        <word pos="PUN">.</word>
+        <word pos="EX0">there</word>
+        <word pos="VBD">was</word>
+        <word pos="AT0">a</word>
+        <word pos="NN1">boy</word>
+        <word pos="VVN">named</word>
+        <word pos="NP0">Ahmed</word>
+        <word pos="PUN">.</word>
+        <word pos="NP0">Ahmed</word>
+        <word pos="VBD">was</word>
+        <word pos="VVN">walked</word>
+        <word pos="PRP">in</word>
+        <word pos="NN1">street</word>
+        <word pos="PUN">,</word>
+        <word pos="AV0">suddenly</word>
+        <word pos="VVD">saw</word>
+        <word pos="AT0">a</word>
+        <word pos="NN1">dog</word>
+        <word pos="PUN">,</word>
+        <word pos="NP0">Ahmed</word>
+        <word pos="VVB">decide</word>
+        <word pos="VVI">take</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">dog</word>
+        <word pos="PRP">to</word>
+        <word pos="AT0">a</word>
+        <word pos="NN1">house</word>
+        <word pos="PUN">.</word>
+        <word pos="CJC">and</word>
+        <word pos="VVG">building</word>
+        <word pos="DPS">its</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">house</word>
+        <word pos="PUN">,</word>
+        <word pos="CJS">when</word>
+        <word pos="NP0">Ahmed</word>
+        <word pos="VVB">complete</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">house</word>
+        <word pos="VDD">did</word>
+        <word pos="XX0">n't</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">dog</word>
+        <word pos="PUN">,</word>
+        <word pos="NP0">Ahmed</word>
+        <word pos="VVB">feel</word>
+        <word pos="PRP">by</word>
+        <word pos="AJ0">sad</word>
+        <word pos="PRP">about</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">dog</word>
+        <word pos="PUN">,</word>
+        <word pos="CJC">and</word>
+        <word pos="VDD">did</word>
+        <word pos="XX0">n't</word>
+        <word pos="VVI">buy</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">dog</word>
+        <word pos="PRP">after</word>
+        <word pos="NN1">time</word>
+        <word pos="PUN">.</word>
+        </body>
+      </text>
+    </corpus>
+  </root>

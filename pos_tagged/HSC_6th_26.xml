@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <corpus>
+    <text>
+      <metadata>
+        <Faculty>Human Sciences</Faculty>
+        <Semester>6</Semester>
+        <Age>21</Age>
+        <Time_spent_at_an_EnglishSpeaking_country>X</Time_spent_at_an_EnglishSpeaking_country>
+        <Topic>Eating at restaurants with your family is a good way to build family ties</Topic>
+        <Title>Eating at restaurant with your family is a good way to build family ties</Title>
+        </metadata>
+      <body>
+        <word pos="PNP">I</word>
+        <word pos="VVB">think</word>
+        <word pos="CJT">that</word>
+        <word pos="PNP">we</word>
+        <word pos="VBB">are</word>
+        <word pos="PRP">in</word>
+        <word pos="NN1">conclusion</word>
+        <word pos="PRP">in</word>
+        <word pos="AT0">a</word>
+        <word pos="NN1">garden</word>
+        <word pos="CJC">or</word>
+        <word pos="AT0">a</word>
+        <word pos="NN1">restaurant</word>
+        <word pos="PRP">for</word>
+        <word pos="NN1">speech</word>
+        <word pos="PRP">with</word>
+        <word pos="PNX">each</word>
+        <word pos="PNX">other</word>
+        <word pos="PUN">,</word>
+        <word pos="CJC">and</word>
+        <word pos="PNP">we</word>
+        <word pos="VVB">get</word>
+        <word pos="DT0">some</word>
+        <word pos="NN2">things</word>
+        <word pos="CJT">that</word>
+        <word pos="PNP">we</word>
+        <word pos="VM0">will</word>
+        <word pos="VVI">remember</word>
+        <word pos="PRP">in</word>
+        <word pos="NN1">future</word>
+        <word pos="PUN">,</word>
+        <word pos="PNP">it</word>
+        <word pos="VBZ">is</word>
+        <word pos="AJ0">nice</word>
+        <word pos="PUN">.</word>
+        <word pos="CJC">and</word>
+        <word pos="AT0">the</word>
+        <word pos="VVG">eating</word>
+        <word pos="PRP">with</word>
+        <word pos="PNP">them</word>
+        <word pos="VVB">give</word>
+        <word pos="AV0">more</word>
+        <word pos="AJ0">interesting</word>
+        <word pos="CJC">and</word>
+        <word pos="VVG">feeling</word>
+        <word pos="AJ0">friendly</word>
+        <word pos="PRP">with</word>
+        <word pos="NN1">family</word>
+        <word pos="PUN">.</word>
+        </body>
+      </text>
+    </corpus>
+  </root>

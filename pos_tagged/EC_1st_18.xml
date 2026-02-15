@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <corpus>
+    <text>
+      <metadata>
+        <Faculty>Education</Faculty>
+        <Semester>1</Semester>
+        <Age>19</Age>
+        <Time_spent_at_an_EnglishSpeaking_country>X</Time_spent_at_an_EnglishSpeaking_country>
+        <Topic>My Family</Topic>
+        <Title>My Family</Title>
+        </metadata>
+      <body>
+        <word pos="PNP">I</word>
+        <word pos="VBB">am</word>
+        <word pos="NP0">Khadija</word>
+        <word pos="PUN">,</word>
+        <word pos="PNP">I</word>
+        <word pos="VHB">have</word>
+        <word pos="NN1">family</word>
+        <word pos="PUN">.</word>
+        <word pos="PNP">It</word>
+        <word pos="VVZ">consists</word>
+        <word pos="PRF">of</word>
+        <word pos="DPS">my</word>
+        <word pos="NN1">father</word>
+        <word pos="CJC">and</word>
+        <word pos="DPS">my</word>
+        <word pos="NN1">mother</word>
+        <word pos="PUN">,</word>
+        <word pos="AV0">also</word>
+        <word pos="PNP">I</word>
+        <word pos="VHB">have</word>
+        <word pos="CRD">3</word>
+        <word pos="NN2">brothers</word>
+        <word pos="CJC">and</word>
+        <word pos="CRD">3</word>
+        <word pos="NN2">sisters</word>
+        <word pos="PUN">.</word>
+        <word pos="PNP">I</word>
+        <word pos="VVB">like</word>
+        <word pos="DPS">my</word>
+        <word pos="NN1">grandmother</word>
+        <word pos="PUN">.</word>
+        <word pos="PRP">In</word>
+        <word pos="PRP">addition</word>
+        <word pos="PRP">to</word>
+        <word pos="DT0">that</word>
+        <word pos="PUN">.</word>
+        <word pos="PNP">I</word>
+        <word pos="VVB">live</word>
+        <word pos="PRP">in</word>
+        <word pos="AT0">a</word>
+        <word pos="AJ0">big</word>
+        <word pos="NN1">house</word>
+        <word pos="PUN">.</word>
+        </body>
+      </text>
+    </corpus>
+  </root>

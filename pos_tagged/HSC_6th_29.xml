@@ -1,0 +1,141 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <corpus>
+    <text>
+      <metadata>
+        <Faculty>Human Sciences</Faculty>
+        <Semester>6</Semester>
+        <Age>none</Age>
+        <Time_spent_at_an_EnglishSpeaking_country>X</Time_spent_at_an_EnglishSpeaking_country>
+        <Topic>Grafting some fixed relaxation time onto a busy schedule may lead not only to a less hectic lifestyle, but also to a healthier mind and body</Topic>
+        <Title>Grafting some fixed relaxation time onto a busy Schedule may lead not only to a less hectic lifestyle, but also to healthier mind and body.</Title>
+        </metadata>
+      <body>
+        <word pos="PNP">I</word>
+        <word pos="VVB">think</word>
+        <word pos="PUN">,</word>
+        <word pos="CJS">when</word>
+        <word pos="PNP">you</word>
+        <word pos="VHB">have</word>
+        <word pos="AT0">a</word>
+        <word pos="AJ0">busy</word>
+        <word pos="NN1">Schedule</word>
+        <word pos="CJC">and</word>
+        <word pos="VVB">need</word>
+        <word pos="PRP">to</word>
+        <word pos="DT0">more</word>
+        <word pos="NN2">things</word>
+        <word pos="PRP">in</word>
+        <word pos="DT0">some</word>
+        <word pos="NN1">time</word>
+        <word pos="PNP">you</word>
+        <word pos="VVB">need</word>
+        <word pos="TO0">to</word>
+        <word pos="VVI">take</word>
+        <word pos="NN1">rest</word>
+        <word pos="PUN">.</word>
+        <word pos="CJC">and</word>
+        <word pos="NN1">relaxation</word>
+        <word pos="PUN">,</word>
+        <word pos="DT0">that</word>
+        <word pos="VBZ">'s</word>
+        <word pos="VM0">will</word>
+        <word pos="VBI">be</word>
+        <word pos="VVI">lead</word>
+        <word pos="TO0">to</word>
+        <word pos="NN1">health</word>
+        <word pos="DPS">your</word>
+        <word pos="NN1">body</word>
+        <word pos="CJS">because</word>
+        <word pos="CJS">if</word>
+        <word pos="PNP">you</word>
+        <word pos="VVB">work</word>
+        <word pos="PRP">to</word>
+        <word pos="PRP">along</word>
+        <word pos="NN1">time</word>
+        <word pos="PRP">without</word>
+        <word pos="NN1">relaxation</word>
+        <word pos="PNP">you</word>
+        <word pos="VM0">will</word>
+        <word pos="VBI">be</word>
+        <word pos="AJ0">hard</word>
+        <word pos="CJC">and</word>
+        <word pos="PNP">you</word>
+        <word pos="VM0">will</word>
+        <word pos="VVI">work</word>
+        <word pos="PRP">as</word>
+        <word pos="AT0">a</word>
+        <word pos="NN1">panda</word>
+        <word pos="PUN">!</word>
+        <word pos="PUN">!</word>
+        <word pos="DT0">That</word>
+        <word pos="VBZ">'s</word>
+        <word pos="DPS">my</word>
+        <word pos="NN1">opinion</word>
+        <word pos="PUN">.</word>
+        <word pos="AV0">So</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">rest</word>
+        <word pos="VVB">help</word>
+        <word pos="DPS">your</word>
+        <word pos="AJC">healthier</word>
+        <word pos="NN1">body</word>
+        <word pos="PUN">.</word>
+        <word pos="NN1">Health</word>
+        <word pos="NN1">mind</word>
+        <word pos="VM0">will</word>
+        <word pos="VBI">be</word>
+        <word pos="VVI">save</word>
+        <word pos="CJS">because</word>
+        <word pos="DPS">your</word>
+        <word pos="NN1">mind</word>
+        <word pos="VM0">will</word>
+        <word pos="VBI">be</word>
+        <word pos="VVI">take</word>
+        <word pos="AT0">a</word>
+        <word pos="NN1">rest</word>
+        <word pos="PUN">.</word>
+        <word pos="CJS">If</word>
+        <word pos="PNP">you</word>
+        <word pos="VM0">will</word>
+        <word pos="VDI">do</word>
+        <word pos="XX0">n't</word>
+        <word pos="VVI">take</word>
+        <word pos="AT0">a</word>
+        <word pos="NN1">rest</word>
+        <word pos="PRP">from</word>
+        <word pos="VVG">thinking</word>
+        <word pos="PRP">about</word>
+        <word pos="DTQ">what</word>
+        <word pos="PNP">you</word>
+        <word pos="VDB">do</word>
+        <word pos="CJC">and</word>
+        <word pos="AVQ">how</word>
+        <word pos="PUN">.</word>
+        <word pos="DT0">all</word>
+        <word pos="CJT">that</word>
+        <word pos="NN2">things</word>
+        <word pos="VM0">can</word>
+        <word pos="VVI">cause</word>
+        <word pos="NN1">stress</word>
+        <word pos="CJC">and</word>
+        <word pos="VVI">work</word>
+        <word pos="PRP">under</word>
+        <word pos="NN1">pressure</word>
+        <word pos="CJC">and</word>
+        <word pos="VVG">overthinking</word>
+        <word pos="PUN">!</word>
+        <word pos="AV0">So</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">rest</word>
+        <word pos="VM0">will</word>
+        <word pos="VBI">be</word>
+        <word pos="VVI">save</word>
+        <word pos="DPS">your</word>
+        <word pos="AJC">healthier</word>
+        <word pos="NN1">mind</word>
+        <word pos="PUN">.</word>
+        </body>
+      </text>
+    </corpus>
+  </root>

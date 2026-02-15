@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <corpus>
+    <text>
+      <metadata>
+        <Faculty>Human Sciences</Faculty>
+        <Semester>6</Semester>
+        <Age>22</Age>
+        <Time_spent_at_an_EnglishSpeaking_country>X</Time_spent_at_an_EnglishSpeaking_country>
+        <Topic>Eating at restaurants with your family is a good way to build family ties</Topic>
+        <Title>Eating at restaurant with your family is a good way to build family ties</Title>
+        </metadata>
+      <body>
+        <word pos="VVG">Eating</word>
+        <word pos="PRP">at</word>
+        <word pos="AT0">a</word>
+        <word pos="NN1">restaurant</word>
+        <word pos="VVB">enhance</word>
+        <word pos="NN1">link</word>
+        <word pos="PRP">between</word>
+        <word pos="AJ0">individual</word>
+        <word pos="NN1">family</word>
+        <word pos="AV0">especially</word>
+        <word pos="VVB">relate</word>
+        <word pos="NN1">father</word>
+        <word pos="PRP">with</word>
+        <word pos="NN2">babies</word>
+        <word pos="CJC">and</word>
+        <word pos="VVB">help</word>
+        <word pos="TO0">to</word>
+        <word pos="VVI">create</word>
+        <word pos="AJ0">happy</word>
+        <word pos="AJ0">calm</word>
+        <word pos="CJC">and</word>
+        <word pos="AV0">thus</word>
+        <word pos="CJT">that</word>
+        <word pos="PNP">they</word>
+        <word pos="VVB">change</word>
+        <word pos="NN1">weather</word>
+        <word pos="PRP">to</word>
+        <word pos="NN1">family</word>
+        <word pos="CJC">and</word>
+        <word pos="PNP">they</word>
+        <word pos="VVG">feeling</word>
+        <word pos="CJT">that</word>
+        <word pos="PNP">they</word>
+        <word pos="NN1">family</word>
+        <word pos="NN1">strength</word>
+        <word pos="CJC">and</word>
+        <word pos="VVD">built</word>
+        </body>
+      </text>
+    </corpus>
+  </root>

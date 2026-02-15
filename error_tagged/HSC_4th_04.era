@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<file name="" tagset="uclee-en-2.0.tag">
+Title: <FS corr="The Boy and the Dog"><GA corr="The ">\0</GA>Boy and<GA corr="the">\0</GA> dog</FS> 
+
+<LCLC corr="One day">In one day</LCLC> , <FS corr="there">There</FS><WM corr="was">\0</WM> <GA corr="a">\0</GA>boy <GPR corr="who">\0</GPR>goes to the park<QC corr=".">,</QC> He met a sick dog <LCC corr="who">and</LCC> had no home . <GPP corr="He">\0</GPP><GVM corr="was ">Be</GVM> kind to him and <GVT corr="took"><GVN corr="takes">take</GVN></GVT> the wood and <GVT corr="built">build</GVT> him <GA corr="a">\0</GA><LSN corr="house">home</LSN> <QC corr=".">,</QC> Finally, the dog was very <FS corr="happy">happe</FS> with what the boy <GVT corr="had given">gave</GVT> it .
+</file>

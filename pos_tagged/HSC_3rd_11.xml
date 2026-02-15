@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <corpus>
+    <text>
+      <metadata>
+        <Faculty>Human Sciences</Faculty>
+        <Semester>3</Semester>
+        <Age>19</Age>
+        <Time_spent_at_an_EnglishSpeaking_country>X</Time_spent_at_an_EnglishSpeaking_country>
+        <Topic>Sport</Topic>
+        <Title>Sports</Title>
+        </metadata>
+      <body>
+        <word pos="NN2">Sports</word>
+        <word pos="VBZ">is</word>
+        <word pos="AJ0">physical</word>
+        <word pos="NN1">activity</word>
+        <word pos="CJT">that</word>
+        <word pos="VVB">involve</word>
+        <word pos="NN1">skill</word>
+        <word pos="AJ0">physical</word>
+        <word pos="NN1">effort</word>
+        <word pos="CJC">and</word>
+        <word pos="AV0">very</word>
+        <word pos="AJ0">important</word>
+        </body>
+      </text>
+    </corpus>
+  </root>

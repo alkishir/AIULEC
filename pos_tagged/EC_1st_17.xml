@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <corpus>
+    <text>
+      <metadata>
+        <Faculty>Education</Faculty>
+        <Semester>1</Semester>
+        <Age>19</Age>
+        <Time_spent_at_an_EnglishSpeaking_country>X</Time_spent_at_an_EnglishSpeaking_country>
+        <Topic>My Family</Topic>
+        <Title>My Family</Title>
+        </metadata>
+      <body>
+        <word pos="DPS">My</word>
+        <word pos="NN1">name</word>
+        <word pos="VBZ">is</word>
+        <word pos="NP0">Roquia</word>
+        <word pos="PNP">I</word>
+        <word pos="VBB">'m</word>
+        <word pos="AT0">a</word>
+        <word pos="NN1">student</word>
+        <word pos="CJC">and</word>
+        <word pos="PNP">I</word>
+        <word pos="VVB">live</word>
+        <word pos="PRP">with</word>
+        <word pos="DPS">my</word>
+        <word pos="NN1">family</word>
+        <word pos="PNP">I</word>
+        <word pos="VHB">have</word>
+        <word pos="DPS">my</word>
+        <word pos="NN1">father</word>
+        <word pos="VVG">working</word>
+        <word pos="NN1">teacher</word>
+        <word pos="PUN">.</word>
+        <word pos="CJC">and</word>
+        <word pos="DPS">my</word>
+        <word pos="NN1">mother</word>
+        <word pos="VBZ">is</word>
+        <word pos="NN1">housewife</word>
+        <word pos="CJC">and</word>
+        <word pos="PNP">I</word>
+        <word pos="VHB">have</word>
+        <word pos="CRD">six</word>
+        <word pos="NN1">brother</word>
+        <word pos="CJC">and</word>
+        <word pos="CRD">three</word>
+        <word pos="NN1">sister</word>
+        <word pos="PUN">,</word>
+        <word pos="PNP">I</word>
+        <word pos="VVB">love</word>
+        <word pos="DPS">my</word>
+        <word pos="NN1">family</word>
+        <word pos="AV0">so</word>
+        <word pos="DT0">much</word>
+        <word pos="CJC">and</word>
+        <word pos="AV0">especially</word>
+        <word pos="DPS">my</word>
+        <word pos="AJ0">little</word>
+        <word pos="NN1">brother</word>
+        <word pos="PUN">.</word>
+        </body>
+      </text>
+    </corpus>
+  </root>

@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <corpus>
+    <text>
+      <metadata>
+        <Faculty>Education</Faculty>
+        <Semester>1</Semester>
+        <Age>19</Age>
+        <Time_spent_at_an_EnglishSpeaking_country>X</Time_spent_at_an_EnglishSpeaking_country>
+        <Topic>An interesting place</Topic>
+        <Title>An interesting place</Title>
+        </metadata>
+      <body>
+        <word pos="AT0">The</word>
+        <word pos="NN1">Hotel</word>
+        <word pos="PUN">/</word>
+        <word pos="NN2">Hotels</word>
+        <word pos="VBB">are</word>
+        <word pos="NN2">places</word>
+        <word pos="TO0">to</word>
+        <word pos="VVI">spend</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">night</word>
+        <word pos="CJC">or</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">day</word>
+        <word pos="PUN">,</word>
+        <word pos="CJS">because</word>
+        <word pos="PNP">you</word>
+        <word pos="VBB">are</word>
+        <word pos="PRP">in</word>
+        <word pos="AT0">a</word>
+        <word pos="NN1">place</word>
+        <word pos="AV0">far</word>
+        <word pos="PRP">from</word>
+        <word pos="DPS">your</word>
+        <word pos="NN1">home</word>
+        <word pos="CJC">and</word>
+        <word pos="PNP">you</word>
+        <word pos="VVB">need</word>
+        <word pos="TO0">to</word>
+        <word pos="VVI">sleep</word>
+        <word pos="CJC">and</word>
+        <word pos="NN1">rest</word>
+        <word pos="PRP">in</word>
+        <word pos="DT0">this</word>
+        <word pos="NN1">place</word>
+        <word pos="PUN">.</word>
+        <word pos="AT0">The</word>
+        <word pos="NN2">hotels</word>
+        <word pos="VBB">are</word>
+        <word pos="VVN">arranged</word>
+        <word pos="AV0">differently</word>
+        <word pos="PRP">from</word>
+        <word pos="PNX">each</word>
+        <word pos="PNX">other</word>
+        <word pos="PRP">according</word>
+        <word pos="PRP">to</word>
+        <word pos="AT0">the</word>
+        <word pos="NN2">services</word>
+        <word pos="VVN">provided</word>
+        <word pos="PUN">,</word>
+        <word pos="CJC">and</word>
+        <word pos="AV0">therefore</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">hotel</word>
+        <word pos="VBZ">is</word>
+        <word pos="VVN">distinguished</word>
+        <word pos="PRP">by</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">number</word>
+        <word pos="PRF">of</word>
+        <word pos="NN2">stars</word>
+        <word pos="CJT">that</word>
+        <word pos="VVB">indicate</word>
+        <word pos="NN2">services</word>
+        <word pos="PUN">.</word>
+        </body>
+      </text>
+    </corpus>
+  </root>

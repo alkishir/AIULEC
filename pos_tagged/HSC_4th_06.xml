@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <corpus>
+    <text>
+      <metadata>
+        <Faculty>Human Sciences</Faculty>
+        <Semester>4</Semester>
+        <Age>20</Age>
+        <Time_spent_at_an_EnglishSpeaking_country>X</Time_spent_at_an_EnglishSpeaking_country>
+        <Topic>Describing a picture</Topic>
+        <Title>The Dog house</Title>
+        </metadata>
+      <body>
+        <word pos="EX0">There</word>
+        <word pos="VBD">was</word>
+        <word pos="AT0">a</word>
+        <word pos="NN1">boy</word>
+        <word pos="PNQ">who</word>
+        <word pos="VHD">had</word>
+        <word pos="AT0">a</word>
+        <word pos="NN1">dog</word>
+        <word pos="PNQ">who</word>
+        <word pos="VBD">was</word>
+        <word pos="AV0">very</word>
+        <word pos="AJ0">close</word>
+        <word pos="PRP">to</word>
+        <word pos="PNP">him</word>
+        <word pos="PUN">.</word>
+        <word pos="PNP">He</word>
+        <word pos="VVD">loved</word>
+        <word pos="PNP">him</word>
+        <word pos="AV0">so</word>
+        <word pos="DT0">much</word>
+        <word pos="PUN">,</word>
+        <word pos="CJS">so</word>
+        <word pos="PNP">he</word>
+        <word pos="VVD">collected</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">wood</word>
+        <word pos="CJC">and</word>
+        <word pos="VVD">built</word>
+        <word pos="AT0">a</word>
+        <word pos="NN1">house</word>
+        <word pos="PRP">for</word>
+        <word pos="DPS">his</word>
+        <word pos="NN1">friend</word>
+        <word pos="CJC">and</word>
+        <word pos="VVD">placed</word>
+        <word pos="PNP">it</word>
+        <word pos="PRP">in</word>
+        <word pos="CJC">and</word>
+        <word pos="PNP">he</word>
+        <word pos="VHD">had</word>
+        <word pos="DPS">his</word>
+        <word pos="DT0">own</word>
+        <word pos="NN1">house</word>
+        <word pos="PRP">for</word>
+        <word pos="DPS">his</word>
+        <word pos="NN1">friend</word>
+        <word pos="CJC">and</word>
+        <word pos="VVD">placed</word>
+        <word pos="PNP">it</word>
+        <word pos="PRP">in</word>
+        <word pos="PNP">it</word>
+        <word pos="PUN">.</word>
+        </body>
+      </text>
+    </corpus>
+  </root>

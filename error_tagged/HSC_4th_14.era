@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<file name="" tagset="uclee-en-2.0.tag">
+Title: <FS corr="Hassan and the Dog">Hassane and <GA corr="the">\0</GA>dog</FS> 
+
+In the <FS corr="morning">morring</FS>, Hassan <GVT corr="went"><GVN corr="goes">go</GVN></GVT> to <GA corr="the">\0</GA>garden with <GDO corr="his">\0</GDO>dog to bring<GDI corr="some">\0</GDI> wood to build his <WM corr="dog a">\0</WM><LSN corr="house">home</LSN> . The dog was very happy with Hassan<QM corr=",">\0</QM> and they <GVT corr="built">build</GVT> the <LSN corr="house">home</LSN> <QM corr=".">\0</QM>And he <GWC corr="wasn't tired">didn’t tire</GWC><QR corr="0">,</QR> and joined <LCS corr="0">when</LCS> the dog<GPR corr="who">\0</GPR> <GVT corr="was">is</GVT> happy .
+</file>

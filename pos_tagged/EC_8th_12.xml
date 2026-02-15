@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <corpus>
+    <text>
+      <metadata>
+        <Faculty>Education</Faculty>
+        <Semester>8</Semester>
+        <Age>22</Age>
+        <Time_spent_at_an_EnglishSpeaking_country>X</Time_spent_at_an_EnglishSpeaking_country>
+        <Topic>Honor of My Family</Topic>
+        <Title>Honour of My family</Title>
+        </metadata>
+      <body>
+        <word pos="NN1">family</word>
+        <word pos="NN1">honor</word>
+        <word pos="VBZ">is</word>
+        <word pos="AJ0">abstract</word>
+        <word pos="NN1">concept</word>
+        <word pos="CJT">that</word>
+        <word pos="VVZ">effects</word>
+        <word pos="AT0">the</word>
+        <word pos="AJ0">perceived</word>
+        <word pos="NN1">worthiness</word>
+        <word pos="CJC">and</word>
+        <word pos="NN1">respectability</word>
+        <word pos="PRF">of</word>
+        <word pos="AT0">a</word>
+        <word pos="NN1">group</word>
+        <word pos="PRF">of</word>
+        <word pos="AJ0">related</word>
+        <word pos="NN0">people</word>
+        <word pos="PUN">,</word>
+        <word pos="AV0">both</word>
+        <word pos="AV0">collectively</word>
+        <word pos="CJC">and</word>
+        <word pos="AV0">individually</word>
+        <word pos="PUN">.</word>
+        <word pos="PRP">In</word>
+        <word pos="AJ0">various</word>
+        <word pos="NN2">cultures</word>
+        <word pos="PUN">,</word>
+        <word pos="VVG">honoring</word>
+        <word pos="NN2">ancestors</word>
+        <word pos="CJC">and</word>
+        <word pos="VVG">maintaining</word>
+        <word pos="NN1">family</word>
+        <word pos="PUN">.</word>
+        </body>
+      </text>
+    </corpus>
+  </root>

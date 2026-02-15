@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <corpus>
+    <text>
+      <metadata>
+        <Faculty>Human Sciences</Faculty>
+        <Semester>3</Semester>
+        <Age>19</Age>
+        <Time_spent_at_an_EnglishSpeaking_country>3-4 years</Time_spent_at_an_EnglishSpeaking_country>
+        <Topic>Sport</Topic>
+        <Title>Sports</Title>
+        </metadata>
+      <body>
+        <word pos="NN2">Sports</word>
+        <word pos="VBB">are</word>
+        <word pos="AV0">very</word>
+        <word pos="AJ0">important</word>
+        <word pos="PRP">for</word>
+        <word pos="PNI">everyone</word>
+        <word pos="NN1">life</word>
+        <word pos="PUN">,</word>
+        <word pos="PNP">it</word>
+        <word pos="VHZ">has</word>
+        <word pos="AJ0">great</word>
+        <word pos="NN1">importance</word>
+        <word pos="PRF">of</word>
+        <word pos="NN1">life</word>
+        <word pos="PUN">.</word>
+        <word pos="VVG">Playing</word>
+        <word pos="DT0">some</word>
+        <word pos="NN1">kind</word>
+        <word pos="PRF">of</word>
+        <word pos="NN2">sports</word>
+        <word pos="VM0">will</word>
+        <word pos="VVI">benefit</word>
+        <word pos="DPS">our</word>
+        <word pos="NN1">body</word>
+        <word pos="CJC">and</word>
+        <word pos="DPS">our</word>
+        <word pos="NN1">health</word>
+        <word pos="PUN">.</word>
+        <word pos="EX0">There</word>
+        <word pos="VBZ">is</word>
+        <word pos="DT0">many</word>
+        <word pos="NN1">kind</word>
+        <word pos="PRF">of</word>
+        <word pos="NN2">sports</word>
+        <word pos="PRP">like</word>
+        <word pos="VVG">running</word>
+        <word pos="PUN">,</word>
+        <word pos="VVG">swimming</word>
+        <word pos="PUN">,</word>
+        <word pos="VVG">jumping</word>
+        <word pos="AV0">etc.</word>
+        <word pos="VM0">will</word>
+        <word pos="VVI">make</word>
+        <word pos="NN1">life</word>
+        <word pos="AV0">more</word>
+        <word pos="AJ0">exciting</word>
+        <word pos="CJC">and</word>
+        <word pos="AJ0">healthy</word>
+        <word pos="PRP">like</word>
+        <word pos="PRP">by</word>
+        <word pos="VVG">playing</word>
+        <word pos="NN2">sports</word>
+        <word pos="NN1">lung</word>
+        <word pos="NN1">function</word>
+        <word pos="VVZ">improves</word>
+        <word pos="CJC">and</word>
+        <word pos="VVB">become</word>
+        <word pos="AV0">more</word>
+        <word pos="AJ0">healthy</word>
+        <word pos="AV0">In</word>
+        <word pos="AV0">short</word>
+        <word pos="PUN">,</word>
+        <word pos="NN2">sports</word>
+        <word pos="AV0">also</word>
+        <word pos="AJ0">good</word>
+        <word pos="CJC">and</word>
+        <word pos="AJ0">important</word>
+        <word pos="TO0">to</word>
+        <word pos="VVI">stay</word>
+        <word pos="PRP">in</word>
+        <word pos="NN1">life</word>
+        <word pos="PRP">with</word>
+        <word pos="AJ0">perfect</word>
+        <word pos="NN1">health</word>
+        <word pos="PUN">.</word>
+        </body>
+      </text>
+    </corpus>
+  </root>

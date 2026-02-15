@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <corpus>
+    <text>
+      <metadata>
+        <Faculty>Arts</Faculty>
+        <Semester>1</Semester>
+        <Age>19</Age>
+        <Time_spent_at_an_EnglishSpeaking_country>none</Time_spent_at_an_EnglishSpeaking_country>
+        <Topic>Animals </Topic>
+        <Title>Animle</Title>
+        </metadata>
+      <body>
+        <word pos="EX0">There</word>
+        <word pos="VBB">are</word>
+        <word pos="AT0">a</word>
+        <word pos="NN1">lot</word>
+        <word pos="PRF">of</word>
+        <word pos="NN2">animals</word>
+        <word pos="PRP">like</word>
+        <word pos="NN1">wildlife</word>
+        <word pos="NN2">animals</word>
+        <word pos="PUN">:</word>
+        <word pos="AV0">for</word>
+        <word pos="AV0">examples</word>
+        <word pos="NN1">lion</word>
+        <word pos="PUN">,</word>
+        <word pos="NN1">cheetah</word>
+        <word pos="PUN">,</word>
+        <word pos="CJC">and</word>
+        <word pos="NN1">snake</word>
+        <word pos="PUN">.</word>
+        <word pos="CJC">and</word>
+        <word pos="EX0">there</word>
+        <word pos="VBB">are</word>
+        <word pos="NN1">animal</word>
+        <word pos="VVB">live</word>
+        <word pos="PRP">with</word>
+        <word pos="NN0">people</word>
+        <word pos="PRP">in</word>
+        <word pos="NN1">home</word>
+        <word pos="PRP">like</word>
+        <word pos="NN1">cat</word>
+        <word pos="PUN">,</word>
+        <word pos="CJC">and</word>
+        <word pos="NN2">dogs</word>
+        <word pos="PUN">.</word>
+        <word pos="CJC">and</word>
+        <word pos="EX0">There</word>
+        <word pos="VBB">are</word>
+        <word pos="NN1">animal</word>
+        <word pos="VVN">given</word>
+        <word pos="DPS">our</word>
+        <word pos="NN1">meat</word>
+        <word pos="TO0">to</word>
+        <word pos="VVI">eat</word>
+        <word pos="CJC">and</word>
+        <word pos="NN1">milk</word>
+        <word pos="TO0">to</word>
+        <word pos="VVI">drink</word>
+        <word pos="PUN">.</word>
+        </body>
+      </text>
+    </corpus>
+  </root>

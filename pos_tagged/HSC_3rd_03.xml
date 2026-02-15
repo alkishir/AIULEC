@@ -1,0 +1,99 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <corpus>
+    <text>
+      <metadata>
+        <Faculty>Human Sciences</Faculty>
+        <Semester>3</Semester>
+        <Age>20</Age>
+        <Time_spent_at_an_EnglishSpeaking_country>X</Time_spent_at_an_EnglishSpeaking_country>
+        <Topic>Social media</Topic>
+        <Title>Social media</Title>
+        </metadata>
+      <body>
+        <word pos="AJ0">Social</word>
+        <word pos="NN0">media</word>
+        <word pos="VBZ">is</word>
+        <word pos="AT0">a</word>
+        <word pos="AJ0">vital</word>
+        <word pos="NN1">thing</word>
+        <word pos="PRP">in</word>
+        <word pos="DPS">our</word>
+        <word pos="NN1">generation</word>
+        <word pos="AV0">now</word>
+        <word pos="PUN">.</word>
+        <word pos="PRP">In</word>
+        <word pos="DPS">my</word>
+        <word pos="NN1">opinion</word>
+        <word pos="PNP">it</word>
+        <word pos="VBZ">'s</word>
+        <word pos="AT0">a</word>
+        <word pos="NN1">blessing</word>
+        <word pos="NN1">thing</word>
+        <word pos="CJC">but</word>
+        <word pos="PRP">like</word>
+        <word pos="AT0">a</word>
+        <word pos="NN1">lot</word>
+        <word pos="PRF">of</word>
+        <word pos="NN2">things</word>
+        <word pos="PNP">it</word>
+        <word pos="VHZ">has</word>
+        <word pos="DT0">some</word>
+        <word pos="AJ0">negative</word>
+        <word pos="NN2">sides</word>
+        <word pos="CJC">and</word>
+        <word pos="NN2">drawbacks</word>
+        <word pos="PUN">.</word>
+        <word pos="PRP">with</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">access</word>
+        <word pos="PRP">to</word>
+        <word pos="AT0">the</word>
+        <word pos="AJ0">social</word>
+        <word pos="NN0">media</word>
+        <word pos="PNP">we</word>
+        <word pos="VM0">can</word>
+        <word pos="VDI">do</word>
+        <word pos="DTQ">whatever</word>
+        <word pos="NN1">jump</word>
+        <word pos="PRP">in</word>
+        <word pos="DPS">our</word>
+        <word pos="NN2">minds</word>
+        <word pos="PRP">like</word>
+        <word pos="NN1">communication</word>
+        <word pos="PRP">with</word>
+        <word pos="AJ0">foreign</word>
+        <word pos="NN0">people</word>
+        <word pos="VVB">form</word>
+        <word pos="DT0">all</word>
+        <word pos="PRP">around</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">world</word>
+        <word pos="CJC">and</word>
+        <word pos="DT0">any</word>
+        <word pos="NN1">place</word>
+        <word pos="PNP">you</word>
+        <word pos="VM0">could</word>
+        <word pos="VVI">imagine</word>
+        <word pos="CJC">and</word>
+        <word pos="VVG">sharing</word>
+        <word pos="DPS">our</word>
+        <word pos="NN1">culture</word>
+        <word pos="CJC">and</word>
+        <word pos="NN2">backgrounds</word>
+        <word pos="PUN">,</word>
+        <word pos="CJC">so</word>
+        <word pos="PRP">by</word>
+        <word pos="VDG">doing</word>
+        <word pos="DT0">this</word>
+        <word pos="CJC">so</word>
+        <word pos="PNP">you</word>
+        <word pos="VM0">can</word>
+        <word pos="VVI">learn</word>
+        <word pos="AT0">a</word>
+        <word pos="AJ0">new</word>
+        <word pos="NN1">language</word>
+        </body>
+      </text>
+    </corpus>
+  </root>

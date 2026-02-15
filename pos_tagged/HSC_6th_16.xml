@@ -1,0 +1,106 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <corpus>
+    <text>
+      <metadata>
+        <Faculty>Human Sciences</Faculty>
+        <Semester>6</Semester>
+        <Age>23</Age>
+        <Time_spent_at_an_EnglishSpeaking_country>X</Time_spent_at_an_EnglishSpeaking_country>
+        <Topic>Achieving a clam, relaxed manner will boost your sense of happiness</Topic>
+        <Title>Achieving a clam, relaxed manner will boost your sense of happiness</Title>
+        </metadata>
+      <body>
+        <word pos="PNP">We</word>
+        <word pos="VVB">need</word>
+        <word pos="PRP">as</word>
+        <word pos="AT0">a</word>
+        <word pos="NN1">human</word>
+        <word pos="NN1">being</word>
+        <word pos="VBI">be</word>
+        <word pos="VVB">relax</word>
+        <word pos="CJC">and</word>
+        <word pos="VVB">clam</word>
+        <word pos="TO0">to</word>
+        <word pos="VHI">have</word>
+        <word pos="AJ0">mental</word>
+        <word pos="CJC">and</word>
+        <word pos="AJ0">physical</word>
+        <word pos="NN1">health</word>
+        <word pos="TO0">to</word>
+        <word pos="VBI">be</word>
+        <word pos="AJC">happier</word>
+        <word pos="PUN">.</word>
+        <word pos="PNP">It</word>
+        <word pos="VBZ">is</word>
+        <word pos="AJ0">important</word>
+        <word pos="TO0">to</word>
+        <word pos="VVI">work</word>
+        <word pos="AV0">hard</word>
+        <word pos="PUN">,</word>
+        <word pos="TO0">to</word>
+        <word pos="VVI">achieve</word>
+        <word pos="DPS">your</word>
+        <word pos="NN2">goals</word>
+        <word pos="CJC">and</word>
+        <word pos="TO0">to</word>
+        <word pos="VHI">have</word>
+        <word pos="AT0">a</word>
+        <word pos="NN1">self-esteem</word>
+        <word pos="PUN">,</word>
+        <word pos="CJC">but</word>
+        <word pos="AV0">also</word>
+        <word pos="PNP">you</word>
+        <word pos="VM0">should</word>
+        <word pos="VHI">have</word>
+        <word pos="AT0">a</word>
+        <word pos="AJ0">good</word>
+        <word pos="NN1">rest</word>
+        <word pos="TO0">to</word>
+        <word pos="VVI">charge</word>
+        <word pos="DPS">your</word>
+        <word pos="NN1">energy</word>
+        <word pos="PUN">,</word>
+        <word pos="CJS">if</word>
+        <word pos="PNP">you</word>
+        <word pos="VVB">want</word>
+        <word pos="TO0">to</word>
+        <word pos="VVI">continue</word>
+        <word pos="DPS">your</word>
+        <word pos="NN1">work</word>
+        <word pos="PUN">.</word>
+        <word pos="VHG">Having</word>
+        <word pos="AT0">a</word>
+        <word pos="AJ0">good</word>
+        <word pos="AJ0">asleep</word>
+        <word pos="CJC">and</word>
+        <word pos="VVB">relax</word>
+        <word pos="PRP">without</word>
+        <word pos="VVI">do</word>
+        <word pos="PNI">anything</word>
+        <word pos="VM0">will</word>
+        <word pos="VVI">help</word>
+        <word pos="PNP">you</word>
+        <word pos="TO0">to</word>
+        <word pos="VVI">keep</word>
+        <word pos="VVG">going</word>
+        <word pos="PRP">in</word>
+        <word pos="DPS">your</word>
+        <word pos="NN1">way</word>
+        <word pos="PUN">.</word>
+        <word pos="VVG">Working</word>
+        <word pos="AV0">hard</word>
+        <word pos="CJC">and</word>
+        <word pos="VHB">have</word>
+        <word pos="AT0">a</word>
+        <word pos="AJ0">good</word>
+        <word pos="NN1">rest</word>
+        <word pos="VHB">have</word>
+        <word pos="AT0">the</word>
+        <word pos="DT0">same</word>
+        <word pos="NN1">importance</word>
+        <word pos="PUN">.</word>
+        </body>
+      </text>
+    </corpus>
+  </root>

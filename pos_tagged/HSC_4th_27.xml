@@ -1,0 +1,124 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <corpus>
+    <text>
+      <metadata>
+        <Faculty>Human Sciences</Faculty>
+        <Semester>4</Semester>
+        <Age>19</Age>
+        <Time_spent_at_an_EnglishSpeaking_country>X</Time_spent_at_an_EnglishSpeaking_country>
+        <Topic>Describing a picture</Topic>
+        <Title>Alex and his dog</Title>
+        </metadata>
+      <body>
+        <word pos="AV0">Once</word>
+        <word pos="AT0">a</word>
+        <word pos="NN1">day</word>
+        <word pos="PUN">,</word>
+        <word pos="EX0">there</word>
+        <word pos="VBD">was</word>
+        <word pos="AT0">a</word>
+        <word pos="NN1">boy</word>
+        <word pos="DPS">his</word>
+        <word pos="NN1">name</word>
+        <word pos="VBD">was</word>
+        <word pos="NP0">Alex</word>
+        <word pos="PRP">on</word>
+        <word pos="NP0">Friday</word>
+        <word pos="AT0">the</word>
+        <word pos="NP0">Alex</word>
+        <word pos="POS">'s</word>
+        <word pos="NN1">family</word>
+        <word pos="VVD">went</word>
+        <word pos="PRP">to</word>
+        <word pos="AT0">a</word>
+        <word pos="NN1">garden</word>
+        <word pos="AV0">then</word>
+        <word pos="PUN">,</word>
+        <word pos="NP0">Alex</word>
+        <word pos="VVD">started</word>
+        <word pos="PRP">in</word>
+        <word pos="VVG">playing</word>
+        <word pos="PUN">.</word>
+        <word pos="NP0">Alex</word>
+        <word pos="VVD">left</word>
+        <word pos="DPS">his</word>
+        <word pos="NN1">family</word>
+        <word pos="CJC">and</word>
+        <word pos="VVD">went</word>
+        <word pos="PRP">to</word>
+        <word pos="NN2">trees</word>
+        <word pos="AV0">then</word>
+        <word pos="PUN">,</word>
+        <word pos="PNP">he</word>
+        <word pos="VVD">found</word>
+        <word pos="AT0">a</word>
+        <word pos="NN1">dog</word>
+        <word pos="CJC">and</word>
+        <word pos="PNP">he</word>
+        <word pos="VVD">loved</word>
+        <word pos="AT0">the</word>
+        <word pos="NN2">dogs</word>
+        <word pos="PUN">.</word>
+        <word pos="PRP">After</word>
+        <word pos="DT0">that</word>
+        <word pos="PUN">,</word>
+        <word pos="NP0">Alex</word>
+        <word pos="VVD">decided</word>
+        <word pos="VVD">took</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">dog</word>
+        <word pos="PRP">to</word>
+        <word pos="DPS">his</word>
+        <word pos="NN1">house</word>
+        <word pos="CJC">and</word>
+        <word pos="VVD">built</word>
+        <word pos="NN1">home</word>
+        <word pos="PRP">for</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">dog</word>
+        <word pos="PRP">in</word>
+        <word pos="AV0">outside</word>
+        <word pos="PUN">.</word>
+        <word pos="NP0">Alex</word>
+        <word pos="VVB">come</word>
+        <word pos="AVP">back</word>
+        <word pos="PRP">to</word>
+        <word pos="DPS">his</word>
+        <word pos="NN1">house</word>
+        <word pos="PRP">with</word>
+        <word pos="DPS">his</word>
+        <word pos="NN1">family</word>
+        <word pos="CJC">and</word>
+        <word pos="VVD">started</word>
+        <word pos="PRP">to</word>
+        <word pos="VVD">built</word>
+        <word pos="PUN">,</word>
+        <word pos="CJS">after</word>
+        <word pos="CRD">one</word>
+        <word pos="NN1">hour</word>
+        <word pos="PNP">he</word>
+        <word pos="VVD">finished</word>
+        <word pos="PNP">it</word>
+        <word pos="PUN">.</word>
+        <word pos="NP0">Alex</word>
+        <word pos="VBD">was</word>
+        <word pos="AV0">very</word>
+        <word pos="NN1">care</word>
+        <word pos="PRP">about</word>
+        <word pos="DPS">his</word>
+        <word pos="NN1">dog</word>
+        <word pos="CJC">and</word>
+        <word pos="PNP">he</word>
+        <word pos="VVD">named</word>
+        <word pos="NP0">Kamy</word>
+        <word pos="CJC">and</word>
+        <word pos="PNP">he</word>
+        <word pos="VVD">loved</word>
+        <word pos="AV0">so</word>
+        <word pos="DT0">much</word>
+        <word pos="PUN">.</word>
+        </body>
+      </text>
+    </corpus>
+  </root>

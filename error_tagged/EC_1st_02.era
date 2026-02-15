@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<file name="" tagset="uclee-en-2.0.tag">
+Title: <FS corr="An Interesting Place">An interesting place</FS> 
+
+My interesting place is <GA corr="the">\0</GA>mosque. 
+
+I love this place because I feel comfortable<QR corr="0">,</QR> <LCLS corr="and">also</LCLS> quiet, and people <GVT corr="pray"><GVN corr="are">is</GVN> praying</GVT><QC corr=".">,</QC> <LCLC corr="In addition">an addition</LCLC><QM corr=",">\0</QM> <GPP corr="they">\0</GPP>worship Allah, and <FS corr="they">They</FS> <GVT corr="read">are reading</GVT> the Quran, so I love <GDO corr="it">its</GDO>. 
+
+This is <GA corr="the">\0</GA><XNPR corr="house of">house</XNPR> Allah, but<QR corr="0">,</QR> <GA corr="0">the</GA> <GDI corr="most">more</GDI> <WR corr="0">of</WR> people <FS corr="can't">cann’t</FS> go <LSADV corr="there">to its</LSADV>.
+</file>

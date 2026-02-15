@@ -1,0 +1,124 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <corpus>
+    <text>
+      <metadata>
+        <Faculty>Human Sciences</Faculty>
+        <Semester>2</Semester>
+        <Age>20</Age>
+        <Time_spent_at_an_EnglishSpeaking_country>X</Time_spent_at_an_EnglishSpeaking_country>
+        <Topic>your best memory</Topic>
+        <Title>your best memory</Title>
+        </metadata>
+      <body>
+        <word pos="DPS">My</word>
+        <word pos="AJS">best</word>
+        <word pos="NN1">memory</word>
+        <word pos="VBD">was</word>
+        <word pos="CJS">when</word>
+        <word pos="PNP">I</word>
+        <word pos="PRP">in</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">school</word>
+        <word pos="CJC">and</word>
+        <word pos="VVD">met</word>
+        <word pos="DPS">my</word>
+        <word pos="AJS">best</word>
+        <word pos="NN1">friend</word>
+        <word pos="NP0">Fatima</word>
+        <word pos="PUN">.</word>
+        <word pos="PNP">I</word>
+        <word pos="VBD">was</word>
+        <word pos="AT0">the</word>
+        <word pos="AJ0">new</word>
+        <word pos="NN1">student</word>
+        <word pos="PRP">in</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">school</word>
+        <word pos="PUN">.</word>
+        <word pos="CJC">And</word>
+        <word pos="PNP">I</word>
+        <word pos="VDB">do</word>
+        <word pos="XX0">not</word>
+        <word pos="VVI">know</word>
+        <word pos="PNI">anyone</word>
+        <word pos="PUN">,</word>
+        <word pos="PNI">everything</word>
+        <word pos="VBD">was</word>
+        <word pos="AJ0">strange</word>
+        <word pos="CJC">and</word>
+        <word pos="PNP">I</word>
+        <word pos="VBD">was</word>
+        <word pos="AV0">very</word>
+        <word pos="AJ0">shy</word>
+        <word pos="PUN">.</word>
+        <word pos="PRP">In</word>
+        <word pos="AT0">the</word>
+        <word pos="ORD">first</word>
+        <word pos="NN1">week</word>
+        <word pos="PUN">,</word>
+        <word pos="PNP">I</word>
+        <word pos="VVB">stay</word>
+        <word pos="AJ0">alone</word>
+        <word pos="CJC">and</word>
+        <word pos="PNP">I</word>
+        <word pos="AV0">probably</word>
+        <word pos="VDD">did</word>
+        <word pos="XX0">n't</word>
+        <word pos="VVI">talk</word>
+        <word pos="PRP">to</word>
+        <word pos="PNI">anyone</word>
+        <word pos="PUN">,</word>
+        <word pos="AV0">then</word>
+        <word pos="PNP">I</word>
+        <word pos="VVD">met</word>
+        <word pos="PNP">her</word>
+        <word pos="CJC">and</word>
+        <word pos="PNP">she</word>
+        <word pos="VBD">was</word>
+        <word pos="AT0">an</word>
+        <word pos="NN1">angel</word>
+        <word pos="PRP">to</word>
+        <word pos="PNP">me</word>
+        <word pos="PUN">,</word>
+        <word pos="PNP">we</word>
+        <word pos="VBD">was</word>
+        <word pos="VVG">talking</word>
+        <word pos="AT0">a</word>
+        <word pos="NN1">lot</word>
+        <word pos="PRP">about</word>
+        <word pos="PNX">ourselves</word>
+        <word pos="PUN">,</word>
+        <word pos="NN2">families</word>
+        <word pos="NN2">hobbies</word>
+        <word pos="PUN">,</word>
+        <word pos="NN1">dream</word>
+        <word pos="PUN">,</word>
+        <word pos="CJC">and</word>
+        <word pos="AT0">every</word>
+        <word pos="NN1">thing</word>
+        <word pos="PUN">,</word>
+        <word pos="PRP">from</word>
+        <word pos="DT0">that</word>
+        <word pos="NN1">time</word>
+        <word pos="PRP">to</word>
+        <word pos="AVP">up</word>
+        <word pos="PNP">we</word>
+        <word pos="VBD">were</word>
+        <word pos="AT0">the</word>
+        <word pos="AJS">best</word>
+        <word pos="NN2">friends</word>
+        <word pos="PUN">.</word>
+        <word pos="PNP">we</word>
+        <word pos="VHB">have</word>
+        <word pos="VBN">been</word>
+        <word pos="AT0">a</word>
+        <word pos="NN1">friend</word>
+        <word pos="PRP">for</word>
+        <word pos="CRD">9</word>
+        <word pos="NN2">years</word>
+        <word pos="AV0">ago</word>
+        </body>
+      </text>
+    </corpus>
+  </root>

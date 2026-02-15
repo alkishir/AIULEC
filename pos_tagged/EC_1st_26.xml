@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <corpus>
+    <text>
+      <metadata>
+        <Faculty>Education</Faculty>
+        <Semester>1</Semester>
+        <Age>19</Age>
+        <Time_spent_at_an_EnglishSpeaking_country>X</Time_spent_at_an_EnglishSpeaking_country>
+        <Topic>An interesting place</Topic>
+        <Title>An interesting place</Title>
+        </metadata>
+      <body>
+        <word pos="DPS">My</word>
+        <word pos="AJ0">interesting</word>
+        <word pos="NN1">place</word>
+        <word pos="VBZ">is</word>
+        <word pos="AT0">a</word>
+        <word pos="NN1">garden</word>
+        <word pos="NP0">Almarkazia</word>
+        <word pos="PRP">in</word>
+        <word pos="NP0">Misrata</word>
+        <word pos="PNP">I</word>
+        <word pos="VVB">go</word>
+        <word pos="PRP">to</word>
+        <word pos="PNP">it</word>
+        <word pos="AV0">always</word>
+        <word pos="PRP">in</word>
+        <word pos="NP0">Friday</word>
+        <word pos="PNP">I</word>
+        <word pos="VVB">feel</word>
+        <word pos="EX0">there</word>
+        <word pos="VBZ">is</word>
+        <word pos="AJ0">comfortable</word>
+        <word pos="CJC">and</word>
+        <word pos="AJ0">quiet</word>
+        <word pos="PUN">.</word>
+        <word pos="PNP">It</word>
+        <word pos="VBZ">'s</word>
+        <word pos="AV0">so</word>
+        <word pos="AJ0">beautiful</word>
+        <word pos="PUN">,</word>
+        <word pos="PNP">it</word>
+        <word pos="VHZ">has</word>
+        <word pos="AJ0">large</word>
+        <word pos="NN1">area</word>
+        <word pos="CJC">and</word>
+        <word pos="PNI">lots</word>
+        <word pos="PRF">of</word>
+        <word pos="AJ0">long</word>
+        <word pos="NN2">trees</word>
+        <word pos="PUN">.</word>
+        <word pos="AV0">So</word>
+        <word pos="PNP">I</word>
+        <word pos="VVB">love</word>
+        <word pos="VVI">go</word>
+        <word pos="PNP">it</word>
+        <word pos="PUN">.</word>
+        </body>
+      </text>
+    </corpus>
+  </root>

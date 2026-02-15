@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <corpus>
+    <text>
+      <metadata>
+        <Faculty>Human Sciences</Faculty>
+        <Semester>4</Semester>
+        <Age>20</Age>
+        <Time_spent_at_an_EnglishSpeaking_country>X</Time_spent_at_an_EnglishSpeaking_country>
+        <Topic>Describing a picture</Topic>
+        <Title>The boy and the dog</Title>
+        </metadata>
+      <body>
+        <word pos="AV0">Once</word>
+        <word pos="PRP">upon</word>
+        <word pos="AT0">a</word>
+        <word pos="NN1">time</word>
+        <word pos="PUN">,</word>
+        <word pos="AT0">a</word>
+        <word pos="NN1">boy</word>
+        <word pos="AT0">a</word>
+        <word pos="VVN">built</word>
+        <word pos="AT0">a</word>
+        <word pos="AJ0">cozy</word>
+        <word pos="NN1">house</word>
+        <word pos="PRP">for</word>
+        <word pos="DPS">his</word>
+        <word pos="NN1">dog</word>
+        <word pos="PUN">.</word>
+        <word pos="AT0">The</word>
+        <word pos="NN1">dog</word>
+        <word pos="AV0">happily</word>
+        <word pos="VVD">setted</word>
+        <word pos="AVP">in</word>
+        <word pos="CJC">and</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">boy</word>
+        <word pos="VVD">felt</word>
+        <word pos="AJ0">proud</word>
+        <word pos="PRF">of</word>
+        <word pos="DPS">his</word>
+        <word pos="NN1">work</word>
+        <word pos="PUN">.</word>
+        <word pos="PNP">They</word>
+        <word pos="VVD">spent</word>
+        <word pos="DPS">their</word>
+        <word pos="NN2">days</word>
+        <word pos="VVG">playing</word>
+        <word pos="AV0">together</word>
+        <word pos="PRP">in</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">park</word>
+        <word pos="PUN">.</word>
+        <word pos="VVG">feeling</word>
+        <word pos="AJ0">content</word>
+        <word pos="PRP">with</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">love</word>
+        <word pos="CJC">and</word>
+        <word pos="NN1">friendship</word>
+        <word pos="PNP">they</word>
+        <word pos="VVD">shared</word>
+        <word pos="PUN">.</word>
+        </body>
+      </text>
+    </corpus>
+  </root>

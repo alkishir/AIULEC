@@ -1,0 +1,156 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <corpus>
+    <text>
+      <metadata>
+        <Faculty>Human Sciences</Faculty>
+        <Semester>6</Semester>
+        <Age>21</Age>
+        <Time_spent_at_an_EnglishSpeaking_country>X</Time_spent_at_an_EnglishSpeaking_country>
+        <Topic>Studying philosophy can lead to a happier and more peaceful existence </Topic>
+        <Title>Philosophy</Title>
+        </metadata>
+      <body>
+        <word pos="PNP">It</word>
+        <word pos="VBZ">is</word>
+        <word pos="AV0">often</word>
+        <word pos="VVN">argued</word>
+        <word pos="CJT">that</word>
+        <word pos="AT0">a</word>
+        <word pos="AJC">happier</word>
+        <word pos="NN1">life</word>
+        <word pos="VBZ">is</word>
+        <word pos="AT0">a</word>
+        <word pos="NN1">result</word>
+        <word pos="PRF">of</word>
+        <word pos="VVG">studying</word>
+        <word pos="NN1">philosophy</word>
+        <word pos="PUN">.</word>
+        <word pos="PNP">I</word>
+        <word pos="VVB">complete</word>
+        <word pos="VVI">disagree</word>
+        <word pos="PRP">with</word>
+        <word pos="DT0">this</word>
+        <word pos="NN1">opinion</word>
+        <word pos="PUN">,</word>
+        <word pos="PNP">I</word>
+        <word pos="VVB">think</word>
+        <word pos="PNP">it</word>
+        <word pos="VBZ">is</word>
+        <word pos="XX0">not</word>
+        <word pos="AT0">the</word>
+        <word pos="AJ0">right</word>
+        <word pos="NN1">way</word>
+        <word pos="VVI">achieve</word>
+        <word pos="NN1">happiness</word>
+        <word pos="PRP">in</word>
+        <word pos="NN1">life</word>
+        <word pos="PUN">.</word>
+        <word pos="AV0">Firstly</word>
+        <word pos="PUN">,</word>
+        <word pos="VVG">studying</word>
+        <word pos="NN1">philosophy</word>
+        <word pos="VBZ">is</word>
+        <word pos="XX0">not</word>
+        <word pos="AT0">the</word>
+        <word pos="AJ0">correct</word>
+        <word pos="NN1">choice</word>
+        <word pos="TO0">to</word>
+        <word pos="VHI">have</word>
+        <word pos="PUN">,</word>
+        <word pos="AT0">a</word>
+        <word pos="AJ0">happy</word>
+        <word pos="AJ0">peaceful</word>
+        <word pos="NN1">life</word>
+        <word pos="PUN">.</word>
+        <word pos="PNP">it</word>
+        <word pos="VVB">cause</word>
+        <word pos="AJ0">mental</word>
+        <word pos="NN1">health</word>
+        <word pos="NN2">problems</word>
+        <word pos="PUN">,</word>
+        <word pos="PNP">it</word>
+        <word pos="VM0">may</word>
+        <word pos="VVD">led</word>
+        <word pos="TO0">to</word>
+        <word pos="VVI">break</word>
+        <word pos="NN2">downs</word>
+        <word pos="PUN">,</word>
+        <word pos="AV0">also</word>
+        <word pos="VVZ">makes</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">person</word>
+        <word pos="AV0">always</word>
+        <word pos="AJ0">worried</word>
+        <word pos="CJC">and</word>
+        <word pos="AJ0">nervous</word>
+        <word pos="PRP">from</word>
+        <word pos="PNI">everything</word>
+        <word pos="VVZ">happens</word>
+        <word pos="PUN">.</word>
+        <word pos="AV0">Secondly</word>
+        <word pos="PUN">,</word>
+        <word pos="CJS">when</word>
+        <word pos="AT0">a</word>
+        <word pos="NN1">person</word>
+        <word pos="VVZ">starts</word>
+        <word pos="TO0">to</word>
+        <word pos="VVI">read</word>
+        <word pos="AT0">a</word>
+        <word pos="NN1">lot</word>
+        <word pos="PRP">in</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">philosophy</word>
+        <word pos="NN1">world</word>
+        <word pos="PUN">,</word>
+        <word pos="PNP">he</word>
+        <word pos="VM0">wo</word>
+        <word pos="XX0">n't</word>
+        <word pos="VBI">be</word>
+        <word pos="AJ0">able</word>
+        <word pos="TO0">to</word>
+        <word pos="VVI">stop</word>
+        <word pos="VVG">reading</word>
+        <word pos="PUN">.</word>
+        <word pos="AV0">Moreover</word>
+        <word pos="PUN">,</word>
+        <word pos="PNP">it</word>
+        <word pos="VVZ">makes</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">person</word>
+        <word pos="AV0">so</word>
+        <word pos="AV0">far</word>
+        <word pos="PRP">from</word>
+        <word pos="PNI">everyone</word>
+        <word pos="PUN">,</word>
+        <word pos="PRP">in</word>
+        <word pos="DPS">his</word>
+        <word pos="DT0">own</word>
+        <word pos="NN1">word</word>
+        <word pos="PRF">of</word>
+        <word pos="NN1">philosophy</word>
+        <word pos="PUN">.</word>
+        <word pos="TO0">To</word>
+        <word pos="VVI">conclude</word>
+        <word pos="PUN">,</word>
+        <word pos="PRP">in</word>
+        <word pos="DPS">my</word>
+        <word pos="NN1">opinion</word>
+        <word pos="NN1">philosophy</word>
+        <word pos="VBZ">is</word>
+        <word pos="XX0">not</word>
+        <word pos="AT0">the</word>
+        <word pos="AJ0">right</word>
+        <word pos="NN1">choice</word>
+        <word pos="TO0">to</word>
+        <word pos="VHI">have</word>
+        <word pos="AT0">a</word>
+        <word pos="AJ0">peaceful</word>
+        <word pos="CJC">and</word>
+        <word pos="AJC">happier</word>
+        <word pos="NN1">life</word>
+        <word pos="PUN">.</word>
+        </body>
+      </text>
+    </corpus>
+  </root>

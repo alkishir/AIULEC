@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <corpus>
+    <text>
+      <metadata>
+        <Faculty>Human Sciences</Faculty>
+        <Semester>2</Semester>
+        <Age>19</Age>
+        <Time_spent_at_an_EnglishSpeaking_country>X</Time_spent_at_an_EnglishSpeaking_country>
+        <Topic>A special place</Topic>
+        <Title>A special place</Title>
+        </metadata>
+      <body>
+        <word pos="AT0">A</word>
+        <word pos="AJ0">special</word>
+        <word pos="NN1">place</word>
+        <word pos="PUN">.</word>
+        <word pos="DPS">my</word>
+        <word pos="AJ0">special</word>
+        <word pos="NN1">place</word>
+        <word pos="PNP">he</word>
+        <word pos="VBZ">is</word>
+        <word pos="NN1">home</word>
+        <word pos="PUN">.</word>
+        <word pos="AV0">Then</word>
+        <word pos="NN1">college</word>
+        <word pos="PUN">.</word>
+        <word pos="DPS">my</word>
+        <word pos="NN1">house</word>
+        <word pos="VBZ">is</word>
+        <word pos="AJ0">old</word>
+        <word pos="CJC">but</word>
+        <word pos="PNP">I</word>
+        <word pos="VVB">like</word>
+        <word pos="DPS">my</word>
+        <word pos="NN1">house</word>
+        <word pos="CJC">and</word>
+        <word pos="VBZ">is</word>
+        <word pos="AJ0">beautiful</word>
+        <word pos="PUN">.</word>
+        <word pos="EX0">There</word>
+        <word pos="VBZ">is</word>
+        <word pos="NN1">bedroom</word>
+        <word pos="CJC">and</word>
+        <word pos="EX0">there</word>
+        <word pos="VBZ">is</word>
+        <word pos="NN1">bed</word>
+        <word pos="PUN">,</word>
+        <word pos="NN1">blanket</word>
+        <word pos="PUN">,</word>
+        <word pos="NN1">Pillow</word>
+        <word pos="CJC">and</word>
+        <word pos="NN1">photo</word>
+        <word pos="PUN">,</word>
+        <word pos="CJC">and</word>
+        <word pos="PNP">I</word>
+        <word pos="VVB">like</word>
+        <word pos="AT0">every</word>
+        <word pos="DT0">much</word>
+        <word pos="DPS">my</word>
+        <word pos="NN1">house</word>
+        <word pos="CJC">and</word>
+        <word pos="AJ0">special</word>
+        <word pos="NN1">place</word>
+        <word pos="ORD">second</word>
+        <word pos="NN1">college</word>
+        <word pos="EX0">there</word>
+        <word pos="VBZ">is</word>
+        <word pos="AJS">best</word>
+        <word pos="NN2">friends</word>
+        <word pos="CJC">and</word>
+        <word pos="AT0">the</word>
+        <word pos="AJS">best</word>
+        <word pos="NN1">teacher</word>
+        <word pos="PUN">.</word>
+        </body>
+      </text>
+    </corpus>
+  </root>

@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <corpus>
+    <text>
+      <metadata>
+        <Faculty>Education</Faculty>
+        <Semester>8</Semester>
+        <Age>22</Age>
+        <Time_spent_at_an_EnglishSpeaking_country>X</Time_spent_at_an_EnglishSpeaking_country>
+        <Topic>Honor of My Family</Topic>
+        <Title>Honor of family</Title>
+        </metadata>
+      <body>
+        <word pos="PNI">Everyone</word>
+        <word pos="VBZ">is</word>
+        <word pos="AT0">a</word>
+        <word pos="NN1">part</word>
+        <word pos="PRF">of</word>
+        <word pos="AJC">larger</word>
+        <word pos="NN1">group</word>
+        <word pos="PUN">,</word>
+        <word pos="DT0">this</word>
+        <word pos="AJ0">certain</word>
+        <word pos="NN1">group</word>
+        <word pos="VHB">have</word>
+        <word pos="DPS">its</word>
+        <word pos="DT0">own</word>
+        <word pos="NN2">features</word>
+        <word pos="DTQ">which</word>
+        <word pos="VVD">made</word>
+        <word pos="PNP">us</word>
+        <word pos="PUN">,</word>
+        <word pos="CJC">and</word>
+        <word pos="DTQ">what</word>
+        <word pos="VVZ">makes</word>
+        <word pos="PNP">it</word>
+        <word pos="AJ0">vital</word>
+        <word pos="VBZ">is</word>
+        <word pos="PNP">it</word>
+        <word pos="VM0">will</word>
+        <word pos="VVI">consider</word>
+        <word pos="CJS">whether</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">person</word>
+        <word pos="VM0">will</word>
+        <word pos="VBI">be</word>
+        <word pos="AJ0">good</word>
+        <word pos="CJC">or</word>
+        <word pos="AJ0">opposite</word>
+        <word pos="PUN">.</word>
+        <word pos="DT0">This</word>
+        <word pos="NN1">group</word>
+        <word pos="VBB">are</word>
+        <word pos="VVN">named</word>
+        <word pos="NN1">family</word>
+        <word pos="AT0">the</word>
+        <word pos="AV0">most</word>
+        <word pos="AJ0">important</word>
+        <word pos="NN1">feature</word>
+        <word pos="PRP">for</word>
+        <word pos="PNP">us</word>
+        <word pos="PUN">.</word>
+        </body>
+      </text>
+    </corpus>
+  </root>

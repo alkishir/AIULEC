@@ -1,0 +1,112 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <corpus>
+    <text>
+      <metadata>
+        <Faculty>Education</Faculty>
+        <Semester>3</Semester>
+        <Age>20</Age>
+        <Time_spent_at_an_EnglishSpeaking_country>X</Time_spent_at_an_EnglishSpeaking_country>
+        <Topic>Summer Vacation</Topic>
+        <Title>Summer Vacation</Title>
+        </metadata>
+      <body>
+        <word pos="DPS">My</word>
+        <word pos="NN1">summer</word>
+        <word pos="NN1">break</word>
+        <word pos="VBD">was</word>
+        <word pos="AV0">very</word>
+        <word pos="AJ0">normal</word>
+        <word pos="CJC">but</word>
+        <word pos="PNP">I</word>
+        <word pos="VVD">enjoyed</word>
+        <word pos="PNP">it</word>
+        <word pos="PUN">.</word>
+        <word pos="PNP">I</word>
+        <word pos="VVD">went</word>
+        <word pos="PRP">to</word>
+        <word pos="NP0">Tripoli</word>
+        <word pos="PRP">with</word>
+        <word pos="DPS">my</word>
+        <word pos="NN2">friends</word>
+        <word pos="PUN">,</word>
+        <word pos="PNP">It</word>
+        <word pos="VBD">was</word>
+        <word pos="AT0">a</word>
+        <word pos="NN1">time</word>
+        <word pos="AJ0">full</word>
+        <word pos="PRF">of</word>
+        <word pos="NN1">relaxation</word>
+        <word pos="CJC">and</word>
+        <word pos="NN2">loads</word>
+        <word pos="PRF">of</word>
+        <word pos="NN1">fun</word>
+        <word pos="PUN">.</word>
+        <word pos="PNP">We</word>
+        <word pos="VVD">stayed</word>
+        <word pos="PRP">at</word>
+        <word pos="AT0">a</word>
+        <word pos="AJ0">tremendous</word>
+        <word pos="CJC">and</word>
+        <word pos="AJ0">amazing</word>
+        <word pos="NN1">resort</word>
+        <word pos="CJT">that</word>
+        <word pos="VHD">had</word>
+        <word pos="AT0">a</word>
+        <word pos="NN1">pool</word>
+        <word pos="AV0">right</word>
+        <word pos="PRP">near</word>
+        <word pos="DPS">our</word>
+        <word pos="NN1">room</word>
+        <word pos="PUN">.</word>
+        <word pos="AT0">The</word>
+        <word pos="NN1">food</word>
+        <word pos="VBD">was</word>
+        <word pos="AV0">very</word>
+        <word pos="AJ0">delicious</word>
+        <word pos="PUN">,</word>
+        <word pos="PNP">we</word>
+        <word pos="VVD">visited</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">beach</word>
+        <word pos="CJC">and</word>
+        <word pos="VVD">participated</word>
+        <word pos="PRP">in</word>
+        <word pos="DT0">all</word>
+        <word pos="NN1">water</word>
+        <word pos="NN2">sports</word>
+        <word pos="CJC">and</word>
+        <word pos="NN2">activities</word>
+        <word pos="PUN">.</word>
+        <word pos="DPS">My</word>
+        <word pos="AJ0">favorite</word>
+        <word pos="NN1">activity</word>
+        <word pos="VBD">was</word>
+        <word pos="AT0">the</word>
+        <word pos="AJ0">surfing</word>
+        <word pos="NN1">ride</word>
+        <word pos="PUN">!</word>
+        <word pos="PRP">On</word>
+        <word pos="AT0">the</word>
+        <word pos="ORD">last</word>
+        <word pos="NN1">day</word>
+        <word pos="PUN">,</word>
+        <word pos="PNP">we</word>
+        <word pos="VVD">visited</word>
+        <word pos="AT0">an</word>
+        <word pos="AJ0">ancient</word>
+        <word pos="NN1">island</word>
+        <word pos="PRP">near</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">shore</word>
+        <word pos="PUN">.</word>
+        <word pos="PNP">It</word>
+        <word pos="VBD">was</word>
+        <word pos="AT0">an</word>
+        <word pos="AJ0">incredible</word>
+        <word pos="NN1">time</word>
+        <word pos="PUN">.</word>
+        </body>
+      </text>
+    </corpus>
+  </root>

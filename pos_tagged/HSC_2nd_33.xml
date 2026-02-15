@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <corpus>
+    <text>
+      <metadata>
+        <Faculty>Human Sciences</Faculty>
+        <Semester>2</Semester>
+        <Age>19</Age>
+        <Time_spent_at_an_EnglishSpeaking_country>none</Time_spent_at_an_EnglishSpeaking_country>
+        <Topic>A special place</Topic>
+        <Title>My house</Title>
+        </metadata>
+      <body>
+        <word pos="DPS">My</word>
+        <word pos="NN1">house</word>
+        <word pos="VBZ">is</word>
+        <word pos="AJ0">beautiful</word>
+        <word pos="PUN">.</word>
+        <word pos="PNP">It</word>
+        <word pos="VVZ">contains</word>
+        <word pos="CRD">two</word>
+        <word pos="NN2">bedrooms</word>
+        <word pos="PUN">,</word>
+        <word pos="CRD">one</word>
+        <word pos="NN1">kitchen</word>
+        <word pos="PUN">,</word>
+        <word pos="CRD">two</word>
+        <word pos="NN2">bathrooms</word>
+        <word pos="CJC">and</word>
+        <word pos="CRD">two</word>
+        <word pos="VVG">sitting</word>
+        <word pos="NN2">rooms</word>
+        <word pos="PUN">.</word>
+        <word pos="PNP">I</word>
+        <word pos="VVB">like</word>
+        <word pos="DPS">my</word>
+        <word pos="NN1">house</word>
+        <word pos="AT0">a</word>
+        <word pos="NN1">lot</word>
+        <word pos="PUN">.</word>
+        <word pos="PNP">It</word>
+        <word pos="VBZ">'s</word>
+        <word pos="AT0">the</word>
+        <word pos="AJS">best</word>
+        <word pos="NN1">place</word>
+        <word pos="PRP">for</word>
+        <word pos="PNP">me</word>
+        <word pos="PUN">.</word>
+        </body>
+      </text>
+    </corpus>
+  </root>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<file name="" tagset="uclee-en-2.0.tag">
+Title: <FS corr="Your Best Memory">your best memory</FS>                                            
+
+<GDO corr="My">Your</GDO> best memory was when I went to the <FS corr="supermarket">subermarket</FS> <QM corr=",">\0</QM>and I <GVT corr="met">meet</GVT> with my friends and went <WR corr="0">to</WR> shopping <WR corr="0">with</WR> <FS corr="together">togatter</FS>. It <WR corr="0">is</WR> was a great day <FS corr="because">becuese</FS> I love my friends so much<QM corr=".">\0</QM> I have four friends<QM corr=".">\0</QM> 
+
+<GA corr="0">The</GA> <WO corr="my second"><FS corr="second">scond</FS> my</WO> best memory<QM corr=".">\0</QM>
+
+When <WO corr="my family and I">I and my family</WO> went to the sea <QM corr=".">\0</QM>I love the sea<QM corr=".">\0</QM> and I walked on the beach and <GVT corr="swam"><GVAUX corr="was swimming">swimming</GVAUX></GVT><QM corr=",">\0</QM> and <WO corr="the weather was">was the <FS corr="weather">wather</FS></WO> <WR corr="0">It is</WR> very hot, and<GPP corr="I">\0</GPP> ate <FS corr="a lot">alo</FS> of food that I liked<QM corr=".">\0</QM> so <GPP corr="it">\0</GPP> was the best memory for me<QM corr=".">\0</QM>
+</file>

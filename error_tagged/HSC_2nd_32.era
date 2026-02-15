@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<file name="" tagset="uclee-en-2.0.tag">
+Title: <FS corr="A Special Place">A special place</FS>         
+My house<QM corr=".">\0</QM>
+My house is very big and <FS corr="beautiful">Butaful</FS><QR corr="0">,</QR> and is <Z corr="?">center</Z>, and my house<WM corr="is">\0</WM> old<QM corr=",">\0</QM> and I live with my family.
+</file>

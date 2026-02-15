@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <corpus>
+    <text>
+      <metadata>
+        <Faculty>Human Sciences</Faculty>
+        <Semester>8</Semester>
+        <Age>22</Age>
+        <Time_spent_at_an_EnglishSpeaking_country>X</Time_spent_at_an_EnglishSpeaking_country>
+        <Topic>What do you think of climate change and how can we deal with it?</Topic>
+        <Title>Climate Change</Title>
+        </metadata>
+      <body>
+        <word pos="AT0">The</word>
+        <word pos="NN1">climate</word>
+        <word pos="VBZ">is</word>
+        <word pos="AT0">a</word>
+        <word pos="AJ0">important</word>
+        <word pos="NN1">element</word>
+        <word pos="PRP">to</word>
+        <word pos="DPS">our</word>
+        <word pos="NN1">life</word>
+        <word pos="PUN">,</word>
+        <word pos="CJS">so</word>
+        <word pos="CJS">when</word>
+        <word pos="NN1">climate</word>
+        <word pos="NN2">changes</word>
+        <word pos="VVB">impact</word>
+        <word pos="PRP">on</word>
+        <word pos="NN0">people</word>
+        <word pos="PRP">in</word>
+        <word pos="DT0">any</word>
+        <word pos="NN1">country</word>
+        <word pos="PUN">.</word>
+        <word pos="AT0">The</word>
+        <word pos="NN0">people</word>
+        <word pos="VDB">do</word>
+        <word pos="XX0">n't</word>
+        <word pos="VVI">like</word>
+        <word pos="NN1">change</word>
+        <word pos="NN1">weather</word>
+        <word pos="PRP">during</word>
+        <word pos="AJ0">specific</word>
+        <word pos="NN2">seasons</word>
+        <word pos="PUN">,</word>
+        <word pos="AV0">for</word>
+        <word pos="AV0">example</word>
+        <word pos="NN1">summer</word>
+        <word pos="VBZ">is</word>
+        <word pos="AV0">sometimes</word>
+        <word pos="AV0">very</word>
+        <word pos="AJ0">hot</word>
+        <word pos="PUN">,</word>
+        <word pos="CJS">so</word>
+        <word pos="PNP">they</word>
+        <word pos="VVB">go</word>
+        <word pos="PRP">to</word>
+        <word pos="NN1">beach</word>
+        <word pos="PRP">to</word>
+        <word pos="AJ0">interesting</word>
+        <word pos="PRP">by</word>
+        <word pos="NN1">time</word>
+        <word pos="PRP">on</word>
+        <word pos="PNP">it</word>
+        <word pos="CJS">because</word>
+        <word pos="VBZ">is</word>
+        <word pos="AJC">colder</word>
+        <word pos="CJS">than</word>
+        <word pos="PRP">at</word>
+        <word pos="NN1">house</word>
+        <word pos="PUN">.</word>
+        <word pos="AV0">Finally</word>
+        <word pos="PUN">,</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">climate</word>
+        <word pos="VBZ">is</word>
+        <word pos="AJ0">necessary</word>
+        <word pos="TO0">to</word>
+        <word pos="VVI">know</word>
+        <word pos="PRP">about</word>
+        <word pos="PNP">it</word>
+        <word pos="TO0">to</word>
+        <word pos="VVI">take</word>
+        <word pos="NN1">prudence</word>
+        <word pos="CJS">when</word>
+        <word pos="NN1">weather</word>
+        <word pos="NN2">changes</word>
+        <word pos="PUN">.</word>
+        </body>
+      </text>
+    </corpus>
+  </root>

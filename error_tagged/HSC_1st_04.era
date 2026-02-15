@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<file name="" tagset="uclee-en-2.0.tag">
+Title: Family
+My family is my mother <QL corr=",">and</QL> my father <QL corr=",">and</QL>three <GNN corr="brothers"><FS corr="brother">Bother</FS></GNN> <QL corr=",">and</QL>one sister and me.
+
+<FS corr="My">my</FS> father <GPP corr="0">He</GPP> <GVM corr="works">is work</GVM><WM corr="as">\0</WM><GA corr="a">\0</GA> <FS corr="doctor">Doctor</FS> in <FS corr="the">The</FS> hospital <QM corr=",">\0</QM>and my mother <GPP corr="0">she</GPP> <GVM corr="works">is work</GVM> <WM corr="as">\0</WM><GA corr="a">\0</GA>teacher in school <QM corr=",">\0</QM>and my <FS corr="brothers">Brothers</FS> and my sister <GPP corr="0">They</GPP> <GVM corr="study">are study</GVM><QM corr=".">\0</QM>
+</file>

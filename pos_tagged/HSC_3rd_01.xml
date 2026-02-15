@@ -1,0 +1,112 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <corpus>
+    <text>
+      <metadata>
+        <Faculty>Human Sciences</Faculty>
+        <Semester>3</Semester>
+        <Age>20</Age>
+        <Time_spent_at_an_EnglishSpeaking_country>X</Time_spent_at_an_EnglishSpeaking_country>
+        <Topic>Social media</Topic>
+        <Title>Social media</Title>
+        </metadata>
+      <body>
+        <word pos="AT0">The</word>
+        <word pos="AJ0">social</word>
+        <word pos="NN0">media</word>
+        <word pos="VBZ">is</word>
+        <word pos="VVI">change</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">way</word>
+        <word pos="PNP">we</word>
+        <word pos="VVB">connect</word>
+        <word pos="PNP">it</word>
+        <word pos="VVB">make</word>
+        <word pos="VBZ">is</word>
+        <word pos="AJC">easier</word>
+        <word pos="PUN">,</word>
+        <word pos="PNP">we</word>
+        <word pos="VM0">can</word>
+        <word pos="NN1">communication</word>
+        <word pos="PRP">with</word>
+        <word pos="PNI">anybody</word>
+        <word pos="PRP">from</word>
+        <word pos="DT0">any</word>
+        <word pos="NN1">place</word>
+        <word pos="CJS">when</word>
+        <word pos="PNP">we</word>
+        <word pos="VVB">want</word>
+        <word pos="DT0">that</word>
+        <word pos="PUN">.</word>
+        <word pos="CJC">but</word>
+        <word pos="AT0">the</word>
+        <word pos="AJ0">social</word>
+        <word pos="NN0">media</word>
+        <word pos="VBZ">is</word>
+        <word pos="XX0">not</word>
+        <word pos="AJ0">good</word>
+        <word pos="DT0">all</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">time</word>
+        <word pos="PRP">In</word>
+        <word pos="NN1">fact</word>
+        <word pos="PUN">,</word>
+        <word pos="PNP">it</word>
+        <word pos="VBZ">'s</word>
+        <word pos="VVI">kill</word>
+        <word pos="DPS">our</word>
+        <word pos="NN1">time</word>
+        <word pos="AVQ">when</word>
+        <word pos="PNP">we</word>
+        <word pos="VVB">use</word>
+        <word pos="PNP">it</word>
+        <word pos="PRP">without</word>
+        <word pos="VVG">ordering</word>
+        <word pos="PUN">.</word>
+        <word pos="EX0">There</word>
+        <word pos="VBZ">is</word>
+        <word pos="CRD">two</word>
+        <word pos="NN2">sides</word>
+        <word pos="AT0">the</word>
+        <word pos="AJ0">social</word>
+        <word pos="NN0">media</word>
+        <word pos="AJ0">bad</word>
+        <word pos="NN1">side</word>
+        <word pos="CJC">and</word>
+        <word pos="AJ0">good</word>
+        <word pos="NN1">side</word>
+        <word pos="AT0">The</word>
+        <word pos="AJ0">good</word>
+        <word pos="NN1">side</word>
+        <word pos="PNP">it</word>
+        <word pos="VVB">make</word>
+        <word pos="AT0">the</word>
+        <word pos="AJ0">social</word>
+        <word pos="AJ0">easy</word>
+        <word pos="AT0">the</word>
+        <word pos="AJ0">bad</word>
+        <word pos="NN1">side</word>
+        <word pos="EX0">there</word>
+        <word pos="VBZ">is</word>
+        <word pos="AV0">too</word>
+        <word pos="DT0">much</word>
+        <word pos="TO0">to</word>
+        <word pos="VVI">see</word>
+        <word pos="PRP">in</word>
+        <word pos="AT0">the</word>
+        <word pos="AJ0">social</word>
+        <word pos="NN0">media</word>
+        <word pos="CJT">that</word>
+        <word pos="VBZ">is</word>
+        <word pos="NN1">make</word>
+        <word pos="PNP">we</word>
+        <word pos="VM0">ca</word>
+        <word pos="XX0">n't</word>
+        <word pos="VVI">stop</word>
+        <word pos="VVI">use</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">phone</word>
+        </body>
+      </text>
+    </corpus>
+  </root>

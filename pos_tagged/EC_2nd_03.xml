@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <corpus>
+    <text>
+      <metadata>
+        <Faculty>Education</Faculty>
+        <Semester>2</Semester>
+        <Age>19</Age>
+        <Time_spent_at_an_EnglishSpeaking_country>X</Time_spent_at_an_EnglishSpeaking_country>
+        <Topic>Summer vacation</Topic>
+        <Title>.........</Title>
+        </metadata>
+      <body>
+        <word pos="NN1">Summer</word>
+        <word pos="NN1">vacation</word>
+        <word pos="PNP">I</word>
+        <word pos="VVB">spend</word>
+        <word pos="PRP">in</word>
+        <word pos="DPS">my</word>
+        <word pos="NN1">city</word>
+        <word pos="PUN">,</word>
+        <word pos="PNP">I</word>
+        <word pos="AV0">usually</word>
+        <word pos="VVB">go</word>
+        <word pos="TO0">to</word>
+        <word pos="VVI">visit</word>
+        <word pos="DPS">my</word>
+        <word pos="NN2">grandparents</word>
+        <word pos="CJC">and</word>
+        <word pos="VVI">spend</word>
+        <word pos="DT0">some</word>
+        <word pos="NN2">days</word>
+        <word pos="PRP">with</word>
+        <word pos="PNP">them</word>
+        <word pos="AV0">Sometimes</word>
+        <word pos="DPS">my</word>
+        <word pos="NN1">family</word>
+        <word pos="CJC">and</word>
+        <word pos="PNP">I</word>
+        <word pos="VVB">go</word>
+        <word pos="PRP">to</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">beach</word>
+        <word pos="CJC">and</word>
+        <word pos="VVB">take</word>
+        <word pos="DT0">some</word>
+        <word pos="AJ0">other</word>
+        <word pos="NN2">outings</word>
+        <word pos="PUN">,</word>
+        <word pos="PRP">like</word>
+        <word pos="VVG">going</word>
+        <word pos="VVG">shopping</word>
+        <word pos="AV0">together</word>
+        <word pos="CJC">and</word>
+        <word pos="NN2">relatives</word>
+        <word pos="CJC">and</word>
+        <word pos="NN1">heritage</word>
+        <word pos="NN1">places</word>
+        <word pos="DPS">My</word>
+        <word pos="NN2">friends</word>
+        <word pos="CJC">and</word>
+        <word pos="PNP">I</word>
+        <word pos="VVB">schedule</word>
+        <word pos="DT0">some</word>
+        <word pos="NN2">days</word>
+        <word pos="TO0">to</word>
+        <word pos="VVI">stay</word>
+        <word pos="AV0">together</word>
+        <word pos="CJC">and</word>
+        <word pos="VVI">enjoy</word>
+        <word pos="DPS">our</word>
+        <word pos="NN1">time</word>
+        <word pos="CJC">and</word>
+        <word pos="VVB">go</word>
+        <word pos="PRP">to</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">beauty</word>
+        <word pos="NN2">stores</word>
+        <word pos="CJC">and</word>
+        <word pos="VVB">exercise</word>
+        </body>
+      </text>
+    </corpus>
+  </root>

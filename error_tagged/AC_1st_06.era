@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<file name="" tagset="uclee-en-2.0.tag">
+Title: Animals 
+
+My <FS corr="favorite">favoriet</FS> <FS corr="animal">animle</FS> is<GA corr="the">\0</GA> cat. 
+
+It has soft hair<QM corr=",">\0</QM> and it is so cute<QM corr=".">\0</QM> I <GVT corr="love">loved</GVT> cats<QM corr=",">\0</QM> but I <XVCO corr="do not like touching"><GVAUX corr="do not like">not like</GVAUX> <FS corr="touch">toach</FS></XVCO> <GDO corr="them">its</GDO>. <FS corr="There">there</FS> <WM corr="are">\0</WM><FS corr="a lot of">alot of</FS> <GADJO corr="dangerous animals">animals <FS corr="dangerous">dangeres</FS></GADJO><QM corr=",">\0</QM> <LCLC corr="such as">such</LCLC> <GNN corr="lions">lion</GNN> and <GNN corr="tigers"><FS corr="tiger">tigher</FS></GNN>.
+</file>

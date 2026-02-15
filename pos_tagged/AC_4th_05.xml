@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <corpus>
+    <text>
+      <metadata>
+        <Faculty>Arts</Faculty>
+        <Semester>4</Semester>
+        <Age>none</Age>
+        <Time_spent_at_an_EnglishSpeaking_country>none</Time_spent_at_an_EnglishSpeaking_country>
+        <Topic>Describing a picture</Topic>
+        <Title>............</Title>
+        </metadata>
+      <body>
+        <word pos="PRP">In</word>
+        <word pos="AT0">the</word>
+        <word pos="ORD">first</word>
+        <word pos="NN1">picture</word>
+        <word pos="PUN">,</word>
+        <word pos="PNP">he</word>
+        <word pos="VVZ">shows</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">child</word>
+        <word pos="VVD">brought</word>
+        <word pos="DT0">some</word>
+        <word pos="NN1">wood</word>
+        <word pos="PRP">with</word>
+        <word pos="PNP">him</word>
+        <word pos="PUN">,</word>
+        <word pos="CJC">and</word>
+        <word pos="PNP">it</word>
+        <word pos="VVZ">seems</word>
+        <word pos="CJT">that</word>
+        <word pos="PNP">they</word>
+        <word pos="VBB">are</word>
+        <word pos="AJ0">happy</word>
+        <word pos="PRP">with</word>
+        <word pos="DT0">that</word>
+        <word pos="PUN">,</word>
+        <word pos="CJC">and</word>
+        <word pos="AT0">the</word>
+        <word pos="ORD">second</word>
+        <word pos="NN1">picture</word>
+        <word pos="PUN">,</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">child</word>
+        <word pos="VVB">choose</word>
+        <word pos="AT0">the</word>
+        <word pos="AJ0">right</word>
+        <word pos="NN1">place</word>
+        <word pos="CJC">and</word>
+        <word pos="PNP">it</word>
+        <word pos="VVZ">seems</word>
+        <word pos="CJT">that</word>
+        <word pos="PNP">he</word>
+        <word pos="VM0">will</word>
+        <word pos="VVI">start</word>
+        <word pos="VVG">building</word>
+        <word pos="PUN">.</word>
+        <word pos="PRP">In</word>
+        <word pos="AT0">the</word>
+        <word pos="ORD">third</word>
+        <word pos="NN1">picture</word>
+        <word pos="PUN">,</word>
+        <word pos="PNP">it</word>
+        <word pos="VVZ">seems</word>
+        <word pos="CJT">that</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">child</word>
+        <word pos="VVD">appeared</word>
+        <word pos="PRP">in</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">house</word>
+        <word pos="PUN">,</word>
+        <word pos="CJC">and</word>
+        <word pos="AV0">soon</word>
+        <word pos="PNP">he</word>
+        <word pos="VM0">will</word>
+        <word pos="VVI">complete</word>
+        <word pos="PNP">it</word>
+        <word pos="PRP">in</word>
+        <word pos="AT0">the</word>
+        <word pos="ORD">fourth</word>
+        <word pos="NN2">pictures</word>
+        </body>
+      </text>
+    </corpus>
+  </root>

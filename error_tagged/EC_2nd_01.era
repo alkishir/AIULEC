@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<file name="" tagset="uclee-en-2.0.tag">
+Tile:...........
+<FS corr="Misurata Zoo">Misurata zoo</FS>
+
+I went to Misurata zoo <WR corr="0">in</WR> <GA corr="0">the</GA> last <FS corr="vacation">vication</FS><QC corr=".">,</QC> I saw lots of animals, I <GVAUX corr="have ridden">ridden</GVAUX> a hourse<QL corr="and">,</QL> I held a <FS corr="monkey">Monkey</FS><QM corr=",">\0</QM> <LCC corr="but">and</LCC> I didn’t touch<GPP corr="it">\0</GPP><QM corr=",">\0</QM> but I saw <GPP corr="it">her</GPP> from afar. <GPP corr="It">There</GPP> is <FS corr="popular">pupular</FS> <LCC corr="and">\0</LCC>it’s filled with <LP corr="historical heritage">time heritage</LP> and <Z corr="?">effects</Z>. Actually<QM corr=",">\0</QM> I <XVPR corr="enjoyed"><GVT corr="enjoyed">enjoy</GVT> in</XVPR> my time<QM corr=".">\0</QM> <LCLS corr="finally">in <FS corr="final">fainal</FS></LCLS><QM corr=",">\0</QM> I went to<GA corr="the">\0</GA> beach.
+</file>

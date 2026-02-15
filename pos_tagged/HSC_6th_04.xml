@@ -1,0 +1,109 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <corpus>
+    <text>
+      <metadata>
+        <Faculty>Human Sciences</Faculty>
+        <Semester>6</Semester>
+        <Age>21</Age>
+        <Time_spent_at_an_EnglishSpeaking_country>X</Time_spent_at_an_EnglishSpeaking_country>
+        <Topic>Writing a diary is the best way to review how happy you are</Topic>
+        <Title>Writing a diary is the best way to review how happy you are</Title>
+        </metadata>
+      <body>
+        <word pos="VVG">Taking</word>
+        <word pos="NN2">notes</word>
+        <word pos="DPS">your</word>
+        <word pos="NN1">day</word>
+        <word pos="NN2">effects</word>
+        <word pos="VVB">improve</word>
+        <word pos="DPS">your</word>
+        <word pos="NN1">mood</word>
+        <word pos="CJC">and</word>
+        <word pos="VVG">sleeping</word>
+        <word pos="PRP">without</word>
+        <word pos="NN1">stress</word>
+        <word pos="PUN">.</word>
+        <word pos="VVB">Adopt</word>
+        <word pos="VVG">writing</word>
+        <word pos="CJC">and</word>
+        <word pos="VVB">record</word>
+        <word pos="DPS">your</word>
+        <word pos="NN1">diary</word>
+        <word pos="AV0">permanently</word>
+        <word pos="VVZ">increases</word>
+        <word pos="PRP">from</word>
+        <word pos="NN1">nostalgia</word>
+        <word pos="CJC">and</word>
+        <word pos="VVZ">happens</word>
+        <word pos="PUN">.</word>
+        <word pos="XX0">not</word>
+        <word pos="VVG">writing</word>
+        <word pos="AVP">down</word>
+        <word pos="NN1">situation</word>
+        <word pos="PNX">itself</word>
+        <word pos="CJC">but</word>
+        <word pos="VVG">writing</word>
+        <word pos="NN1">feeling</word>
+        <word pos="PRP">about</word>
+        <word pos="PNP">it</word>
+        <word pos="PUN">.</word>
+        <word pos="VVG">writing</word>
+        <word pos="AVP">down</word>
+        <word pos="DPS">your</word>
+        <word pos="NN1">diary</word>
+        <word pos="AT0">every</word>
+        <word pos="NN1">day</word>
+        <word pos="VVZ">helps</word>
+        <word pos="PRP">on</word>
+        <word pos="VVG">feeling</word>
+        <word pos="AJ0">quite</word>
+        <word pos="CJC">and</word>
+        <word pos="NN1">engagement</word>
+        <word pos="DPS">your</word>
+        <word pos="NN1">diary</word>
+        <word pos="PRP">by</word>
+        <word pos="NN2">events</word>
+        <word pos="AJ0">sad</word>
+        <word pos="CJC">and</word>
+        <word pos="AJ0">happy</word>
+        <word pos="PUN">.</word>
+        <word pos="AV0">However</word>
+        <word pos="VVB">record</word>
+        <word pos="AJ0">sad</word>
+        <word pos="VVZ">happens</word>
+        <word pos="PNP">you</word>
+        <word pos="VVB">help</word>
+        <word pos="VVN">improved</word>
+        <word pos="DPS">your</word>
+        <word pos="NN1">feeling</word>
+        <word pos="CJC">and</word>
+        <word pos="VVN">deleted</word>
+        <word pos="AJ0">bad</word>
+        <word pos="NN1">feeling</word>
+        <word pos="PRP">from</word>
+        <word pos="NN1">life</word>
+        <word pos="PUN">.</word>
+        <word pos="AV0">Too</word>
+        <word pos="PUN">.</word>
+        <word pos="CJC">And</word>
+        <word pos="NN1">king</word>
+        <word pos="VVG">writing</word>
+        <word pos="VBZ">is</word>
+        <word pos="VVG">writing</word>
+        <word pos="AJ0">important</word>
+        <word pos="NN2">events</word>
+        <word pos="CJC">and</word>
+        <word pos="NN1">situation</word>
+        <word pos="AJ0">bad</word>
+        <word pos="CJC">and</word>
+        <word pos="AJ0">good</word>
+        <word pos="VVG">writing</word>
+        <word pos="AJC">better</word>
+        <word pos="NN1">day</word>
+        <word pos="PRP">in</word>
+        <word pos="NN1">life</word>
+        </body>
+      </text>
+    </corpus>
+  </root>

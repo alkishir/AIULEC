@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<file name="" tagset="uclee-en-2.0.tag">
+Title: <FS corr="My Family">My family</FS> 
+
+My family is big<QM corr=".">\0</QM> <Z corr="I">\0</Z>have four <FS corr="sisters"><GNN corr="Sisters">Sister</GNN></FS> and six <GNN corr="brothers">brother</GNN><QM corr=".">\0</QM> My father <GVN corr="works">work</GVN><WM corr="as">\0</WM> <GA corr="a">\0</GA><LP corr="science teacher">teacher in <FS corr="subject">Subject</FS> science</LP><QM corr=".">\0</QM> My mother <LSV corr="is"><GVN corr="works">work</GVN></LSV> <GA corr="a">\0</GA>housewife<QC corr=".">,</QC> My brother <GVN corr="works">work</GVN><WM corr="as">\0</WM> <GA corr="a">\0</GA>butcher <WM corr="in">\0</WM><GA corr="a">\0</GA><FS corr="shop">Shop</FS><QC corr=".">,</QC> I have <GA corr="a">\0</GA>married sister<QM corr=",">\0</QM> and the rest of my brothers are young. <Z corr="When">\0</Z>I am with my family, I feel safe.
+</file>

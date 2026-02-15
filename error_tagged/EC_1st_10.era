@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<file name="" tagset="uclee-en-2.0.tag">
+Title: <FS corr="My Family">My family</FS> 
+
+My name is Aisha<QM corr=".">\0</QM> I <GVN corr="live">lives</GVN> in <GA corr="a">\0</GA><GNN corr="crib">cribs</GNN> <QM corr=".">\0</QM><Z corr="my family members are ten">number it ten <GNN corr="people">persons</GNN></Z><QM corr=",">\0</QM> and I have four <FS corr="brothers">brathers</FS> and three sisters<QM corr=",">\0</QM> so we live in <GA corr="a">\0</GA>big <FS corr="house">hous</FS><QM corr=".">\0</QM> in addition<QM corr=",">\0</QM> the garden behind <LSN corr="the house">home</LSN>. I <GVT corr="was">am</GVT> born in Zliten<QM corr=",">\0</QM> and now I <FS corr="study">stady</FS> <LSPR corr="at">in</LSPR> <GA corr="the">\0</GA><FS corr="College">college</FS> of Education.
+</file>

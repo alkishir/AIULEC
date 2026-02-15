@@ -1,0 +1,97 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <corpus>
+    <text>
+      <metadata>
+        <Faculty>Education</Faculty>
+        <Semester>2</Semester>
+        <Age>19</Age>
+        <Time_spent_at_an_EnglishSpeaking_country>X</Time_spent_at_an_EnglishSpeaking_country>
+        <Topic>Summer Vacation</Topic>
+        <Title>summer vacation</Title>
+        </metadata>
+      <body>
+        <word pos="ORD">last</word>
+        <word pos="NN1">summer</word>
+        <word pos="PUN">,</word>
+        <word pos="DPS">my</word>
+        <word pos="NN1">family</word>
+        <word pos="CJC">and</word>
+        <word pos="PNP">I</word>
+        <word pos="VVD">went</word>
+        <word pos="PRP">on</word>
+        <word pos="AT0">a</word>
+        <word pos="NN1">vacation</word>
+        <word pos="PRP">to</word>
+        <word pos="NP0">Shahat</word>
+        <word pos="PUN">,</word>
+        <word pos="PNP">we</word>
+        <word pos="VHD">had</word>
+        <word pos="AT0">a</word>
+        <word pos="AJ0">great</word>
+        <word pos="NN1">time</word>
+        <word pos="PUN">,</word>
+        <word pos="PRP">in</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">morning</word>
+        <word pos="PUN">,</word>
+        <word pos="PNP">we</word>
+        <word pos="VVD">visited</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">sight</word>
+        <word pos="PUN">,</word>
+        <word pos="CJC">and</word>
+        <word pos="NN2">monuments</word>
+        <word pos="PRF">of</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">city</word>
+        <word pos="PUN">.</word>
+        <word pos="PNP">we</word>
+        <word pos="VVB">like</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">building</word>
+        <word pos="AV0">there</word>
+        <word pos="PUN">,</word>
+        <word pos="CJS">so</word>
+        <word pos="PNP">I</word>
+        <word pos="VVD">took</word>
+        <word pos="DT0">many</word>
+        <word pos="NN2">photos</word>
+        <word pos="PRF">of</word>
+        <word pos="PNP">them</word>
+        <word pos="PUN">.</word>
+        <word pos="PRP">In</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">evening</word>
+        <word pos="PNP">we</word>
+        <word pos="VHD">had</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">dinner</word>
+        <word pos="PRP">in</word>
+        <word pos="AT0">a</word>
+        <word pos="AJ0">great</word>
+        <word pos="NN1">restaurant</word>
+        <word pos="PUN">,</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">food</word>
+        <word pos="VBD">was</word>
+        <word pos="AJ0">delicious</word>
+        <word pos="PUN">.</word>
+        <word pos="PNP">We</word>
+        <word pos="VDD">did</word>
+        <word pos="XX0">n't</word>
+        <word pos="VVI">come</word>
+        <word pos="AVP">back</word>
+        <word pos="AV0">late</word>
+        <word pos="PUN">.</word>
+        <word pos="AV0">Really</word>
+        <word pos="NP0">Shahat</word>
+        <word pos="VBZ">is</word>
+        <word pos="AT0">a</word>
+        <word pos="AJ0">wonderful</word>
+        <word pos="NN1">city</word>
+        <word pos="PUN">.</word>
+        </body>
+      </text>
+    </corpus>
+  </root>

@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <corpus>
+    <text>
+      <metadata>
+        <Faculty>Education</Faculty>
+        <Semester>1</Semester>
+        <Age>19</Age>
+        <Time_spent_at_an_EnglishSpeaking_country>X</Time_spent_at_an_EnglishSpeaking_country>
+        <Topic>My Family</Topic>
+        <Title>My Family</Title>
+        </metadata>
+      <body>
+        <word pos="DPS">My</word>
+        <word pos="NN1">name</word>
+        <word pos="VBZ">is</word>
+        <word pos="NP0">Esra</word>
+        <word pos="PUN">,</word>
+        <word pos="PNP">I</word>
+        <word pos="VBB">am</word>
+        <word pos="CRD">eighteen</word>
+        <word pos="PNP">I</word>
+        <word pos="VVB">live</word>
+        <word pos="PRP">with</word>
+        <word pos="PUN">,</word>
+        <word pos="DPS">my</word>
+        <word pos="NN1">family</word>
+        <word pos="VBZ">is</word>
+        <word pos="VVI">happen</word>
+        <word pos="CJC">and</word>
+        <word pos="UNC">amanna</word>
+        <word pos="PUN">.</word>
+        <word pos="PNP">I</word>
+        <word pos="VHB">have</word>
+        <word pos="CRD">four</word>
+        <word pos="NN1">brother</word>
+        <word pos="CJC">and</word>
+        <word pos="CRD">one</word>
+        <word pos="NN1">sister</word>
+        <word pos="PUN">.</word>
+        <word pos="DPS">My</word>
+        <word pos="NN1">father</word>
+        <word pos="VBZ">is</word>
+        <word pos="AT0">a</word>
+        <word pos="NN1">teacher</word>
+        <word pos="PRP">in</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">mathematics</word>
+        <word pos="PUN">,</word>
+        <word pos="CJC">and</word>
+        <word pos="DPS">my</word>
+        <word pos="NN1">Mother</word>
+        <word pos="VBD">was</word>
+        <word pos="VVN">died</word>
+        <word pos="CRD">15</word>
+        <word pos="NN2">years</word>
+        <word pos="AV0">ago</word>
+        <word pos="PUN">.</word>
+        <word pos="DPS">My</word>
+        <word pos="NN1">father</word>
+        <word pos="VHZ">has</word>
+        <word pos="AT0">a</word>
+        <word pos="AJ0">great</word>
+        <word pos="PUN">,</word>
+        <word pos="CJC">and</word>
+        <word pos="AV0">very</word>
+        <word pos="AJ0">beautiful</word>
+        <word pos="NN1">farm</word>
+        <word pos="PUN">.</word>
+        <word pos="PNP">I</word>
+        <word pos="VVB">live</word>
+        <word pos="PRP">with</word>
+        <word pos="DPS">my</word>
+        <word pos="NN1">family</word>
+        <word pos="PRP">with</word>
+        <word pos="DT0">all</word>
+        <word pos="DPS">my</word>
+        <word pos="DT0">own</word>
+        <word pos="CJC">and</word>
+        <word pos="PUN">,</word>
+        <word pos="PNP">I</word>
+        <word pos="VBB">am</word>
+        <word pos="AJ0">happy</word>
+        <word pos="PRP">with</word>
+        <word pos="DPS">my</word>
+        <word pos="NN1">family</word>
+        <word pos="PUN">.</word>
+        </body>
+      </text>
+    </corpus>
+  </root>

@@ -1,0 +1,111 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <corpus>
+    <text>
+      <metadata>
+        <Faculty>Education</Faculty>
+        <Semester>2</Semester>
+        <Age>18</Age>
+        <Time_spent_at_an_EnglishSpeaking_country>none</Time_spent_at_an_EnglishSpeaking_country>
+        <Topic>Summer vacation</Topic>
+        <Title>Summer vacation</Title>
+        </metadata>
+      <body>
+        <word pos="PNP">I</word>
+        <word pos="VHB">have</word>
+        <word pos="AT0">a</word>
+        <word pos="AJ0">great</word>
+        <word pos="NN1">time</word>
+        <word pos="AV0">here</word>
+        <word pos="PRP">in</word>
+        <word pos="NP0">Britain</word>
+        <word pos="PUN">.</word>
+        <word pos="NP0">Britain</word>
+        <word pos="VBZ">is</word>
+        <word pos="AJ0">big</word>
+        <word pos="CJC">and</word>
+        <word pos="AJ0">beautiful</word>
+        <word pos="NN1">country</word>
+        <word pos="PUN">.</word>
+        <word pos="NN1">Tourist</word>
+        <word pos="NN1">guide</word>
+        <word pos="VHZ">has</word>
+        <word pos="VVN">shown</word>
+        <word pos="PNP">me</word>
+        <word pos="PNI">everything</word>
+        <word pos="PUN">.</word>
+        <word pos="CJS">where</word>
+        <word pos="PNP">we</word>
+        <word pos="VVD">toured</word>
+        <word pos="AT0">the</word>
+        <word pos="NN2">places</word>
+        <word pos="PRF">of</word>
+        <word pos="NN1">tourist</word>
+        <word pos="NN1">importance</word>
+        <word pos="PUN">,</word>
+        <word pos="PRP">such</word>
+        <word pos="PRP">as</word>
+        <word pos="NP0">Big</word>
+        <word pos="NP0">Ben</word>
+        <word pos="CJC">and</word>
+        <word pos="NP0">Buckingham</word>
+        <word pos="PUN">.</word>
+        <word pos="PNP">I</word>
+        <word pos="VHB">'ve</word>
+        <word pos="VVD">visited</word>
+        <word pos="DT0">many</word>
+        <word pos="NN2">museums</word>
+        <word pos="CJC">and</word>
+        <word pos="NN2">theaters</word>
+        <word pos="AV0">there</word>
+        <word pos="PUN">.</word>
+        <word pos="PNP">I</word>
+        <word pos="VVD">visited</word>
+        <word pos="DT0">most</word>
+        <word pos="PRF">of</word>
+        <word pos="AT0">the</word>
+        <word pos="NN2">cities</word>
+        <word pos="CJC">and</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">cost</word>
+        <word pos="PRF">of</word>
+        <word pos="NN1">living</word>
+        <word pos="VBD">was</word>
+        <word pos="AV0">relatively</word>
+        <word pos="AJ0">low</word>
+        <word pos="PRP">in</word>
+        <word pos="DT0">most</word>
+        <word pos="PRF">of</word>
+        <word pos="AT0">the</word>
+        <word pos="NP0">United</word>
+        <word pos="NP0">Kingdom</word>
+        <word pos="NN2">cities</word>
+        <word pos="PRP">except</word>
+        <word pos="NP0">London</word>
+        <word pos="PUN">,</word>
+        <word pos="DTQ">which</word>
+        <word pos="VBZ">is</word>
+        <word pos="AT0">the</word>
+        <word pos="AV0">most</word>
+        <word pos="AJ0">expensive</word>
+        <word pos="NN2">cities</word>
+        <word pos="PRP">in</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">world</word>
+        <word pos="PUN">.</word>
+        <word pos="NP0">London</word>
+        <word pos="VBZ">is</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">world</word>
+        <word pos="POS">'s</word>
+        <word pos="ORD">first</word>
+        <word pos="NN1">city</word>
+        <word pos="CJT">that</word>
+        <word pos="VHZ">has</word>
+        <word pos="VBN">been</word>
+        <word pos="VVN">established</word>
+        <word pos="PUN">.</word>
+        </body>
+      </text>
+    </corpus>
+  </root>

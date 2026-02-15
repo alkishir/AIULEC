@@ -1,0 +1,160 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <corpus>
+    <text>
+      <metadata>
+        <Faculty>Human Sciences</Faculty>
+        <Semester>6</Semester>
+        <Age>20</Age>
+        <Time_spent_at_an_EnglishSpeaking_country>X</Time_spent_at_an_EnglishSpeaking_country>
+        <Topic>Self-esteem is dependent on the possessions you have</Topic>
+        <Title>..........</Title>
+        </metadata>
+      <body>
+        <word pos="NN1">self-esteem</word>
+        <word pos="PUN">:</word>
+        <word pos="PNP">it</word>
+        <word pos="VBZ">is</word>
+        <word pos="AT0">the</word>
+        <word pos="NN2">individuals</word>
+        <word pos="NN1">assessment</word>
+        <word pos="PRF">of</word>
+        <word pos="PNX">himself</word>
+        <word pos="CJC">and</word>
+        <word pos="DPS">his</word>
+        <word pos="NN1">sense</word>
+        <word pos="PRF">of</word>
+        <word pos="NN1">respect</word>
+        <word pos="PUN">...</word>
+        <word pos="CJC">and</word>
+        <word pos="NN1">value</word>
+        <word pos="CJC">and</word>
+        <word pos="NN1">competence</word>
+        <word pos="VVZ">includes</word>
+        <word pos="NN1">self-esteem</word>
+        <word pos="AT0">a</word>
+        <word pos="NN1">person</word>
+        <word pos="POS">'s</word>
+        <word pos="NN2">convictions</word>
+        <word pos="PRP">about</word>
+        <word pos="PNX">himself</word>
+        <word pos="CJC">and</word>
+        <word pos="PNP">it</word>
+        <word pos="VBZ">is</word>
+        <word pos="AJ0">positive</word>
+        <word pos="CJC">or</word>
+        <word pos="AJ0">negative</word>
+        <word pos="NN1">self-assessment</word>
+        <word pos="CJC">and</word>
+        <word pos="AVQ">how</word>
+        <word pos="PNP">we</word>
+        <word pos="VVB">feel</word>
+        <word pos="PRP">about</word>
+        <word pos="PNP">it</word>
+        <word pos="PUN">.</word>
+        <word pos="NN2">Things</word>
+        <word pos="CJT">that</word>
+        <word pos="VM0">can</word>
+        <word pos="VVI">help</word>
+        <word pos="VVI">improve</word>
+        <word pos="NN1">self-esteem</word>
+        <word pos="CJC">and</word>
+        <word pos="NN1">self</word>
+        <word pos="NN1">self</word>
+        <word pos="NN1">development</word>
+        <word pos="AV0">as</word>
+        <word pos="AV0">well</word>
+        <word pos="VVG">Building</word>
+        <word pos="AJ0">healthy</word>
+        <word pos="NN2">relationships</word>
+        <word pos="CJC">and</word>
+        <word pos="AJ0">supportive</word>
+        <word pos="NN1">society</word>
+        <word pos="PUN">.</word>
+        <word pos="VBB">Be</word>
+        <word pos="AV0">more</word>
+        <word pos="AJ0">firm</word>
+        <word pos="PUN">.</word>
+        <word pos="VVB">Challenge</word>
+        <word pos="PNX">yourself</word>
+        <word pos="VDB">do</word>
+        <word pos="XX0">n't</word>
+        <word pos="VVI">let</word>
+        <word pos="AJ0">low</word>
+        <word pos="NN1">self-esteem</word>
+        <word pos="VVI">prevent</word>
+        <word pos="PNP">you</word>
+        <word pos="PRP">from</word>
+        <word pos="VVG">reaching</word>
+        <word pos="CJC">and</word>
+        <word pos="PRP">for</word>
+        <word pos="NN2">things</word>
+        <word pos="PNP">I</word>
+        <word pos="VHB">'ve</word>
+        <word pos="AV0">always</word>
+        <word pos="VVN">dreamed</word>
+        <word pos="PRF">of</word>
+        <word pos="VVG">saying</word>
+        <word pos="PRP">about</word>
+        <word pos="NN1">self-esteem</word>
+        <word pos="VDB">Do</word>
+        <word pos="XX0">not</word>
+        <word pos="VVI">listen</word>
+        <word pos="PRP">to</word>
+        <word pos="PNI">anyone</word>
+        <word pos="PNQ">who</word>
+        <word pos="VVZ">tries</word>
+        <word pos="TO0">to</word>
+        <word pos="VVI">cause</word>
+        <word pos="PNP">you</word>
+        <word pos="NN1">frustration</word>
+        <word pos="AT0">The</word>
+        <word pos="NN1">secret</word>
+        <word pos="PRF">of</word>
+        <word pos="NN1">truth</word>
+        <word pos="VBZ">is</word>
+        <word pos="XX0">not</word>
+        <word pos="VDG">doing</word>
+        <word pos="DTQ">what</word>
+        <word pos="PNP">we</word>
+        <word pos="VVB">love</word>
+        <word pos="PUN">,</word>
+        <word pos="CJC">but</word>
+        <word pos="TO0">to</word>
+        <word pos="VVI">love</word>
+        <word pos="DTQ">what</word>
+        <word pos="PNP">we</word>
+        <word pos="VDB">do</word>
+        <word pos="CJT">That</word>
+        <word pos="NN0">people</word>
+        <word pos="VVB">hate</word>
+        <word pos="PNP">you</word>
+        <word pos="CJC">and</word>
+        <word pos="PNP">you</word>
+        <word pos="VVB">trust</word>
+        <word pos="CJC">and</word>
+        <word pos="VVB">respect</word>
+        <word pos="PNX">yourself</word>
+        <word pos="VBZ">is</word>
+        <word pos="AV0">much</word>
+        <word pos="AJC">easier</word>
+        <word pos="CJS">than</word>
+        <word pos="PNP">I</word>
+        <word pos="VBB">am</word>
+        <word pos="PUN">,</word>
+        <word pos="NN0">people</word>
+        <word pos="VVB">love</word>
+        <word pos="PNP">you</word>
+        <word pos="CJC">and</word>
+        <word pos="PNP">you</word>
+        <word pos="VVB">hate</word>
+        <word pos="PNX">yourself</word>
+        <word pos="CJC">and</word>
+        <word pos="VDB">do</word>
+        <word pos="XX0">n't</word>
+        <word pos="VVI">trust</word>
+        <word pos="PNP">them</word>
+        </body>
+      </text>
+    </corpus>
+  </root>

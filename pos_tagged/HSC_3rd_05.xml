@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <corpus>
+    <text>
+      <metadata>
+        <Faculty>Human Sciences</Faculty>
+        <Semester>3</Semester>
+        <Age>20</Age>
+        <Time_spent_at_an_EnglishSpeaking_country>X</Time_spent_at_an_EnglishSpeaking_country>
+        <Topic>Social media</Topic>
+        <Title>Social media</Title>
+        </metadata>
+      <body>
+        <word pos="AJ0">Social</word>
+        <word pos="NN0">media</word>
+        <word pos="PNP">it</word>
+        <word pos="VVD">became</word>
+        <word pos="AJ0">important</word>
+        <word pos="NN1">thing</word>
+        <word pos="PRP">in</word>
+        <word pos="DPS">our</word>
+        <word pos="NN1">life</word>
+        <word pos="PUN">,</word>
+        <word pos="CJS">because</word>
+        <word pos="PNP">we</word>
+        <word pos="VVD">started</word>
+        <word pos="VVG">using</word>
+        <word pos="PNP">it</word>
+        <word pos="PRP">in</word>
+        <word pos="NN2">everythings</word>
+        <word pos="PUN">,</word>
+        <word pos="EX0">There</word>
+        <word pos="VBZ">is</word>
+        <word pos="DT0">many</word>
+        <word pos="AJ0">good</word>
+        <word pos="NN2">ways</word>
+        <word pos="TO0">to</word>
+        <word pos="VVI">use</word>
+        <word pos="AJ0">Social</word>
+        <word pos="NN0">media</word>
+        <word pos="PUN">,</word>
+        <word pos="PRP">in</word>
+        <word pos="NN1">learning</word>
+        <word pos="CJC">and</word>
+        <word pos="VVB">look</word>
+        <word pos="PRP">for</word>
+        <word pos="DT0">some</word>
+        <word pos="NN1">information</word>
+        <word pos="CJC">and</word>
+        <word pos="AV0">so</word>
+        <word pos="AV0">on</word>
+        <word pos="PUN">...</word>
+        <word pos="PUN">,</word>
+        <word pos="AT0">the</word>
+        <word pos="VBB">are</word>
+        <word pos="AV0">also</word>
+        <word pos="DT0">many</word>
+        <word pos="NN2">disadvantages</word>
+        <word pos="PRP">in</word>
+        <word pos="AJ0">Social</word>
+        <word pos="NN0">media</word>
+        <word pos="PUN">,</word>
+        <word pos="PRP">like</word>
+        <word pos="VVI">waste</word>
+        <word pos="DPS">your</word>
+        <word pos="NN1">time</word>
+        <word pos="PRP">on</word>
+        <word pos="PNP">it</word>
+        <word pos="CJC">and</word>
+        <word pos="AV0">so</word>
+        <word pos="AV0">on</word>
+        <word pos="PUN">.</word>
+        </body>
+      </text>
+    </corpus>
+  </root>

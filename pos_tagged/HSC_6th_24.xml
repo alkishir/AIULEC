@@ -1,0 +1,118 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <corpus>
+    <text>
+      <metadata>
+        <Faculty>Human Sciences</Faculty>
+        <Semester>6</Semester>
+        <Age>21</Age>
+        <Time_spent_at_an_EnglishSpeaking_country>X</Time_spent_at_an_EnglishSpeaking_country>
+        <Topic>Eating at restaurants with your family is a good way to build family ties</Topic>
+        <Title>Eating at the restaurant with your family is a good deed way to build family ties</Title>
+        </metadata>
+      <body>
+        <word pos="VVG">Eating</word>
+        <word pos="PRP">at</word>
+        <word pos="NN1">restaurant</word>
+        <word pos="AV0">sometimes</word>
+        <word pos="VBZ">is</word>
+        <word pos="AT0">the</word>
+        <word pos="AJS">best</word>
+        <word pos="PRP">for</word>
+        <word pos="PNP">me</word>
+        <word pos="AVQ">when</word>
+        <word pos="PNP">I</word>
+        <word pos="XX0">not</word>
+        <word pos="AJ0">able</word>
+        <word pos="TO0">to</word>
+        <word pos="VVN">cooked</word>
+        <word pos="PUN">,</word>
+        <word pos="CJC">and</word>
+        <word pos="AV0">sometimes</word>
+        <word pos="PNP">I</word>
+        <word pos="VVB">prefer</word>
+        <word pos="VVI">eat</word>
+        <word pos="PRP">from</word>
+        <word pos="AV0">outside</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">house</word>
+        <word pos="PUN">.</word>
+        <word pos="PNP">I</word>
+        <word pos="VBB">am</word>
+        <word pos="AJ0">enjoyable</word>
+        <word pos="PUN">,</word>
+        <word pos="CJS">when</word>
+        <word pos="PNP">I</word>
+        <word pos="VVB">need</word>
+        <word pos="VVI">eat</word>
+        <word pos="PRP">at</word>
+        <word pos="NN1">restaurant</word>
+        <word pos="XX0">not</word>
+        <word pos="VVN">cooked</word>
+        <word pos="PRP">in</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">house</word>
+        <word pos="PUN">.</word>
+        <word pos="CJC">and</word>
+        <word pos="PNP">I</word>
+        <word pos="VVB">prefer</word>
+        <word pos="XX0">not</word>
+        <word pos="AJ0">delicious</word>
+        <word pos="PRP">with</word>
+        <word pos="AJ0">spicy</word>
+        <word pos="PNP">I</word>
+        <word pos="VVB">prefer</word>
+        <word pos="CRD">one</word>
+        <word pos="NN1">time</word>
+        <word pos="PRP">in</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">month</word>
+        <word pos="PUN">.</word>
+        <word pos="CJC">and</word>
+        <word pos="PNP">I</word>
+        <word pos="VVB">go</word>
+        <word pos="PRP">with</word>
+        <word pos="DPS">my</word>
+        <word pos="NN1">husband</word>
+        <word pos="CJC">and</word>
+        <word pos="DPS">my</word>
+        <word pos="NN2">children</word>
+        <word pos="PUN">.</word>
+        <word pos="PNP">I</word>
+        <word pos="VBB">am</word>
+        <word pos="AV0">very</word>
+        <word pos="AJ0">interesting</word>
+        <word pos="PRP">with</word>
+        <word pos="PNP">him</word>
+        <word pos="PUN">.</word>
+        <word pos="AV0">So</word>
+        <word pos="PUN">,</word>
+        <word pos="CJS">when</word>
+        <word pos="PNP">I</word>
+        <word pos="VVB">go</word>
+        <word pos="PRP">to</word>
+        <word pos="PRP">at</word>
+        <word pos="AT0">a</word>
+        <word pos="NN1">restaurant</word>
+        <word pos="CJT">that</word>
+        <word pos="AT0">no</word>
+        <word pos="VVI">mean</word>
+        <word pos="PNP">me</word>
+        <word pos="XX0">not</word>
+        <word pos="VVB">know</word>
+        <word pos="VVN">cooked</word>
+        <word pos="PUN">,</word>
+        <word pos="CJC">but</word>
+        <word pos="PNP">I</word>
+        <word pos="VVB">prefer</word>
+        <word pos="PRP">after</word>
+        <word pos="NN1">time</word>
+        <word pos="PNP">I</word>
+        <word pos="VVB">go</word>
+        <word pos="VDI">do</word>
+        <word pos="PNP">it</word>
+        <word pos="PUN">.</word>
+        </body>
+      </text>
+    </corpus>
+  </root>

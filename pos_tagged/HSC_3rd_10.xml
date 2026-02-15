@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <corpus>
+    <text>
+      <metadata>
+        <Faculty>Human Sciences</Faculty>
+        <Semester>3</Semester>
+        <Age>19</Age>
+        <Time_spent_at_an_EnglishSpeaking_country>none</Time_spent_at_an_EnglishSpeaking_country>
+        <Topic>Sport</Topic>
+        <Title>Sports</Title>
+        </metadata>
+      <body>
+        <word pos="NN1">Sport</word>
+        <word pos="VVB">play</word>
+        <word pos="AJ0">big</word>
+        <word pos="NN1">role</word>
+        <word pos="PRP">in</word>
+        <word pos="VVG">improving</word>
+        <word pos="AJ0">physical</word>
+        <word pos="CJC">and</word>
+        <word pos="AJ0">mental</word>
+        <word pos="NN0">lth</word>
+        <word pos="CJC">and</word>
+        <word pos="NN1">teamwork</word>
+        <word pos="PUN">.</word>
+        <word pos="NN1">sport</word>
+        <word pos="AJ0">important</word>
+        <word pos="NN1">Health</word>
+        <word pos="PNP">They</word>
+        <word pos="AV0">also</word>
+        <word pos="VVB">help</word>
+        <word pos="VVI">reduce</word>
+        <word pos="NN1">stress</word>
+        <word pos="CJC">and</word>
+        <word pos="VVB">organize</word>
+        <word pos="NN1">time</word>
+        <word pos="DT0">some</word>
+        <word pos="AJ0">helpful</word>
+        <word pos="NN1">sport</word>
+        <word pos="PRP">like</word>
+        <word pos="NN1">football</word>
+        <word pos="NN1">basketball</word>
+        <word pos="NN1">Tennis</word>
+        </body>
+      </text>
+    </corpus>
+  </root>

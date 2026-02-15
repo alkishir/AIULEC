@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <corpus>
+    <text>
+      <metadata>
+        <Faculty>Human Sciences</Faculty>
+        <Semester>2</Semester>
+        <Age>34</Age>
+        <Time_spent_at_an_EnglishSpeaking_country>X</Time_spent_at_an_EnglishSpeaking_country>
+        <Topic>A special place</Topic>
+        <Title>............</Title>
+        </metadata>
+      <body>
+        <word pos="DPS">My</word>
+        <word pos="AJ0">special</word>
+        <word pos="NN1">place</word>
+        <word pos="DPS">my</word>
+        <word pos="NN1">home</word>
+        <word pos="CJS">Because</word>
+        <word pos="PNP">I</word>
+        <word pos="VVD">enjoyed</word>
+        <word pos="PRP">with</word>
+        <word pos="DPS">my</word>
+        <word pos="NN1">family</word>
+        <word pos="CJC">and</word>
+        <word pos="PRP">with</word>
+        <word pos="DPS">my</word>
+        <word pos="NN2">children</word>
+        <word pos="CJC">and</word>
+        <word pos="PNP">I</word>
+        <word pos="VVB">feel</word>
+        <word pos="PRP">in</word>
+        <word pos="DPS">my</word>
+        <word pos="NN1">house</word>
+        <word pos="PRP">at</word>
+        <word pos="NN1">rest</word>
+        <word pos="CJC">and</word>
+        <word pos="PNP">it</word>
+        <word pos="VBZ">'s</word>
+        <word pos="AJ0">beautiful</word>
+        <word pos="CJC">and</word>
+        <word pos="AJ0">nice</word>
+        <word pos="PUN">.</word>
+        </body>
+      </text>
+    </corpus>
+  </root>

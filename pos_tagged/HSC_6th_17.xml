@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <corpus>
+    <text>
+      <metadata>
+        <Faculty>Human Sciences</Faculty>
+        <Semester>6</Semester>
+        <Age>20</Age>
+        <Time_spent_at_an_EnglishSpeaking_country>X</Time_spent_at_an_EnglishSpeaking_country>
+        <Topic>Eating at restaurants with your family is a good way to build family ties</Topic>
+        <Title>Eating restaurants with your family is a good way to build family</Title>
+        </metadata>
+      <body>
+        <word pos="CJS">When</word>
+        <word pos="VVG">going</word>
+        <word pos="PRP">to</word>
+        <word pos="AT0">the</word>
+        <word pos="NN2">restaurants</word>
+        <word pos="PRP">with</word>
+        <word pos="NN2">members</word>
+        <word pos="PRF">of</word>
+        <word pos="AT0">the</word>
+        <word pos="DPS">your</word>
+        <word pos="NN1">family</word>
+        <word pos="VM0">will</word>
+        <word pos="VVI">get</word>
+        <word pos="NN1">happiness</word>
+        <word pos="PUN">,</word>
+        <word pos="CJC">and</word>
+        <word pos="DT0">this</word>
+        <word pos="VBZ">is</word>
+        <word pos="NN1">make</word>
+        <word pos="NN1">relationship</word>
+        <word pos="VBZ">is</word>
+        <word pos="AJ0">strong</word>
+        <word pos="PRP">between</word>
+        <word pos="PNP">them</word>
+        <word pos="PUN">,</word>
+        <word pos="CJC">and</word>
+        <word pos="DT0">this</word>
+        <word pos="VBZ">is</word>
+        <word pos="CRD">one</word>
+        <word pos="PRF">of</word>
+        <word pos="AT0">the</word>
+        <word pos="NN2">ways</word>
+        <word pos="PRP">for</word>
+        <word pos="NN1">amusement</word>
+        <word pos="CJC">and</word>
+        <word pos="NN1">happiness</word>
+        <word pos="PUN">,</word>
+        <word pos="CJC">and</word>
+        <word pos="PNP">it</word>
+        <word pos="VBZ">is</word>
+        <word pos="AJ0">good</word>
+        <word pos="NN1">behavior</word>
+        <word pos="VVG">eating</word>
+        <word pos="NN1">food</word>
+        <word pos="PRP">with</word>
+        <word pos="PNX">each</word>
+        <word pos="PNX">other</word>
+        <word pos="CJC">and</word>
+        <word pos="PRP">in</word>
+        <word pos="AJ0">new</word>
+        <word pos="NN1">place</word>
+        <word pos="AT0">a</word>
+        <word pos="AV0">far</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">house</word>
+        <word pos="PUN">,</word>
+        <word pos="CJC">and</word>
+        <word pos="VVB">change</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">mood</word>
+        <word pos="XX0">not</word>
+        <word pos="AV0">always</word>
+        <word pos="PRP">in</word>
+        <word pos="AT0">the</word>
+        <word pos="DT0">same</word>
+        <word pos="NN1">place</word>
+        <word pos="NN1">house</word>
+        <word pos="PUN">.</word>
+        </body>
+      </text>
+    </corpus>
+  </root>

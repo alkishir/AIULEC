@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<file name="" tagset="uclee-en-2.0.tag">
+Title: <FS corr="Entertaining the Animal">Entertaining the animal</FS> 
+
+Last week, when my young brother was playing in our garden, <FS corr="he">He</FS> <FS corr="saw">sew</FS> a small dog <QC corr=".">,</QC> it was very old<QC corr=".">,</QC> He decided to build a small house to help <GPU corr="the dog">it</GPU>.
+
+He <LSV corr="brings"><GVN corr="gives">give</GVN></LSV> the tools and the wooden <FS corr="pieces">pices</FS> to make the house <LSPR corr="for">to</LSPR> the dog. 
+
+Then<QM corr=",">\0</QM> the dog was very happy<QM corr=".">\0</QM>  
+
+The dog <GVM corr="slept">sleeped</GVM> with <GA corr="a">\0</GA>bone <GPR corr="and">that</GPR> it <GVT corr="loved"><GVN corr="loves">love</GVN></GVT> <GPU corr="the house">it</GPU> <WR corr="0">in the house</WR><QM corr=".">\0</QM>
+
+The end!!
+</file>

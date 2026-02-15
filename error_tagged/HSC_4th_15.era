@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<file name="" tagset="uclee-en-2.0.tag">
+Title: <FS corr="A Special House for My Puppy">A special house for my puppy</FS> 
+
+Once upon a time  , in a village, there lived a little boy named John. He lived with his family in a house surrounded by wheat and flowers. One day, while John was exploring the outskirts of the village, he found a small puppy . It was sad and full of dirt . <WR corr="0"><FS corr="John">Johns</FS></WR> without hesitation, <GPP corr="John">he</GPP> <GVT corr="decided"><GVN corr="decides">decide</GVN></GVT> to take the puppy home. <FS corr="When">when</FS> he returned home, his parents told him : <FS corr="You">you</FS> can keep him, but he <GVAUX corr="can't">shouldn’t</GVAUX> be inside the house , so you can build a special house for him. He was very <FS corr="excited">exited</FS> and took a wooden plank , a hammer and some nails<QM corr=",">\0</QM> and he <XVCO corr="started building">started to building</XVCO> the house<QM corr=".">\0</QM> when John finished, the puppy seemed happy and expressed this by barking and <XPRCO corr="playing">play</XPRCO> with John.
+</file>

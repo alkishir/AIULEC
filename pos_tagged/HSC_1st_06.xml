@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <corpus>
+    <text>
+      <metadata>
+        <Faculty>Human Sciences</Faculty>
+        <Semester>1</Semester>
+        <Age>20</Age>
+        <Time_spent_at_an_EnglishSpeaking_country>X</Time_spent_at_an_EnglishSpeaking_country>
+        <Topic>animal/music</Topic>
+        <Title>.........</Title>
+        </metadata>
+      <body>
+        <word pos="NN2">Animals</word>
+        <word pos="PUN">:</word>
+        <word pos="PNP">I</word>
+        <word pos="VVB">love</word>
+        <word pos="AT0">the</word>
+        <word pos="NN2">Animals</word>
+        <word pos="AV0">so</word>
+        <word pos="DT0">much</word>
+        <word pos="PNP">I</word>
+        <word pos="VVB">like</word>
+        <word pos="VVB">care</word>
+        <word pos="AT0">the</word>
+        <word pos="NN2">Animals</word>
+        <word pos="CJC">and</word>
+        <word pos="VVG">giving</word>
+        <word pos="AT0">a</word>
+        <word pos="NN1">food</word>
+        <word pos="PUN">,</word>
+        <word pos="AJ0">special</word>
+        <word pos="AT0">the</word>
+        <word pos="NN2">cats</word>
+        <word pos="PNP">I</word>
+        <word pos="VHB">have</word>
+        <word pos="DT0">some</word>
+        <word pos="NN2">cats</word>
+        <word pos="PRP">in</word>
+        <word pos="DPS">my</word>
+        <word pos="NN1">house</word>
+        <word pos="PUN">.</word>
+        <word pos="CJS">when</word>
+        <word pos="PNP">I</word>
+        <word pos="VVB">spend</word>
+        <word pos="DPS">my</word>
+        <word pos="NN1">time</word>
+        <word pos="PRP">with</word>
+        <word pos="NN2">Animals</word>
+        <word pos="PUN">.</word>
+        <word pos="PNP">I</word>
+        <word pos="VVB">feel</word>
+        <word pos="PUN">,</word>
+        <word pos="AJ0">happy</word>
+        <word pos="CJC">and</word>
+        <word pos="VVB">relax</word>
+        <word pos="PUN">.</word>
+        <word pos="NN1">Music</word>
+        <word pos="PUN">:</word>
+        <word pos="PNP">I</word>
+        <word pos="VVB">like</word>
+        <word pos="TO0">to</word>
+        <word pos="VVG">listening</word>
+        <word pos="PRP">for</word>
+        <word pos="AJ0">English</word>
+        <word pos="NN1">music</word>
+        <word pos="CJS">because</word>
+        <word pos="PNP">I</word>
+        <word pos="VVB">want</word>
+        <word pos="VVB">learn</word>
+        <word pos="NN1">English</word>
+        <word pos="PNP">it</word>
+        <word pos="VVB">help</word>
+        <word pos="PNP">me</word>
+        <word pos="CJS">because</word>
+        <word pos="VVB">give</word>
+        <word pos="PNP">me</word>
+        <word pos="AT0">a</word>
+        <word pos="AJ0">new</word>
+        <word pos="NN2">words</word>
+        <word pos="PUN">.</word>
+        </body>
+      </text>
+    </corpus>
+  </root>

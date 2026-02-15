@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <corpus>
+    <text>
+      <metadata>
+        <Faculty>Human Sciences</Faculty>
+        <Semester>3</Semester>
+        <Age>20</Age>
+        <Time_spent_at_an_EnglishSpeaking_country>X</Time_spent_at_an_EnglishSpeaking_country>
+        <Topic>Sport</Topic>
+        <Title>Sports</Title>
+        </metadata>
+      <body>
+        <word pos="NN1">exercise</word>
+        <word pos="VBZ">is</word>
+        <word pos="AV0">very</word>
+        <word pos="AJ0">good</word>
+        <word pos="PRP">for</word>
+        <word pos="DPS">your</word>
+        <word pos="NN1">health</word>
+        <word pos="PNP">it</word>
+        <word pos="VVZ">makes</word>
+        <word pos="DPS">your</word>
+        <word pos="NN1">body</word>
+        <word pos="AJ0">strong</word>
+        <word pos="CJC">and</word>
+        <word pos="VVZ">helps</word>
+        <word pos="PNP">you</word>
+        <word pos="VVI">feel</word>
+        <word pos="AJ0">happy</word>
+        <word pos="PUN">.</word>
+        </body>
+      </text>
+    </corpus>
+  </root>

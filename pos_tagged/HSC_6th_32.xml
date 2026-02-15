@@ -1,0 +1,94 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <corpus>
+    <text>
+      <metadata>
+        <Faculty>Human Sciences</Faculty>
+        <Semester>6</Semester>
+        <Age>21</Age>
+        <Time_spent_at_an_EnglishSpeaking_country>X</Time_spent_at_an_EnglishSpeaking_country>
+        <Topic>Studying philosophy can lead to a happier and more peaceful existence</Topic>
+        <Title>studing philosophy</Title>
+        </metadata>
+      <body>
+        <word pos="VVG">Studying</word>
+        <word pos="NN1">philosophy</word>
+        <word pos="VHB">have</word>
+        <word pos="AT0">a</word>
+        <word pos="NN1">lot</word>
+        <word pos="PRF">of</word>
+        <word pos="NN2">advantages</word>
+        <word pos="PUN">.</word>
+        <word pos="VVG">Studying</word>
+        <word pos="NN1">philosophy</word>
+        <word pos="VM0">can</word>
+        <word pos="VVI">lead</word>
+        <word pos="PRP">to</word>
+        <word pos="AT0">a</word>
+        <word pos="AJC">happier</word>
+        <word pos="CJC">and</word>
+        <word pos="AV0">more</word>
+        <word pos="AJ0">peaceful</word>
+        <word pos="NN1">existence</word>
+        <word pos="PUN">.</word>
+        <word pos="AV0">For</word>
+        <word pos="AV0">example</word>
+        <word pos="PUN">,</word>
+        <word pos="AJ0">mental</word>
+        <word pos="NN1">health</word>
+        <word pos="PUN">.</word>
+        <word pos="AVQ">How</word>
+        <word pos="PUN">?</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">answer</word>
+        <word pos="PRP">for</word>
+        <word pos="DT0">this</word>
+        <word pos="NN1">question</word>
+        <word pos="AV0">so</word>
+        <word pos="AJ0">easy</word>
+        <word pos="PUN">,</word>
+        <word pos="CJS">when</word>
+        <word pos="PNP">you</word>
+        <word pos="VVB">study</word>
+        <word pos="NN1">philosophy</word>
+        <word pos="DT0">this</word>
+        <word pos="VBZ">is</word>
+        <word pos="VVI">make</word>
+        <word pos="DPS">your</word>
+        <word pos="NN1">brain</word>
+        <word pos="VVI">work</word>
+        <word pos="AJ0">goodly</word>
+        <word pos="PUN">.</word>
+        <word pos="PRP">after</word>
+        <word pos="DT0">that</word>
+        <word pos="PNP">you</word>
+        <word pos="VM0">will</word>
+        <word pos="VVI">understand</word>
+        <word pos="DPS">our</word>
+        <word pos="NN1">life</word>
+        <word pos="CJC">and</word>
+        <word pos="NN1">thing</word>
+        <word pos="CJT">that</word>
+        <word pos="VVB">help</word>
+        <word pos="AVP">on</word>
+        <word pos="PRP">around</word>
+        <word pos="PNP">you</word>
+        <word pos="PUN">.</word>
+        <word pos="VVG">Studying</word>
+        <word pos="NN1">philosophy</word>
+        <word pos="VVB">make</word>
+        <word pos="DPS">your</word>
+        <word pos="NN1">personality</word>
+        <word pos="AJ0">strong</word>
+        <word pos="PUN">.</word>
+        <word pos="PRP">In</word>
+        <word pos="NN1">conclusion</word>
+        <word pos="NN1">study</word>
+        <word pos="NN1">philosophy</word>
+        <word pos="VHB">have</word>
+        <word pos="NN2">benefits</word>
+        <word pos="PUN">.</word>
+        </body>
+      </text>
+    </corpus>
+  </root>

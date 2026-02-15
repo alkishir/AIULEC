@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<file name="" tagset="uclee-en-2.0.tag">
+Title: <FS corr="An Interesting Place">An intresting place</FS> 
+
+My <FS corr="interesting">intresting</FS> place is <GA corr="0">a</GA> <GADJO corr="Almarkazia garden">garden Almackazia</GADJO> in <FS corr="Misurata">musrata</FS><QM corr=".">\0</QM> I <GADVO corr="always go there">go <LSADV corr="big">to it</LSADV> always</GADVO> <LSPR corr="on">in</LSPR> <FS corr="Friday">friday</FS><QM corr=".">\0</QM> I feel <WO corr="comfortable and quiet there">there <WR corr="0">is</WR> comfortable and <FS corr="quiet">quit</FS></WO>. 
+
+It's <FS corr="so">soo</FS> <FS corr="beautiful">butiful</FS><QC corr=".">,</QC> it has <FS corr="large">larg</FS> <GNN corr="areas">area</GNN> and lots of <LSADJ corr="tall">long</LSADJ> trees.  
+
+So I <XVCO corr="love going">love go</XVCO> <GPP corr="there">it</GPP>.
+</file>

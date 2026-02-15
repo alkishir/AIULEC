@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <corpus>
+    <text>
+      <metadata>
+        <Faculty>Education</Faculty>
+        <Semester>1</Semester>
+        <Age>19</Age>
+        <Time_spent_at_an_EnglishSpeaking_country>X</Time_spent_at_an_EnglishSpeaking_country>
+        <Topic>An interesting place</Topic>
+        <Title>An interesting plase</Title>
+        </metadata>
+      <body>
+        <word pos="DPS">My</word>
+        <word pos="AJ0">interesting</word>
+        <word pos="NN1">place</word>
+        <word pos="VBZ">is</word>
+        <word pos="DPS">our</word>
+        <word pos="NN1">shopping</word>
+        <word pos="PNP">I</word>
+        <word pos="VVB">like</word>
+        <word pos="DT0">this</word>
+        <word pos="NN1">place</word>
+        <word pos="CJS">because</word>
+        <word pos="PNP">it</word>
+        <word pos="VBZ">is</word>
+        <word pos="AJ0">beautiful</word>
+        <word pos="CJC">and</word>
+        <word pos="PNP">I</word>
+        <word pos="VVB">feel</word>
+        <word pos="PNP">it</word>
+        <word pos="VBZ">is</word>
+        <word pos="DPS">my</word>
+        <word pos="VVI">relax</word>
+        <word pos="NN1">place</word>
+        <word pos="PUN">.</word>
+        <word pos="PNP">I</word>
+        <word pos="VVB">buy</word>
+        <word pos="AT0">the</word>
+        <word pos="NN2">clothes</word>
+        <word pos="CJC">and</word>
+        <word pos="PNP">I</word>
+        <word pos="VVD">went</word>
+        <word pos="PRP">to</word>
+        <word pos="VVG">shopping</word>
+        <word pos="PRP">by</word>
+        <word pos="NN1">car</word>
+        <word pos="CJS">because</word>
+        <word pos="PNP">it</word>
+        <word pos="AV0">far</word>
+        <word pos="PNP">I</word>
+        <word pos="AV0">usually</word>
+        <word pos="VVB">meet</word>
+        <word pos="PRP">with</word>
+        <word pos="NN1">fishmonger</word>
+        <word pos="PNP">I</word>
+        <word pos="AV0">sometimes</word>
+        <word pos="VVB">buy</word>
+        <word pos="DT0">some</word>
+        <word pos="NN2">snacks</word>
+        <word pos="PNP">I</word>
+        <word pos="VVB">think</word>
+        <word pos="PNP">it</word>
+        <word pos="VBZ">is</word>
+        <word pos="AJS">best</word>
+        <word pos="NN1">place</word>
+        <word pos="PRF">of</word>
+        <word pos="VVI">entertain</word>
+        <word pos="CJC">and</word>
+        <word pos="VVI">walk</word>
+        <word pos="PUN">.</word>
+        <word pos="PNP">I</word>
+        <word pos="AV0">often</word>
+        <word pos="VVD">went</word>
+        <word pos="PRP">to</word>
+        <word pos="VVG">shopping</word>
+        <word pos="CRD">one</word>
+        <word pos="NN1">day</word>
+        <word pos="PRP">in</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">week</word>
+        <word pos="PUN">.</word>
+        </body>
+      </text>
+    </corpus>
+  </root>

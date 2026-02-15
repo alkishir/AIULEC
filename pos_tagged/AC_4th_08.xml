@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <corpus>
+    <text>
+      <metadata>
+        <Faculty>Arts</Faculty>
+        <Semester>4</Semester>
+        <Age>19</Age>
+        <Time_spent_at_an_EnglishSpeaking_country>X</Time_spent_at_an_EnglishSpeaking_country>
+        <Topic>Describing a picture</Topic>
+        <Title>Dog's Mark</Title>
+        </metadata>
+      <body>
+        <word pos="NP0">Mark</word>
+        <word pos="VHZ">has</word>
+        <word pos="AT0">a</word>
+        <word pos="AJ0">little</word>
+        <word pos="AJ0">white</word>
+        <word pos="NN1">dog</word>
+        <word pos="PUN">.</word>
+        <word pos="PNP">It</word>
+        <word pos="VBZ">'s</word>
+        <word pos="AV0">very</word>
+        <word pos="AJ0">quiet</word>
+        <word pos="CJC">and</word>
+        <word pos="AJ0">nice</word>
+        <word pos="PUN">.</word>
+        <word pos="PNP">He</word>
+        <word pos="VBD">was</word>
+        <word pos="VVN">built</word>
+        <word pos="AJ0">mini</word>
+        <word pos="NN1">house</word>
+        <word pos="PRP">in</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">park</word>
+        <word pos="PRP">for</word>
+        <word pos="DPS">his</word>
+        <word pos="NN1">dog</word>
+        <word pos="PUN">.</word>
+        <word pos="PNP">He</word>
+        <word pos="VBZ">is</word>
+        <word pos="VVI">give</word>
+        <word pos="NN2">bones</word>
+        <word pos="PRP">to</word>
+        <word pos="DPS">his</word>
+        <word pos="NN1">dog</word>
+        <word pos="PUN">.</word>
+        <word pos="NP0">Mark</word>
+        <word pos="VBZ">is</word>
+        <word pos="VVG">going</word>
+        <word pos="PRP">with</word>
+        <word pos="DPS">his</word>
+        <word pos="NN1">dog</word>
+        <word pos="TO0">to</word>
+        <word pos="VVG">walking</word>
+        <word pos="PRP">in</word>
+        <word pos="NN1">street</word>
+        <word pos="PUN">.</word>
+        <word pos="AT0">The</word>
+        <word pos="NN1">dog</word>
+        <word pos="VBZ">is</word>
+        <word pos="VVG">sleeping</word>
+        <word pos="NN1">front</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">sun</word>
+        <word pos="PUN">.</word>
+        <word pos="NP0">Mark</word>
+        <word pos="VBZ">is</word>
+        <word pos="VVZ">seems</word>
+        <word pos="AV0">very</word>
+        <word pos="AJ0">happy</word>
+        <word pos="PRP">with</word>
+        <word pos="DPS">his</word>
+        <word pos="NN1">dog</word>
+        <word pos="PUN">.</word>
+        </body>
+      </text>
+    </corpus>
+  </root>

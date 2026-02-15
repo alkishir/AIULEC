@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <corpus>
+    <text>
+      <metadata>
+        <Faculty>Arts</Faculty>
+        <Semester>1</Semester>
+        <Age>none</Age>
+        <Time_spent_at_an_EnglishSpeaking_country>none</Time_spent_at_an_EnglishSpeaking_country>
+        <Topic>none</Topic>
+        <Title>..........</Title>
+        </metadata>
+      <body>
+        <word pos="PRP">In</word>
+        <word pos="DPS">my</word>
+        <word pos="AJ0">free</word>
+        <word pos="NN1">time</word>
+        <word pos="PNP">I</word>
+        <word pos="VVB">like</word>
+        <word pos="TO0">to</word>
+        <word pos="VVI">visit</word>
+        <word pos="PRP">in</word>
+        <word pos="DPS">my</word>
+        <word pos="NN2">relatives</word>
+        <word pos="PNP">I</word>
+        <word pos="VVB">like</word>
+        <word pos="VVG">waching</word>
+        <word pos="NN1">TV</word>
+        <word pos="CJC">and</word>
+        <word pos="VVG">reading</word>
+        <word pos="PNP">I</word>
+        <word pos="VDB">do</word>
+        <word pos="XX0">n't</word>
+        <word pos="VVI">like</word>
+        <word pos="VVG">cooking</word>
+        <word pos="CJC">and</word>
+        <word pos="VVG">swimming</word>
+        <word pos="PNP">I</word>
+        <word pos="AV0">usually</word>
+        <word pos="TO0">to</word>
+        <word pos="VVI">go</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">park</word>
+        </body>
+      </text>
+    </corpus>
+  </root>

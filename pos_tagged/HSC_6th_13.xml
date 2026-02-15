@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <corpus>
+    <text>
+      <metadata>
+        <Faculty>Human Sciences</Faculty>
+        <Semester>6</Semester>
+        <Age>20</Age>
+        <Time_spent_at_an_EnglishSpeaking_country>X</Time_spent_at_an_EnglishSpeaking_country>
+        <Topic>Eating at restaurants with your family is a good way to build family ties</Topic>
+        <Title>Eating at restaurants with your family is a good way to build family ties</Title>
+        </metadata>
+      <body>
+        <word pos="CJS">When</word>
+        <word pos="NN1">family</word>
+        <word pos="VVB">come</word>
+        <word pos="AV0">together</word>
+        <word pos="NN2">sisters</word>
+        <word pos="PUN">,</word>
+        <word pos="NN2">brothers</word>
+        <word pos="CJC">and</word>
+        <word pos="DPS">your</word>
+        <word pos="NN2">parents</word>
+        <word pos="CJC">and</word>
+        <word pos="PNI">everyone</word>
+        <word pos="AJ0">good</word>
+        <word pos="PUN">.</word>
+        <word pos="CJC">and</word>
+        <word pos="PNI">everyone</word>
+        <word pos="VVG">talking</word>
+        <word pos="PRP">with</word>
+        <word pos="AJ0">other</word>
+        <word pos="CJC">and</word>
+        <word pos="VDB">do</word>
+        <word pos="DT0">some</word>
+        <word pos="NN2">actives</word>
+        <word pos="PRP">such</word>
+        <word pos="PRP">as</word>
+        <word pos="VVI">go</word>
+        <word pos="AJ0">different</word>
+        <word pos="NN2">places</word>
+        <word pos="NN1">sea</word>
+        <word pos="PUN">,</word>
+        <word pos="NN1">garden</word>
+        <word pos="PUN">,</word>
+        <word pos="VVG">shopping</word>
+        <word pos="PUN">,</word>
+        <word pos="NN1">restaurant</word>
+        <word pos="DT0">This</word>
+        <word pos="AT0">the</word>
+        <word pos="AJS">best</word>
+        <word pos="NN1">moment</word>
+        <word pos="PRP">for</word>
+        <word pos="PNP">you</word>
+        <word pos="CJC">and</word>
+        <word pos="DPS">your</word>
+        <word pos="NN1">family</word>
+        <word pos="CJC">and</word>
+        <word pos="DT0">this</word>
+        <word pos="NN1">way</word>
+        <word pos="VM0">can</word>
+        <word pos="VVI">build</word>
+        <word pos="AJ0">good</word>
+        <word pos="NN1">relationship</word>
+        <word pos="PRP">with</word>
+        <word pos="DPS">your</word>
+        <word pos="NN1">family</word>
+        <word pos="PUN">.</word>
+        </body>
+      </text>
+    </corpus>
+  </root>

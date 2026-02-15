@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <corpus>
+    <text>
+      <metadata>
+        <Faculty>Education</Faculty>
+        <Semester>8</Semester>
+        <Age>22</Age>
+        <Time_spent_at_an_EnglishSpeaking_country>X</Time_spent_at_an_EnglishSpeaking_country>
+        <Topic>My Family</Topic>
+        <Title>My family</Title>
+        </metadata>
+      <body>
+        <word pos="AT0">The</word>
+        <word pos="AV0">most</word>
+        <word pos="AJ0">sensitive</word>
+        <word pos="NN1">thing</word>
+        <word pos="TO0">to</word>
+        <word pos="VVI">write</word>
+        <word pos="PRP">about</word>
+        <word pos="VBZ">is</word>
+        <word pos="DPS">my</word>
+        <word pos="NN1">family</word>
+        <word pos="PUN">.</word>
+        <word pos="NN1">Family</word>
+        <word pos="VVZ">represents</word>
+        <word pos="PNI">everything</word>
+        <word pos="PRP">in</word>
+        <word pos="DPS">my</word>
+        <word pos="NN1">life</word>
+        <word pos="PUN">.</word>
+        <word pos="PNP">They</word>
+        <word pos="VBB">are</word>
+        <word pos="VVG">taking</word>
+        <word pos="NN1">care</word>
+        <word pos="PRF">of</word>
+        <word pos="PNP">me</word>
+        <word pos="PRP">from</word>
+        <word pos="PNP">I</word>
+        <word pos="VBD">was</word>
+        <word pos="AT0">a</word>
+        <word pos="NN1">baby</word>
+        <word pos="PUN">,</word>
+        <word pos="PNP">they</word>
+        <word pos="VVD">gave</word>
+        <word pos="PNP">me</word>
+        <word pos="NN1">love</word>
+        <word pos="CJC">and</word>
+        <word pos="VVB">support</word>
+        <word pos="PNP">me</word>
+        <word pos="PRP">in</word>
+        <word pos="AT0">every</word>
+        <word pos="NN1">step</word>
+        <word pos="PNP">I</word>
+        <word pos="VVD">took</word>
+        <word pos="PUN">.</word>
+        <word pos="PNP">I</word>
+        <word pos="VM0">can</word>
+        <word pos="XX0">not</word>
+        <word pos="VVI">imagine</word>
+        <word pos="DPS">my</word>
+        <word pos="NN1">world</word>
+        <word pos="PRP">without</word>
+        <word pos="PNP">them</word>
+        <word pos="PRP">around</word>
+        <word pos="PNP">me</word>
+        <word pos="PUN">.</word>
+        </body>
+      </text>
+    </corpus>
+  </root>

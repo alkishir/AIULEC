@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <corpus>
+    <text>
+      <metadata>
+        <Faculty>Human Sciences</Faculty>
+        <Semester>1</Semester>
+        <Age>19</Age>
+        <Time_spent_at_an_EnglishSpeaking_country>X</Time_spent_at_an_EnglishSpeaking_country>
+        <Topic>music</Topic>
+        <Title>music</Title>
+        </metadata>
+      <body>
+        <word pos="AT0">The</word>
+        <word pos="NN1">music</word>
+        <word pos="VBB">are</word>
+        <word pos="AJ0">different</word>
+        <word pos="NN2">sounds</word>
+        <word pos="CJT">that</word>
+        <word pos="VVZ">gives</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">person</word>
+        <word pos="AJ0">different</word>
+        <word pos="NN2">feelings</word>
+        <word pos="PRP">like</word>
+        <word pos="NN1">happiness</word>
+        <word pos="CJC">or</word>
+        <word pos="NN1">sadness</word>
+        <word pos="DT0">some</word>
+        <word pos="NN1">music</word>
+        <word pos="VVZ">makes</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">person</word>
+        <word pos="VVG">dancing</word>
+        <word pos="CJC">and</word>
+        <word pos="AT0">every</word>
+        <word pos="NN1">country</word>
+        <word pos="VHB">have</word>
+        <word pos="AJ0">different</word>
+        <word pos="NN1">name</word>
+        <word pos="PRP">like</word>
+        <word pos="AJ0">American</word>
+        <word pos="NN1">music</word>
+        <word pos="PNP">it</word>
+        <word pos="VVZ">calls</word>
+        <word pos="AJ0">Pop</word>
+        <word pos="NN1">music</word>
+        <word pos="CJC">or</word>
+        <word pos="AJ0">hiphop</word>
+        <word pos="NN1">music</word>
+        <word pos="CJC">and</word>
+        <word pos="AJ0">korean</word>
+        <word pos="NN1">music</word>
+        <word pos="PNP">it</word>
+        <word pos="VVD">called</word>
+        <word pos="AJ0">Kpop</word>
+        <word pos="NN1">music</word>
+        <word pos="CJC">and</word>
+        <word pos="EX0">there</word>
+        <word pos="AV0">so</word>
+        <word pos="DT0">many</word>
+        <word pos="PNP">i</word>
+        <word pos="VDB">do</word>
+        <word pos="XX0">n't</word>
+        <word pos="VVI">want</word>
+        <word pos="TO0">to</word>
+        <word pos="VVI">talk</word>
+        <word pos="AV0">too</word>
+        <word pos="DT0">many</word>
+        <word pos="PRP">about</word>
+        <word pos="PNP">them</word>
+        <word pos="CJC">and</word>
+        <word pos="PNP">we</word>
+        <word pos="VM0">can</word>
+        <word pos="VVI">add</word>
+        <word pos="DT0">some</word>
+        <word pos="NN2">lyrics</word>
+        <word pos="PRP">to</word>
+        <word pos="PRP">to</word>
+        <word pos="NN1">music</word>
+        <word pos="PNP">it</word>
+        <word pos="VVD">called</word>
+        <word pos="NN1">music</word>
+        <word pos="AV0">too</word>
+        <word pos="CJC">and</word>
+        <word pos="DT0">this</word>
+        <word pos="NN1">kind</word>
+        <word pos="PRF">of</word>
+        <word pos="NN1">music</word>
+        <word pos="PNP">it</word>
+        <word pos="VM0">will</word>
+        <word pos="VVI">change</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">person</word>
+        <word pos="NN1">moon</word>
+        <word pos="AV0">more</word>
+        <word pos="AV0">easily</word>
+        <word pos="VBZ">is</word>
+        <word pos="AT0">the</word>
+        <word pos="NN2">words</word>
+        <word pos="PRP">in</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">song</word>
+        <word pos="VBD">was</word>
+        <word pos="AJ0">deep</word>
+        <word pos="PRP">like</word>
+        <word pos="NN2">songs</word>
+        <word pos="VVB">talk</word>
+        <word pos="PRP">about</word>
+        <word pos="NN1">death</word>
+        <word pos="CJC">or</word>
+        <word pos="PNI">something</word>
+        <word pos="PRP">like</word>
+        <word pos="DT0">that</word>
+        <word pos="PUN">,</word>
+        <word pos="CJC">and</word>
+        <word pos="DT0">that</word>
+        <word pos="VBZ">'s</word>
+        <word pos="DT0">all</word>
+        <word pos="AT0">the</word>
+        <word pos="NN2">things</word>
+        <word pos="CJT">that</word>
+        <word pos="VVB">come</word>
+        <word pos="PRP">to</word>
+        <word pos="DPS">my</word>
+        <word pos="NN1">mind</word>
+        <word pos="PUN">.</word>
+        <word pos="VHB">Have</word>
+        <word pos="AT0">a</word>
+        <word pos="AJ0">great</word>
+        <word pos="NN1">day</word>
+        <word pos="PUN">.</word>
+        </body>
+      </text>
+    </corpus>
+  </root>

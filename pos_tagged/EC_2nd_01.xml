@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <corpus>
+    <text>
+      <metadata>
+        <Faculty>Education</Faculty>
+        <Semester>2</Semester>
+        <Age>19</Age>
+        <Time_spent_at_an_EnglishSpeaking_country>none</Time_spent_at_an_EnglishSpeaking_country>
+        <Topic>......</Topic>
+        <Title>.............</Title>
+        </metadata>
+      <body>
+        <word pos="PNP">I</word>
+        <word pos="VVD">went</word>
+        <word pos="PRP">to</word>
+        <word pos="NP0">Misurata</word>
+        <word pos="NN1">zoo</word>
+        <word pos="PRP">in</word>
+        <word pos="AT0">the</word>
+        <word pos="ORD">last</word>
+        <word pos="NN1">vacation</word>
+        <word pos="PUN">,</word>
+        <word pos="PNP">I</word>
+        <word pos="VVD">saw</word>
+        <word pos="PNI">lots</word>
+        <word pos="PRF">of</word>
+        <word pos="NN2">animals</word>
+        <word pos="PUN">,</word>
+        <word pos="PNP">I</word>
+        <word pos="VVD">ridden</word>
+        <word pos="AT0">a</word>
+        <word pos="NN1">horse</word>
+        <word pos="PUN">,</word>
+        <word pos="PNP">I</word>
+        <word pos="VVD">held</word>
+        <word pos="AT0">a</word>
+        <word pos="NN1">monkey</word>
+        <word pos="CJC">and</word>
+        <word pos="PNP">I</word>
+        <word pos="VDD">did</word>
+        <word pos="XX0">n't</word>
+        <word pos="VVI">touch</word>
+        <word pos="CJC">but</word>
+        <word pos="PNP">I</word>
+        <word pos="VVD">saw</word>
+        <word pos="PNP">her</word>
+        <word pos="PRP">from</word>
+        <word pos="AV0">afar</word>
+        <word pos="PUN">.</word>
+        <word pos="EX0">There</word>
+        <word pos="VBZ">is</word>
+        <word pos="AJ0">popular</word>
+        <word pos="PNP">it</word>
+        <word pos="VBZ">'s</word>
+        <word pos="VVN">filled</word>
+        <word pos="PRP">with</word>
+        <word pos="NN1">time</word>
+        <word pos="NN1">heritage</word>
+        <word pos="CJC">and</word>
+        <word pos="NN2">effects</word>
+        <word pos="PUN">.</word>
+        <word pos="AV0">Actually</word>
+        <word pos="PNP">I</word>
+        <word pos="VVB">enjoy</word>
+        <word pos="PRP">in</word>
+        <word pos="DPS">my</word>
+        <word pos="NN1">time</word>
+        <word pos="PRP">in</word>
+        <word pos="NN1">final</word>
+        <word pos="PNP">I</word>
+        <word pos="VVD">went</word>
+        <word pos="PRP">to</word>
+        <word pos="NN1">beach</word>
+        <word pos="PUN">.</word>
+        </body>
+      </text>
+    </corpus>
+  </root>

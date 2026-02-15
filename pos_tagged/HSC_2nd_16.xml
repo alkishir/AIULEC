@@ -1,0 +1,138 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <corpus>
+    <text>
+      <metadata>
+        <Faculty>Human Sciences</Faculty>
+        <Semester>2</Semester>
+        <Age>18</Age>
+        <Time_spent_at_an_EnglishSpeaking_country>X</Time_spent_at_an_EnglishSpeaking_country>
+        <Topic>Your best memory</Topic>
+        <Title>My best memory</Title>
+        </metadata>
+      <body>
+        <word pos="AT0">An</word>
+        <word pos="AJ0">interesting</word>
+        <word pos="VBD">was</word>
+        <word pos="CJS">when</word>
+        <word pos="PNP">I</word>
+        <word pos="VVD">went</word>
+        <word pos="PRP">to</word>
+        <word pos="NN1">sea</word>
+        <word pos="PRP">with</word>
+        <word pos="DPS">my</word>
+        <word pos="NN2">uncles</word>
+        <word pos="POS">'</word>
+        <word pos="NN2">families</word>
+        <word pos="PUN">.</word>
+        <word pos="PNP">We</word>
+        <word pos="VVD">decided</word>
+        <word pos="TO0">to</word>
+        <word pos="VM0">gonna</word>
+        <word pos="NN1">sea</word>
+        <word pos="AV0">together</word>
+        <word pos="PRP">before</word>
+        <word pos="AT0">a</word>
+        <word pos="NN1">day</word>
+        <word pos="PUN">.</word>
+        <word pos="AT0">The</word>
+        <word pos="ORD">next</word>
+        <word pos="NN1">day</word>
+        <word pos="PNP">we</word>
+        <word pos="VVD">went</word>
+        <word pos="PRP">in</word>
+        <word pos="CRD">two</word>
+        <word pos="NN2">cars</word>
+        <word pos="PUN">,</word>
+        <word pos="PNP">it</word>
+        <word pos="VBD">was</word>
+        <word pos="AT0">a</word>
+        <word pos="AJ0">good</word>
+        <word pos="NN1">journey</word>
+        <word pos="PUN">.</word>
+        <word pos="PRP">After</word>
+        <word pos="DT0">that</word>
+        <word pos="PUN">,</word>
+        <word pos="PNP">we</word>
+        <word pos="VVD">arrived</word>
+        <word pos="PRP">at</word>
+        <word pos="NP0">Manazel</word>
+        <word pos="NP0">Al-Ezz</word>
+        <word pos="NN1">summar</word>
+        <word pos="NN1">resort</word>
+        <word pos="PUN">.</word>
+        <word pos="AV0">Then</word>
+        <word pos="PNP">we</word>
+        <word pos="VVD">paid</word>
+        <word pos="AT0">a</word>
+        <word pos="CRD">hundred</word>
+        <word pos="NN2">dinars</word>
+        <word pos="PUN">.</word>
+        <word pos="PRP">In</word>
+        <word pos="NN1">fact</word>
+        <word pos="PUN">,</word>
+        <word pos="PNP">it</word>
+        <word pos="VBZ">'s</word>
+        <word pos="XX0">not</word>
+        <word pos="AV0">too</word>
+        <word pos="AJ0">expensive</word>
+        <word pos="VVD">compared</word>
+        <word pos="PRP">to</word>
+        <word pos="AJ0">other</word>
+        <word pos="NN2">resorts</word>
+        <word pos="PUN">.</word>
+        <word pos="PRP">After</word>
+        <word pos="DT0">that</word>
+        <word pos="PUN">,</word>
+        <word pos="PNP">we</word>
+        <word pos="VVD">entered</word>
+        <word pos="PUN">,</word>
+        <word pos="CJC">and</word>
+        <word pos="PNP">it</word>
+        <word pos="VBD">was</word>
+        <word pos="AV0">very</word>
+        <word pos="AJ0">beautiful</word>
+        <word pos="PUN">,</word>
+        <word pos="PNP">it</word>
+        <word pos="VVZ">contains</word>
+        <word pos="AT0">a</word>
+        <word pos="NN1">cafe</word>
+        <word pos="PUN">,</word>
+        <word pos="NN1">restaurant</word>
+        <word pos="PUN">,</word>
+        <word pos="NN1">water</word>
+        <word pos="NN2">games</word>
+        <word pos="PUN">,</word>
+        <word pos="AT0">a</word>
+        <word pos="NN1">mosque</word>
+        <word pos="CJC">and</word>
+        <word pos="NN2">chalets</word>
+        <word pos="AV0">too</word>
+        <word pos="PUN">.</word>
+        <word pos="AV0">Finally</word>
+        <word pos="PUN">,</word>
+        <word pos="PNP">it</word>
+        <word pos="VBD">was</word>
+        <word pos="AT0">a</word>
+        <word pos="AJ0">nice</word>
+        <word pos="NN1">day</word>
+        <word pos="CJC">and</word>
+        <word pos="PNP">I</word>
+        <word pos="VVD">liked</word>
+        <word pos="PNI">everything</word>
+        <word pos="AV0">there</word>
+        <word pos="PUN">,</word>
+        <word pos="CJC">and</word>
+        <word pos="PNP">I</word>
+        <word pos="VM0">'d</word>
+        <word pos="VBI">be</word>
+        <word pos="AJ0">happy</word>
+        <word pos="CJS">if</word>
+        <word pos="PNP">we</word>
+        <word pos="VDD">did</word>
+        <word pos="PNP">it</word>
+        <word pos="AV0">again</word>
+        </body>
+      </text>
+    </corpus>
+  </root>

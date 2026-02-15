@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <corpus>
+    <text>
+      <metadata>
+        <Faculty>Human Sciences</Faculty>
+        <Semester>6</Semester>
+        <Age>21</Age>
+        <Time_spent_at_an_EnglishSpeaking_country>X</Time_spent_at_an_EnglishSpeaking_country>
+        <Topic>Writing a dairy is the best way to review how happy you are</Topic>
+        <Title>.........</Title>
+        </metadata>
+      <body>
+        <word pos="VVG">Writing</word>
+        <word pos="AT0">a</word>
+        <word pos="NN1">diary</word>
+        <word pos="CJC">and</word>
+        <word pos="VVB">take</word>
+        <word pos="AT0">a</word>
+        <word pos="NN1">picture</word>
+        <word pos="VBZ">is</word>
+        <word pos="AT0">the</word>
+        <word pos="AJS">best</word>
+        <word pos="NN1">way</word>
+        <word pos="TO0">to</word>
+        <word pos="VVI">review</word>
+        <word pos="CJC">and</word>
+        <word pos="VVI">remember</word>
+        <word pos="AT0">the</word>
+        <word pos="AJS">best</word>
+        <word pos="NN2">moments</word>
+        <word pos="PNP">you</word>
+        <word pos="VVB">feel</word>
+        <word pos="AJ0">happy</word>
+        <word pos="PRP">with</word>
+        <word pos="DPS">your</word>
+        <word pos="NN1">family</word>
+        <word pos="CJC">and</word>
+        <word pos="NN2">friends</word>
+        <word pos="PUN">.</word>
+        <word pos="AV0">furthermore</word>
+        <word pos="PUN">,</word>
+        <word pos="VVB">take</word>
+        <word pos="AT0">a</word>
+        <word pos="NN1">lot</word>
+        <word pos="PRF">of</word>
+        <word pos="NN1">picture</word>
+        <word pos="VM0">may</word>
+        <word pos="VVI">spoil</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">beauty</word>
+        <word pos="PRF">of</word>
+        <word pos="AT0">the</word>
+        <word pos="NN2">moments</word>
+        <word pos="PUN">.</word>
+        <word pos="CJC">but</word>
+        <word pos="AV0">sometimes</word>
+        <word pos="CJS">when</word>
+        <word pos="PNP">you</word>
+        <word pos="VVB">read</word>
+        <word pos="DPS">your</word>
+        <word pos="NN1">diary</word>
+        <word pos="CJC">or</word>
+        <word pos="VVG">watching</word>
+        <word pos="PRP">to</word>
+        <word pos="AT0">the</word>
+        <word pos="NN2">pictures</word>
+        <word pos="CJT">that</word>
+        <word pos="VVB">make</word>
+        <word pos="PNP">you</word>
+        <word pos="AJ0">unhappy</word>
+        <word pos="CJS">because</word>
+        <word pos="PNP">you</word>
+        <word pos="VDB">do</word>
+        <word pos="XX0">n't</word>
+        <word pos="VHI">have</word>
+        <word pos="DT0">these</word>
+        <word pos="NN2">things</word>
+        <word pos="CJC">or</word>
+        <word pos="NN0">people</word>
+        <word pos="PRP">in</word>
+        <word pos="DPS">your</word>
+        <word pos="NN1">life</word>
+        <word pos="PUN">.</word>
+        </body>
+      </text>
+    </corpus>
+  </root>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<file name="" tagset="uclee-en-2.0.tag">
+Title: <FS corr="Importance of Family">Importance of family</FS> 
+
+<GA corr="0">The</GA> family is <GA corr="the">\0</GA><LSN corr="relationship">relation</LSN> between family members<QM corr=".">\0</QM> when we <LSV corr="see">show</LSV> parents and <GPP corr="their">they</GPP> children<QM corr=",">\0</QM> we say this <GVN corr="is">are</GVN> family. <GA corr="0">The</GA> family is important in children’s <GNN corr="lives"><GWC corr="life">live</GWC></GNN><QM corr=".">\0</QM> without <GA corr="0">the</GA> family<QM corr=",">\0</QM> it can’t be <GWC corr="complete"><FS corr="completely">completly</FS></GWC>.
+</file>

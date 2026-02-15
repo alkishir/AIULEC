@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<file name="" tagset="uclee-en-2.0.tag">
+Title: <FS corr="Favorite Book">favorite book</FS> 
+
+<FS corr="My">my</FS> favorite book is called<QM corr=",">\0</QM>(<FS corr="The Life">the life</FS>)<QM corr=".">\0</QM> this <GA corr="0">the</GA> book <GVN corr="gives">give</GVN> information about life and <GVN corr="gives">give</GVN> <GADJO corr="very nice phrases"><FS corr="phrases">phraces</FS> very nice</GADJO> and stories<QM corr=".">\0</QM> <FS corr="in short">is short</FS><QM corr=",">\0</QM> <LSPR corr="in">during</LSPR> <GDD corr="these">this</GDD> stories<QM corr=",">\0</QM> the person <GVN corr="understands">understand</GVN><GADJO corr="more things"> things <GDI corr="more">much</GDI></GADJO> about some questions<QM corr=",">\0</QM> which <GVN corr="are">is</GVN> in <FS corr="mind">maind</FS> and heart.
+</file>

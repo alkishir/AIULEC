@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <corpus>
+    <text>
+      <metadata>
+        <Faculty>Education</Faculty>
+        <Semester>1</Semester>
+        <Age>19</Age>
+        <Time_spent_at_an_EnglishSpeaking_country>X</Time_spent_at_an_EnglishSpeaking_country>
+        <Topic>An interesting place</Topic>
+        <Title>An interesting place</Title>
+        </metadata>
+      <body>
+        <word pos="DPS">My</word>
+        <word pos="AJ0">interesting</word>
+        <word pos="NN1">place</word>
+        <word pos="VBZ">is</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">college</word>
+        <word pos="NN1">library</word>
+        <word pos="PUN">,</word>
+        <word pos="PNP">I</word>
+        <word pos="VVB">go</word>
+        <word pos="PRP">to</word>
+        <word pos="PNP">her</word>
+        <word pos="DT0">all</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">time</word>
+        <word pos="PNP">I</word>
+        <word pos="VBB">'m</word>
+        <word pos="AJ0">free</word>
+        <word pos="PRF">of</word>
+        <word pos="NN2">lectures</word>
+        <word pos="CJC">and</word>
+        <word pos="VVB">read</word>
+        <word pos="DPS">my</word>
+        <word pos="NN2">lessons</word>
+        <word pos="AV0">there</word>
+        <word pos="PUN">,</word>
+        <word pos="CJC">and</word>
+        <word pos="AV0">in</word>
+        <word pos="AV0">addition</word>
+        <word pos="PNP">I</word>
+        <word pos="VVB">Find</word>
+        <word pos="DT0">all</word>
+        <word pos="AT0">the</word>
+        <word pos="AJ0">scientific</word>
+        <word pos="NN1">research</word>
+        <word pos="CJT">that</word>
+        <word pos="PNP">I</word>
+        <word pos="VVB">want</word>
+        <word pos="PUN">,</word>
+        <word pos="PNP">it</word>
+        <word pos="VBZ">is</word>
+        <word pos="AV0">very</word>
+        <word pos="AJ0">comfortable</word>
+        <word pos="CJC">and</word>
+        <word pos="AJ0">full</word>
+        <word pos="PRF">of</word>
+        <word pos="NN1">calm</word>
+        <word pos="PUN">,</word>
+        <word pos="CJC">and</word>
+        <word pos="AV0">then</word>
+        <word pos="PNP">it</word>
+        <word pos="VBZ">is</word>
+        <word pos="AT0">the</word>
+        <word pos="AJS">best</word>
+        <word pos="NN1">place</word>
+        <word pos="PRP">in</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">college</word>
+        <word pos="PUN">.</word>
+        </body>
+      </text>
+    </corpus>
+  </root>

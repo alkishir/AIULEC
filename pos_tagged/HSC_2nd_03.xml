@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <corpus>
+    <text>
+      <metadata>
+        <Faculty>Human Sciences</Faculty>
+        <Semester>2</Semester>
+        <Age>19</Age>
+        <Time_spent_at_an_EnglishSpeaking_country>X</Time_spent_at_an_EnglishSpeaking_country>
+        <Topic>your best memory</Topic>
+        <Title>your best memory</Title>
+        </metadata>
+      <body>
+        <word pos="DPS">Our</word>
+        <word pos="AJ0">high</word>
+        <word pos="NN1">school</word>
+        <word pos="VVD">decided</word>
+        <word pos="TO0">to</word>
+        <word pos="VVI">take</word>
+        <word pos="PNP">us</word>
+        <word pos="PRP">on</word>
+        <word pos="NN1">trip</word>
+        <word pos="PUN">.</word>
+        <word pos="ORD">First</word>
+        <word pos="PUN">,</word>
+        <word pos="PNP">we</word>
+        <word pos="VVD">got</word>
+        <word pos="AVP">up</word>
+        <word pos="AV0">early</word>
+        <word pos="CJC">and</word>
+        <word pos="VVB">go</word>
+        <word pos="PRP">to</word>
+        <word pos="NN1">school</word>
+        <word pos="PUN">,</word>
+        <word pos="AV0">Then</word>
+        <word pos="PUN">,</word>
+        <word pos="PNP">we</word>
+        <word pos="VVD">went</word>
+        <word pos="PRP">to</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">seaside</word>
+        <word pos="CJC">and</word>
+        <word pos="VHD">had</word>
+        <word pos="NN1">breakfast</word>
+        <word pos="PUN">.</word>
+        <word pos="PRP">At</word>
+        <word pos="CRD">3:30</word>
+        <word pos="AV0">pm</word>
+        <word pos="PUN">,</word>
+        <word pos="PNP">we</word>
+        <word pos="VHD">had</word>
+        <word pos="NN1">lunch</word>
+        <word pos="AV0">there</word>
+        <word pos="PUN">.</word>
+        <word pos="ORD">Next</word>
+        <word pos="PUN">,</word>
+        <word pos="PNP">I</word>
+        <word pos="VVD">played</word>
+        <word pos="PRP">with</word>
+        <word pos="DPS">my</word>
+        <word pos="NN2">friends</word>
+        <word pos="PUN">.</word>
+        <word pos="AV0">At</word>
+        <word pos="AV0">last</word>
+        <word pos="PNP">we</word>
+        <word pos="VVD">returned</word>
+        <word pos="PRP">to</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">house</word>
+        <word pos="PUN">.</word>
+        </body>
+      </text>
+    </corpus>
+  </root>

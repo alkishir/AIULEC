@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<file name="" tagset="uclee-en-2.0.tag">
+Title: <FS corr="Your Best Memory">your best memory</FS>                                           
+
+<FS corr="Last">last</FS> year<QM corr=",">\0</QM> when we <WO corr="all went">went all</WO> <WR corr="0">faimly</WR> to <FS corr="France">france</FS> <QC corr=".">,</QC> <FS corr="after">ofter</FS> <GPP corr="we?">\0</GPP><FS corr="finished">fenshed</FS> school<QM corr=",">\0</QM> we went <GPP corr="there">it</GPP><QC corr=".">,</QC> it was <GA corr="a">\0</GA>nice <GNN corr="year">years</GNN>. There are <FS corr="beautiful">buotfull</FS> streets, <FS corr="parks">barks</FS> and places.
+</file>

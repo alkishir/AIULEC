@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <corpus>
+    <text>
+      <metadata>
+        <Faculty>Human Sciences</Faculty>
+        <Semester>4</Semester>
+        <Age>20</Age>
+        <Time_spent_at_an_EnglishSpeaking_country>X</Time_spent_at_an_EnglishSpeaking_country>
+        <Topic>Describing a picture</Topic>
+        <Title>Boy and dog</Title>
+        </metadata>
+      <body>
+        <word pos="PRP">In</word>
+        <word pos="CRD">one</word>
+        <word pos="NN1">day</word>
+        <word pos="PUN">,</word>
+        <word pos="EX0">there</word>
+        <word pos="NN1">boy</word>
+        <word pos="VVZ">goes</word>
+        <word pos="PRP">to</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">park</word>
+        <word pos="PUN">,</word>
+        <word pos="PNP">He</word>
+        <word pos="VVD">met</word>
+        <word pos="AT0">a</word>
+        <word pos="AJ0">sick</word>
+        <word pos="NN1">dog</word>
+        <word pos="CJC">and</word>
+        <word pos="VHD">had</word>
+        <word pos="AT0">no</word>
+        <word pos="NN1">home</word>
+        <word pos="PUN">.</word>
+        <word pos="VBB">Be</word>
+        <word pos="AJ0">kind</word>
+        <word pos="PRP">to</word>
+        <word pos="PNP">him</word>
+        <word pos="CJC">and</word>
+        <word pos="VVB">take</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">wood</word>
+        <word pos="CJC">and</word>
+        <word pos="VVB">build</word>
+        <word pos="PNP">him</word>
+        <word pos="NN1">home</word>
+        <word pos="PUN">,</word>
+        <word pos="AV0">Finally</word>
+        <word pos="PUN">,</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">dog</word>
+        <word pos="VBD">was</word>
+        <word pos="AV0">very</word>
+        <word pos="AJ0">happy</word>
+        <word pos="PRP">with</word>
+        <word pos="DTQ">what</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">boy</word>
+        <word pos="VVD">gave</word>
+        <word pos="PNP">it</word>
+        <word pos="PUN">.</word>
+        </body>
+      </text>
+    </corpus>
+  </root>

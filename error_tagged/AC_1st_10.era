@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<file name="" tagset="uclee-en-2.0.tag">
+Title:............  
+
+<GA corr="The">\0</GA>Lion is stronger<QM corr=".">\0</QM>  
+
+It has brown hair. 
+
+It has meat. 
+
+It is a big animal. 
+
+It <LSV corr="has">is</LSV> a long tail. 
+
+It is dangerous<QM corr=".">\0</QM>
+</file>

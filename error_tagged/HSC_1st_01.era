@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<file name="" tagset="uclee-en-2.0.tag">
+Title: School \ <GNN corr="Animals">Animal</GNN>
+
+She goes to school at 8 o'clock<QM corr=".">\0</QM> 
+
+The best <LSN corr="subject">object</LSN> is mathematics<QM corr=".">\0</QM>
+
+The English language is the best for me<QM corr=".">\0</QM>
+
+<GA corr="0">The</GA> university is better than <GA corr="0">the</GA> high school<QM corr=".">\0</QM>
+
+I want to be a teacher in <GA corr="the">\0</GA>future<QM corr=".">\0</QM>
+
+He used to be a good student in his school<QM corr=".">\0</QM>
+
+If you study hard, you will pass the exams<QM corr=".">\0</QM>
+
+I saw an elephant in the zoo<QM corr=".">\0</QM>
+
+Cats are <GA corr="0">a</GA> <FS corr="beautiful">beatiful</FS> small <GNN corr="animals">animal</GNN><QM corr=".">\0</QM>
+
+A <FS corr="dog">dag</FS> is a pet<QM corr=".">\0</QM>
+</file>

@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <corpus>
+    <text>
+      <metadata>
+        <Faculty>Arts</Faculty>
+        <Semester>1</Semester>
+        <Age>33</Age>
+        <Time_spent_at_an_EnglishSpeaking_country>none</Time_spent_at_an_EnglishSpeaking_country>
+        <Topic>Family </Topic>
+        <Title>Family</Title>
+        </metadata>
+      <body>
+        <word pos="DPS">My</word>
+        <word pos="NN1">family</word>
+        <word pos="VBZ">is</word>
+        <word pos="DT0">all</word>
+        <word pos="DPS">my</word>
+        <word pos="NN1">world</word>
+        <word pos="PUN">,</word>
+        <word pos="PNP">I</word>
+        <word pos="VHB">have</word>
+        <word pos="CRD">five</word>
+        <word pos="NN2">children</word>
+        <word pos="PUN">.</word>
+        <word pos="CRD">Three</word>
+        <word pos="NN2">boys</word>
+        <word pos="CJC">and</word>
+        <word pos="CRD">two</word>
+        <word pos="NN2">girls</word>
+        <word pos="PUN">,</word>
+        <word pos="PNP">I</word>
+        <word pos="VVB">love</word>
+        <word pos="PNP">them</word>
+        <word pos="CJC">and</word>
+        <word pos="VVB">try</word>
+        <word pos="TO0">to</word>
+        <word pos="VVI">protect</word>
+        <word pos="PNP">them</word>
+        <word pos="PUN">,</word>
+        <word pos="CJC">and</word>
+        <word pos="DPS">my</word>
+        <word pos="NN1">father</word>
+        <word pos="CJC">and</word>
+        <word pos="DPS">my</word>
+        <word pos="NN1">mother</word>
+        <word pos="PNP">they</word>
+        <word pos="VBB">are</word>
+        <word pos="DPS">my</word>
+        <word pos="NN1">heaven</word>
+        <word pos="PUN">.</word>
+        <word pos="NN1">Family</word>
+        <word pos="VVZ">means</word>
+        <word pos="AJ0">safe</word>
+        <word pos="CJC">and</word>
+        <word pos="NN1">love</word>
+        <word pos="PUN">.</word>
+        <word pos="PNI">Nothing</word>
+        <word pos="VVZ">equals</word>
+        <word pos="NN1">family</word>
+        <word pos="PUN">,</word>
+        <word pos="CJS">when</word>
+        <word pos="DPS">our</word>
+        <word pos="NN1">family</word>
+        <word pos="VBZ">is</word>
+        <word pos="AJ0">ok</word>
+        <word pos="PUN">,</word>
+        <word pos="PNP">we</word>
+        <word pos="VBB">are</word>
+        <word pos="AJ0">ok</word>
+        <word pos="PUN">.</word>
+        </body>
+      </text>
+    </corpus>
+  </root>

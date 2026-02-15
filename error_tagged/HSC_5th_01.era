@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<file name="" tagset="uclee-en-2.0.tag">
+Title: <FS corr="Teachers"><GNN corr="teachers">teacher </GNN></FS>
+
+<GA corr="0">The</GA> <GNN corr="Teachers">teacher</GNN> is <FS corr="important">Important</FS> in <GA corr="our">the</GA> <GNN corr="lives"><GWC corr="life">live</GWC></GNN> to give <GPP corr="us">\0</GPP>information about <GA corr="0">the</GA> <GWC corr="life">live</GWC> <LSPR corr="and">to</LSPR> <GA corr="0">the</GA> <LSN corr="teach">learn</LSN> <GPP corr="us">\0</GPP><LCC corr="0">and</LCC> <FS corr="speaking">speakin</FS> and <GVNF corr="writing">written</GVNF><QM corr=".">\0</QM>
+</file>

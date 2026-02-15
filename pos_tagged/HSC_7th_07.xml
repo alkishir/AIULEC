@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <corpus>
+    <text>
+      <metadata>
+        <Faculty>Human Sciences</Faculty>
+        <Semester>7</Semester>
+        <Age>23</Age>
+        <Time_spent_at_an_EnglishSpeaking_country>X</Time_spent_at_an_EnglishSpeaking_country>
+        <Topic>Some University students want to learn about others subjects. In addition to their main subjects. Others believe it is more important to give all their time and attention to studying for a qualification. Discuss both these views and give your own opinion.</Topic>
+        <Title>studing additional subjects or studying for a qualification</Title>
+        </metadata>
+      <body>
+        <word pos="PNP">I</word>
+        <word pos="VBB">am</word>
+        <word pos="VVB">agree</word>
+        <word pos="PRP">with</word>
+        <word pos="NN1">student</word>
+        <word pos="CJT">that</word>
+        <word pos="NN1">qualification</word>
+        <word pos="PRP">in</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">part</word>
+        <word pos="PRF">of</word>
+        <word pos="VVG">studying</word>
+        <word pos="CJC">and</word>
+        <word pos="VVG">studying</word>
+        <word pos="DT0">more</word>
+        <word pos="NN2">materials</word>
+        <word pos="CJC">or</word>
+        <word pos="NN2">courses</word>
+        <word pos="PRP">in</word>
+        <word pos="NN1">weekend</word>
+        <word pos="CJC">or</word>
+        <word pos="PRP">in</word>
+        <word pos="AJ0">free</word>
+        <word pos="NN1">time</word>
+        <word pos="TO0">to</word>
+        <word pos="VVI">improve</word>
+        <word pos="DPS">their</word>
+        <word pos="NN1">knowledge</word>
+        <word pos="CJC">and</word>
+        <word pos="VVI">change</word>
+        <word pos="AT0">the</word>
+        <word pos="AJ0">old</word>
+        <word pos="NN1">knowledge</word>
+        <word pos="PRP">in</word>
+        <word pos="DPS">their</word>
+        <word pos="NN1">mind</word>
+        <word pos="CJS">so</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">will</word>
+        <word pos="AJ0">attractive</word>
+        <word pos="DPS">their</word>
+        <word pos="NN2">abilities</word>
+        <word pos="TO0">to</word>
+        <word pos="VVI">take</word>
+        <word pos="DT0">more</word>
+        <word pos="CJC">and</word>
+        <word pos="DT0">more</word>
+        <word pos="NN1">information</word>
+        </body>
+      </text>
+    </corpus>
+  </root>

@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <corpus>
+    <text>
+      <metadata>
+        <Faculty>Human Sciences</Faculty>
+        <Semester>1</Semester>
+        <Age>19</Age>
+        <Time_spent_at_an_EnglishSpeaking_country>X</Time_spent_at_an_EnglishSpeaking_country>
+        <Topic>cooking</Topic>
+        <Title>cocking</Title>
+        </metadata>
+      <body>
+        <word pos="PNP">I</word>
+        <word pos="VVB">like</word>
+        <word pos="AV0">so</word>
+        <word pos="DT0">much</word>
+        <word pos="VVG">cooking</word>
+        <word pos="PNP">i</word>
+        <word pos="NN1">love</word>
+        <word pos="VVG">making</word>
+        <word pos="NN1">cake</word>
+        <word pos="CJC">and</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">pizza</word>
+        <word pos="AV0">too</word>
+        <word pos="NN1">pasta</word>
+        <word pos="AT0">the</word>
+        <word pos="VVG">cooking</word>
+        <word pos="VVG">giving</word>
+        <word pos="PRP">in</word>
+        <word pos="AJ0">positive</word>
+        <word pos="CJS">so</word>
+        <word pos="CJS">that</word>
+        <word pos="AV0">also</word>
+        </body>
+      </text>
+    </corpus>
+  </root>

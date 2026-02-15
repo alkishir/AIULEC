@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <corpus>
+    <text>
+      <metadata>
+        <Faculty>Human Sciences</Faculty>
+        <Semester>7</Semester>
+        <Age>none</Age>
+        <Time_spent_at_an_EnglishSpeaking_country>none</Time_spent_at_an_EnglishSpeaking_country>
+        <Topic>Some University students want to learn about other subjects. In addition to their main subjects. Others believe it is more important to give all their time and attention to studying for a qualification. Discuss both these views and give your own opinion.</Topic>
+        <Title>Some University student want to learn about others subject. In addition is their main subjects. Others believe make important to give all their time and attention to studying for a qualification. Discuss both these views and give your own opinion.</Title>
+        </metadata>
+      <body>
+        <word pos="AV0">Of</word>
+        <word pos="AV0">course</word>
+        <word pos="PUN">,</word>
+        <word pos="PNP">you</word>
+        <word pos="VM0">must</word>
+        <word pos="VVI">give</word>
+        <word pos="NN1">time</word>
+        <word pos="PRP">to</word>
+        <word pos="NN2">students</word>
+        <word pos="PRP">for</word>
+        <word pos="DPS">their</word>
+        <word pos="NN1">interest</word>
+        <word pos="PRP">in</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">rest</word>
+        <word pos="PRF">of</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">material</word>
+        <word pos="CJC">and</word>
+        <word pos="VVB">study</word>
+        <word pos="PRP">in</word>
+        <word pos="DPS">their</word>
+        <word pos="AJ0">sufficient</word>
+        <word pos="NN1">time</word>
+        <word pos="CJC">and</word>
+        <word pos="PRP">according</word>
+        <word pos="PRP">to</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">level</word>
+        <word pos="PRF">of</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">curriculum</word>
+        <word pos="PUN">,</word>
+        <word pos="CJS">so</word>
+        <word pos="PNP">it</word>
+        <word pos="VBZ">is</word>
+        <word pos="AJ0">important</word>
+        <word pos="TO0">to</word>
+        <word pos="VVI">give</word>
+        <word pos="NN2">students</word>
+        <word pos="DPS">their</word>
+        <word pos="NN1">time</word>
+        <word pos="CJC">and</word>
+        <word pos="NN1">attention</word>
+        <word pos="TO0">to</word>
+        <word pos="VVI">study</word>
+        <word pos="VVI">discuss</word>
+        <word pos="CJC">and</word>
+        <word pos="VVI">understand</word>
+        <word pos="AT0">the</word>
+        <word pos="ORD">next</word>
+        <word pos="CJC">and</word>
+        <word pos="AJ0">new</word>
+        <word pos="PUN">.</word>
+        </body>
+      </text>
+    </corpus>
+  </root>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<file name="" tagset="uclee-en-2.0.tag">
+Title: Family 
+
+I have <FS corr="two">Two</FS> sisters and seven brothers<QC corr=".">,</QC> My <GADJCS corr="father's job">father job</GADJCS> is <GA corr="an">a</GA> <GADJO corr="electricity engineer"><FS corr="engineer">Enigger</FS> <FS corr="electricity">electiry</FS></GADJO>. My <LP corr="mom"><GWC corr="mother's job">mother job</GWC></LP> is a <FS corr="housewife">house wife</FS>.  
+
+My first brother is Mohmed and <GPP corr="he">\0</GPP><GVN corr="studies"><FS corr="study">Study</FS></GVN> <WR corr="0">is</WR> <GA corr="0">a</GA> math.
+</file>

@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <corpus>
+    <text>
+      <metadata>
+        <Faculty>Human Sciences</Faculty>
+        <Semester>1</Semester>
+        <Age>18</Age>
+        <Time_spent_at_an_EnglishSpeaking_country>none</Time_spent_at_an_EnglishSpeaking_country>
+        <Topic>family</Topic>
+        <Title>family</Title>
+        </metadata>
+      <body>
+        <word pos="NN1">Family</word>
+        <word pos="VBZ">is</word>
+        <word pos="AV0">very</word>
+        <word pos="AJ0">important</word>
+        <word pos="PUN">,</word>
+        <word pos="PNP">I</word>
+        <word pos="VBB">am</word>
+        <word pos="NN1">name</word>
+        <word pos="VBZ">is</word>
+        <word pos="NN1">zianab</word>
+        <word pos="PUN">,</word>
+        <word pos="CJC">and</word>
+        <word pos="DPS">my</word>
+        <word pos="CRD">18</word>
+        <word pos="AJ0">old</word>
+        <word pos="NN2">years</word>
+        <word pos="PUN">,</word>
+        <word pos="PNP">I</word>
+        <word pos="VBB">am</word>
+        <word pos="PRP">from</word>
+        <word pos="NP0">Libya</word>
+        <word pos="PUN">,</word>
+        <word pos="CJC">and</word>
+        <word pos="NN0">people</word>
+        <word pos="CRD">six</word>
+        <word pos="CJC">and</word>
+        <word pos="DPS">my</word>
+        <word pos="NN1">father</word>
+        <word pos="CJC">and</word>
+        <word pos="NN1">mother</word>
+        <word pos="PUN">,</word>
+        <word pos="CJC">and</word>
+        <word pos="CRD">three</word>
+        <word pos="NN2">sisters</word>
+        <word pos="CJC">and</word>
+        <word pos="CRD">one</word>
+        <word pos="NN1">brother</word>
+        <word pos="PNP">I</word>
+        <word pos="DPS">my</word>
+        <word pos="NN1">father</word>
+        <word pos="NN1">work</word>
+        <word pos="NN1">teacher</word>
+        <word pos="CJC">and</word>
+        <word pos="NN1">mother</word>
+        <word pos="NN1">housewife</word>
+        <word pos="DPS">my</word>
+        <word pos="NN1">student</word>
+        <word pos="AJ0">English</word>
+        <word pos="NN1">language</word>
+        </body>
+      </text>
+    </corpus>
+  </root>

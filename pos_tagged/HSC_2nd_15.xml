@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <corpus>
+    <text>
+      <metadata>
+        <Faculty>Human Sciences</Faculty>
+        <Semester>2</Semester>
+        <Age>18</Age>
+        <Time_spent_at_an_EnglishSpeaking_country>X</Time_spent_at_an_EnglishSpeaking_country>
+        <Topic>Your best memory</Topic>
+        <Title>your best memory</Title>
+        </metadata>
+      <body>
+        <word pos="AT0">An</word>
+        <word pos="AJ0">unforgettable</word>
+        <word pos="NN1">memory</word>
+        <word pos="PRP">in</word>
+        <word pos="DPS">my</word>
+        <word pos="NN1">life</word>
+        <word pos="VBD">was</word>
+        <word pos="AJ0">high</word>
+        <word pos="NN1">school</word>
+        <word pos="NN1">memory</word>
+        <word pos="PUN">.</word>
+        <word pos="PNP">I</word>
+        <word pos="VBD">were</word>
+        <word pos="PRP">in</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">school</word>
+        <word pos="PRP">with</word>
+        <word pos="DPS">my</word>
+        <word pos="NN1">friend</word>
+        <word pos="PUN">,</word>
+        <word pos="ORD">first</word>
+        <word pos="PUN">,</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">manager</word>
+        <word pos="PRF">of</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">school</word>
+        <word pos="VVD">gave</word>
+        <word pos="PNP">us</word>
+        <word pos="NN1">graduation</word>
+        <word pos="NN2">caps</word>
+        <word pos="CJC">and</word>
+        <word pos="VVD">called</word>
+        <word pos="PNP">us</word>
+        <word pos="PRP">in</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">theatre</word>
+        <word pos="PUN">.</word>
+        <word pos="PRP">after</word>
+        <word pos="DT0">that</word>
+        <word pos="PNP">they</word>
+        <word pos="VVD">began</word>
+        <word pos="TO0">to</word>
+        <word pos="VVI">honor</word>
+        <word pos="PNP">us</word>
+        <word pos="PUN">.</word>
+        <word pos="CJC">and</word>
+        <word pos="PNP">we</word>
+        <word pos="VVD">worried</word>
+        <word pos="AV0">Then</word>
+        <word pos="PNP">we</word>
+        <word pos="VVD">cut</word>
+        <word pos="AT0">a</word>
+        <word pos="NN1">graduation</word>
+        <word pos="NN1">cake</word>
+        <word pos="VBD">were</word>
+        <word pos="VVG">feeling</word>
+        </body>
+      </text>
+    </corpus>
+  </root>

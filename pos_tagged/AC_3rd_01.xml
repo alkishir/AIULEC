@@ -1,0 +1,137 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <corpus>
+    <text>
+      <metadata>
+        <Faculty>Arts</Faculty>
+        <Semester>3</Semester>
+        <Age>20</Age>
+        <Time_spent_at_an_EnglishSpeaking_country>none</Time_spent_at_an_EnglishSpeaking_country>
+        <Topic>Social media</Topic>
+        <Title>Social Media</Title>
+        </metadata>
+      <body>
+        <word pos="AJ0">Social</word>
+        <word pos="NN0">media</word>
+        <word pos="VBZ">is</word>
+        <word pos="AT0">a</word>
+        <word pos="NN1">tool</word>
+        <word pos="CJT">that</word>
+        <word pos="VVZ">helps</word>
+        <word pos="AT0">the</word>
+        <word pos="NN0">people</word>
+        <word pos="TO0">to</word>
+        <word pos="VVI">communicate</word>
+        <word pos="PRP">around</word>
+        <word pos="AT0">the</word>
+        <word pos="AJ0">whole</word>
+        <word pos="NN1">world</word>
+        <word pos="PUN">.</word>
+        <word pos="PNP">It</word>
+        <word pos="VVZ">makes</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">life</word>
+        <word pos="AJC">simpler</word>
+        <word pos="PUN">.</word>
+        <word pos="CJS">when</word>
+        <word pos="PNI">someone</word>
+        <word pos="VVZ">wants</word>
+        <word pos="TO0">to</word>
+        <word pos="VVI">know</word>
+        <word pos="PNI">anything</word>
+        <word pos="CJC">or</word>
+        <word pos="NN1">information</word>
+        <word pos="PNP">he</word>
+        <word pos="VM0">can</word>
+        <word pos="VVZ">gets</word>
+        <word pos="PNP">it</word>
+        <word pos="PRP">in</word>
+        <word pos="NN2">seconds</word>
+        <word pos="PUN">.</word>
+        <word pos="AV0">Moreover</word>
+        <word pos="PUN">,</word>
+        <word pos="PNP">it</word>
+        <word pos="VVZ">helps</word>
+        <word pos="AT0">the</word>
+        <word pos="NN2">children</word>
+        <word pos="PRP">in</word>
+        <word pos="NN1">education</word>
+        <word pos="PUN">.</word>
+        <word pos="PNP">They</word>
+        <word pos="VM0">can</word>
+        <word pos="VVI">study</word>
+        <word pos="PRP">through</word>
+        <word pos="PNP">it</word>
+        <word pos="PUN">.</word>
+        <word pos="NN0">people</word>
+        <word pos="VM0">can</word>
+        <word pos="VVI">know</word>
+        <word pos="DT0">all</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">news</word>
+        <word pos="CJC">and</word>
+        <word pos="AT0">the</word>
+        <word pos="NN2">events</word>
+        <word pos="PRP">in</word>
+        <word pos="AJ0">other</word>
+        <word pos="NN2">countries</word>
+        <word pos="PUN">.</word>
+        <word pos="AV0">Additionally</word>
+        <word pos="PUN">.</word>
+        <word pos="DT0">many</word>
+        <word pos="NN2">things</word>
+        <word pos="VHB">have</word>
+        <word pos="VVN">become</word>
+        <word pos="AJ0">dependent</word>
+        <word pos="PRP">on</word>
+        <word pos="PNP">it</word>
+        <word pos="PUN">.</word>
+        <word pos="DT0">Many</word>
+        <word pos="NN2">users</word>
+        <word pos="VVB">begin</word>
+        <word pos="TO0">to</word>
+        <word pos="VVI">use</word>
+        <word pos="PNP">it</word>
+        <word pos="PUN">.</word>
+        <word pos="PRP">In</word>
+        <word pos="PRP">addition</word>
+        <word pos="PRP">to</word>
+        <word pos="VVI">use</word>
+        <word pos="PNP">it</word>
+        <word pos="PRP">in</word>
+        <word pos="AJ0">correct</word>
+        <word pos="NN1">way</word>
+        <word pos="PUN">,</word>
+        <word pos="CJS">because</word>
+        <word pos="CJS">when</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">number</word>
+        <word pos="PRF">of</word>
+        <word pos="DPS">its</word>
+        <word pos="NN2">users</word>
+        <word pos="PUN">,</word>
+        <word pos="AT0">the</word>
+        <word pos="DT0">this</word>
+        <word pos="NN1">use</word>
+        <word pos="PRF">of</word>
+        <word pos="PNP">it</word>
+        <word pos="VM0">will</word>
+        <word pos="VVI">increase</word>
+        <word pos="PUN">.</word>
+        <word pos="CJS">since</word>
+        <word pos="DT0">many</word>
+        <word pos="NN2">things</word>
+        <word pos="VVD">began</word>
+        <word pos="TO0">to</word>
+        <word pos="VVI">use</word>
+        <word pos="PNP">it</word>
+        <word pos="DPS">its</word>
+        <word pos="NN2">users</word>
+        <word pos="VM0">will</word>
+        <word pos="VVI">continue</word>
+        <word pos="NN1">increase</word>
+        <word pos="PUN">.</word>
+        </body>
+      </text>
+    </corpus>
+  </root>

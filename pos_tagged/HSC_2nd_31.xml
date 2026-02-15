@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <corpus>
+    <text>
+      <metadata>
+        <Faculty>Human Sciences</Faculty>
+        <Semester>2</Semester>
+        <Age>none</Age>
+        <Time_spent_at_an_EnglishSpeaking_country>X</Time_spent_at_an_EnglishSpeaking_country>
+        <Topic>A special place</Topic>
+        <Title>A special place</Title>
+        </metadata>
+      <body>
+        <word pos="AT0">A</word>
+        <word pos="AJ0">special</word>
+        <word pos="NN1">place</word>
+        <word pos="VBZ">is</word>
+        <word pos="NN1">House</word>
+        <word pos="NN1">family</word>
+        <word pos="CJS">because</word>
+        <word pos="PNP">we</word>
+        <word pos="VBB">are</word>
+        <word pos="VVG">meeting</word>
+        <word pos="AV0">inside</word>
+        <word pos="CJC">and</word>
+        <word pos="VVB">stay</word>
+        <word pos="NN1">time</word>
+        <word pos="PRP">for</word>
+        <word pos="PUN">.</word>
+        <word pos="EX0">there</word>
+        <word pos="VBZ">is</word>
+        <word pos="DT0">all</word>
+        <word pos="NN1">family</word>
+        <word pos="CJC">and</word>
+        <word pos="VVB">meet</word>
+        <word pos="NN2">children</word>
+        <word pos="TO0">to</word>
+        <word pos="VVI">play</word>
+        </body>
+      </text>
+    </corpus>
+  </root>

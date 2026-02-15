@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <corpus>
+    <text>
+      <metadata>
+        <Faculty>Education</Faculty>
+        <Semester>1</Semester>
+        <Age>19</Age>
+        <Time_spent_at_an_EnglishSpeaking_country>X</Time_spent_at_an_EnglishSpeaking_country>
+        <Topic>An interesting place</Topic>
+        <Title>An interesting place</Title>
+        </metadata>
+      <body>
+        <word pos="DPS">My</word>
+        <word pos="AJ0">interesting</word>
+        <word pos="NN1">place</word>
+        <word pos="VBZ">is</word>
+        <word pos="NN1">mosque</word>
+        <word pos="PUN">.</word>
+        <word pos="PNP">I</word>
+        <word pos="VVB">love</word>
+        <word pos="DT0">this</word>
+        <word pos="NN1">place</word>
+        <word pos="CJS">because</word>
+        <word pos="PNP">I</word>
+        <word pos="VVB">feel</word>
+        <word pos="AJ0">comfortable</word>
+        <word pos="PUN">,</word>
+        <word pos="AV0">also</word>
+        <word pos="AJ0">quiet</word>
+        <word pos="PUN">,</word>
+        <word pos="CJC">and</word>
+        <word pos="NN0">people</word>
+        <word pos="VBZ">is</word>
+        <word pos="VVG">praying</word>
+        <word pos="PUN">,</word>
+        <word pos="AT0">an</word>
+        <word pos="NN1">addition</word>
+        <word pos="NN1">worship</word>
+        <word pos="NP0">Allah</word>
+        <word pos="PUN">,</word>
+        <word pos="CJC">and</word>
+        <word pos="PNP">They</word>
+        <word pos="VBB">are</word>
+        <word pos="VVG">reading</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">Quran</word>
+        <word pos="PUN">,</word>
+        <word pos="CJS">so</word>
+        <word pos="PNP">I</word>
+        <word pos="VVB">love</word>
+        <word pos="DPS">its</word>
+        <word pos="PUN">.</word>
+        <word pos="DT0">This</word>
+        <word pos="VBZ">is</word>
+        <word pos="NN1">house</word>
+        <word pos="NP0">Allah</word>
+        <word pos="PUN">,</word>
+        <word pos="CJC">but</word>
+        <word pos="PUN">,</word>
+        <word pos="AT0">the</word>
+        <word pos="DT0">more</word>
+        <word pos="PRF">of</word>
+        <word pos="NN0">people</word>
+        <word pos="VM0">ca</word>
+        <word pos="XX0">n't</word>
+        <word pos="VVI">go</word>
+        <word pos="PRP">to</word>
+        <word pos="DPS">its</word>
+        <word pos="PUN">.</word>
+        </body>
+      </text>
+    </corpus>
+  </root>

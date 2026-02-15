@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <corpus>
+    <text>
+      <metadata>
+        <Faculty>Education</Faculty>
+        <Semester>1</Semester>
+        <Age>19</Age>
+        <Time_spent_at_an_EnglishSpeaking_country>X</Time_spent_at_an_EnglishSpeaking_country>
+        <Topic>An interesting place</Topic>
+        <Title>An interesting place</Title>
+        </metadata>
+      <body>
+        <word pos="NP0">Benghazi</word>
+        <word pos="VHZ">has</word>
+        <word pos="DT0">many</word>
+        <word pos="AJ0">beautiful</word>
+        <word pos="NN2">places</word>
+        <word pos="PUN">,</word>
+        <word pos="PNP">They</word>
+        <word pos="VHB">have</word>
+        <word pos="VVN">visited</word>
+        <word pos="PRP">by</word>
+        <word pos="NP0">Bosco</word>
+        <word pos="NP0">Corniche</word>
+        <word pos="PUN">,</word>
+        <word pos="CJC">and</word>
+        <word pos="VVG">enjoying</word>
+        <word pos="AT0">the</word>
+        <word pos="NN2">funs</word>
+        <word pos="CJS">after</word>
+        <word pos="CJT">that</word>
+        <word pos="PNP">I</word>
+        <word pos="VVB">visit</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">museum</word>
+        <word pos="PUN">,</word>
+        <word pos="CJC">and</word>
+        <word pos="NP0">National</word>
+        <word pos="NP0">Theater</word>
+        <word pos="CJC">and</word>
+        <word pos="NN1">knowledge</word>
+        <word pos="PRF">of</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">difference</word>
+        <word pos="PRP">between</word>
+        <word pos="PNP">them</word>
+        <word pos="CJC">and</word>
+        <word pos="AJ0">other</word>
+        <word pos="NN2">cities</word>
+        <word pos="PUN">,</word>
+        <word pos="PNP">I</word>
+        <word pos="AV0">also</word>
+        <word pos="VVD">visited</word>
+        <word pos="PRP">to</word>
+        <word pos="AJ0">public</word>
+        <word pos="NN2">markets</word>
+        <word pos="PRP">such</word>
+        <word pos="PRP">as</word>
+        <word pos="AT0">the</word>
+        <word pos="AJ0">Egyptian</word>
+        <word pos="NN1">market</word>
+        <word pos="PUN">.</word>
+        </body>
+      </text>
+    </corpus>
+  </root>

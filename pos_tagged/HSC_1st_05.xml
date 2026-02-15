@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <corpus>
+    <text>
+      <metadata>
+        <Faculty>Human Sciences</Faculty>
+        <Semester>1</Semester>
+        <Age>20</Age>
+        <Time_spent_at_an_EnglishSpeaking_country>none</Time_spent_at_an_EnglishSpeaking_country>
+        <Topic>hobbies</Topic>
+        <Title>hobbies</Title>
+        </metadata>
+      <body>
+        <word pos="DPS">My</word>
+        <word pos="NN2">hobbies</word>
+        <word pos="VBZ">is</word>
+        <word pos="VVG">reading</word>
+        <word pos="VVG">writing</word>
+        <word pos="CJC">and</word>
+        <word pos="VVG">cooking</word>
+        <word pos="CJC">and</word>
+        <word pos="AT0">the</word>
+        <word pos="VVG">shopping</word>
+        <word pos="DPS">My</word>
+        <word pos="AJ0">favorite</word>
+        <word pos="NN2">hobbies</word>
+        <word pos="VBZ">is</word>
+        <word pos="VVG">reading</word>
+        <word pos="NN2">novels</word>
+        <word pos="PRP">in</word>
+        <word pos="NN1">English</word>
+        <word pos="CJS">because</word>
+        <word pos="PNP">I</word>
+        <word pos="VVB">need</word>
+        <word pos="TO0">to</word>
+        <word pos="VVI">learn</word>
+        <word pos="NN1">English</word>
+        <word pos="CJC">and</word>
+        <word pos="VVG">shopping</word>
+        <word pos="CJS">because</word>
+        <word pos="PNP">I</word>
+        <word pos="VVB">need</word>
+        <word pos="AJ0">full</word>
+        <word pos="NN1">wardrobe</word>
+        </body>
+      </text>
+    </corpus>
+  </root>

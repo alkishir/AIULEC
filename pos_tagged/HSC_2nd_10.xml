@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <corpus>
+    <text>
+      <metadata>
+        <Faculty>Human Sciences</Faculty>
+        <Semester>2</Semester>
+        <Age>20</Age>
+        <Time_spent_at_an_EnglishSpeaking_country>X</Time_spent_at_an_EnglishSpeaking_country>
+        <Topic>a special place</Topic>
+        <Title>a special place</Title>
+        </metadata>
+      <body>
+        <word pos="DPS">Our</word>
+        <word pos="NN1">farmer</word>
+        <word pos="VBZ">is</word>
+        <word pos="AT0">a</word>
+        <word pos="AV0">really</word>
+        <word pos="AT0">a</word>
+        <word pos="AJ0">special</word>
+        <word pos="NN1">place</word>
+        <word pos="PUN">.</word>
+        <word pos="PNP">It</word>
+        <word pos="AJ0">full</word>
+        <word pos="PRP">by</word>
+        <word pos="AT0">a</word>
+        <word pos="NN0">fruit</word>
+        <word pos="NN2">trees</word>
+        <word pos="PUN">,</word>
+        <word pos="NN1">vegetable</word>
+        <word pos="NN2">plants</word>
+        <word pos="PUN">,</word>
+        <word pos="CJC">and</word>
+        <word pos="AV0">also</word>
+        <word pos="VHZ">has</word>
+        <word pos="AJ0">big</word>
+        <word pos="AJ0">green</word>
+        <word pos="NN1">space</word>
+        <word pos="PUN">.</word>
+        <word pos="PNP">I</word>
+        <word pos="VM0">used</word>
+        <word pos="TO0">to</word>
+        <word pos="VVI">go</word>
+        <word pos="AV0">there</word>
+        <word pos="CJS">when</word>
+        <word pos="PNP">I</word>
+        <word pos="VVB">feel</word>
+        <word pos="AJ0">depressed</word>
+        <word pos="PUN">,</word>
+        <word pos="CJS">Because</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">air</word>
+        <word pos="EX0">there</word>
+        <word pos="VBZ">is</word>
+        <word pos="AV0">very</word>
+        <word pos="AJ0">clear</word>
+        <word pos="PUN">,</word>
+        <word pos="PNP">It</word>
+        <word pos="VVZ">helps</word>
+        <word pos="PNP">me</word>
+        <word pos="PRP">to</word>
+        <word pos="VVG">thinking</word>
+        <word pos="AV0">clearly</word>
+        <word pos="PUN">,</word>
+        <word pos="AV0">So</word>
+        <word pos="DT0">that</word>
+        <word pos="VBZ">'s</word>
+        <word pos="AVQ">why</word>
+        <word pos="PNP">I</word>
+        <word pos="VVB">call</word>
+        <word pos="PNP">it</word>
+        <word pos="AT0">a</word>
+        <word pos="AJ0">special</word>
+        <word pos="NN1">place</word>
+        <word pos="PUN">,</word>
+        <word pos="VBB">are</word>
+        <word pos="DPS">My</word>
+        <word pos="AJ0">special</word>
+        <word pos="NN1">place</word>
+        <word pos="PUN">.</word>
+        </body>
+      </text>
+    </corpus>
+  </root>

@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <corpus>
+    <text>
+      <metadata>
+        <Faculty>Education</Faculty>
+        <Semester>1</Semester>
+        <Age>19</Age>
+        <Time_spent_at_an_EnglishSpeaking_country>X</Time_spent_at_an_EnglishSpeaking_country>
+        <Topic>My Family</Topic>
+        <Title>..........</Title>
+        </metadata>
+      <body>
+        <word pos="DPS">My</word>
+        <word pos="NN1">name</word>
+        <word pos="VBZ">is</word>
+        <word pos="NP0">Heba</word>
+        <word pos="PUN">,</word>
+        <word pos="PNP">I</word>
+        <word pos="VBB">'m</word>
+        <word pos="PRP">from</word>
+        <word pos="NP0">Libya</word>
+        <word pos="PUN">.</word>
+        <word pos="PNP">I</word>
+        <word pos="VVD">born</word>
+        <word pos="PRP">in</word>
+        <word pos="NP0">Zliten</word>
+        <word pos="PUN">.</word>
+        <word pos="PNP">I</word>
+        <word pos="VBB">'m</word>
+        <word pos="CRD">19</word>
+        <word pos="NN2">years</word>
+        <word pos="AJ0">old</word>
+        <word pos="PUN">.</word>
+        <word pos="PNP">I</word>
+        <word pos="VVB">live</word>
+        <word pos="PRP">with</word>
+        <word pos="DPS">my</word>
+        <word pos="NN1">family</word>
+        <word pos="PUN">.</word>
+        <word pos="PNP">I</word>
+        <word pos="VHB">have</word>
+        <word pos="CRD">one</word>
+        <word pos="NN1">brother</word>
+        <word pos="CJC">and</word>
+        <word pos="CRD">four</word>
+        <word pos="NN1">sister</word>
+        <word pos="PUN">.</word>
+        <word pos="DPS">My</word>
+        <word pos="NN1">mother</word>
+        <word pos="VVZ">works</word>
+        <word pos="PRP">as</word>
+        <word pos="NN1">teacher</word>
+        <word pos="PUN">.</word>
+        <word pos="CJC">and</word>
+        <word pos="DPS">my</word>
+        <word pos="NN1">father</word>
+        <word pos="VVZ">works</word>
+        <word pos="PRP">as</word>
+        <word pos="NN1">freelancer</word>
+        <word pos="PUN">.</word>
+        </body>
+      </text>
+    </corpus>
+  </root>

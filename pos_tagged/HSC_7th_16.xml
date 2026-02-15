@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <corpus>
+    <text>
+      <metadata>
+        <Faculty>Human Sciences</Faculty>
+        <Semester>7</Semester>
+        <Age>none</Age>
+        <Time_spent_at_an_EnglishSpeaking_country>none</Time_spent_at_an_EnglishSpeaking_country>
+        <Topic>Some people feel that legal age at which people can marry should be at least 21. To what extent do you agree or disagree?</Topic>
+        <Title>Some people feel that legal age at which people can marry should be at least 21 To what extent do you agree or disagree?</Title>
+        </metadata>
+      <body>
+        <word pos="PRP">To</word>
+        <word pos="DTQ">what</word>
+        <word pos="NN1">extent</word>
+        <word pos="VDB">do</word>
+        <word pos="PNP">you</word>
+        <word pos="VVI">agree</word>
+        <word pos="CJC">or</word>
+        <word pos="VVI">disagree</word>
+        <word pos="PUN">?</word>
+        <word pos="VVB">Disagree</word>
+        <word pos="PUN">,</word>
+        <word pos="CJS">because</word>
+        <word pos="PRP">at</word>
+        <word pos="CRD">21</word>
+        <word pos="PUN">.</word>
+        <word pos="ORD">First</word>
+        <word pos="PUN">,</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">person</word>
+        <word pos="VBZ">is</word>
+        <word pos="XX0">not</word>
+        <word pos="VVI">complete</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">study</word>
+        <word pos="PUN">.</word>
+        <word pos="ORD">Second</word>
+        <word pos="PUN">,</word>
+        <word pos="AV0">sometime</word>
+        <word pos="PNP">she</word>
+        <word pos="PUN">/</word>
+        <word pos="PNP">he</word>
+        <word pos="VBZ">is</word>
+        <word pos="XX0">n't</word>
+        <word pos="NN1">work</word>
+        <word pos="CJC">and</word>
+        <word pos="VDZ">does</word>
+        <word pos="XX0">not</word>
+        <word pos="VHI">have</word>
+        <word pos="AT0">the</word>
+        <word pos="AV0">enough</word>
+        <word pos="NN1">experience</word>
+        <word pos="PRP">for</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">parking</word>
+        <word pos="NN1">lots</word>
+        <word pos="PUN">.</word>
+        <word pos="PNP">I</word>
+        <word pos="VVB">agree</word>
+        <word pos="DTQ">which</word>
+        <word pos="NN0">people</word>
+        <word pos="VM0">can</word>
+        <word pos="VVI">marry</word>
+        <word pos="PRP">after</word>
+        <word pos="CRD">25</word>
+        <word pos="NN1">age</word>
+        <word pos="CJT">that</word>
+        <word pos="PNP">they</word>
+        <word pos="VBB">are</word>
+        <word pos="VVN">grown</word>
+        <word pos="AV0">intellectually</word>
+        <word pos="PUN">,</word>
+        <word pos="DT0">this</word>
+        <word pos="VBZ">is</word>
+        <word pos="AJ0">favorable</word>
+        <word pos="NN1">age</word>
+        <word pos="PUN">.</word>
+        </body>
+      </text>
+    </corpus>
+  </root>

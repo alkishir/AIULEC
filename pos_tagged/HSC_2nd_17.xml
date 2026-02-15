@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <corpus>
+    <text>
+      <metadata>
+        <Faculty>Human Sciences</Faculty>
+        <Semester>2</Semester>
+        <Age>19</Age>
+        <Time_spent_at_an_EnglishSpeaking_country>X</Time_spent_at_an_EnglishSpeaking_country>
+        <Topic>Your best memory</Topic>
+        <Title>your best memory</Title>
+        </metadata>
+      <body>
+        <word pos="AT0">An</word>
+        <word pos="AJ0">unforgettable</word>
+        <word pos="NN1">experience</word>
+        <word pos="PRP">in</word>
+        <word pos="DPS">my</word>
+        <word pos="NN1">life</word>
+        <word pos="PUN">.</word>
+        <word pos="ORD">first</word>
+        <word pos="PUN">,</word>
+        <word pos="CJS">when</word>
+        <word pos="PNP">I</word>
+        <word pos="VVD">concluded</word>
+        <word pos="AT0">the</word>
+        <word pos="AJ0">hully</word>
+        <word pos="NP0">Quraan</word>
+        <word pos="PUN">,</word>
+        <word pos="PRP">to</word>
+        <word pos="AT0">the</word>
+        <word pos="AJ0">final</word>
+        <word pos="NN1">paper</word>
+        <word pos="PUN">.</word>
+        <word pos="PNP">I</word>
+        <word pos="VVB">feel</word>
+        <word pos="AT0">a</word>
+        <word pos="NN1">lot</word>
+        <word pos="PRF">of</word>
+        <word pos="NN1">feeling</word>
+        <word pos="PUN">,</word>
+        <word pos="PNP">I</word>
+        <word pos="VVB">feel</word>
+        <word pos="AJ0">happy</word>
+        <word pos="PUN">,</word>
+        <word pos="VVB">cry</word>
+        <word pos="PUN">,</word>
+        <word pos="CJC">and</word>
+        <word pos="VVB">feel</word>
+        <word pos="VBZ">is</word>
+        <word pos="AJ0">wonderful</word>
+        <word pos="PUN">,</word>
+        <word pos="PNP">I</word>
+        <word pos="VVB">see</word>
+        <word pos="AJ0">happy</word>
+        <word pos="PRP">in</word>
+        <word pos="DPS">her</word>
+        <word pos="NN2">eyes</word>
+        <word pos="DPS">my</word>
+        <word pos="NN1">family</word>
+        <word pos="PUN">.</word>
+        <word pos="DT0">This</word>
+        <word pos="VBZ">is</word>
+        <word pos="AT0">a</word>
+        <word pos="AJ0">nice</word>
+        <word pos="PUN">.</word>
+        </body>
+      </text>
+    </corpus>
+  </root>

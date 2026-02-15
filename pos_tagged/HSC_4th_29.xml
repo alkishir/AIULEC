@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <corpus>
+    <text>
+      <metadata>
+        <Faculty>Human Sciences</Faculty>
+        <Semester>4</Semester>
+        <Age>24</Age>
+        <Time_spent_at_an_EnglishSpeaking_country>none</Time_spent_at_an_EnglishSpeaking_country>
+        <Topic>Describing a picture</Topic>
+        <Title>sam and the dog</Title>
+        </metadata>
+      <body>
+        <word pos="AV0">Someday</word>
+        <word pos="EX0">there</word>
+        <word pos="VBZ">is</word>
+        <word pos="NN1">dog</word>
+        <word pos="VVG">playing</word>
+        <word pos="PRP">in</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">park</word>
+        <word pos="EX0">There</word>
+        <word pos="VBZ">is</word>
+        <word pos="AT0">a</word>
+        <word pos="AJ0">little</word>
+        <word pos="NN1">boy</word>
+        <word pos="NN1">name</word>
+        <word pos="VBZ">is</word>
+        <word pos="NP0">Sam</word>
+        <word pos="CJC">and</word>
+        <word pos="DPS">his</word>
+        <word pos="NN2">friends</word>
+        <word pos="AT0">The</word>
+        <word pos="NN1">dog</word>
+        <word pos="VBD">was</word>
+        <word pos="VVG">playing</word>
+        <word pos="AV0">alone</word>
+        <word pos="CJS">so</word>
+        <word pos="NP0">Sam</word>
+        <word pos="VVB">take</word>
+        <word pos="PNP">it</word>
+        <word pos="AT0">a</word>
+        <word pos="NN1">dog</word>
+        <word pos="PRP">with</word>
+        <word pos="PNP">him</word>
+        <word pos="PRP">in</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">house</word>
+        <word pos="CJC">and</word>
+        <word pos="VVB">take</word>
+        <word pos="NN1">care</word>
+        <word pos="PRP">for</word>
+        <word pos="PNP">it</word>
+        <word pos="PRP">through</word>
+        <word pos="VVG">building</word>
+        <word pos="AT0">a</word>
+        <word pos="NN1">dog</word>
+        <word pos="NN1">house</word>
+        <word pos="CJC">and</word>
+        <word pos="VVB">give</word>
+        <word pos="PNP">it</word>
+        <word pos="AT0">a</word>
+        <word pos="AJ0">good</word>
+        <word pos="NN1">food</word>
+        <word pos="PUN">.</word>
+        </body>
+      </text>
+    </corpus>
+  </root>

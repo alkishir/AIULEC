@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <corpus>
+    <text>
+      <metadata>
+        <Faculty>Human Sciences</Faculty>
+        <Semester>6</Semester>
+        <Age>20</Age>
+        <Time_spent_at_an_EnglishSpeaking_country>X</Time_spent_at_an_EnglishSpeaking_country>
+        <Topic>We should devote most of our lives to being happy</Topic>
+        <Title>..........</Title>
+        </metadata>
+      <body>
+        <word pos="PNP">we</word>
+        <word pos="VM0">should</word>
+        <word pos="VVI">devout</word>
+        <word pos="AV0">most</word>
+        <word pos="DPS">our</word>
+        <word pos="NN1">life</word>
+        <word pos="TO0">to</word>
+        <word pos="VBI">be</word>
+        <word pos="NN1">happiness</word>
+        <word pos="PNP">I</word>
+        <word pos="VVB">think</word>
+        <word pos="ORD">first</word>
+        <word pos="NN1">thing</word>
+        <word pos="VM0">should</word>
+        <word pos="TO0">to</word>
+        <word pos="VDI">do</word>
+        <word pos="VBZ">is</word>
+        <word pos="VVI">choose</word>
+        <word pos="AJ0">correct</word>
+        <word pos="NN1">team</word>
+        <word pos="NN0">people</word>
+        <word pos="TO0">to</word>
+        <word pos="VBI">be</word>
+        <word pos="NN1">friend</word>
+        <word pos="CJC">and</word>
+        <word pos="TO0">to</word>
+        <word pos="VDI">do</word>
+        <word pos="DPS">your</word>
+        <word pos="AJ0">favorites</word>
+        <word pos="NN2">things</word>
+        <word pos="PRP">in</word>
+        <word pos="NN1">life</word>
+        <word pos="CJC">and</word>
+        <word pos="VVN">learnt</word>
+        <word pos="CJS">because</word>
+        <word pos="PRP">from</word>
+        <word pos="VVI">learn</word>
+        <word pos="VM0">can</word>
+        <word pos="PNP">you</word>
+        <word pos="VVG">getting</word>
+        <word pos="NN1">money</word>
+        </body>
+      </text>
+    </corpus>
+  </root>

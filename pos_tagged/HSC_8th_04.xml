@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <corpus>
+    <text>
+      <metadata>
+        <Faculty>Human Sciences</Faculty>
+        <Semester>8</Semester>
+        <Age>24</Age>
+        <Time_spent_at_an_EnglishSpeaking_country>X</Time_spent_at_an_EnglishSpeaking_country>
+        <Topic>What is the importance of family? </Topic>
+        <Title>Importance of family</Title>
+        </metadata>
+      <body>
+        <word pos="NN1">Family</word>
+        <word pos="VBZ">is</word>
+        <word pos="AV0">very</word>
+        <word pos="AJ0">Important</word>
+        <word pos="PRP">in</word>
+        <word pos="NN1">life</word>
+        <word pos="NN1">family</word>
+        <word pos="VVG">making</word>
+        <word pos="DPS">our</word>
+        <word pos="NN1">family</word>
+        <word pos="AJ0">strong</word>
+        <word pos="CJC">and</word>
+        <word pos="AJ0">happy</word>
+        <word pos="PUN">,</word>
+        <word pos="PNP">I</word>
+        <word pos="VVB">live</word>
+        <word pos="AJ0">safe</word>
+        <word pos="CJC">and</word>
+        <word pos="VVN">loved</word>
+        <word pos="PRP">with</word>
+        <word pos="DPS">my</word>
+        <word pos="NN1">family</word>
+        <word pos="PUN">,</word>
+        <word pos="CJC">and</word>
+        <word pos="VVG">making</word>
+        <word pos="PNP">you</word>
+        <word pos="VVI">feel</word>
+        <word pos="NN1">hope</word>
+        <word pos="CJC">and</word>
+        <word pos="VVI">help</word>
+        <word pos="PNP">you</word>
+        <word pos="TO0">to</word>
+        <word pos="VVI">make</word>
+        <word pos="DPS">your</word>
+        <word pos="NN2">dears</word>
+        <word pos="AJ0">true</word>
+        <word pos="PUN">,</word>
+        <word pos="CJC">and</word>
+        <word pos="DPS">my</word>
+        <word pos="NN1">family</word>
+        <word pos="NN1">favorite</word>
+        <word pos="NN0">people</word>
+        <word pos="PRP">for</word>
+        <word pos="PNP">me</word>
+        </body>
+      </text>
+    </corpus>
+  </root>

@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <corpus>
+    <text>
+      <metadata>
+        <Faculty>Human Sciences</Faculty>
+        <Semester>6</Semester>
+        <Age>20</Age>
+        <Time_spent_at_an_EnglishSpeaking_country>X</Time_spent_at_an_EnglishSpeaking_country>
+        <Topic>Eating at restaurants with your family is a good way to build family ties</Topic>
+        <Title>restanrant</Title>
+        </metadata>
+      <body>
+        <word pos="VVG">Eating</word>
+        <word pos="PRP">at</word>
+        <word pos="AT0">a</word>
+        <word pos="NN1">restaurant</word>
+        <word pos="PRP">with</word>
+        <word pos="DPS">your</word>
+        <word pos="NN1">family</word>
+        <word pos="VBZ">is</word>
+        <word pos="AJ0">good</word>
+        <word pos="NN1">way</word>
+        <word pos="TO0">to</word>
+        <word pos="VVI">build</word>
+        <word pos="NN1">family</word>
+        <word pos="NN2">ties</word>
+        <word pos="PUN">.</word>
+        <word pos="NN1">restaurant</word>
+        <word pos="NN1">place</word>
+        <word pos="TO0">to</word>
+        <word pos="VVI">eat</word>
+        <word pos="CJC">or</word>
+        <word pos="VVI">buy</word>
+        <word pos="NN1">meal</word>
+        <word pos="CJC">or</word>
+        <word pos="NN2">drinks</word>
+        <word pos="PUN">.</word>
+        <word pos="DT0">most</word>
+        <word pos="NN1">family</word>
+        <word pos="VVB">meet</word>
+        <word pos="PRP">on</word>
+        <word pos="NN1">food</word>
+        <word pos="PRP">in</word>
+        <word pos="NN1">meal</word>
+        <word pos="NN1">dinner</word>
+        <word pos="CJC">or</word>
+        <word pos="NN1">breakfast</word>
+        <word pos="CJC">but</word>
+        <word pos="AV0">usually</word>
+        <word pos="NN1">work</word>
+        <word pos="VVB">make</word>
+        <word pos="NN0">people</word>
+        <word pos="VDI">do</word>
+        <word pos="XX0">n't</word>
+        <word pos="VHI">have</word>
+        <word pos="NN1">time</word>
+        <word pos="TO0">to</word>
+        <word pos="VVI">meet</word>
+        <word pos="PRP">with</word>
+        <word pos="DPS">her</word>
+        <word pos="NN1">family</word>
+        <word pos="PUN">,</word>
+        <word pos="CJC">so</word>
+        <word pos="PRP">from</word>
+        <word pos="AJ0">good</word>
+        <word pos="PUN">,</word>
+        <word pos="VVB">make</word>
+        <word pos="NN1">day</word>
+        <word pos="AJ0">specific</word>
+        <word pos="TO0">to</word>
+        <word pos="VVI">meet</word>
+        <word pos="AV0">together</word>
+        </body>
+      </text>
+    </corpus>
+  </root>

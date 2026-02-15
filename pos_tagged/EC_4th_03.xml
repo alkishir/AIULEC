@@ -1,0 +1,124 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <corpus>
+    <text>
+      <metadata>
+        <Faculty>Education</Faculty>
+        <Semester>4</Semester>
+        <Age>22</Age>
+        <Time_spent_at_an_EnglishSpeaking_country>X</Time_spent_at_an_EnglishSpeaking_country>
+        <Topic>Exercise</Topic>
+        <Title>Exercise</Title>
+        </metadata>
+      <body>
+        <word pos="NN1">Exercise</word>
+        <word pos="VBZ">is</word>
+        <word pos="AT0">a</word>
+        <word pos="NN1">powerhouse</word>
+        <word pos="PRP">for</word>
+        <word pos="DPS">our</word>
+        <word pos="AJ0">physical</word>
+        <word pos="NN1">health</word>
+        <word pos="PUN">.</word>
+        <word pos="PNP">It</word>
+        <word pos="VVZ">keeps</word>
+        <word pos="NN2">bodies</word>
+        <word pos="AJ0">strong</word>
+        <word pos="CJC">and</word>
+        <word pos="AJ0">fit</word>
+        <word pos="PUN">,</word>
+        <word pos="VVB">help</word>
+        <word pos="PRP">in</word>
+        <word pos="VVI">prevent</word>
+        <word pos="AJ0">different</word>
+        <word pos="NN1">health</word>
+        <word pos="NN2">problems</word>
+        <word pos="PUN">.</word>
+        <word pos="AV0">In</word>
+        <word pos="AV0">addition</word>
+        <word pos="PUN">,</word>
+        <word pos="AJ0">regular</word>
+        <word pos="NN1">exercise</word>
+        <word pos="VM0">can</word>
+        <word pos="VVI">reduce</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">risk</word>
+        <word pos="PRF">of</word>
+        <word pos="NN1">heart</word>
+        <word pos="NN1">disease</word>
+        <word pos="NN1">diabetes</word>
+        <word pos="PUN">,</word>
+        <word pos="CJC">and</word>
+        <word pos="NN1">cancer</word>
+        <word pos="PUN">.</word>
+        <word pos="AV0">Therefore</word>
+        <word pos="VDG">doing</word>
+        <word pos="NN1">exercise</word>
+        <word pos="AV0">regularly</word>
+        <word pos="VHZ">has</word>
+        <word pos="DT0">many</word>
+        <word pos="AJ0">mental</word>
+        <word pos="PUN">,</word>
+        <word pos="AJ0">physical</word>
+        <word pos="CJC">and</word>
+        <word pos="AJ0">emotional</word>
+        <word pos="NN2">benefits</word>
+        <word pos="PUN">.</word>
+        <word pos="CJS">When</word>
+        <word pos="PNP">you</word>
+        <word pos="VVB">make</word>
+        <word pos="NN1">exercise</word>
+        <word pos="PRP">as</word>
+        <word pos="AT0">a</word>
+        <word pos="NN1">routine</word>
+        <word pos="PRP">in</word>
+        <word pos="AT0">every</word>
+        <word pos="NN1">day</word>
+        <word pos="PNP">you</word>
+        <word pos="VM0">will</word>
+        <word pos="VVI">feel</word>
+        <word pos="AJ0">relaxing</word>
+        <word pos="CJC">and</word>
+        <word pos="VVB">decrease</word>
+        <word pos="NN1">stress</word>
+        <word pos="CJC">and</word>
+        <word pos="NN1">tonic</word>
+        <word pos="PUN">.</word>
+        <word pos="PNP">It</word>
+        <word pos="VVZ">makes</word>
+        <word pos="PNP">you</word>
+        <word pos="AJ0">strong</word>
+        <word pos="CJC">and</word>
+        <word pos="AJ0">flexible</word>
+        <word pos="PUN">,</word>
+        <word pos="VVB">improve</word>
+        <word pos="PNP">you</word>
+        <word pos="NN1">concentration</word>
+        <word pos="PRP">In</word>
+        <word pos="AT0">the</word>
+        <word pos="AJ0">other</word>
+        <word pos="NN1">hand</word>
+        <word pos="PUN">,</word>
+        <word pos="PNP">it</word>
+        <word pos="NN1">control</word>
+        <word pos="PRF">of</word>
+        <word pos="NN1">body</word>
+        <word pos="NN1">weight</word>
+        <word pos="CJC">and</word>
+        <word pos="VVZ">strengthens</word>
+        <word pos="NN2">bones</word>
+        <word pos="CJC">and</word>
+        <word pos="NN2">muscles</word>
+        <word pos="PUN">,</word>
+        <word pos="AV0">finally</word>
+        <word pos="NN1">exercise</word>
+        <word pos="VBZ">is</word>
+        <word pos="AJ0">good</word>
+        <word pos="PRP">for</word>
+        <word pos="AJ0">healthy</word>
+        <word pos="NN1">body</word>
+        <word pos="PUN">.</word>
+        </body>
+      </text>
+    </corpus>
+  </root>

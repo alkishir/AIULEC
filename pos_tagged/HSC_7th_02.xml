@@ -1,0 +1,152 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <corpus>
+    <text>
+      <metadata>
+        <Faculty>Human Sciences</Faculty>
+        <Semester>7</Semester>
+        <Age>20</Age>
+        <Time_spent_at_an_EnglishSpeaking_country>X</Time_spent_at_an_EnglishSpeaking_country>
+        <Topic>Some University students want to learn about other subjects. In addition to their main subjects. Others believe it is more important to give all their time and attention to studying for a qualification. Discuss both these views and give your own opinion.</Topic>
+        <Title>Some university students want to learn about other subjects. In addition to their main subjects. others believe it is more important to give all thier time and attention to studenting gor qualification. Discuss both these views and give your own opinion</Title>
+        </metadata>
+      <body>
+        <word pos="PNP">I</word>
+        <word pos="AV0">simply</word>
+        <word pos="NN2">words</word>
+        <word pos="DT0">some</word>
+        <word pos="NN2">students</word>
+        <word pos="PRP">at</word>
+        <word pos="NN1">university</word>
+        <word pos="VVB">prefer</word>
+        <word pos="TO0">to</word>
+        <word pos="VVI">learn</word>
+        <word pos="AJ0">other</word>
+        <word pos="NN2">subjects</word>
+        <word pos="PRP">with</word>
+        <word pos="AT0">the</word>
+        <word pos="AJ0">main</word>
+        <word pos="NN1">subject</word>
+        <word pos="CJT">that</word>
+        <word pos="VM0">will</word>
+        <word pos="VVI">improve</word>
+        <word pos="DPS">their</word>
+        <word pos="NN1">knowledge</word>
+        <word pos="CJC">and</word>
+        <word pos="NN2">skills</word>
+        <word pos="PRP">in</word>
+        <word pos="AT0">the</word>
+        <word pos="DT0">same</word>
+        <word pos="NN1">time</word>
+        <word pos="PRP">with</word>
+        <word pos="DPS">their</word>
+        <word pos="AJ0">main</word>
+        <word pos="NN2">subjects</word>
+        <word pos="DTQ">which</word>
+        <word pos="PNP">they</word>
+        <word pos="VVB">want</word>
+        <word pos="TO0">to</word>
+        <word pos="VVI">study</word>
+        <word pos="CJC">and</word>
+        <word pos="VVI">know</word>
+        <word pos="AV0">more</word>
+        <word pos="PRP">about</word>
+        <word pos="PNP">it</word>
+        <word pos="PUN">.</word>
+        <word pos="AJ0">other</word>
+        <word pos="NN1">student</word>
+        <word pos="AV0">just</word>
+        <word pos="VVB">prefer</word>
+        <word pos="TO0">to</word>
+        <word pos="VVI">concentrate</word>
+        <word pos="DPS">their</word>
+        <word pos="NN1">time</word>
+        <word pos="CJC">and</word>
+        <word pos="NN1">effort</word>
+        <word pos="PRP">on</word>
+        <word pos="DTQ">what</word>
+        <word pos="PNP">they</word>
+        <word pos="VVB">want</word>
+        <word pos="TO0">to</word>
+        <word pos="VVI">study</word>
+        <word pos="PRP">at</word>
+        <word pos="NN1">university</word>
+        <word pos="TO0">to</word>
+        <word pos="VVI">come</word>
+        <word pos="AVP">up</word>
+        <word pos="PRP">with</word>
+        <word pos="AT0">a</word>
+        <word pos="NN1">result</word>
+        <word pos="PRP">in</word>
+        <word pos="DT0">this</word>
+        <word pos="NN1">subject</word>
+        <word pos="CJC">and</word>
+        <word pos="DPS">its</word>
+        <word pos="NN2">skills</word>
+        <word pos="PUN">.</word>
+        <word pos="PRP">In</word>
+        <word pos="DPS">my</word>
+        <word pos="NN1">opinion</word>
+        <word pos="VVB">study</word>
+        <word pos="DT0">more</word>
+        <word pos="CJS">than</word>
+        <word pos="CRD">one</word>
+        <word pos="NN1">subject</word>
+        <word pos="CJC">and</word>
+        <word pos="DPS">its</word>
+        <word pos="NN2">branches</word>
+        <word pos="CJC">and</word>
+        <word pos="NN2">types</word>
+        <word pos="VM0">would</word>
+        <word pos="VVI">improve</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">student</word>
+        <word pos="NN1">knowledge</word>
+        <word pos="CJC">and</word>
+        <word pos="NN1">experience</word>
+        <word pos="PRP">in</word>
+        <word pos="AT0">the</word>
+        <word pos="AJ0">practical</word>
+        <word pos="CJC">and</word>
+        <word pos="AJ0">personal</word>
+        <word pos="NN1">life</word>
+        <word pos="PUN">,</word>
+        <word pos="CJC">and</word>
+        <word pos="VVB">help</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">student</word>
+        <word pos="TO0">to</word>
+        <word pos="VVI">grow</word>
+        <word pos="AVP">up</word>
+        <word pos="CJC">and</word>
+        <word pos="VVI">understand</word>
+        <word pos="AT0">the</word>
+        <word pos="AJ0">other</word>
+        <word pos="NN2">preferences</word>
+        <word pos="CJC">and</word>
+        <word pos="DPS">their</word>
+        <word pos="NN2">abilities</word>
+        <word pos="PUN">.</word>
+        <word pos="PRP">In</word>
+        <word pos="NN1">future</word>
+        <word pos="CJT">that</word>
+        <word pos="VM0">will</word>
+        <word pos="VVI">help</word>
+        <word pos="PNP">them</word>
+        <word pos="TO0">to</word>
+        <word pos="VVI">know</word>
+        <word pos="AT0">the</word>
+        <word pos="NN2">abilities</word>
+        <word pos="PRF">of</word>
+        <word pos="DPS">their</word>
+        <word pos="NN1">student</word>
+        <word pos="CJC">and</word>
+        <word pos="AVQ">how</word>
+        <word pos="PNP">they</word>
+        <word pos="VBB">are</word>
+        <word pos="VVG">thinking</word>
+        <word pos="PUN">.</word>
+        </body>
+      </text>
+    </corpus>
+  </root>

@@ -1,0 +1,105 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <corpus>
+    <text>
+      <metadata>
+        <Faculty>Human Sciences</Faculty>
+        <Semester>6</Semester>
+        <Age>20</Age>
+        <Time_spent_at_an_EnglishSpeaking_country>2 years</Time_spent_at_an_EnglishSpeaking_country>
+        <Topic>Strict self-discipline is the best road of happiness</Topic>
+        <Title>self-discipline</Title>
+        </metadata>
+      <body>
+        <word pos="PNP">it</word>
+        <word pos="NN1">self-control</word>
+        <word pos="PRF">of</word>
+        <word pos="AJ0">positive</word>
+        <word pos="CJC">or</word>
+        <word pos="AJ0">negative</word>
+        <word pos="NN2">habits</word>
+        <word pos="PRP">as</word>
+        <word pos="AT0">a</word>
+        <word pos="NN1">person</word>
+        <word pos="NN2">desires</word>
+        <word pos="PUN">,</word>
+        <word pos="CJS">if</word>
+        <word pos="PNP">it</word>
+        <word pos="VBZ">'s</word>
+        <word pos="NN1">discipline</word>
+        <word pos="PRP">on</word>
+        <word pos="AJ0">positive</word>
+        <word pos="NN2">habits</word>
+        <word pos="CJT">that</word>
+        <word pos="VVB">make</word>
+        <word pos="VVI">feel</word>
+        <word pos="AV0">as</word>
+        <word pos="AJ0">comfortable</word>
+        <word pos="PRP">like</word>
+        <word pos="VVI">do</word>
+        <word pos="NN2">sports</word>
+        <word pos="PUN">,</word>
+        <word pos="NN1">self</word>
+        <word pos="NN1">care</word>
+        <word pos="AV0">both</word>
+        <word pos="AV0">internally</word>
+        <word pos="CJC">and</word>
+        <word pos="AV0">externally</word>
+        <word pos="PUN">,</word>
+        <word pos="AJ0">healthy</word>
+        <word pos="VVG">eating</word>
+        <word pos="CJC">and</word>
+        <word pos="VVG">avoiding</word>
+        <word pos="NN2">sugars</word>
+        <word pos="CJC">and</word>
+        <word pos="VVD">starched</word>
+        <word pos="DT0">this</word>
+        <word pos="NN1">discipline</word>
+        <word pos="VM0">can</word>
+        <word pos="VVI">make</word>
+        <word pos="NN1">change</word>
+        <word pos="NN1">life</word>
+        <word pos="PRP">for</word>
+        <word pos="AT0">the</word>
+        <word pos="AJC">better</word>
+        <word pos="PUN">.</word>
+        <word pos="CJS">if</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">discipline</word>
+        <word pos="PRP">on</word>
+        <word pos="AJ0">native</word>
+        <word pos="AJ0">negative</word>
+        <word pos="NN2">habits</word>
+        <word pos="PNP">it</word>
+        <word pos="VM0">will</word>
+        <word pos="VVI">make</word>
+        <word pos="AJ0">psychological</word>
+        <word pos="NN1">destruction</word>
+        <word pos="CJT">that</word>
+        <word pos="VM0">can</word>
+        <word pos="VVI">cause</word>
+        <word pos="NN1">depression</word>
+        <word pos="PRP">like</word>
+        <word pos="NN1">sleep</word>
+        <word pos="PRP">for</word>
+        <word pos="AT0">a</word>
+        <word pos="AJ0">long</word>
+        <word pos="NN1">time</word>
+        <word pos="PUN">,</word>
+        <word pos="XX0">not</word>
+        <word pos="VVG">working</word>
+        <word pos="PUN">,</word>
+        <word pos="VVB">watch</word>
+        <word pos="NN1">TV</word>
+        <word pos="AV0">too</word>
+        <word pos="DT0">much</word>
+        <word pos="CJT">that</word>
+        <word pos="VM0">can</word>
+        <word pos="VVI">change</word>
+        <word pos="NN1">life</word>
+        <word pos="PRP">for</word>
+        <word pos="AJC">worse</word>
+        </body>
+      </text>
+    </corpus>
+  </root>

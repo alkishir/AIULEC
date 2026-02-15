@@ -1,0 +1,143 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <corpus>
+    <text>
+      <metadata>
+        <Faculty>Human Sciences</Faculty>
+        <Semester>6</Semester>
+        <Age>22</Age>
+        <Time_spent_at_an_EnglishSpeaking_country>X</Time_spent_at_an_EnglishSpeaking_country>
+        <Topic>Writing a dairy is the best way to review how happy you are</Topic>
+        <Title>Writing a diary is the best way to review how happy you are</Title>
+        </metadata>
+      <body>
+        <word pos="NN2">Diaries</word>
+        <word pos="VBB">are</word>
+        <word pos="AJ0">important</word>
+        <word pos="PRP">in</word>
+        <word pos="VVG">keeping</word>
+        <word pos="NN2">memories</word>
+        <word pos="PUN">,</word>
+        <word pos="CJS">whether</word>
+        <word pos="AJ0">good</word>
+        <word pos="CJC">or</word>
+        <word pos="AJ0">bad</word>
+        <word pos="PUN">.</word>
+        <word pos="VVG">Keeping</word>
+        <word pos="AJ0">good</word>
+        <word pos="NN2">memories</word>
+        <word pos="VBZ">is</word>
+        <word pos="AJ0">important</word>
+        <word pos="PRP">for</word>
+        <word pos="NN2">moments</word>
+        <word pos="PRF">of</word>
+        <word pos="NN1">sadness</word>
+        <word pos="PUN">.</word>
+        <word pos="PNP">You</word>
+        <word pos="VM0">can</word>
+        <word pos="AV0">always</word>
+        <word pos="VVI">go</word>
+        <word pos="AVP">back</word>
+        <word pos="PRP">in</word>
+        <word pos="NN1">time</word>
+        <word pos="CJC">and</word>
+        <word pos="VVB">read</word>
+        <word pos="DPS">your</word>
+        <word pos="AJ0">exact</word>
+        <word pos="NN2">feelings</word>
+        <word pos="PRP">about</word>
+        <word pos="DT0">these</word>
+        <word pos="NN2">moments</word>
+        <word pos="PUN">.</word>
+        <word pos="DT0">This</word>
+        <word pos="VM0">will</word>
+        <word pos="VVI">make</word>
+        <word pos="PNP">you</word>
+        <word pos="VVI">realize</word>
+        <word pos="AVQ">how</word>
+        <word pos="AJ0">happy</word>
+        <word pos="DPS">your</word>
+        <word pos="NN1">life</word>
+        <word pos="VBZ">is</word>
+        <word pos="PUN">,</word>
+        <word pos="CJC">and</word>
+        <word pos="AVQ">how</word>
+        <word pos="NN1">life</word>
+        <word pos="VHZ">has</word>
+        <word pos="DPS">its</word>
+        <word pos="NN2">ups</word>
+        <word pos="CJC">and</word>
+        <word pos="NN2">downs</word>
+        <word pos="PUN">.</word>
+        <word pos="PNP">It</word>
+        <word pos="AV0">also</word>
+        <word pos="VVZ">makes</word>
+        <word pos="PNP">you</word>
+        <word pos="VVI">realize</word>
+        <word pos="CJT">that</word>
+        <word pos="DPS">your</word>
+        <word pos="NN1">life</word>
+        <word pos="VVB">isnt</word>
+        <word pos="AV0">as</word>
+        <word pos="AJ0">bad</word>
+        <word pos="CJS">as</word>
+        <word pos="PNP">you</word>
+        <word pos="VVB">think</word>
+        <word pos="PRP">in</word>
+        <word pos="NN2">moments</word>
+        <word pos="PRF">of</word>
+        <word pos="NN1">grief</word>
+        <word pos="PUN">.</word>
+        <word pos="CJS">When</word>
+        <word pos="PNP">it</word>
+        <word pos="VVZ">comes</word>
+        <word pos="PRP">to</word>
+        <word pos="AJ0">bad</word>
+        <word pos="NN2">memories</word>
+        <word pos="PUN">,</word>
+        <word pos="PNP">it</word>
+        <word pos="VBZ">'s</word>
+        <word pos="AV0">also</word>
+        <word pos="AJ0">important</word>
+        <word pos="TO0">to</word>
+        <word pos="VVI">keep</word>
+        <word pos="PNP">them</word>
+        <word pos="CJC">and</word>
+        <word pos="VVI">write</word>
+        <word pos="PNP">them</word>
+        <word pos="AVP">down</word>
+        <word pos="PUN">.</word>
+        <word pos="VVG">Reading</word>
+        <word pos="PRP">through</word>
+        <word pos="DPS">your</word>
+        <word pos="AJ0">bad</word>
+        <word pos="NN2">times</word>
+        <word pos="VVZ">shows</word>
+        <word pos="PNP">you</word>
+        <word pos="DTQ">what</word>
+        <word pos="VVB">youve</word>
+        <word pos="AJ0">accomplished</word>
+        <word pos="PUN">.</word>
+        <word pos="DT0">These</word>
+        <word pos="NN2">memories</word>
+        <word pos="AJ0">good</word>
+        <word pos="CJC">or</word>
+        <word pos="AJ0">bad</word>
+        <word pos="PUN">,</word>
+        <word pos="VVB">give</word>
+        <word pos="PNP">you</word>
+        <word pos="NN1">strength</word>
+        <word pos="CJC">and</word>
+        <word pos="AT0">a</word>
+        <word pos="AJC">better</word>
+        <word pos="NN1">understanding</word>
+        <word pos="PRF">of</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">person</word>
+        <word pos="NN1">youve</word>
+        <word pos="VVB">become</word>
+        <word pos="PUN">.</word>
+        </body>
+      </text>
+    </corpus>
+  </root>

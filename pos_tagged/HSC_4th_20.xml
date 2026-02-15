@@ -1,0 +1,127 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <corpus>
+    <text>
+      <metadata>
+        <Faculty>Human Sciences</Faculty>
+        <Semester>4</Semester>
+        <Age>19</Age>
+        <Time_spent_at_an_EnglishSpeaking_country>X</Time_spent_at_an_EnglishSpeaking_country>
+        <Topic>Describing a picture</Topic>
+        <Title>The Original Country</Title>
+        </metadata>
+      <body>
+        <word pos="AV0">Once</word>
+        <word pos="PRP">upon</word>
+        <word pos="NN1">time</word>
+        <word pos="PUN">,</word>
+        <word pos="EX0">there</word>
+        <word pos="VBD">were</word>
+        <word pos="AT0">a</word>
+        <word pos="NN1">boy</word>
+        <word pos="CJC">and</word>
+        <word pos="AT0">a</word>
+        <word pos="NN1">dog</word>
+        <word pos="PUN">.</word>
+        <word pos="DPS">Their</word>
+        <word pos="NN2">names</word>
+        <word pos="NP0">Jack</word>
+        <word pos="CJC">and</word>
+        <word pos="NP0">Joun</word>
+        <word pos="PUN">.</word>
+        <word pos="NP0">Joun</word>
+        <word pos="VBD">was</word>
+        <word pos="XX0">n't</word>
+        <word pos="VHI">have</word>
+        <word pos="AT0">a</word>
+        <word pos="NN1">house</word>
+        <word pos="CJS">so</word>
+        <word pos="PUN">,</word>
+        <word pos="PRP">in</word>
+        <word pos="AJ0">sunny</word>
+        <word pos="NN1">day</word>
+        <word pos="CJC">and</word>
+        <word pos="PRP">in</word>
+        <word pos="AT0">a</word>
+        <word pos="NN1">park</word>
+        <word pos="POS">'s</word>
+        <word pos="NN1">house</word>
+        <word pos="PRF">of</word>
+        <word pos="NP0">Jack</word>
+        <word pos="PUN">.</word>
+        <word pos="PNP">He</word>
+        <word pos="VVD">began</word>
+        <word pos="TO0">to</word>
+        <word pos="VVI">build</word>
+        <word pos="AT0">a</word>
+        <word pos="NN1">house</word>
+        <word pos="PRP">for</word>
+        <word pos="PNP">him</word>
+        <word pos="PUN">.</word>
+        <word pos="PNP">He</word>
+        <word pos="VVD">started</word>
+        <word pos="TO0">to</word>
+        <word pos="VVI">bring</word>
+        <word pos="AT0">a</word>
+        <word pos="NN1">wood</word>
+        <word pos="CJC">and</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">material</word>
+        <word pos="PRF">of</word>
+        <word pos="VVG">building</word>
+        <word pos="PUN">.</word>
+        <word pos="PRP">after</word>
+        <word pos="DT0">that</word>
+        <word pos="PNP">he</word>
+        <word pos="VVD">finished</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">build</word>
+        <word pos="PUN">,</word>
+        <word pos="CJC">and</word>
+        <word pos="NP0">Joun</word>
+        <word pos="VVD">looked</word>
+        <word pos="PRP">like</word>
+        <word pos="AJ0">happy</word>
+        <word pos="PUN">,</word>
+        <word pos="CJS">because</word>
+        <word pos="PNP">he</word>
+        <word pos="VHZ">has</word>
+        <word pos="AT0">a</word>
+        <word pos="NN1">house</word>
+        <word pos="AV0">now</word>
+        <word pos="PUN">.</word>
+        <word pos="PNP">he</word>
+        <word pos="VVZ">feels</word>
+        <word pos="AV0">so</word>
+        <word pos="AJ0">happy</word>
+        <word pos="PRP">from</word>
+        <word pos="NP0">Jack</word>
+        <word pos="CJC">and</word>
+        <word pos="DPS">their</word>
+        <word pos="NN1">love</word>
+        <word pos="VBZ">is</word>
+        <word pos="VVN">increased</word>
+        <word pos="PRP">to</word>
+        <word pos="AT0">a</word>
+        <word pos="AJC">higher</word>
+        <word pos="NN1">level</word>
+        <word pos="PUN">.</word>
+        <word pos="AV0">So</word>
+        <word pos="PUN">,</word>
+        <word pos="PNP">he</word>
+        <word pos="VVD">began</word>
+        <word pos="TO0">to</word>
+        <word pos="VVI">thank</word>
+        <word pos="NP0">Jack</word>
+        <word pos="CJC">and</word>
+        <word pos="VVI">hug</word>
+        <word pos="PNP">him</word>
+        <word pos="PRP">in</word>
+        <word pos="DT0">own</word>
+        <word pos="AJ0">specific</word>
+        <word pos="NN1">way</word>
+        <word pos="PUN">.</word>
+        </body>
+      </text>
+    </corpus>
+  </root>

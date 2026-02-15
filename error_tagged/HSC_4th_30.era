@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<file name="" tagset="uclee-en-2.0.tag">
+Title: <FS corr="Ahmad’s Dog">Ahmad’s dog</FS> 
+
+One day<QM corr=",">\0</QM> Ahmad <GVM corr="was walking">was walk</GVM> in <GA corr="the">\0</GA><LSN corr="farm?">country’s garden</LSN>. 
+
+Then<QM corr=",">\0</QM> he found <GA corr="a">\0</GA>dog without<GA corr="a">\0</GA> house<QM corr=".">\0</QM> <FS corr="Ahmad">Ahmed</FS> <XVCO corr="started building"><LSV corr="started">reported</LSV> to <FS corr="build">bulid</FS></XVCO> <GA corr="a">\0</GA>house <LSPR corr="for">to</LSPR> <GDO corr="it">its</GDO><QC corr=".">,</QC> he <XVCO corr="started building">started to build in</XVCO> his house and the dog was happy  . 
+
+After that  ,   Ahmad <XVCO corr="finished building">finished to bulid</XVCO> the house , and <WR corr="0">become</WR> the dog <GVT corr="had">has</GVT> <GA corr="a">\0</GA>house to live in <GDO corr="0">its</GDO>.
+</file>

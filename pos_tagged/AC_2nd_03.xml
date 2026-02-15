@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <corpus>
+    <text>
+      <metadata>
+        <Faculty>Arts</Faculty>
+        <Semester>2</Semester>
+        <Age>20</Age>
+        <Time_spent_at_an_EnglishSpeaking_country>X</Time_spent_at_an_EnglishSpeaking_country>
+        <Topic>A special place</Topic>
+        <Title>A special place</Title>
+        </metadata>
+      <body>
+        <word pos="DPS">My</word>
+        <word pos="NN1">favorite</word>
+        <word pos="CJC">and</word>
+        <word pos="VVI">relax</word>
+        <word pos="NN1">place</word>
+        <word pos="PRP">for</word>
+        <word pos="PNP">me</word>
+        <word pos="AT0">the</word>
+        <word pos="AJ0">small</word>
+        <word pos="NN1">cafe</word>
+        <word pos="PUQ">`</word>
+        <word pos="PUN">,</word>
+        <word pos="PRP">down</word>
+        <word pos="NN1">street</word>
+        <word pos="PUN">.</word>
+        <word pos="PNP">It</word>
+        <word pos="VBZ">is</word>
+        <word pos="VHB">have</word>
+        <word pos="AT0">the</word>
+        <word pos="AJ0">wonderful</word>
+        <word pos="NN1">review</word>
+        <word pos="PUN">.</word>
+        <word pos="PNP">They</word>
+        <word pos="VHB">have</word>
+        <word pos="AT0">a</word>
+        <word pos="AJ0">small</word>
+        <word pos="NN1">garden</word>
+        <word pos="PUN">.</word>
+        <word pos="PNP">They</word>
+        <word pos="VHB">have</word>
+        <word pos="AT0">a</word>
+        <word pos="AJ0">good</word>
+        <word pos="NN1">menu</word>
+        <word pos="CJC">and</word>
+        <word pos="PNP">they</word>
+        <word pos="VHB">have</word>
+        <word pos="AT0">a</word>
+        <word pos="AJ0">special</word>
+        <word pos="AJ0">beautiful</word>
+        <word pos="NN1">coffee</word>
+        <word pos="CJC">and</word>
+        <word pos="NN1">tea</word>
+        <word pos="PNP">they</word>
+        <word pos="VHB">have</word>
+        <word pos="AT0">a</word>
+        <word pos="AJ0">wonderful</word>
+        <word pos="NN1">dessert</word>
+        <word pos="PUN">.</word>
+        <word pos="DT0">This</word>
+        <word pos="NN1">cafe</word>
+        <word pos="AV0">very</word>
+        <word pos="AJ0">good</word>
+        <word pos="TO0">to</word>
+        <word pos="VHI">have</word>
+        <word pos="DPS">your</word>
+        <word pos="NN1">order</word>
+        <word pos="PUN">.</word>
+        </body>
+      </text>
+    </corpus>
+  </root>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<file name="" tagset="uclee-en-2.0.tag">
+Title: <FS corr="Hobbies">hoppies</FS>
+
+My <FS corr="hobbies">hoppies</FS><WM corr="are">\0</WM> reading books and novels <GPR corr="which">0</GPR> <WM corr="are">\0</WM> so <FS corr="interesting">intreseting</FS><QC corr=".">,</QC> when I <GVT corr="read"><GVAUX corr="am reading">reading</GVAUX></GVT> and <GVT corr="write"><FS corr="writing">writting</FS></GVT> in <GA corr="my">the</GA> free time<QC corr=",">.</QC> <FS corr="all">Al</FS> <FS corr="hobbies">hoppies</FS> <Z corr="?">is love thing when you work</Z>
+</file>

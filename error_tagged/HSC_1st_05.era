@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<file name="" tagset="uclee-en-2.0.tag">
+Title: <FS corr="Hobbies">hobbies</FS>
+
+My hobbies <GVN corr="are">is</GVN> reading<QM corr=",">\0</QM> writing <QL corr=",">and </QL>cooking and <GA corr="0">the</GA> shopping<QM corr=".">\0</QM> 
+
+My <FS corr="favorite">fovirute</FS> hobbies <GVN corr="are">is</GVN> reading <FS corr="novels">novils</FS> in English <FS corr="because">becuse</FS> I need to learn English and shopping <FS corr="because">becouse</FS> I need <GA corr="a">\0</GA>full <FS corr="wardrobe">wordoube</FS> <QM corr=".">\0</QM>
+</file>

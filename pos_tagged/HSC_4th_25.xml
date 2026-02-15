@@ -1,0 +1,110 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <corpus>
+    <text>
+      <metadata>
+        <Faculty>Human Sciences</Faculty>
+        <Semester>4</Semester>
+        <Age>22</Age>
+        <Time_spent_at_an_EnglishSpeaking_country>X</Time_spent_at_an_EnglishSpeaking_country>
+        <Topic>Describing a picture</Topic>
+        <Title>Ali and the dog</Title>
+        </metadata>
+      <body>
+        <word pos="CRD">One</word>
+        <word pos="NN1">day</word>
+        <word pos="PUN">.</word>
+        <word pos="EX0">there</word>
+        <word pos="VBD">was</word>
+        <word pos="NN1">boy</word>
+        <word pos="VVN">named</word>
+        <word pos="NP0">Ali</word>
+        <word pos="PUN">.</word>
+        <word pos="PNP">He</word>
+        <word pos="VHD">had</word>
+        <word pos="NN1">dog</word>
+        <word pos="DPS">his</word>
+        <word pos="VVN">named</word>
+        <word pos="NP0">Morok</word>
+        <word pos="PUN">.</word>
+        <word pos="NP0">Ali</word>
+        <word pos="VVB">love</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">dog</word>
+        <word pos="CJC">and</word>
+        <word pos="AV0">always</word>
+        <word pos="VVB">give</word>
+        <word pos="DPS">his</word>
+        <word pos="NN2">foods</word>
+        <word pos="PRP">like</word>
+        <word pos="NN1">milk</word>
+        <word pos="CJC">and</word>
+        <word pos="VVB">meet</word>
+        <word pos="PUN">.</word>
+        <word pos="PNP">He</word>
+        <word pos="AV0">always</word>
+        <word pos="VVB">play</word>
+        <word pos="DPS">his</word>
+        <word pos="CJC">and</word>
+        <word pos="PNP">he</word>
+        <word pos="VHB">have</word>
+        <word pos="AJ0">small</word>
+        <word pos="NN1">house</word>
+        <word pos="NP0">Ali</word>
+        <word pos="VVB">remember</word>
+        <word pos="VVI">go</word>
+        <word pos="PRP">to</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">ground</word>
+        <word pos="PNP">he</word>
+        <word pos="VVB">think</word>
+        <word pos="DPS">his</word>
+        <word pos="NN1">dog</word>
+        <word pos="VDB">do</word>
+        <word pos="XX0">n't</word>
+        <word pos="VVI">go</word>
+        <word pos="DPS">his</word>
+        <word pos="CJC">but</word>
+        <word pos="NP0">Ali</word>
+        <word pos="VVB">decide</word>
+        <word pos="VVI">buy</word>
+        <word pos="AT0">a</word>
+        <word pos="AJ0">small</word>
+        <word pos="NN1">home</word>
+        <word pos="PRP">for</word>
+        <word pos="DPS">his</word>
+        <word pos="NN1">dog</word>
+        <word pos="CJC">and</word>
+        <word pos="PNP">he</word>
+        <word pos="AV0">very</word>
+        <word pos="AJ0">happy</word>
+        <word pos="PRP">for</word>
+        <word pos="PNP">it</word>
+        <word pos="PUN">.</word>
+        <word pos="NP0">Ali</word>
+        <word pos="VBZ">is</word>
+        <word pos="AV0">very</word>
+        <word pos="AJ0">busy</word>
+        <word pos="AT0">a</word>
+        <word pos="VVI">build</word>
+        <word pos="DPS">his</word>
+        <word pos="NN1">house</word>
+        <word pos="PRP">for</word>
+        <word pos="NN1">dog</word>
+        <word pos="PUN">.</word>
+        <word pos="NP0">Ali</word>
+        <word pos="VVD">discovered</word>
+        <word pos="DPS">his</word>
+        <word pos="NN1">dog</word>
+        <word pos="VBZ">is</word>
+        <word pos="AV0">very</word>
+        <word pos="AJ0">sick</word>
+        <word pos="PUN">.</word>
+        <word pos="PNP">he</word>
+        <word pos="AJ0">busy</word>
+        <word pos="DPS">his</word>
+        <word pos="NN1">dog</word>
+        </body>
+      </text>
+    </corpus>
+  </root>

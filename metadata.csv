@@ -1,0 +1,273 @@
+GP_ID,Age,Faculty,Semester,Time_spent_at_an_EnglishSpeaking_country,Title,Topic
+AC_1st_01,33,Arts,1,none,Family,Family
+AC_1st_02,19,Arts,1,none,Family,Family
+AC_1st_03,19,Arts,1,none,Family,Family
+AC_1st_04,19,Arts,1,none,Animle,Animals
+AC_1st_05,18,Arts,1,none,Animals,Animals
+AC_1st_06,24,Arts,1,none,Animals,Animals
+AC_1st_07,18,Arts,1,none,My Home~ The best place~,Home
+AC_1st_08,18,Arts,1,none,Hobbies,Hobbies
+AC_1st_09,18,Arts,1,none,School,School
+AC_1st_10,18,Arts,1,none,..........,Alimals
+AC_1st_11,none,Arts,1,none,..........,none
+AC_2nd_01,none,Arts,2,none,A special place,A special place
+AC_2nd_02,33,Arts,2,none,A special place,A special place
+AC_2nd_03,20,Arts,2,X,A special place,A special place
+AC_2nd_04,none,Arts,2,X,A special place,A special place
+AC_2nd_06,none,Arts,2,none,Rome/ A special place,A special place
+AC_2nd_07,22,Arts,2,none,The Village,A special place
+AC_2nd_09,21,Arts,2,X,Event changed life,An Event that change your life
+AC_2nd_10,none,Arts,2,none,A strange exprience/ My best memory,A strangge experience/ Your best memory
+AC_3rd_01,20,Arts,3,none,Social Media,Social media
+AC_3rd_05,none,Arts,3,none,Sport,Sport
+AC_3rd_06,20,Arts,3,X,University study,University study
+AC_4th_01,20,Arts,4,none,A Day with My Dog,Describing a picture
+AC_4th_05,none,Arts,4,none,............,Describing a picture
+AC_4th_06,20,Arts,4,none,The difference between four pictures,Describing a picture
+AC_4th_07,20,Arts,4,none,............,Describing a picture
+AC_4th_08,19,Arts,4,X,Dog's Mark,Describing a picture
+AC_5th_01,23,Arts,5,X,My Favourt Book,Your Favorite Book
+EC_1st_01,19,Education,1,X,An interesting place,An interesting place
+EC_1st_02,19,Education,1,X,An interesting place,An interesting place
+EC_1st_03,19,Education,1,X,An interesting plase,An interesting place
+EC_1st_04,19,Education,1,X,An interesting place,An interesting place
+EC_1st_05,19,Education,1,X,An interesting place,An interesting place
+EC_1st_06,19,Education,1,X,An interesting place,An interesting place
+EC_1st_07,19,Education,1,X,An interesting place picnic,An interesting place
+EC_1st_08,19,Education,1,X,Tripol is beautiful place,An interesting place
+EC_1st_09,19,Education,1,X,An interesting place,An interesting place
+EC_1st_10,19,Education,1,X,My family,My Family
+EC_1st_11,19,Education,1,X,My family,My Family
+EC_1st_12,19,Education,1,X,My Family,My Family
+EC_1st_13,19,Education,1,X,My family,My Family
+EC_1st_14,19,Education,1,X,My Family,My Family
+EC_1st_15,19,Education,1,X,My family,My Family
+EC_1st_16,19,Education,1,X,My Family,My Family
+EC_1st_17,19,Education,1,X,My Family,My Family
+EC_1st_18,19,Education,1,X,My Family,My Family
+EC_1st_19,19,Education,1,X,My family,My Family
+EC_1st_20,19,Education,1,X,My family,My Family
+EC_1st_21,19,Education,1,X,My Family,My Family
+EC_1st_22,19,Education,1,X,..........,My Family
+EC_1st_23,19,Education,1,X,..........,My Family
+EC_1st_24,19,Education,1,X,..........,My Family
+EC_1st_25,19,Education,1,X,Shopping,An interesting place
+EC_1st_26,19,Education,1,X,An interesting place,An interesting place
+EC_1st_27,19,Education,1,X,..........,An interesting place
+EC_1st_28,19,Education,1,X,An interesting place,An interesting place
+EC_1st_29,19,Education,1,X,An interesting place,An interesting place
+EC_1st_30,19,Education,1,X,An interesting place,An interesting place
+EC_2nd_01,19,Education,2,none,.............,......
+EC_2nd_02,22,Education,2,none,visiting a zoo,Visiting a Zoo
+EC_2nd_03,19,Education,2,X,.........,Summer vacation
+EC_2nd_04,18,Education,2,none,Summer vacation,Summer vacation
+EC_2nd_05,18,Education,2,X,visiting zoo,Visiting a Zoo
+EC_2nd_06,18,Education,2,none,visited a zoo,Visiting a Zoo
+EC_2nd_07,19,Education,2,X,summer vacation,Summer Vacation
+EC_3rd_01,20,Education,3,X,Summer Vacation,Summer Vacation
+EC_4th_01,20,Education,4,X,Activites in the free time,Activities in the free time
+EC_4th_02,29,Education,4,X,My Beginning in English,My Beginning in English
+EC_4th_03,22,Education,4,X,Exercise,Exercise
+EC_4th_04,20,Education,4,X,Benefit of internet,Benefit of Internet
+EC_4th_05,20,Education,4,X,Healthy food,Healthy Food
+EC_4th_06,22,Education,4,none,The best exiercise,The best exiercise
+EC_4th_07,20,Education,4,X,My lovely dish,My lovely dish
+EC_5th_01,25,Education,5,X,effects of technonlgy on education,effects of technonlgy on education
+EC_7th_01,22,Education,4,3 months,Healthy food,Healthy Food
+EC_8th_01,22,Education,8,X,My family,My Family
+EC_8th_02,22,Education,8,X,My family,My Family
+EC_8th_03,22,Education,8,X,My family,My Family
+EC_8th_04,22,Education,8,X,Honor of My family,Honor of My Family
+EC_8th_05,22,Education,8,X,Honor of family,Honor of My Family
+EC_8th_06,22,Education,8,X,The honor of My family,Honor of My Family
+EC_8th_07,22,Education,8,X,Honor of my family,Honor of My Family
+EC_8th_08,22,Education,8,X,The honor of my family,Honor of My Family
+EC_8th_09,22,Education,8,X,The honor of my family,Honor of My Family
+EC_8th_10,22,Education,8,X,Honour of My family,Honor of My Family
+EC_8th_11,22,Education,8,X,Honour My family,Honor of My Family
+EC_8th_12,22,Education,8,X,Honour of My family,Honor of My Family
+EC_8th_13,22,Education,8,X,Honour of My family,Honor of My Family
+EC_8th_14,22,Education,8,X,The honor of My family,Honor of My Family
+EC_8th_15,22,Education,8,X,The honor of My family,Honor of My Family
+HSC_1st_01,20,Human Sciences,1,X,school/animle,school/animle
+HSC_1st_02,19,Human Sciences,1,3 months,family,family
+HSC_1st_03,19,Human Sciences,1,X,music,music
+HSC_1st_04,18,Human Sciences,1,X,family,family
+HSC_1st_05,20,Human Sciences,1,none,hobbies,hobbies
+HSC_1st_06,20,Human Sciences,1,X,.........,animal/music
+HSC_1st_07,18,Human Sciences,1,none,family,family
+HSC_1st_08,19,Human Sciences,1,X,family,family
+HSC_1st_09,19,Human Sciences,1,X,cocking,cooking
+HSC_1st_10,19,Human Sciences,1,none,hoppies,hoppies
+HSC_1st_11,19,Human Sciences,1,x,cooking,cooking
+HSC_2nd_01,19,Human Sciences,2,x,my best memory,my best memory
+HSC_2nd_02,21,Human Sciences,2,2 weeks,my best memory,my best memory
+HSC_2nd_03,19,Human Sciences,2,X,your best memory,your best memory
+HSC_2nd_04,19,Human Sciences,2,X,a special place,a special place
+HSC_2nd_05,22,Human Sciences,2,X,your best memory,your best memory
+HSC_2nd_06,18,Human Sciences,2,X,your best memore,your best memory
+HSC_2nd_07,22,Human Sciences,2,X,your best memory,your best memory
+HSC_2nd_08,18,Human Sciences,2,X,your best memory,your best memory
+HSC_2nd_09,19,Human Sciences,2,X,a special place,a special place
+HSC_2nd_10,20,Human Sciences,2,X,a special place,a special place
+HSC_2nd_11,20,Human Sciences,2,X,your best memory,your best memory
+HSC_2nd_12,22,Human Sciences,2,X,my timetable for a day,none
+HSC_2nd_13,19,Human Sciences,2,X,An event change my live,An event changes your life
+HSC_2nd_14,20,Human Sciences,2,9 years,Your best memory,Your best memory
+HSC_2nd_15,18,Human Sciences,2,X,your best memory,Your best memory
+HSC_2nd_16,18,Human Sciences,2,X,My best memory,Your best memory
+HSC_2nd_17,19,Human Sciences,2,X,your best memory,Your best memory
+HSC_2nd_18,19,Human Sciences,2,X,your best memory,Your best memory
+HSC_2nd_19,19,Human Sciences,2,X,your best memory,Your best memory
+HSC_2nd_20,19,Human Sciences,2,X,your best memory,Your best memory
+HSC_2nd_21,20,Human Sciences,2,X,Beautiful memory,Your best memory
+HSC_2nd_22,18,Human Sciences,2,X,A special place,A special place
+HSC_2nd_23,19,Human Sciences,2,X,A special place,A special place
+HSC_2nd_24,19,Human Sciences,2,X,A special place,A special place
+HSC_2nd_25,none,Human Sciences,2,X,My room,A special place
+HSC_2nd_26,18,Human Sciences,2,X,A special place,A special place
+HSC_2nd_27,20,Human Sciences,2,X,The house,A special place
+HSC_2nd_28,19,Human Sciences,2,X,A special place,A special place
+HSC_2nd_29,19,Human Sciences,2,X,A special place,A special place
+HSC_2nd_30,34,Human Sciences,2,X,............,A special place
+HSC_2nd_31,none,Human Sciences,2,X,A special place,A special place
+HSC_2nd_32,18,Human Sciences,2,none,A special place/My house,A special place
+HSC_2nd_33,19,Human Sciences,2,none,My house,A special place
+HSC_2nd_34,18,Human Sciences,2,X,your best memory,Your best memory
+HSC_2nd_35,none,Human Sciences,2,none,your best memory,Your best memory
+HSC_2nd_36,18,Human Sciences,2,none,your best memory,Your best memory
+HSC_2nd_37,19,Human Sciences,2,none,your best memory,Your best memory
+HSC_2nd_38,20,Human Sciences,2,9 years,Your best memory,Your best memory
+HSC_2nd_39,19,Human Sciences,2,3 weeks,Your best memory,Your best memory
+HSC_2nd_40,19,Human Sciences,2,none,Your best memory,Your best memory
+HSC_2nd_41,19,Human Sciences,2,none,Your best memory,Your best memory
+HSC_2nd_42,19,Human Sciences,2,X,sport,Sport
+HSC_2nd_43,19,Human Sciences,2,X,An event changed your life,An event changed your life
+HSC_2nd_44,21,Human Sciences,2,X,...............,An event changed your life
+HSC_2nd_45,19,Human Sciences,2,none,An event changed your life,An event changed your life
+HSC_2nd_46,19,Human Sciences,2,X,A strange experience,A strange experience
+HSC_2nd_47,20,Human Sciences,2,X,A strange experience,A strange experience
+HSC_2nd_48,20,Human Sciences,2,X,Univeisty study,A University study / Your best memory
+HSC_2nd_49,19,Human Sciences,2,X,English Language,English Language
+HSC_2nd_50,19,Human Sciences,2,none,..............,none
+HSC_3rd_01,20,Human Sciences,3,X,Social media,Social media
+HSC_3rd_02,none,Human Sciences,3,More than 4 years,Social media,Social media
+HSC_3rd_03,20,Human Sciences,3,X,Social media,Social media
+HSC_3rd_04,20,Human Sciences,3,X,Social media,Social media
+HSC_3rd_05,20,Human Sciences,3,X,Social media,Social media
+HSC_3rd_06,20,Human Sciences,3,3 months,Social media,Social media
+HSC_3rd_07,19,Human Sciences,3,3-4 years,Sports,Sport
+HSC_3rd_08,19,Human Sciences,3,X,Sports,Sport
+HSC_3rd_09,none,Human Sciences,3,X,Sports,Sport
+HSC_3rd_10,19,Human Sciences,3,none,Sports,Sport
+HSC_3rd_11,19,Human Sciences,3,X,Sports,Sport
+HSC_3rd_12,20,Human Sciences,3,X,Sports,Sport
+HSC_3rd_13,20,Human Sciences,3,X,Sports,Sport
+HSC_3rd_14,25,Human Sciences,3,X,Sports,Sport
+HSC_3rd_15,25,Human Sciences,3,X,University study,University study
+HSC_4th_01,21,Human Sciences,4,X,Help the dog,Describing a picture
+HSC_4th_02,23,Human Sciences,4,X,The boy and a dog,Describing a picture
+HSC_4th_03,20,Human Sciences,4,X,Ahmed and a dog,Describing a picture
+HSC_4th_04,20,Human Sciences,4,X,Boy and dog,Describing a picture
+HSC_4th_05,20,Human Sciences,4,X,jack and dog,Describing a picture
+HSC_4th_06,20,Human Sciences,4,X,The Dog house,Describing a picture
+HSC_4th_07,20,Human Sciences,4,X,The Dog home,Describing a picture
+HSC_4th_08,20,Human Sciences,4,X,Ali and the dog,Describing a picture
+HSC_4th_09,20,Human Sciences,4,X,Tom and dog,Describing a picture
+HSC_4th_10,none,Human Sciences,4,X,Tom and dog,Describing a picture
+HSC_4th_11,20,Human Sciences,4,X,Jack and dog,Describing a picture
+HSC_4th_12,20,Human Sciences,4,X,The boy and the dog,Describing a picture
+HSC_4th_13,22,Human Sciences,4,X,...........,Describing a picture
+HSC_4th_14,22,Human Sciences,4,X,Hassane and dog,Describing a picture
+HSC_4th_15,19,Human Sciences,4,X,A special house for my puppy,Describing a picture
+HSC_4th_16,19,Human Sciences,4,none,compassion for the dog,Describing a picture
+HSC_4th_17,19,Human Sciences,4,none,Jack and his dog “bob”,Describing a picture
+HSC_4th_18,19,Human Sciences,4,X,boy and dog,Describing a picture
+HSC_4th_19,19,Human Sciences,4,X,Small house,Describing a picture
+HSC_4th_20,19,Human Sciences,4,X,The Original Country,Describing a picture
+HSC_4th_21,20,Human Sciences,4,X,Jack and his dog,Describing a picture
+HSC_4th_22,19,Human Sciences,4,none,The boy and dog,Describing a picture
+HSC_4th_23,33,Human Sciences,4,X,Clear is always batter,Describing a picture
+HSC_4th_24,24,Human Sciences,4,X,house for dog,Describing a picture
+HSC_4th_25,22,Human Sciences,4,X,Ali and the dog,Describing a picture
+HSC_4th_26,19,Human Sciences,4,none,The child and the dog,Describing a picture
+HSC_4th_27,19,Human Sciences,4,X,Alex and his dog,Describing a picture
+HSC_4th_28,22,Human Sciences,4,none,The dog and boy,Describing a picture
+HSC_4th_29,24,Human Sciences,4,none,sam and the dog,Describing a picture
+HSC_4th_30,20,Human Sciences,4,none,Ahmad’s dog,Describing a picture
+HSC_5th_01,22,Human Sciences,5,3 years,teacher,Good teachers
+HSC_5th_02,22,Human Sciences,5,X,good teacher,Good teachers
+HSC_5th_03,21,Human Sciences,5,X,good thitcher,Good teachers
+HSC_5th_04,23,Human Sciences,5,X,good teacher,Good teachers
+HSC_5th_05,22,Human Sciences,5,X,good teacher,Good teachers
+HSC_5th_06,20,Human Sciences,5,X,.........,Famous person
+HSC_5th_07,20,Human Sciences,5,X,Favourite book,Your favorite book
+HSC_5th_08,21,Human Sciences,5,X,favorite book,Your favorite book
+HSC_5th_09,21,Human Sciences,5,2 years,Teaching method,Talk about teaching method
+HSC_5th_10,22,Human Sciences,5,2 years,Methods of teaching language,Talk about teaching method
+HSC_5th_11,21,Human Sciences,5,none,Entertaining the animal,none
+HSC_6th_01,22,Human Sciences,6,X,Writing a diary is the best way to review how happy you are,Writing a dairy is the best way to review how happy you are
+HSC_6th_02,20,Human Sciences,6,X,Studying philosophy,Studying philosophy can lead to a happier and more peaceful existence
+HSC_6th_03,20,Human Sciences,6,X,Eating at restourant with your family is good way to build family ties,Eating at restaurants with your family is a good way to build family ties
+HSC_6th_04,21,Human Sciences,6,X,Writing a diary is the best way to review how happy you are,Writing a diary is the best way to review how happy you are
+HSC_6th_05,20,Human Sciences,6,X,Writing a diary is the best way to review how happy you are,Writing a diary is the best way to review how happy you are
+HSC_6th_06,20,Human Sciences,6,X,Eating at restaurants with your family is a good way to build family ties,Eating at restaurants with your family is a good way to build family ties
+HSC_6th_07,21,Human Sciences,6,X,Importance of Philosophy,Studying philosophy can lead you to a happier and more peaceful existence
+HSC_6th_08,20,Human Sciences,6,X,............,Eating at restaurants with your family is a good way to build family ties
+HSC_6th_09,21,Human Sciences,6,X,Eating at restaurants with your family,Eating at restaurants with your family is a good way to build family ties
+HSC_6th_10,21,Human Sciences,6,X,Philosophy,Studying philosophy can lead to a happier and more peaceful existence
+HSC_6th_11,20,Human Sciences,6,X,restanrant,Eating at restaurants with your family is a good way to build family ties
+HSC_6th_12,21,Human Sciences,6,X,.........,Writing a dairy is the best way to review how happy you are
+HSC_6th_13,20,Human Sciences,6,X,Eating at restaurants with your family is a good way to build family ties,Eating at restaurants with your family is a good way to build family ties
+HSC_6th_14,22,Human Sciences,6,X,...........,Writing a dairy is the best way to review how happy you are
+HSC_6th_15,25,Human Sciences,6,X,the froks in restaurants,Eating at restaurants with your family is a good way to build family ties
+HSC_6th_16,23,Human Sciences,6,X,"Achieving a clam, relaxed manner will boost your sense of happiness","Achieving a clam, relaxed manner will boost your sense of happiness"
+HSC_6th_17,20,Human Sciences,6,X,Eating restaurants with your family is a good way to build family,Eating at restaurants with your family is a good way to build family ties
+HSC_6th_18,22,Human Sciences,6,X,Eating in restaurant with your family is a good way to build family ties,Eating at restaurants with your family is a good way to build family ties
+HSC_6th_19,22,Human Sciences,6,X,Eating at restaurants with your family is a good way to build family,Eating at restaurants with your family is a good way to build family ties
+HSC_6th_20,23,Human Sciences,6,X,Eating at restaurants with your family is a good way to build family,Eating at restaurants with your family is a good way to build family ties
+HSC_6th_21,21,Human Sciences,6,X,Eating at a restaurants with your family is a good way to build family,Eating at restaurants with your family is a good way to build family ties
+HSC_6th_22,20,Human Sciences,6,8 years,self-discipline has its advantages and disadvantages on how the individual persives it.,Strict self-discipline is the best road of happiness
+HSC_6th_23,20,Human Sciences,6,2 years,self-discipline,Strict self-discipline is the best road of happiness
+HSC_6th_24,21,Human Sciences,6,X,Eating at the restaurant with your family is a good deed way to build family ties,Eating at restaurants with your family is a good way to build family ties
+HSC_6th_25,22,Human Sciences,6,X,Eating at restaurant with your family is a good way to build family ties,Eating at restaurants with your family is a good way to build family ties
+HSC_6th_26,21,Human Sciences,6,X,Eating at restaurant with your family is a good way to build family ties,Eating at restaurants with your family is a good way to build family ties
+HSC_6th_27,20,Human Sciences,6,X,..........,We should devote most of our lives to being happy
+HSC_6th_28,20,Human Sciences,6,X,..........,Self-esteem is dependent on the possessions you have
+HSC_6th_29,none,Human Sciences,6,X,"Grafting some fixed relaxation time onto a busy Schedule may lead not only to a less hectic lifestyle, but also to healthier mind and body.","Grafting some fixed relaxation time onto a busy schedule may lead not only to a less hectic lifestyle, but also to a healthier mind and body"
+HSC_6th_30,21,Human Sciences,6,X,Eating at restaurants with your family is a good way to build family ties,Eating at restaurants with your family is a good way to build family ties
+HSC_6th_31,21,Human Sciences,6,X,............,Writing a dairy is the best way to review how happy you are
+HSC_6th_32,21,Human Sciences,6,X,studing philosophy,Studying philosophy can lead to a happier and more peaceful existence
+HSC_6th_33,20,Human Sciences,6,X,Happy,We should devote most of our lives to being happy
+HSC_6th_34,20,Human Sciences,6,X,strict self-discipline,Strict self-esteem is dependent on the possessions you have
+HSC_6th_35,20,Human Sciences,6,X,eating at restaurant with your family is a good way to build family ties,Eating at restaurants with your family is a good way to build family ties
+HSC_7th_01,20,Human Sciences,7,X,Some University students want to learn about other subjects. In addition to their main subjects. Others believe it is more important to give all their time and attention to studying for a qualification. Discuss both these views and give your own opinion.,Some University students want to learn about others. In addition to their main subjects. Others believe it is more important to give all their time and attention to studying for a qualification. Discuss both these views and give your own opinion.
+HSC_7th_02,20,Human Sciences,7,X,Some university students want to learn about other subjects. In addition to their main subjects. others believe it is more important to give all thier time and attention to studenting gor qualification. Discuss both these views and give your own opinion,Some University students want to learn about other subjects. In addition to their main subjects. Others believe it is more important to give all their time and attention to studying for a qualification. Discuss both these views and give your own opinion.
+HSC_7th_03,21,Human Sciences,7,X,..............,Some University students want to learn about other subjects. In addition to their main subjects. Others believe it is more important to give all their time and attention to studying for a qualification. Discuss both these views and give your own opinion.
+HSC_7th_04,25,Human Sciences,7,4 years,..............,Some University students want to learn about other subjects. In addition to their main subjects. Others believe it is more important to give all their time and attention to studying for a qualification. Discuss both these views and give your own opinion.
+HSC_7th_05,none,Human Sciences,7,none,Some University students want to learn about others subjects. In addition to their main subjects. Others belive it is more important to give all their time and attention to studying for a qualification. Discuss both these views and give your own opinion.,Some University students want to learn about others subjects. In addition to their main subjects. Others believe it is more important to give all their time and attention to studying for a qualification. Discuss both these views and give your own opinion.
+HSC_7th_06,none,Human Sciences,7,none,Some University student want to learn about others subject. In addition is their main subjects. Others believe make important to give all their time and attention to studying for a qualification. Discuss both these views and give your own opinion.,Some University students want to learn about other subjects. In addition to their main subjects. Others believe it is more important to give all their time and attention to studying for a qualification. Discuss both these views and give your own opinion.
+HSC_7th_07,23,Human Sciences,7,X,studing additional subjects or studying for a qualification,Some University students want to learn about others subjects. In addition to their main subjects. Others believe it is more important to give all their time and attention to studying for a qualification. Discuss both these views and give your own opinion.
+HSC_7th_08,22,Human Sciences,7,X,some people feel that the legal ege at least 21,Some people feel that legal age at which people can marry should be at least 21. To what extent do you agree or disagree?
+HSC_7th_09,22,Human Sciences,7,X,Some people feel that legal age at which people can marry should be at least 21. To what extent do you agree or disagree?,Some people feel that legal age at which people can marry should be at least 21. To what extent do you agree or disagree?
+HSC_7th_10,21,Human Sciences,7,X,Some people feel that legal age at which people can marry should be at least 21 To what extent do you agree or disagree?,Some people feel that legal age at which people can marry should be at least 21. To what extent do you agree or disagree?
+HSC_7th_11,21,Human Sciences,7,X,Some people feel that legal age at which people can marry should be at least 21? To what extent do you agree or disagree?,Some people feel that legal age at which people can marry should be at least 21. To what extent do you agree or disagree?
+HSC_7th_12,21,Human Sciences,7,X,..............,Some people feel that legal age at which people can marry should be at least 21. To what extent do you agree or disagree?
+HSC_7th_13,23,Human Sciences,7,X,..........,Some people feel that legal age at which people can marry should be at least 21. To what extent do you agree or disagree?
+HSC_7th_14,none,Human Sciences,7,none,Some people feel that legal at which deople can marry should be at least 21.,Some people feel that legal age at which people can marry should be at least 21. To what extent do you agree or disagree?
+HSC_7th_15,none,Human Sciences,7,none,..........,Some people feel that legal age at which people can marry should be at least 21. To what extent do you agree or disagree?
+HSC_7th_16,none,Human Sciences,7,none,Some people feel that legal age at which people can marry should be at least 21 To what extent do you agree or disagree?,Some people feel that legal age at which people can marry should be at least 21. To what extent do you agree or disagree?
+HSC_7th_17,22,Human Sciences,7,X,Some people feel that legal age at which people can marry should be at least 21 To what extent do you agree or disagree?,Some people feel that legal age at which people can marry should be at least 21. To what extent do you agree or disagree?
+HSC_7th_18,24,Human Sciences,7,X,Some people feel that legal age at which people can marry should be at least 21 To what extent do you agree or disagree?,Some people feel that legal age at which people can marry should be at least 21. To what extent do you agree or disagree?
+HSC_8th_01,24,Human Sciences,8,none,Importance of family,What is the importance of family?
+HSC_8th_02,24,Human Sciences,8,X,Importance of family,What is the importance of family?
+HSC_8th_03,22,Human Sciences,8,none,Importance of family,What is the importance of family?
+HSC_8th_04,24,Human Sciences,8,X,Importance of family,What is the importance of family?
+HSC_8th_05,24,Human Sciences,8,X,Importance of family,What is the importance of family?
+HSC_8th_06,25,Human Sciences,8,none,Importance of family,What is the importance of family?
+HSC_8th_07,22,Human Sciences,8,none,Importance of family,What is the importance of family?
+HSC_8th_08,21,Human Sciences,8,none,The importance of family,What is the importance of family?
+HSC_8th_09,23,Human Sciences,8,3 years,importance of family,What is the importance of family?
+HSC_8th_10,23,Human Sciences,8,X,Climate Change,What do you think of climate change and how can we deal with it?
+HSC_8th_11,22,Human Sciences,8,X,Climate Change,What do you think of climate change and how can we deal with it?
+HSC_8th_12,23,Human Sciences,8,X,Social media,How did social media affect your life?

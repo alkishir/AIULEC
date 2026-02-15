@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <corpus>
+    <text>
+      <metadata>
+        <Faculty>Human Sciences</Faculty>
+        <Semester>8</Semester>
+        <Age>23</Age>
+        <Time_spent_at_an_EnglishSpeaking_country>3 years</Time_spent_at_an_EnglishSpeaking_country>
+        <Topic>What is the importance of family? </Topic>
+        <Title>importance of family</Title>
+        </metadata>
+      <body>
+        <word pos="AT0">The</word>
+        <word pos="NN1">family</word>
+        <word pos="VBZ">is</word>
+        <word pos="AT0">the</word>
+        <word pos="AV0">most</word>
+        <word pos="AJ0">important</word>
+        <word pos="NN1">thing</word>
+        <word pos="PRP">in</word>
+        <word pos="DPS">our</word>
+        <word pos="NN1">life</word>
+        <word pos="PUN">.</word>
+        </body>
+      </text>
+    </corpus>
+  </root>

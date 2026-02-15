@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <corpus>
+    <text>
+      <metadata>
+        <Faculty>Arts</Faculty>
+        <Semester>2</Semester>
+        <Age>22</Age>
+        <Time_spent_at_an_EnglishSpeaking_country>none</Time_spent_at_an_EnglishSpeaking_country>
+        <Topic>A special place</Topic>
+        <Title>The Village</Title>
+        </metadata>
+      <body>
+        <word pos="AT0">The</word>
+        <word pos="NN1">village</word>
+        <word pos="VBZ">is</word>
+        <word pos="AJ0">special</word>
+        <word pos="NN1">space</word>
+        <word pos="PUN">,</word>
+        <word pos="PNP">it</word>
+        <word pos="VBZ">'s</word>
+        <word pos="VVN">located</word>
+        <word pos="PRP">in</word>
+        <word pos="NN1">place</word>
+        <word pos="PRP">away</word>
+        <word pos="PRP">from</word>
+        <word pos="NN1">noise</word>
+        <word pos="PUN">.</word>
+        <word pos="AT0">The</word>
+        <word pos="NN1">village</word>
+        <word pos="NN1">living</word>
+        <word pos="VBZ">is</word>
+        <word pos="AV0">more</word>
+        <word pos="AJ0">interesting</word>
+        <word pos="CJC">and</word>
+        <word pos="AJ0">fantastic</word>
+        <word pos="PUN">,</word>
+        <word pos="AT0">The</word>
+        <word pos="NN1">countryside</word>
+        <word pos="VBZ">is</word>
+        <word pos="XX0">not</word>
+        <word pos="AV0">very</word>
+        <word pos="AJ0">crowded</word>
+        <word pos="PUN">,</word>
+        <word pos="PRP">In</word>
+        <word pos="AJ0">small</word>
+        <word pos="NN1">village</word>
+        <word pos="VM0">may</word>
+        <word pos="VBI">be</word>
+        <word pos="VHZ">has</word>
+        <word pos="AV0">only</word>
+        <word pos="CRD">100</word>
+        <word pos="CJC">or</word>
+        <word pos="CRD">200</word>
+        <word pos="NN0">people</word>
+        <word pos="PUN">.</word>
+        <word pos="PRP">In</word>
+        <word pos="NN1">village</word>
+        <word pos="EX0">there</word>
+        <word pos="VBZ">is</word>
+        <word pos="AT0">a</word>
+        <word pos="NN1">lot</word>
+        <word pos="PRF">of</word>
+        <word pos="NN2">trees</word>
+        <word pos="CJC">and</word>
+        <word pos="AJ0">green</word>
+        <word pos="NN1">area</word>
+        <word pos="PUN">,</word>
+        <word pos="CJC">and</word>
+        <word pos="AV0">too</word>
+        <word pos="EX0">there</word>
+        <word pos="VBZ">is</word>
+        <word pos="AJ0">different</word>
+        <word pos="NN1">type</word>
+        <word pos="PRF">of</word>
+        <word pos="NN1">animal</word>
+        <word pos="PUN">.</word>
+        <word pos="AV0">In</word>
+        <word pos="AV0">short</word>
+        <word pos="PUN">,</word>
+        <word pos="VVG">living</word>
+        <word pos="VBZ">is</word>
+        <word pos="AV0">more</word>
+        <word pos="AJ0">quiet</word>
+        <word pos="CJC">and</word>
+        <word pos="AJ0">peaceful</word>
+        <word pos="PUN">,</word>
+        <word pos="AV0">there</word>
+        <word pos="PNP">you</word>
+        <word pos="VM0">can</word>
+        <word pos="VVI">find</word>
+        <word pos="NN1">lifestyle</word>
+        <word pos="CJT">that</word>
+        <word pos="VVD">wanted</word>
+        <word pos="PNI">anyone</word>
+        <word pos="PUN">.</word>
+        </body>
+      </text>
+    </corpus>
+  </root>

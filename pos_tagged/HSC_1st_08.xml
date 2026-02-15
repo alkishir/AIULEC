@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <corpus>
+    <text>
+      <metadata>
+        <Faculty>Human Sciences</Faculty>
+        <Semester>1</Semester>
+        <Age>19</Age>
+        <Time_spent_at_an_EnglishSpeaking_country>X</Time_spent_at_an_EnglishSpeaking_country>
+        <Topic>family</Topic>
+        <Title>family</Title>
+        </metadata>
+      <body>
+        <word pos="PNP">I</word>
+        <word pos="VHB">have</word>
+        <word pos="VBZ">is</word>
+        <word pos="NN1">family</word>
+        <word pos="PNP">I</word>
+        <word pos="VHB">have</word>
+        <word pos="CRD">four</word>
+        <word pos="NN2">sisters</word>
+        <word pos="CJC">and</word>
+        <word pos="CRD">two</word>
+        <word pos="NN2">brothers</word>
+        <word pos="NN1">mum</word>
+        <word pos="CJC">and</word>
+        <word pos="NN1">dad</word>
+        <word pos="DPS">my</word>
+        <word pos="NN1">family</word>
+        <word pos="PNP">I</word>
+        <word pos="VVB">love</word>
+        <word pos="PNP">me</word>
+        <word pos="PUN">,</word>
+        <word pos="PNP">I</word>
+        <word pos="VVB">love</word>
+        <word pos="NN1">family</word>
+        <word pos="AV0">so</word>
+        <word pos="DT0">much</word>
+        </body>
+      </text>
+    </corpus>
+  </root>

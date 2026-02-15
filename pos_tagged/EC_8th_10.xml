@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <corpus>
+    <text>
+      <metadata>
+        <Faculty>Education</Faculty>
+        <Semester>8</Semester>
+        <Age>22</Age>
+        <Time_spent_at_an_EnglishSpeaking_country>X</Time_spent_at_an_EnglishSpeaking_country>
+        <Topic>Honor of My Family</Topic>
+        <Title>Honour of My family</Title>
+        </metadata>
+      <body>
+        <word pos="VVG">Honoring</word>
+        <word pos="DPS">my</word>
+        <word pos="NN1">family</word>
+        <word pos="VVZ">means</word>
+        <word pos="VVG">showing</word>
+        <word pos="NN1">appreciation</word>
+        <word pos="NN1">love</word>
+        <word pos="CJC">and</word>
+        <word pos="NN1">respect</word>
+        <word pos="PRP">for</word>
+        <word pos="DPS">their</word>
+        <word pos="NN2">sacrifices</word>
+        <word pos="PUN">.</word>
+        <word pos="PNP">It</word>
+        <word pos="VVZ">strengthens</word>
+        <word pos="DPS">our</word>
+        <word pos="NN1">bond</word>
+        <word pos="PUN">,</word>
+        <word pos="VVZ">brings</word>
+        <word pos="PNP">us</word>
+        <word pos="AV0">closer</word>
+        <word pos="PUN">,</word>
+        <word pos="CJC">and</word>
+        <word pos="VVZ">ensures</word>
+        <word pos="AT0">a</word>
+        <word pos="AJ0">supportive</word>
+        <word pos="CJC">and</word>
+        <word pos="AJ0">loving</word>
+        <word pos="NN1">environment</word>
+        <word pos="PUN">.</word>
+        </body>
+      </text>
+    </corpus>
+  </root>

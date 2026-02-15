@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<file name="" tagset="uclee-en-2.0.tag">
+Title: <FS corr="An Interesting Place">An interesting place</FS> 
+
+My interesting place is our shopping<WM corr="mall">\0</WM><QM corr=".">\0</QM> I like this place because it is beautiful<QM corr=",">\0</QM> and I feel it is my <GWC corr="relaxing">relax</GWC> place. I buy <GA corr="0">the</GA> clothes<QM corr=",">\0</QM> and I <GVT corr="go">went to</GVT> shopping by car because it<WM corr="is">\0</WM> far<QM corr=".">\0</QM> I usually <GVM corr="meet">meeten</GVM> with <GA corr="the">\0</GA>fishmonger<QM corr=".">\0</QM> I sometimes buy some snacks<QM corr=".">\0</QM> I think it is <GADJCS corr="the best">best</GADJCS> <XPRCO corr="place for entertainment "><XNPR corr="place for">place of</XNPR> entertain</XPRCO> and <XPRCO corr="walking">walk</XPRCO>. I often <XVPR corr="go "><GVT corr="go">went</GVT> to</XVPR> shopping <LP corr="once a week">one day in the week</LP>.
+</file>

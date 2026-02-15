@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <corpus>
+    <text>
+      <metadata>
+        <Faculty>Human Sciences</Faculty>
+        <Semester>4</Semester>
+        <Age>19</Age>
+        <Time_spent_at_an_EnglishSpeaking_country>none</Time_spent_at_an_EnglishSpeaking_country>
+        <Topic>Describing a picture</Topic>
+        <Title>compassion for the dog</Title>
+        </metadata>
+      <body>
+        <word pos="EX0">There</word>
+        <word pos="VBD">was</word>
+        <word pos="AT0">a</word>
+        <word pos="NN1">dog</word>
+        <word pos="CJT">that</word>
+        <word pos="VHD">had</word>
+        <word pos="AT0">no</word>
+        <word pos="NN1">shelter</word>
+        <word pos="TO0">to</word>
+        <word pos="VVI">live</word>
+        <word pos="AVP">in</word>
+        <word pos="PUN">,</word>
+        <word pos="CJC">but</word>
+        <word pos="CJS">when</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">boy</word>
+        <word pos="VVD">saw</word>
+        <word pos="PUN">,</word>
+        <word pos="PNP">him</word>
+        <word pos="VVB">pity</word>
+        <word pos="PNP">him</word>
+        <word pos="PUN">,</word>
+        <word pos="PNP">he</word>
+        <word pos="VVD">decided</word>
+        <word pos="TO0">to</word>
+        <word pos="VVI">build</word>
+        <word pos="PNP">him</word>
+        <word pos="AT0">a</word>
+        <word pos="NN1">house</word>
+        <word pos="CJC">and</word>
+        <word pos="VVI">serve</word>
+        <word pos="PNP">him</word>
+        <word pos="NN1">food</word>
+        <word pos="CJC">and</word>
+        <word pos="VVB">help</word>
+        <word pos="PNP">him</word>
+        </body>
+      </text>
+    </corpus>
+  </root>

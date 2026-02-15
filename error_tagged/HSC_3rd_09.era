@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<file name="" tagset="uclee-en-2.0.tag">
+Title: Sports 
+
+Everybody knows that <GA corr="0">the</GA> sports <GVN corr="are">is</GVN> very important for our health <QM corr=".">,</QM> <GA corr="0">the</GA> sports make our <GNN corr="bodies">body</GNN> <GADJCS corr="fitter">more fit</GADJCS> . 
+
+There are <GDI corr="a lot of">more</GDI> <WR corr="0">of the</WR> sports<QM corr=",">\0</QM> such as <QR corr=",0">:</QR> football <QC corr=",">– </QC>swimming <QL corr="and"><QC corr=",">–</QC></QL> tennis<QC corr=".">,</QC> also there are some <GNN corr="activities">activity</GNN> that <WM corr="are">\0</WM><XVPR corr="considered">considered as</XVPR> sports<QM corr=",">\0</QM> such as <FS corr="horse-riding">horse riding</FS> <QL corr="and">–</QL> walking . 
+
+If you want your body<WM corr="to be">\0</WM> fit and your health <XVCO corr="to be">is</XVCO> <FS corr="excellent">execelent</FS><QM corr=",">\0</QM> you should <LSV corr="do"><FS corr="practise">practes</FS></LSV> <GA corr="0">the</GA> sports every day .
+</file>

@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <corpus>
+    <text>
+      <metadata>
+        <Faculty>Human Sciences</Faculty>
+        <Semester>5</Semester>
+        <Age>20</Age>
+        <Time_spent_at_an_EnglishSpeaking_country>X</Time_spent_at_an_EnglishSpeaking_country>
+        <Topic>Your favorite book</Topic>
+        <Title>Favourite book</Title>
+        </metadata>
+      <body>
+        <word pos="VVG">Reading</word>
+        <word pos="NN1">book</word>
+        <word pos="VBZ">is</word>
+        <word pos="AJ0">fascinating</word>
+        <word pos="PUN">,</word>
+        <word pos="TO0">to</word>
+        <word pos="VVI">spend</word>
+        <word pos="DPS">your</word>
+        <word pos="NN1">time</word>
+        <word pos="AVQ">when</word>
+        <word pos="PNP">you</word>
+        <word pos="AT0">a</word>
+        <word pos="AJ0">free</word>
+        <word pos="PUN">,</word>
+        <word pos="TO0">to</word>
+        <word pos="AJ0">developmental</word>
+        <word pos="NN1">human</word>
+        <word pos="PUN">.</word>
+        <word pos="PNP">I</word>
+        <word pos="VVB">like</word>
+        <word pos="VVI">read</word>
+        <word pos="NN2">books</word>
+        <word pos="AV0">specially</word>
+        <word pos="PRP">about</word>
+        <word pos="NN2">cultures</word>
+        <word pos="PRP">to</word>
+        <word pos="DT0">another</word>
+        <word pos="NN2">societies</word>
+        <word pos="PUN">,</word>
+        <word pos="TO0">to</word>
+        <word pos="VBI">be</word>
+        <word pos="AJ0">outgoing</word>
+        <word pos="NN2">personalities</word>
+        <word pos="CJC">and</word>
+        <word pos="TO0">to</word>
+        <word pos="AJ0">wide</word>
+        <word pos="AT0">the</word>
+        <word pos="AJ0">mental</word>
+        <word pos="PUN">,</word>
+        <word pos="TO0">to</word>
+        <word pos="VVI">acquire</word>
+        <word pos="NN2">skills</word>
+        <word pos="PRP">in</word>
+        <word pos="AJ0">different</word>
+        <word pos="NN2">sides</word>
+        <word pos="PUN">,</word>
+        <word pos="TO0">to</word>
+        <word pos="VVI">acquire</word>
+        <word pos="NN2">vocabularies</word>
+        <word pos="PUN">,</word>
+        <word pos="TO0">to</word>
+        <word pos="VVI">learn</word>
+        <word pos="VVG">cooking</word>
+        <word pos="PUN">,</word>
+        <word pos="PUN">..</word>
+        <word pos="AV0">etc</word>
+        <word pos="PUN">..</word>
+        <word pos="VVB">Try</word>
+        <word pos="TO0">to</word>
+        <word pos="VVI">take</word>
+        <word pos="NN2">books</word>
+        <word pos="PRP">to</word>
+        <word pos="VVG">reading</word>
+        <word pos="AVP">in</word>
+        <word pos="VVD">differed</word>
+        <word pos="NN2">fields</word>
+        <word pos="PUN">.</word>
+        </body>
+      </text>
+    </corpus>
+  </root>

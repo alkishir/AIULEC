@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <corpus>
+    <text>
+      <metadata>
+        <Faculty>Human Sciences</Faculty>
+        <Semester>2</Semester>
+        <Age>19</Age>
+        <Time_spent_at_an_EnglishSpeaking_country>X</Time_spent_at_an_EnglishSpeaking_country>
+        <Topic>Sport</Topic>
+        <Title>sport</Title>
+        </metadata>
+      <body>
+        <word pos="AV0">At</word>
+        <word pos="AV0">first</word>
+        <word pos="PUN">,</word>
+        <word pos="NN1">sport</word>
+        <word pos="VBZ">is</word>
+        <word pos="AJ0">important</word>
+        <word pos="NN2">things</word>
+        <word pos="CJS">because</word>
+        <word pos="TO0">to</word>
+        <word pos="VVI">help</word>
+        <word pos="PNP">us</word>
+        <word pos="AT0">the</word>
+        <word pos="AJ0">healthy</word>
+        <word pos="CJC">and</word>
+        <word pos="AJ0">positive</word>
+        <word pos="NN1">energy</word>
+        <word pos="CJC">and</word>
+        <word pos="DT0">some</word>
+        <word pos="AJ0">simple</word>
+        <word pos="NN1">movement</word>
+        <word pos="VVB">help</word>
+        <word pos="PNP">you</word>
+        <word pos="VVI">change</word>
+        <word pos="DPS">your</word>
+        <word pos="NN1">mood</word>
+        <word pos="PRP">such</word>
+        <word pos="PRP">as</word>
+        <word pos="VVG">swimming</word>
+        <word pos="PUN">,</word>
+        <word pos="VVI">cycle</word>
+        <word pos="PUN">,</word>
+        <word pos="VVI">play</word>
+        <word pos="NN1">football</word>
+        <word pos="NN1">tennis</word>
+        <word pos="PNI">anything</word>
+        <word pos="VBZ">is</word>
+        <word pos="AJ0">useful</word>
+        <word pos="PRP">to</word>
+        <word pos="PNP">you</word>
+        <word pos="PUN">.</word>
+        </body>
+      </text>
+    </corpus>
+  </root>

@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <corpus>
+    <text>
+      <metadata>
+        <Faculty>Arts</Faculty>
+        <Semester>1</Semester>
+        <Age>18</Age>
+        <Time_spent_at_an_EnglishSpeaking_country>none</Time_spent_at_an_EnglishSpeaking_country>
+        <Topic>Hobbies</Topic>
+        <Title>Hobbies</Title>
+        </metadata>
+      <body>
+        <word pos="AT0">Every</word>
+        <word pos="NN1">human</word>
+        <word pos="PRP">in</word>
+        <word pos="DT0">this</word>
+        <word pos="NN1">world</word>
+        <word pos="VHB">have</word>
+        <word pos="AT0">a</word>
+        <word pos="PNI">something</word>
+        <word pos="VVB">make</word>
+        <word pos="PNP">him</word>
+        <word pos="AJ0">special</word>
+        <word pos="CJS">than</word>
+        <word pos="AJ0">other</word>
+        <word pos="PNI">one</word>
+        <word pos="PUN">.</word>
+        <word pos="NN2">Hobbies</word>
+        <word pos="VM0">can</word>
+        <word pos="VVI">show</word>
+        <word pos="AT0">the</word>
+        <word pos="NN2">ideas</word>
+        <word pos="PRP">like</word>
+        <word pos="VVG">drawing</word>
+        <word pos="CJC">and</word>
+        <word pos="VVG">singing</word>
+        <word pos="PUN">,</word>
+        <word pos="VVG">swimming</word>
+        <word pos="PUN">,</word>
+        <word pos="VVG">writing</word>
+        <word pos="NN2">novels</word>
+        <word pos="PUN">,</word>
+        <word pos="PNP">they</word>
+        <word pos="VM0">can</word>
+        <word pos="VVI">talk</word>
+        <word pos="PRP">about</word>
+        <word pos="PNX">themselves</word>
+        <word pos="PRP">from</word>
+        <word pos="DPS">their</word>
+        <word pos="NN2">hobbies</word>
+        <word pos="PUN">.</word>
+        <word pos="PNP">It</word>
+        <word pos="VM0">can</word>
+        <word pos="AV0">also</word>
+        <word pos="VVI">give</word>
+        <word pos="AJ0">comfortable</word>
+        <word pos="NN2">feelings</word>
+        <word pos="PRP">by</word>
+        <word pos="VDG">doing</word>
+        <word pos="PNP">it</word>
+        <word pos="PUN">.</word>
+        <word pos="PNP">It</word>
+        <word pos="VM0">can</word>
+        <word pos="VVI">make</word>
+        <word pos="DPS">your</word>
+        <word pos="NN1">time</word>
+        <word pos="AJ0">full</word>
+        <word pos="PRF">of</word>
+        <word pos="AJ0">interesting</word>
+        <word pos="PUN">.</word>
+        <word pos="PNP">It</word>
+        <word pos="VBZ">'s</word>
+        <word pos="AJ0">important</word>
+        <word pos="PRP">to</word>
+        <word pos="PNI">everyone</word>
+        <word pos="CJT">that</word>
+        <word pos="VVB">understand</word>
+        <word pos="PNX">himself</word>
+        <word pos="CJC">and</word>
+        <word pos="VVB">give</word>
+        <word pos="NN1">time</word>
+        <word pos="TO0">to</word>
+        <word pos="VVI">know</word>
+        <word pos="NN2">things</word>
+        <word pos="CJT">that</word>
+        <word pos="VM0">can</word>
+        <word pos="VVI">talk</word>
+        <word pos="PRP">about</word>
+        <word pos="DPS">their</word>
+        <word pos="NN2">ideas</word>
+        <word pos="CJC">and</word>
+        <word pos="VVB">give</word>
+        <word pos="NN1">fun</word>
+        <word pos="PRP">for</word>
+        <word pos="DPS">their</word>
+        <word pos="NN2">lives</word>
+        </body>
+      </text>
+    </corpus>
+  </root>

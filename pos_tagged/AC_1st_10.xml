@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <corpus>
+    <text>
+      <metadata>
+        <Faculty>Arts</Faculty>
+        <Semester>1</Semester>
+        <Age>18</Age>
+        <Time_spent_at_an_EnglishSpeaking_country>none</Time_spent_at_an_EnglishSpeaking_country>
+        <Topic>Alimals</Topic>
+        <Title>..........</Title>
+        </metadata>
+      <body>
+        <word pos="NN1">Lion</word>
+        <word pos="VBZ">is</word>
+        <word pos="AJC">stronger</word>
+        <word pos="PNP">It</word>
+        <word pos="VHZ">has</word>
+        <word pos="AJ0">brown</word>
+        <word pos="NN1">hair</word>
+        <word pos="PUN">.</word>
+        <word pos="PNP">It</word>
+        <word pos="VHZ">has</word>
+        <word pos="NN1">meat</word>
+        <word pos="PUN">.</word>
+        <word pos="PNP">It</word>
+        <word pos="VBZ">is</word>
+        <word pos="AT0">a</word>
+        <word pos="AJ0">big</word>
+        <word pos="NN1">animal</word>
+        <word pos="PUN">.</word>
+        <word pos="PNP">It</word>
+        <word pos="VBZ">is</word>
+        <word pos="AT0">a</word>
+        <word pos="AJ0">long</word>
+        <word pos="NN1">tail</word>
+        <word pos="PUN">.</word>
+        </body>
+      </text>
+    </corpus>
+  </root>

@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <corpus>
+    <text>
+      <metadata>
+        <Faculty>Human Sciences</Faculty>
+        <Semester>3</Semester>
+        <Age>none</Age>
+        <Time_spent_at_an_EnglishSpeaking_country>X</Time_spent_at_an_EnglishSpeaking_country>
+        <Topic>Sport</Topic>
+        <Title>Sports</Title>
+        </metadata>
+      <body>
+        <word pos="PNI">Everybody</word>
+        <word pos="VVZ">knows</word>
+        <word pos="CJT">that</word>
+        <word pos="AT0">the</word>
+        <word pos="NN2">sports</word>
+        <word pos="VBZ">is</word>
+        <word pos="AV0">very</word>
+        <word pos="AJ0">important</word>
+        <word pos="PRP">for</word>
+        <word pos="DPS">our</word>
+        <word pos="NN1">health</word>
+        <word pos="PUN">,</word>
+        <word pos="AT0">the</word>
+        <word pos="NN2">sports</word>
+        <word pos="VVB">make</word>
+        <word pos="DPS">our</word>
+        <word pos="NN1">body</word>
+        <word pos="AV0">more</word>
+        <word pos="AJ0">fit</word>
+        <word pos="PUN">.</word>
+        <word pos="EX0">There</word>
+        <word pos="VBB">are</word>
+        <word pos="DT0">more</word>
+        <word pos="PRF">of</word>
+        <word pos="AT0">the</word>
+        <word pos="NN2">sports</word>
+        <word pos="PRP">such</word>
+        <word pos="PRP">as</word>
+        <word pos="PUN">:</word>
+        <word pos="NN1">football</word>
+        <word pos="VVG">swimming</word>
+        <word pos="NN1">tennis</word>
+        <word pos="PUN">,</word>
+        <word pos="AV0">also</word>
+        <word pos="EX0">there</word>
+        <word pos="VBB">are</word>
+        <word pos="DT0">some</word>
+        <word pos="NN1">activity</word>
+        <word pos="CJT">that</word>
+        <word pos="VVD">considered</word>
+        <word pos="CJS">as</word>
+        <word pos="NN2">sports</word>
+        <word pos="PRP">such</word>
+        <word pos="PRP">as</word>
+        <word pos="NN1">horse</word>
+        <word pos="VVG">riding</word>
+        <word pos="VVG">walking</word>
+        <word pos="PUN">.</word>
+        <word pos="CJS">If</word>
+        <word pos="PNP">you</word>
+        <word pos="VVB">want</word>
+        <word pos="DPS">your</word>
+        <word pos="NN1">body</word>
+        <word pos="NN1">fit</word>
+        <word pos="CJC">and</word>
+        <word pos="DPS">your</word>
+        <word pos="NN1">health</word>
+        <word pos="VBZ">is</word>
+        <word pos="AJ0">excellent</word>
+        <word pos="PNP">you</word>
+        <word pos="VM0">should</word>
+        <word pos="VVI">practice</word>
+        <word pos="AT0">the</word>
+        <word pos="NN2">sports</word>
+        <word pos="AT0">every</word>
+        <word pos="NN1">day</word>
+        <word pos="PUN">.</word>
+        </body>
+      </text>
+    </corpus>
+  </root>

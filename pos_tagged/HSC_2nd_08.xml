@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <corpus>
+    <text>
+      <metadata>
+        <Faculty>Human Sciences</Faculty>
+        <Semester>2</Semester>
+        <Age>18</Age>
+        <Time_spent_at_an_EnglishSpeaking_country>X</Time_spent_at_an_EnglishSpeaking_country>
+        <Topic>your best memory</Topic>
+        <Title>your best memory</Title>
+        </metadata>
+      <body>
+        <word pos="DPS">My</word>
+        <word pos="AJS">best</word>
+        <word pos="NN1">memory</word>
+        <word pos="VBD">was</word>
+        <word pos="CJS">when</word>
+        <word pos="PNP">I</word>
+        <word pos="VVD">went</word>
+        <word pos="PRP">with</word>
+        <word pos="DPS">my</word>
+        <word pos="NN1">family</word>
+        <word pos="PRP">to</word>
+        <word pos="NP0">Saudi</word>
+        <word pos="NP0">Arabia</word>
+        <word pos="PRP">for</word>
+        <word pos="NP0">Omra</word>
+        <word pos="PUN">,</word>
+        <word pos="PNP">it</word>
+        <word pos="VBD">was</word>
+        <word pos="AJ0">unforgettable</word>
+        <word pos="NN1">experience</word>
+        <word pos="PRP">in</word>
+        <word pos="DPS">my</word>
+        <word pos="NN1">life</word>
+        <word pos="PUN">,</word>
+        <word pos="PNP">I</word>
+        <word pos="VBD">was</word>
+        <word pos="AV0">very</word>
+        <word pos="AJ0">happy</word>
+        <word pos="PUN">.</word>
+        <word pos="ORD">First</word>
+        <word pos="PUN">,</word>
+        <word pos="PNP">we</word>
+        <word pos="VVD">went</word>
+        <word pos="PRP">to</word>
+        <word pos="NP0">Tunisia</word>
+        <word pos="PUN">.</word>
+        <word pos="AV0">Then</word>
+        <word pos="PNP">we</word>
+        <word pos="VVD">went</word>
+        <word pos="PRP">to</word>
+        <word pos="NP0">saudi</word>
+        <word pos="NP0">Arabia</word>
+        <word pos="PUN">.</word>
+        <word pos="PRP">After</word>
+        <word pos="DT0">that</word>
+        <word pos="PUN">,</word>
+        <word pos="PNP">we</word>
+        <word pos="VVD">saw</word>
+        <word pos="NP0">Al-Kaaba</word>
+        <word pos="PUN">,</word>
+        <word pos="PNP">It</word>
+        <word pos="VBD">was</word>
+        <word pos="AV0">very</word>
+        <word pos="AJ0">beautiful</word>
+        <word pos="PUN">,</word>
+        <word pos="CJC">and</word>
+        <word pos="PNP">we</word>
+        <word pos="VVG">staying</word>
+        <word pos="AV0">there</word>
+        <word pos="PRP">for</word>
+        <word pos="CRD">two</word>
+        <word pos="NN2">weeks</word>
+        <word pos="PUN">.</word>
+        <word pos="AV0">Finally</word>
+        <word pos="PNP">we</word>
+        <word pos="VVB">return</word>
+        <word pos="AV0">home</word>
+        <word pos="PUN">.</word>
+        </body>
+      </text>
+    </corpus>
+  </root>

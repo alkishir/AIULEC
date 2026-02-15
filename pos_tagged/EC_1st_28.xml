@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <corpus>
+    <text>
+      <metadata>
+        <Faculty>Education</Faculty>
+        <Semester>1</Semester>
+        <Age>19</Age>
+        <Time_spent_at_an_EnglishSpeaking_country>X</Time_spent_at_an_EnglishSpeaking_country>
+        <Topic>An interesting place</Topic>
+        <Title>An interesting place</Title>
+        </metadata>
+      <body>
+        <word pos="DPS">My</word>
+        <word pos="AJ0">interesting</word>
+        <word pos="NN1">place</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">sea</word>
+        <word pos="PUN">,</word>
+        <word pos="CJS">where</word>
+        <word pos="PNP">I</word>
+        <word pos="VVB">go</word>
+        <word pos="AT0">every</word>
+        <word pos="NN1">summer</word>
+        <word pos="PRP">with</word>
+        <word pos="DPS">my</word>
+        <word pos="NN1">family</word>
+        <word pos="PUN">,</word>
+        <word pos="CJS">where</word>
+        <word pos="PNP">we</word>
+        <word pos="VVB">enjoy</word>
+        <word pos="DPS">our</word>
+        <word pos="NN1">time</word>
+        <word pos="NN1">swimming</word>
+        <word pos="PUN">,</word>
+        <word pos="CJC">and</word>
+        <word pos="VVG">eating</word>
+        <word pos="NN1">ice-cream</word>
+        <word pos="CJC">and</word>
+        <word pos="DT0">some</word>
+        <word pos="NN2">fruits</word>
+        <word pos="PUN">,</word>
+        <word pos="AVQ">how</word>
+        <word pos="DT0">much</word>
+        <word pos="PNP">I</word>
+        <word pos="VVB">love</word>
+        <word pos="DT0">this</word>
+        <word pos="NN1">place</word>
+        <word pos="PUN">.</word>
+        </body>
+      </text>
+    </corpus>
+  </root>

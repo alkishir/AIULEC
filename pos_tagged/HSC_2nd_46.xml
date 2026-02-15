@@ -1,0 +1,143 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <corpus>
+    <text>
+      <metadata>
+        <Faculty>Human Sciences</Faculty>
+        <Semester>2</Semester>
+        <Age>19</Age>
+        <Time_spent_at_an_EnglishSpeaking_country>X</Time_spent_at_an_EnglishSpeaking_country>
+        <Topic>A strange experience</Topic>
+        <Title>A strange experience</Title>
+        </metadata>
+      <body>
+        <word pos="AV0">Actually</word>
+        <word pos="PNP">I</word>
+        <word pos="VVD">choosed</word>
+        <word pos="DT0">this</word>
+        <word pos="NN1">title</word>
+        <word pos="CJS">because</word>
+        <word pos="PNP">I</word>
+        <word pos="VHB">have</word>
+        <word pos="PNI">lots</word>
+        <word pos="PRF">of</word>
+        <word pos="AJ0">strange</word>
+        <word pos="NN1">experience</word>
+        <word pos="PUN">.</word>
+        <word pos="ORD">First</word>
+        <word pos="CJS">when</word>
+        <word pos="PNP">I</word>
+        <word pos="VBD">was</word>
+        <word pos="NN1">child</word>
+        <word pos="PNP">I</word>
+        <word pos="VVD">leaved</word>
+        <word pos="AVP">out</word>
+        <word pos="PRF">of</word>
+        <word pos="DPS">My</word>
+        <word pos="NN1">country</word>
+        <word pos="AV0">more</word>
+        <word pos="CJS">than</word>
+        <word pos="CRD">8</word>
+        <word pos="NN2">years</word>
+        <word pos="PUN">,</word>
+        <word pos="CJS">when</word>
+        <word pos="PNP">I</word>
+        <word pos="VVB">come</word>
+        <word pos="AVP">back</word>
+        <word pos="PRP">to</word>
+        <word pos="NP0">Libya</word>
+        <word pos="PNP">I</word>
+        <word pos="VBD">was</word>
+        <word pos="AV0">really</word>
+        <word pos="AJ0">surprised</word>
+        <word pos="PRP">about</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">life</word>
+        <word pos="AV0">here</word>
+        <word pos="PUN">,</word>
+        <word pos="AT0">The</word>
+        <word pos="NN1">life</word>
+        <word pos="VBZ">is</word>
+        <word pos="XX0">not</word>
+        <word pos="PRP">like</word>
+        <word pos="AVQ">How</word>
+        <word pos="PNP">I</word>
+        <word pos="VM0">used</word>
+        <word pos="TO0">to</word>
+        <word pos="VVI">live</word>
+        <word pos="PUN">,</word>
+        <word pos="CJC">and</word>
+        <word pos="PNP">it</word>
+        <word pos="VVZ">makes</word>
+        <word pos="PNP">me</word>
+        <word pos="AJ0">nervous</word>
+        <word pos="PUN">.</word>
+        <word pos="ORD">Second</word>
+        <word pos="PUN">,</word>
+        <word pos="CJS">before</word>
+        <word pos="PNP">I</word>
+        <word pos="VVB">start</word>
+        <word pos="NN1">collage</word>
+        <word pos="PNP">I</word>
+        <word pos="VBD">was</word>
+        <word pos="VVG">wandering</word>
+        <word pos="PRP">about</word>
+        <word pos="AT0">the</word>
+        <word pos="AJ0">major</word>
+        <word pos="CJT">that</word>
+        <word pos="PNP">I</word>
+        <word pos="VHB">have</word>
+        <word pos="TO0">to</word>
+        <word pos="VVI">choose</word>
+        <word pos="CJC">but</word>
+        <word pos="AV0">suddenly</word>
+        <word pos="PNP">I</word>
+        <word pos="VVD">found</word>
+        <word pos="PNX">myself</word>
+        <word pos="PRP">in</word>
+        <word pos="AJ0">English</word>
+        <word pos="NN1">department</word>
+        <word pos="PUN">,</word>
+        <word pos="DT0">that</word>
+        <word pos="VBD">was</word>
+        <word pos="AJ0">strange</word>
+        <word pos="PRP">for</word>
+        <word pos="PNP">me</word>
+        <word pos="PUN">,</word>
+        <word pos="CJC">but</word>
+        <word pos="PNP">it</word>
+        <word pos="VBZ">'s</word>
+        <word pos="AJ0">useful</word>
+        <word pos="PRP">in</word>
+        <word pos="AT0">the</word>
+        <word pos="AJ0">same</word>
+        <word pos="NN1">time</word>
+        <word pos="PUN">.</word>
+        <word pos="PNP">I</word>
+        <word pos="AV0">always</word>
+        <word pos="VVZ">tells</word>
+        <word pos="PNX">myself</word>
+        <word pos="DT0">this</word>
+        <word pos="NN1">experience</word>
+        <word pos="CJC">and</word>
+        <word pos="NN2">others</word>
+        <word pos="VVZ">makes</word>
+        <word pos="PNX">myself</word>
+        <word pos="AV0">more</word>
+        <word pos="AJ0">confident</word>
+        <word pos="PUN">,</word>
+        <word pos="CJC">and</word>
+        <word pos="PNP">I</word>
+        <word pos="VDB">do</word>
+        <word pos="XX0">nt</word>
+        <word pos="VHI">have</word>
+        <word pos="PNI">anything</word>
+        <word pos="TO0">to</word>
+        <word pos="VVI">worry</word>
+        <word pos="PRP">about</word>
+        <word pos="PNP">it</word>
+        <word pos="PUN">.</word>
+        </body>
+      </text>
+    </corpus>
+  </root>

@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <corpus>
+    <text>
+      <metadata>
+        <Faculty>Education</Faculty>
+        <Semester>8</Semester>
+        <Age>22</Age>
+        <Time_spent_at_an_EnglishSpeaking_country>X</Time_spent_at_an_EnglishSpeaking_country>
+        <Topic>Honor of My Family</Topic>
+        <Title>Honour My family</Title>
+        </metadata>
+      <body>
+        <word pos="PNP">I</word>
+        <word pos="AJ0">proud</word>
+        <word pos="PRF">of</word>
+        <word pos="DPS">my</word>
+        <word pos="NN1">family</word>
+        <word pos="PUN">,</word>
+        <word pos="PNP">them</word>
+        <word pos="NN1">family</word>
+        <word pos="AJ0">simple</word>
+        <word pos="PUN">,</word>
+        <word pos="VVZ">helps</word>
+        <word pos="PNI">anyone</word>
+        <word pos="CJC">and</word>
+        <word pos="PNP">I</word>
+        <word pos="AJ0">lovely</word>
+        <word pos="PNP">them</word>
+        <word pos="PUN">,</word>
+        <word pos="DPS">My</word>
+        <word pos="NN1">Dad</word>
+        <word pos="VVD">worked</word>
+        <word pos="AT0">every</word>
+        <word pos="NN1">day</word>
+        <word pos="PRP">without</word>
+        <word pos="VVG">feeling</word>
+        <word pos="AJ0">bored</word>
+        <word pos="PUN">,</word>
+        <word pos="CJC">and</word>
+        <word pos="DPS">my</word>
+        <word pos="NN1">mum</word>
+        <word pos="VVN">worked</word>
+        <word pos="PRP">in</word>
+        <word pos="NN1">house</word>
+        <word pos="PUN">,</word>
+        <word pos="VVZ">helps</word>
+        <word pos="NN2">brothers</word>
+        <word pos="CJC">and</word>
+        <word pos="NN2">sisters</word>
+        <word pos="PRP">in</word>
+        <word pos="VVG">solving</word>
+        <word pos="PRP">on</word>
+        <word pos="NN2">homeworks</word>
+        <word pos="PUN">.</word>
+        </body>
+      </text>
+    </corpus>
+  </root>

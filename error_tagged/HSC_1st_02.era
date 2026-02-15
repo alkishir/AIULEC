@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<file name="" tagset="uclee-en-2.0.tag">
+Title: <FS corr="Family">family</FS> 
+My family <LSN corr="has">is</LSN> <GPP corr="0">it</GPP> two <FS corr="brothers">brathers</FS> and <FS corr="five">fife</FS> <GNN corr="sisters">sister</GNN> <GDO corr="their">\0</GDO>names : <WR corr="0"><GNN corr="brothers"><FS corr="brother">brathe</FS></GNN></WR> Mahmed and Ali. 
+
+<GNC corr="Sisters'">Sister</GNC> names: Alaa, Asma, Abrar,<LCC corr="and">\0</LCC> Emtenan. 
+
+The dad: Fraj. 
+
+The mum: Amna. 
+
+I am from Libya<QM corr=".">\0</QM>
+
+<GDO corr="My">\0</GDO><FS corr="city">City</FS> <WM corr="is">\0</WM><FS corr="Zliten">Zeliten </FS><QM corr=".">\0</QM>
+
+I <GWC corr="live">life</GWC> <WM corr="in">\0</WM> <FS corr="Misrata">misrata</FS> <QM corr=".">\0</QM>
+
+<GNC corr="My dad's job"><WO corr="My dad job">Job my dad</WO></GNC> <WM corr="is at">\0</WM><GA corr="the">\0</GA>hospital<QM corr=".">\0</QM>
+
+<GNC corr="My mum's job"><WO corr="My mum job">Job my mum</WO></GNC> <WM corr="is being">\0</WM><GA corr="a">\0</GA> <FS corr="chef">shef</FS><QM corr=".">\0</QM>
+
+I <LSV corr="like">life</LSV> sport <QL corr=",">and</QL> music, <LCC corr="0">and</LCC> games, <LCC corr="0">and</LCC> <XVCO corr="reading">read</XVCO> <GA corr="0">the</GA> <GNN corr="books">book</GNN>, <LCC corr="and">\0</LCC><XNPR corr="listening to">listening</XNPR> the radio.
+</file>

@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <corpus>
+    <text>
+      <metadata>
+        <Faculty>Education</Faculty>
+        <Semester>8</Semester>
+        <Age>22</Age>
+        <Time_spent_at_an_EnglishSpeaking_country>X</Time_spent_at_an_EnglishSpeaking_country>
+        <Topic>My Family</Topic>
+        <Title>My family</Title>
+        </metadata>
+      <body>
+        <word pos="VHG">Having</word>
+        <word pos="AT0">a</word>
+        <word pos="NN1">family</word>
+        <word pos="VBZ">is</word>
+        <word pos="AT0">an</word>
+        <word pos="AJ0">essential</word>
+        <word pos="NN1">part</word>
+        <word pos="PRF">of</word>
+        <word pos="PNI">everyone</word>
+        <word pos="POS">'s</word>
+        <word pos="NN1">life</word>
+        <word pos="PUN">.</word>
+        <word pos="AT0">The</word>
+        <word pos="NN1">family</word>
+        <word pos="VBZ">is</word>
+        <word pos="PNI">something</word>
+        <word pos="AJ0">priceless</word>
+        <word pos="CJC">and</word>
+        <word pos="PNP">we</word>
+        <word pos="VM0">must</word>
+        <word pos="VVI">thank</word>
+        <word pos="NP0">Allah</word>
+        <word pos="PRP">for</word>
+        <word pos="VBG">being</word>
+        <word pos="AT0">a</word>
+        <word pos="NN1">member</word>
+        <word pos="PRF">of</word>
+        <word pos="DPS">your</word>
+        <word pos="NN1">family</word>
+        <word pos="PUN">.</word>
+        <word pos="PNP">We</word>
+        <word pos="VM0">must</word>
+        <word pos="VVI">consider</word>
+        <word pos="CJC">and</word>
+        <word pos="VVI">maintain</word>
+        <word pos="DT0">this</word>
+        <word pos="AJ0">great</word>
+        <word pos="NN1">gift</word>
+        <word pos="PRP">before</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">time</word>
+        <word pos="VVB">pass</word>
+        <word pos="PUN">.</word>
+        </body>
+      </text>
+    </corpus>
+  </root>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<file name="" tagset="uclee-en-2.0.tag">
+Title: <FS corr="Visited a Zoo">visited a zoo</FS> 
+
+I visited a zoo with my friends Nadia and Khawla last year. We <GVT corr="saw"><GVAUX corr="have seen">seen</GVAUX></GVT> <GA corr="0">a</GA> kangaroos, bears<QL corr="and">,</QL> <GNN corr="camels">camel</GNN>. It was a huge zoo, and <FS corr="there">There</FS> <GVT corr="were">are</GVT> many <XNPR corr="types of">types from</XNPR> animals, but we <GVAUX corr="couldn't">can’t</GVAUX> <GVM corr="see">seen</GVM> all the animals there <FS corr="because">becouse</FS> the time <FS corr="wasn't">wosn’t</FS> enough. <FS corr="We">we</FS> had a very good time, so we will visit it again.
+</file>

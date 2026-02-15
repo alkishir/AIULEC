@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <corpus>
+    <text>
+      <metadata>
+        <Faculty>Education</Faculty>
+        <Semester>4</Semester>
+        <Age>20</Age>
+        <Time_spent_at_an_EnglishSpeaking_country>X</Time_spent_at_an_EnglishSpeaking_country>
+        <Topic>My lovely dish</Topic>
+        <Title>My lovely dish</Title>
+        </metadata>
+      <body>
+        <word pos="NN1">Pizza</word>
+        <word pos="VBZ">is</word>
+        <word pos="DPS">my</word>
+        <word pos="AJ0">favorite</word>
+        <word pos="NN1">dish</word>
+        <word pos="PUN">.</word>
+        <word pos="PNP">It</word>
+        <word pos="VBZ">is</word>
+        <word pos="AT0">an</word>
+        <word pos="AJ0">Italian</word>
+        <word pos="NN1">food</word>
+        <word pos="PNP">It</word>
+        <word pos="VBZ">is</word>
+        <word pos="AT0">a</word>
+        <word pos="NN1">dough</word>
+        <word pos="CJC">and</word>
+        <word pos="AV0">above</word>
+        <word pos="PRF">of</word>
+        <word pos="PNP">it</word>
+        <word pos="NN2">tomatoes</word>
+        <word pos="PUN">,</word>
+        <word pos="NN1">onion</word>
+        <word pos="PUN">,</word>
+        <word pos="NN1">papper</word>
+        <word pos="PUN">,</word>
+        <word pos="NN1">cheese</word>
+        <word pos="CJC">and</word>
+        <word pos="NN1">olive</word>
+        <word pos="PUN">.</word>
+        <word pos="AV0">sometimes</word>
+        <word pos="VVN">made</word>
+        <word pos="PRP">with</word>
+        <word pos="NN1">chicken</word>
+        <word pos="PRP">above</word>
+        <word pos="PNP">it</word>
+        <word pos="PUN">.</word>
+        <word pos="PNP">I</word>
+        <word pos="AV0">usually</word>
+        <word pos="VVD">made</word>
+        <word pos="PNP">it</word>
+        <word pos="PRP">for</word>
+        <word pos="NN1">dinner</word>
+        <word pos="CJS">so</word>
+        <word pos="DPS">my</word>
+        <word pos="NN1">family</word>
+        <word pos="VVB">love</word>
+        <word pos="PNP">it</word>
+        <word pos="AV0">very</word>
+        <word pos="DT0">much</word>
+        <word pos="PUN">,</word>
+        <word pos="AV0">too</word>
+        <word pos="PUN">.</word>
+        <word pos="NN1">Pizza</word>
+        <word pos="VBZ">is</word>
+        <word pos="AV0">very</word>
+        <word pos="AJ0">delicious</word>
+        <word pos="VDB">Do</word>
+        <word pos="PNP">you</word>
+        <word pos="VVI">like</word>
+        <word pos="NN1">Pizza</word>
+        <word pos="PUN">?</word>
+        </body>
+      </text>
+    </corpus>
+  </root>

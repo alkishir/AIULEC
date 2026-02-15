@@ -1,0 +1,99 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <corpus>
+    <text>
+      <metadata>
+        <Faculty>Arts</Faculty>
+        <Semester>4</Semester>
+        <Age>20</Age>
+        <Time_spent_at_an_EnglishSpeaking_country>none</Time_spent_at_an_EnglishSpeaking_country>
+        <Topic>Describing a picture</Topic>
+        <Title>A Day with My Dog</Title>
+        </metadata>
+      <body>
+        <word pos="ORD">Last</word>
+        <word pos="NN1">week</word>
+        <word pos="PNP">I</word>
+        <word pos="VHD">had</word>
+        <word pos="AT0">an</word>
+        <word pos="NN1">outing</word>
+        <word pos="NN1">day</word>
+        <word pos="PRP">with</word>
+        <word pos="DPS">my</word>
+        <word pos="NN1">dog</word>
+        <word pos="PUN">.</word>
+        <word pos="PNP">We</word>
+        <word pos="VVD">enjoyed</word>
+        <word pos="VDG">doing</word>
+        <word pos="AT0">a</word>
+        <word pos="NN1">lot</word>
+        <word pos="PRF">of</word>
+        <word pos="NN2">activities</word>
+        <word pos="PUN">.</word>
+        <word pos="CRD">One</word>
+        <word pos="PRF">of</word>
+        <word pos="PNP">them</word>
+        <word pos="VBD">was</word>
+        <word pos="TO0">to</word>
+        <word pos="VVD">built</word>
+        <word pos="AT0">a</word>
+        <word pos="NN1">house</word>
+        <word pos="PRP">for</word>
+        <word pos="DPS">my</word>
+        <word pos="NN1">dog</word>
+        <word pos="PUN">.</word>
+        <word pos="AV0">So</word>
+        <word pos="PUN">,</word>
+        <word pos="PNP">we</word>
+        <word pos="VVD">gathered</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">wood</word>
+        <word pos="CJC">and</word>
+        <word pos="AV0">then</word>
+        <word pos="VVD">combined</word>
+        <word pos="PNP">it</word>
+        <word pos="NN1">form</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">house</word>
+        <word pos="NN1">shape</word>
+        <word pos="PUN">.</word>
+        <word pos="DPS">My</word>
+        <word pos="NN1">dog</word>
+        <word pos="VHD">had</word>
+        <word pos="VVN">helped</word>
+        <word pos="PNP">me</word>
+        <word pos="AV0">a</word>
+        <word pos="AV0">lot</word>
+        <word pos="PRP">on</word>
+        <word pos="NN1">house</word>
+        <word pos="VBD">was</word>
+        <word pos="AJ0">amazing</word>
+        <word pos="PRP">as</word>
+        <word pos="PRP">well</word>
+        <word pos="PRP">as</word>
+        <word pos="AT0">the</word>
+        <word pos="PRP">for</word>
+        <word pos="PNP">we</word>
+        <word pos="VHD">had</word>
+        <word pos="PUN">.</word>
+        <word pos="PNP">I</word>
+        <word pos="VVB">love</word>
+        <word pos="DPS">my</word>
+        <word pos="NN1">dog</word>
+        <word pos="AV0">so</word>
+        <word pos="DT0">much</word>
+        <word pos="CJC">and</word>
+        <word pos="PNP">I</word>
+        <word pos="VVB">wish</word>
+        <word pos="PNP">we</word>
+        <word pos="VHB">have</word>
+        <word pos="AT0">a</word>
+        <word pos="NN1">lot</word>
+        <word pos="PRF">of</word>
+        <word pos="NN2">activities</word>
+        <word pos="AV0">together</word>
+        <word pos="PUN">.</word>
+        </body>
+      </text>
+    </corpus>
+  </root>

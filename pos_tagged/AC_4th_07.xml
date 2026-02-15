@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <corpus>
+    <text>
+      <metadata>
+        <Faculty>Arts</Faculty>
+        <Semester>4</Semester>
+        <Age>20</Age>
+        <Time_spent_at_an_EnglishSpeaking_country>none</Time_spent_at_an_EnglishSpeaking_country>
+        <Topic>Describing a picture</Topic>
+        <Title>............</Title>
+        </metadata>
+      <body>
+        <word pos="EX0">There</word>
+        <word pos="VBZ">is</word>
+        <word pos="AT0">a</word>
+        <word pos="AJ0">little</word>
+        <word pos="NN1">boy</word>
+        <word pos="VVG">building</word>
+        <word pos="AT0">a</word>
+        <word pos="NN1">house</word>
+        <word pos="PRP">for</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">dog</word>
+        <word pos="PUN">,</word>
+        <word pos="PRP">after</word>
+        <word pos="CJT">that</word>
+        <word pos="AT0">The</word>
+        <word pos="NN1">dog</word>
+        <word pos="VVD">entered</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">house</word>
+        <word pos="PUN">,</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">child</word>
+        <word pos="VVD">went</word>
+        <word pos="PRP">with</word>
+        <word pos="PNP">you</word>
+        <word pos="NN1">dog</word>
+        <word pos="PUN">,</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">boy</word>
+        <word pos="VBD">was</word>
+        <word pos="AJ0">happy</word>
+        <word pos="PUN">.</word>
+        <word pos="AT0">The</word>
+        <word pos="NN1">dog</word>
+        <word pos="VVD">entered</word>
+        <word pos="DPS">his</word>
+        <word pos="NN1">house</word>
+        <word pos="PRP">in</word>
+        <word pos="NN1">night</word>
+        <word pos="PUN">.</word>
+        </body>
+      </text>
+    </corpus>
+  </root>

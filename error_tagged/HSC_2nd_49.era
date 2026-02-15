@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<file name="" tagset="uclee-en-2.0.tag">
+Title: <FS corr="English Language">English <GNN corr="language">languges</GNN></FS>
+
+<FS corr="The">the</FS> English languges  is important and <GDI corr="most">more</GDI> people <GVT corr="speak">speaking</GVT> <GA corr="the">\0</GA>English <GNN corr="language">languges</GNN><QM corr=",">\0</QM> and I like English <FS corr="because">becoes</FS> I enjoy it.
+</file>

@@ -1,0 +1,122 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <corpus>
+    <text>
+      <metadata>
+        <Faculty>Education</Faculty>
+        <Semester>1</Semester>
+        <Age>19</Age>
+        <Time_spent_at_an_EnglishSpeaking_country>X</Time_spent_at_an_EnglishSpeaking_country>
+        <Topic>My Family</Topic>
+        <Title>My Family</Title>
+        </metadata>
+      <body>
+        <word pos="DPS">My</word>
+        <word pos="NN1">name</word>
+        <word pos="POS">'s</word>
+        <word pos="NP0">Fatima</word>
+        <word pos="PUN">.</word>
+        <word pos="PNP">I</word>
+        <word pos="VBB">'m</word>
+        <word pos="CRD">18</word>
+        <word pos="NN1">year</word>
+        <word pos="AJ0">old</word>
+        <word pos="PUN">.</word>
+        <word pos="PNP">I</word>
+        <word pos="VVB">live</word>
+        <word pos="PRP">in</word>
+        <word pos="NP0">Zliten</word>
+        <word pos="PRP">with</word>
+        <word pos="DPS">my</word>
+        <word pos="NN1">family</word>
+        <word pos="PUN">.</word>
+        <word pos="DPS">My</word>
+        <word pos="NN1">father</word>
+        <word pos="NN1">name</word>
+        <word pos="POS">'s</word>
+        <word pos="NP0">Ali</word>
+        <word pos="NP0">Hussien</word>
+        <word pos="PNP">he</word>
+        <word pos="VBZ">is</word>
+        <word pos="CRD">47</word>
+        <word pos="NN2">years</word>
+        <word pos="AJ0">old</word>
+        <word pos="PUN">.</word>
+        <word pos="PNP">He</word>
+        <word pos="VBZ">is</word>
+        <word pos="AT0">an</word>
+        <word pos="NN1">employee</word>
+        <word pos="PUN">.</word>
+        <word pos="DPS">My</word>
+        <word pos="NN1">mother</word>
+        <word pos="NN1">name</word>
+        <word pos="POS">'s</word>
+        <word pos="NP0">Souad</word>
+        <word pos="PUN">.</word>
+        <word pos="PNP">She</word>
+        <word pos="VBZ">is</word>
+        <word pos="CRD">42</word>
+        <word pos="NN2">years</word>
+        <word pos="AJ0">old</word>
+        <word pos="PUN">.</word>
+        <word pos="PNP">She</word>
+        <word pos="VBZ">is</word>
+        <word pos="AT0">a</word>
+        <word pos="NN1">house</word>
+        <word pos="NN1">wife</word>
+        <word pos="PUN">.</word>
+        <word pos="PNP">I</word>
+        <word pos="VHB">have</word>
+        <word pos="CRD">six</word>
+        <word pos="NN2">brothers</word>
+        <word pos="CJC">and</word>
+        <word pos="CRD">two</word>
+        <word pos="NN2">sisters</word>
+        <word pos="PUN">.</word>
+        <word pos="DPS">My</word>
+        <word pos="AJC">older</word>
+        <word pos="NN1">brother</word>
+        <word pos="VVG">studying</word>
+        <word pos="PRP">at</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">college</word>
+        <word pos="NN1">Medicine</word>
+        <word pos="PUN">.</word>
+        <word pos="PNP">He</word>
+        <word pos="VBZ">is</word>
+        <word pos="NN1">name</word>
+        <word pos="NP0">Muhammed</word>
+        <word pos="PUN">.</word>
+        <word pos="DPS">My</word>
+        <word pos="NN1">brother</word>
+        <word pos="NP0">Marwan</word>
+        <word pos="VBZ">is</word>
+        <word pos="AT0">a</word>
+        <word pos="NN1">student</word>
+        <word pos="PRP">at</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">University</word>
+        <word pos="PRF">of</word>
+        <word pos="NN1">Engineering</word>
+        <word pos="PUN">.</word>
+        <word pos="PNP">I</word>
+        <word pos="VVB">live</word>
+        <word pos="PRP">in</word>
+        <word pos="AT0">a</word>
+        <word pos="AJ0">big</word>
+        <word pos="NN1">house</word>
+        <word pos="PRP">with</word>
+        <word pos="DPS">my</word>
+        <word pos="NN1">family</word>
+        <word pos="PUN">.</word>
+        <word pos="AV0">finally</word>
+        <word pos="PUN">,</word>
+        <word pos="PNP">I</word>
+        <word pos="VVB">like</word>
+        <word pos="DPS">my</word>
+        <word pos="NN1">family</word>
+        <word pos="PUN">.</word>
+        </body>
+      </text>
+    </corpus>
+  </root>

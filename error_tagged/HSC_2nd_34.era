@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<file name="" tagset="uclee-en-2.0.tag">
+Title: <FS corr="Your Best Memory">your best memory</FS>
+
+<WM corr="all of my"><WO corr="All my">My all</WO></WM> best <GNN corr="memories">memory</GNN> <WM corr="are">\0</WM>with my <FS corr="friend">freind</FS> and my family<QC corr=".">,</QC> All <GDD corr="these">this</GDD> <GA corr="0">the</GA> <GNN corr="memories"><FS corr="memory">memoly</FS></GNN> is <LSPR corr="at">in</LSPR> <GA corr="0">the</GA> home or activities <LSPR corr="at">in</LSPR> my school or <FS corr="college">collige</FS>. I love <GDD corr="that">this</GDD> <GA corr="0">the</GA> memory<QM corr=".">,</QM> I will <WM corr="repeat?">\0</WM><WO corr="them again"><FS corr="again">agine</FS> <GDD corr="them">these</GDD></WO>.
+</file>

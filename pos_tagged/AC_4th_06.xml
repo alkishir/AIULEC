@@ -1,0 +1,120 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <corpus>
+    <text>
+      <metadata>
+        <Faculty>Arts</Faculty>
+        <Semester>4</Semester>
+        <Age>20</Age>
+        <Time_spent_at_an_EnglishSpeaking_country>none</Time_spent_at_an_EnglishSpeaking_country>
+        <Topic>Describing a picture</Topic>
+        <Title>The difference between four pictures</Title>
+        </metadata>
+      <body>
+        <word pos="DT0">Many</word>
+        <word pos="NN2">differences</word>
+        <word pos="DT0">these</word>
+        <word pos="NN2">pictures</word>
+        <word pos="PUN">,</word>
+        <word pos="PRP">In</word>
+        <word pos="AT0">the</word>
+        <word pos="ORD">first</word>
+        <word pos="NN1">picture</word>
+        <word pos="PUN">,</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">boy</word>
+        <word pos="VVZ">stands</word>
+        <word pos="PRP">around</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">dog</word>
+        <word pos="DTQ">which</word>
+        <word pos="VVZ">sleeps</word>
+        <word pos="CJC">but</word>
+        <word pos="PRP">in</word>
+        <word pos="AT0">the</word>
+        <word pos="ORD">second</word>
+        <word pos="NN1">picture</word>
+        <word pos="PUN">,</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">dog</word>
+        <word pos="VVD">waked</word>
+        <word pos="CJC">and</word>
+        <word pos="PNP">it</word>
+        <word pos="VVZ">bites</word>
+        <word pos="AT0">the</word>
+        <word pos="DPS">its</word>
+        <word pos="NN1">bone</word>
+        <word pos="PUN">.</word>
+        <word pos="PRP">In</word>
+        <word pos="ORD">third</word>
+        <word pos="NN1">picture</word>
+        <word pos="PUN">,</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">boy</word>
+        <word pos="VVZ">walks</word>
+        <word pos="PRP">in</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">park</word>
+        <word pos="PRP">with</word>
+        <word pos="DPS">his</word>
+        <word pos="NN1">dog</word>
+        <word pos="CJT">that</word>
+        <word pos="VVZ">sounds</word>
+        <word pos="AJ0">lazy</word>
+        <word pos="PUN">.</word>
+        <word pos="PRP">On</word>
+        <word pos="AT0">the</word>
+        <word pos="AJ0">other</word>
+        <word pos="NN1">hand</word>
+        <word pos="PUN">,</word>
+        <word pos="PRP">in</word>
+        <word pos="AT0">the</word>
+        <word pos="ORD">fourth</word>
+        <word pos="NN1">picture</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">boy</word>
+        <word pos="VVZ">walks</word>
+        <word pos="AV0">also</word>
+        <word pos="DPS">his</word>
+        <word pos="NN1">dog</word>
+        <word pos="CJC">but</word>
+        <word pos="NN1">dog</word>
+        <word pos="VBZ">is</word>
+        <word pos="AJ0">active</word>
+        <word pos="CJS">than</word>
+        <word pos="PRP">in</word>
+        <word pos="ORD">third</word>
+        <word pos="NN1">picture</word>
+        <word pos="CJC">and</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">boy</word>
+        <word pos="AV0">also</word>
+        <word pos="VVZ">catches</word>
+        <word pos="DT0">some</word>
+        <word pos="NN1">book</word>
+        <word pos="PRP">in</word>
+        <word pos="DPS">his</word>
+        <word pos="NN1">hand</word>
+        <word pos="CJC">and</word>
+        <word pos="NN1">tree</word>
+        <word pos="VVB">exist</word>
+        <word pos="PRP">in</word>
+        <word pos="ORD">fourth</word>
+        <word pos="NN2">pictures</word>
+        <word pos="PUN">.</word>
+        <word pos="DT0">All</word>
+        <word pos="PRF">of</word>
+        <word pos="NN1">picture</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">boy</word>
+        <word pos="CJC">and</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">dog</word>
+        <word pos="VBZ">is</word>
+        <word pos="AJ0">essential</word>
+        <word pos="NN1">part</word>
+        <word pos="PUN">.</word>
+        </body>
+      </text>
+    </corpus>
+  </root>

@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <corpus>
+    <text>
+      <metadata>
+        <Faculty>Education</Faculty>
+        <Semester>1</Semester>
+        <Age>19</Age>
+        <Time_spent_at_an_EnglishSpeaking_country>X</Time_spent_at_an_EnglishSpeaking_country>
+        <Topic>An interesting place</Topic>
+        <Title>Shopping</Title>
+        </metadata>
+      <body>
+        <word pos="DPS">My</word>
+        <word pos="AJ0">interesting</word>
+        <word pos="NN1">place</word>
+        <word pos="VBZ">is</word>
+        <word pos="VVG">shopping</word>
+        <word pos="PRP">in</word>
+        <word pos="NP0">Tunisia</word>
+        <word pos="PUN">.</word>
+        <word pos="PNP">I</word>
+        <word pos="VVB">love</word>
+        <word pos="VVG">shopping</word>
+        <word pos="PRP">in</word>
+        <word pos="NP0">Tunisia</word>
+        <word pos="CJS">because</word>
+        <word pos="EX0">there</word>
+        <word pos="VBB">are</word>
+        <word pos="AT0">a</word>
+        <word pos="NN1">lot</word>
+        <word pos="PRF">of</word>
+        <word pos="AJ0">different</word>
+        <word pos="NN2">clothes</word>
+        <word pos="CJC">and</word>
+        <word pos="NN2">shoes</word>
+        <word pos="PUN">.</word>
+        <word pos="PNP">It</word>
+        <word pos="VBZ">is</word>
+        <word pos="DPS">My</word>
+        <word pos="AJ0">favorite</word>
+        <word pos="NN1">place</word>
+        <word pos="TO0">to</word>
+        <word pos="VVI">shop</word>
+        <word pos="PUN">.</word>
+        <word pos="PNP">I</word>
+        <word pos="VVB">want</word>
+        <word pos="TO0">to</word>
+        <word pos="VVI">go</word>
+        <word pos="VVG">shopping</word>
+        <word pos="PRP">with</word>
+        <word pos="DPS">my</word>
+        <word pos="NN1">sister</word>
+        <word pos="PUN">.</word>
+        <word pos="AT0">The</word>
+        <word pos="NN1">name</word>
+        <word pos="PRF">of</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">mall</word>
+        <word pos="VBZ">is</word>
+        <word pos="NP0">Tunisia</word>
+        <word pos="NP0">Mall</word>
+        <word pos="PUN">.</word>
+        </body>
+      </text>
+    </corpus>
+  </root>

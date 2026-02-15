@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<file name="" tagset="uclee-en-2.0.tag">
+Title: <FS corr="Tom and the Dog">Tom and <GA corr="the">\0</GA>dog</FS> 
+
+In the morning<QM corr=",">\0</QM> 
+
+Tom <GVT corr="had">has</GVT> <GA corr="a">\0</GA>dog<QM corr=".">\0</QM> when tom <GVT corr="was playing">plays</GVT> and <LSV corr="staying"><FS corr="being">Being</FS></LSV> with<GA corr="the">\0</GA> dog. <GPP corr="he">\0</GPP><FS corr="Stopped"><GVT corr="stopped">stop</GVT></FS> form <Z corr="?">getting</Z> and <FS corr="sat">set</FS> . 
+Tom <GVM corr="thought">thinked</GVM><QM corr=",">\0</QM> <Z corr="why not build a small house">why isn’t a small house built</Z> for the dog? 
+
+He quickly stood up and went to bring home construction tools. 
+
+And <GPP corr="he">\0</GPP><GVT corr="started"><GVN corr="starts">start</GVN></GVT> building the house with enthusiasm<QM corr=".">\0</QM> when <GPP corr="he">\0</GPP>finished <GA corr="the">\0</GA>construction<QM corr=",">\0</QM> he was very happy with what he had done.
+</file>

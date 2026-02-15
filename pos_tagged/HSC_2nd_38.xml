@@ -1,0 +1,121 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <corpus>
+    <text>
+      <metadata>
+        <Faculty>Human Sciences</Faculty>
+        <Semester>2</Semester>
+        <Age>20</Age>
+        <Time_spent_at_an_EnglishSpeaking_country>9 years</Time_spent_at_an_EnglishSpeaking_country>
+        <Topic>Your best memory</Topic>
+        <Title>Your best memory</Title>
+        </metadata>
+      <body>
+        <word pos="NN2">Memories</word>
+        <word pos="VBB">are</word>
+        <word pos="NN1">moment</word>
+        <word pos="CJT">that</word>
+        <word pos="PNP">we</word>
+        <word pos="NN2">humans</word>
+        <word pos="VVB">live</word>
+        <word pos="PRP">through</word>
+        <word pos="DPS">our</word>
+        <word pos="NN1">life</word>
+        <word pos="PUN">,</word>
+        <word pos="DT0">some</word>
+        <word pos="NN2">memories</word>
+        <word pos="VM0">could</word>
+        <word pos="VBI">be</word>
+        <word pos="AJ0">happy</word>
+        <word pos="AV0">however</word>
+        <word pos="DT0">some</word>
+        <word pos="VM0">may</word>
+        <word pos="VBI">be</word>
+        <word pos="AJ0">sad</word>
+        <word pos="NN2">moments</word>
+        <word pos="PRP">in</word>
+        <word pos="NN1">life</word>
+        <word pos="PUN">.</word>
+        <word pos="PRP">For</word>
+        <word pos="PNP">me</word>
+        <word pos="DPS">my</word>
+        <word pos="AJS">best</word>
+        <word pos="NN1">memory</word>
+        <word pos="VBD">was</word>
+        <word pos="PRP">on</word>
+        <word pos="DPS">my</word>
+        <word pos="ORD">10th</word>
+        <word pos="NN1">birthday</word>
+        <word pos="PUN">,</word>
+        <word pos="CJC">so</word>
+        <word pos="DTQ">what</word>
+        <word pos="VVD">made</word>
+        <word pos="AT0">the</word>
+        <word pos="AJS">best</word>
+        <word pos="NN1">birthday</word>
+        <word pos="VBD">was</word>
+        <word pos="DT0">that</word>
+        <word pos="AJ0">new</word>
+        <word pos="NP0">Cinderella</word>
+        <word pos="NN1">movie</word>
+        <word pos="PRF">of</word>
+        <word pos="CRD">2015</word>
+        <word pos="VBD">was</word>
+        <word pos="VVN">released</word>
+        <word pos="PUN">,</word>
+        <word pos="CJC">and</word>
+        <word pos="DT0">that</word>
+        <word pos="VVD">made</word>
+        <word pos="PNP">it</word>
+        <word pos="AT0">a</word>
+        <word pos="AV0">very</word>
+        <word pos="AJ0">special</word>
+        <word pos="NN1">day</word>
+        <word pos="PRP">for</word>
+        <word pos="PNP">me</word>
+        <word pos="PUN">.</word>
+        <word pos="PNI">Someone</word>
+        <word pos="POS">'s</word>
+        <word pos="AJS">best</word>
+        <word pos="NN2">memories</word>
+        <word pos="VM0">could</word>
+        <word pos="VBI">be</word>
+        <word pos="VVN">made</word>
+        <word pos="PRP">with</word>
+        <word pos="DPS">their</word>
+        <word pos="NN2">families</word>
+        <word pos="CJC">and</word>
+        <word pos="NN2">friends</word>
+        <word pos="CJC">and</word>
+        <word pos="DT0">some</word>
+        <word pos="VM0">may</word>
+        <word pos="VVI">love</word>
+        <word pos="VBG">being</word>
+        <word pos="AJ0">alone</word>
+        <word pos="CJC">so</word>
+        <word pos="DPS">their</word>
+        <word pos="AJS">best</word>
+        <word pos="NN2">memories</word>
+        <word pos="VM0">could</word>
+        <word pos="VBI">be</word>
+        <word pos="AT0">the</word>
+        <word pos="NN2">moments</word>
+        <word pos="PNP">they</word>
+        <word pos="VVB">spend</word>
+        <word pos="PRP">with</word>
+        <word pos="PNX">themselves</word>
+        <word pos="CJS">which</word>
+        <word pos="PRP">in</word>
+        <word pos="NN1">fact</word>
+        <word pos="VBZ">is</word>
+        <word pos="AJC">better</word>
+        <word pos="PRP">in</word>
+        <word pos="DPS">my</word>
+        <word pos="NN1">point</word>
+        <word pos="PRF">of</word>
+        <word pos="NN1">view</word>
+        <word pos="PUN">.</word>
+        </body>
+      </text>
+    </corpus>
+  </root>

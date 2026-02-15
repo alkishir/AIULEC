@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <corpus>
+    <text>
+      <metadata>
+        <Faculty>Human Sciences</Faculty>
+        <Semester>8</Semester>
+        <Age>24</Age>
+        <Time_spent_at_an_EnglishSpeaking_country>X</Time_spent_at_an_EnglishSpeaking_country>
+        <Topic>What is the importance of family? </Topic>
+        <Title>Importance of family</Title>
+        </metadata>
+      <body>
+        <word pos="NN1">Family</word>
+        <word pos="VBZ">is</word>
+        <word pos="AJ0">important</word>
+        <word pos="NN1">thing</word>
+        <word pos="PRP">in</word>
+        <word pos="DPS">our</word>
+        <word pos="NN1">life</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">person</word>
+        <word pos="PRP">without</word>
+        <word pos="NN1">family</word>
+        <word pos="CJS">like</word>
+        <word pos="PNP">he</word>
+        <word pos="PUN">/</word>
+        <word pos="PNP">she</word>
+        <word pos="VDD">did</word>
+        <word pos="XX0">n't</word>
+        <word pos="NN1">life</word>
+        <word pos="NN1">family</word>
+        <word pos="VBZ">is</word>
+        <word pos="VVI">give</word>
+        <word pos="PNP">us</word>
+        <word pos="NN1">power</word>
+        <word pos="CJC">and</word>
+        <word pos="AJ0">positive</word>
+        <word pos="NN1">energy</word>
+        <word pos="TO0">to</word>
+        <word pos="VVI">stay</word>
+        <word pos="CJC">and</word>
+        <word pos="NN1">family</word>
+        <word pos="VBZ">is</word>
+        <word pos="AJ0">asocial</word>
+        <word pos="NN1">system</word>
+        <word pos="DTQ">which</word>
+        <word pos="VVZ">comprises</word>
+        <word pos="PRF">of</word>
+        <word pos="NN2">parents</word>
+        <word pos="CJC">and</word>
+        <word pos="NN2">children</word>
+        <word pos="PUN">.</word>
+        <word pos="AT0">The</word>
+        <word pos="NN1">formation</word>
+        <word pos="PRF">of</word>
+        <word pos="NN1">family</word>
+        <word pos="VBZ">is</word>
+        <word pos="AJ0">possible</word>
+        <word pos="PRP">with</word>
+        <word pos="NN1">relation</word>
+        <word pos="PRF">of</word>
+        <word pos="NN1">blood</word>
+        <word pos="PUN">,</word>
+        <word pos="NN1">marriage</word>
+        <word pos="CJC">or</word>
+        <word pos="NN1">adoption</word>
+        <word pos="PUN">.</word>
+        <word pos="AT0">A</word>
+        <word pos="NN1">family</word>
+        <word pos="NN1">composition</word>
+        <word pos="PRP">as</word>
+        <word pos="AT0">a</word>
+        <word pos="NN1">bond</word>
+        <word pos="VBZ">is</word>
+        <word pos="AV0">often</word>
+        <word pos="VVN">accepted</word>
+        <word pos="PRP">as</word>
+        <word pos="AT0">the</word>
+        <word pos="AJS">strongest</word>
+        <word pos="NN1">unit</word>
+        <word pos="PRF">of</word>
+        <word pos="AT0">a</word>
+        <word pos="AJ0">personal</word>
+        <word pos="NN1">life</word>
+        <word pos="PUN">,</word>
+        <word pos="DTQ">which</word>
+        <word pos="VVZ">shapes</word>
+        <word pos="DPS">his</word>
+        <word pos="PUN">/</word>
+        <word pos="DPS">her</word>
+        <word pos="NN1">character</word>
+        <word pos="CJC">and</word>
+        <word pos="NN1">personality</word>
+        <word pos="NN1">family</word>
+        <word pos="VVZ">plays</word>
+        <word pos="AT0">a</word>
+        <word pos="AJ0">vital</word>
+        <word pos="NN1">role</word>
+        <word pos="PRP">in</word>
+        <word pos="VVG">determining</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">success</word>
+        <word pos="CJC">or</word>
+        <word pos="NN1">failure</word>
+        <word pos="PRF">of</word>
+        <word pos="AT0">a</word>
+        <word pos="NN1">person</word>
+        <word pos="CJS">as</word>
+        <word pos="PNP">they</word>
+        <word pos="VVB">act</word>
+        <word pos="PRP">as</word>
+        <word pos="AT0">a</word>
+        <word pos="NN1">person</word>
+        <word pos="CJS">as</word>
+        <word pos="PNP">they</word>
+        <word pos="VVB">act</word>
+        <word pos="PRP">as</word>
+        <word pos="AT0">a</word>
+        <word pos="NN1">support</word>
+        <word pos="NN1">system</word>
+        <word pos="PUN">.</word>
+        </body>
+      </text>
+    </corpus>
+  </root>

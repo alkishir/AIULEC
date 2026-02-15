@@ -1,0 +1,94 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <corpus>
+    <text>
+      <metadata>
+        <Faculty>Human Sciences</Faculty>
+        <Semester>6</Semester>
+        <Age>22</Age>
+        <Time_spent_at_an_EnglishSpeaking_country>X</Time_spent_at_an_EnglishSpeaking_country>
+        <Topic>Eating at restaurants with your family is a good way to build family ties</Topic>
+        <Title>Eating in restaurant with your family is a good way to build family ties</Title>
+        </metadata>
+      <body>
+        <word pos="AV0">Today</word>
+        <word pos="PUN">,</word>
+        <word pos="AT0">the</word>
+        <word pos="NN2">concerns</word>
+        <word pos="PRF">of</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">life</word>
+        <word pos="VVD">began</word>
+        <word pos="AJ0">difficult</word>
+        <word pos="CJC">and</word>
+        <word pos="DT0">each</word>
+        <word pos="PNI">one</word>
+        <word pos="PRF">of</word>
+        <word pos="PNP">them</word>
+        <word pos="VHB">have</word>
+        <word pos="AT0">a</word>
+        <word pos="NN1">lot</word>
+        <word pos="TO0">to</word>
+        <word pos="VVI">do</word>
+        <word pos="PUN">,</word>
+        <word pos="CJC">so</word>
+        <word pos="PNP">we</word>
+        <word pos="VM0">must</word>
+        <word pos="VVI">take</word>
+        <word pos="DT0">some</word>
+        <word pos="NN1">time</word>
+        <word pos="PRP">for</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">family</word>
+        <word pos="CJC">and</word>
+        <word pos="VVG">eating</word>
+        <word pos="PRP">with</word>
+        <word pos="PNP">them</word>
+        <word pos="PRP">in</word>
+        <word pos="NN2">restaurants</word>
+        <word pos="TO0">to</word>
+        <word pos="VVI">build</word>
+        <word pos="NN1">family</word>
+        <word pos="NN2">ties</word>
+        <word pos="CJC">and</word>
+        <word pos="VVI">make</word>
+        <word pos="PNP">them</word>
+        <word pos="AJC">happier</word>
+        <word pos="PUN">.</word>
+        <word pos="CRD">one</word>
+        <word pos="PRF">of</word>
+        <word pos="AT0">the</word>
+        <word pos="NN2">advantages</word>
+        <word pos="PRF">of</word>
+        <word pos="VVG">eating</word>
+        <word pos="PRP">in</word>
+        <word pos="NN2">restaurants</word>
+        <word pos="PRP">with</word>
+        <word pos="NN1">family</word>
+        <word pos="VBZ">is</word>
+        <word pos="TO0">to</word>
+        <word pos="VVI">build</word>
+        <word pos="NN2">ties</word>
+        <word pos="CJC">and</word>
+        <word pos="VVI">solve</word>
+        <word pos="AT0">the</word>
+        <word pos="NN2">problems</word>
+        <word pos="PUN">,</word>
+        <word pos="AV0">also</word>
+        <word pos="PRP">to</word>
+        <word pos="VVG">discussing</word>
+        <word pos="AT0">the</word>
+        <word pos="NN2">things</word>
+        <word pos="CJT">that</word>
+        <word pos="VVB">make</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">relationship</word>
+        <word pos="PRF">of</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">family</word>
+        <word pos="AJC">stronger</word>
+        <word pos="PUN">.</word>
+        </body>
+      </text>
+    </corpus>
+  </root>

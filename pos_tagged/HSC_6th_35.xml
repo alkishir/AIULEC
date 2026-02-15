@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <corpus>
+    <text>
+      <metadata>
+        <Faculty>Human Sciences</Faculty>
+        <Semester>6</Semester>
+        <Age>20</Age>
+        <Time_spent_at_an_EnglishSpeaking_country>X</Time_spent_at_an_EnglishSpeaking_country>
+        <Topic>Eating at restaurants with your family is a good way to build family ties</Topic>
+        <Title>eating at restaurant with your family is a good way to build family ties</Title>
+        </metadata>
+      <body>
+        <word pos="NN2">Restaurants</word>
+        <word pos="VBB">are</word>
+        <word pos="VVN">builted</word>
+        <word pos="PRP">to</word>
+        <word pos="NN0">people</word>
+        <word pos="TO0">to</word>
+        <word pos="VVI">come</word>
+        <word pos="PRP">at</word>
+        <word pos="PNP">it</word>
+        <word pos="CJC">and</word>
+        <word pos="VHB">have</word>
+        <word pos="AJ0">good</word>
+        <word pos="NN2">meals</word>
+        <word pos="AV0">without</word>
+        <word pos="VBI">be</word>
+        <word pos="VVG">trying</word>
+        <word pos="PRP">in</word>
+        <word pos="NN1">home</word>
+        <word pos="NN1">kitchen</word>
+        <word pos="PUN">,</word>
+        <word pos="CJS">if</word>
+        <word pos="PNP">you</word>
+        <word pos="VHB">have</word>
+        <word pos="AT0">a</word>
+        <word pos="NN1">lunch</word>
+        <word pos="CJC">or</word>
+        <word pos="NN1">breakfast</word>
+        <word pos="PRP">with</word>
+        <word pos="PNP">you</word>
+        <word pos="NN1">family</word>
+        <word pos="PRP">at</word>
+        <word pos="AT0">a</word>
+        <word pos="AJ0">new</word>
+        <word pos="NN1">restaurant</word>
+        <word pos="DT0">this</word>
+        <word pos="VVB">make</word>
+        <word pos="DT0">all</word>
+        <word pos="PNP">them</word>
+        <word pos="AJ0">happy</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">mother</word>
+        <word pos="VM0">will</word>
+        <word pos="XX0">not</word>
+        <word pos="VVI">cook</word>
+        <word pos="PRP">at</word>
+        <word pos="NN1">home</word>
+        <word pos="CJC">and</word>
+        <word pos="NN2">sons</word>
+        <word pos="VM0">will</word>
+        <word pos="VHI">have</word>
+        <word pos="AV0">more</word>
+        <word pos="AJ0">delicious</word>
+        <word pos="NN1">taste</word>
+        <word pos="CJS">than</word>
+        <word pos="NN1">home</word>
+        <word pos="VVI">eat</word>
+        <word pos="PUN">.</word>
+        </body>
+      </text>
+    </corpus>
+  </root>

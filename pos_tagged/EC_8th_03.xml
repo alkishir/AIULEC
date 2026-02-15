@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <corpus>
+    <text>
+      <metadata>
+        <Faculty>Education</Faculty>
+        <Semester>8</Semester>
+        <Age>22</Age>
+        <Time_spent_at_an_EnglishSpeaking_country>X</Time_spent_at_an_EnglishSpeaking_country>
+        <Topic>My Family</Topic>
+        <Title>My family</Title>
+        </metadata>
+      <body>
+        <word pos="NN1">Family</word>
+        <word pos="VBZ">is</word>
+        <word pos="AT0">the</word>
+        <word pos="AJ0">peaceful</word>
+        <word pos="NN1">tree</word>
+        <word pos="CJT">that</word>
+        <word pos="DT0">each</word>
+        <word pos="NN1">leave</word>
+        <word pos="PRF">of</word>
+        <word pos="PNP">it</word>
+        <word pos="VM0">can</word>
+        <word pos="VVI">live</word>
+        <word pos="CJC">and</word>
+        <word pos="TO0">to</word>
+        <word pos="VBI">be</word>
+        <word pos="VVI">save</word>
+        <word pos="AV0">within</word>
+        <word pos="PUN">.</word>
+        <word pos="DPS">My</word>
+        <word pos="NN1">family</word>
+        <word pos="VBB">are</word>
+        <word pos="AT0">the</word>
+        <word pos="NN2">members</word>
+        <word pos="PUN">,</word>
+        <word pos="DPS">my</word>
+        <word pos="NN1">dad</word>
+        <word pos="PUN">,</word>
+        <word pos="NN1">mum</word>
+        <word pos="PUN">,</word>
+        <word pos="DPS">my</word>
+        <word pos="NN2">brothers</word>
+        <word pos="CJC">and</word>
+        <word pos="NN2">sisters</word>
+        <word pos="PUN">,</word>
+        <word pos="PNQ">who</word>
+        <word pos="AV0">always</word>
+        <word pos="VVB">motivate</word>
+        <word pos="PNP">me</word>
+        <word pos="CJC">and</word>
+        <word pos="PNP">we</word>
+        <word pos="VVB">share</word>
+        <word pos="DPS">our</word>
+        <word pos="AJ0">resented</word>
+        <word pos="NN2">situations</word>
+        <word pos="AV0">together</word>
+        <word pos="PUN">.</word>
+        <word pos="DPS">My</word>
+        <word pos="NN1">mother</word>
+        <word pos="VBZ">is</word>
+        <word pos="DPS">my</word>
+        <word pos="AJ0">warm</word>
+        <word pos="NN1">place</word>
+        <word pos="PUN">,</word>
+        <word pos="DPS">my</word>
+        <word pos="NN1">father</word>
+        <word pos="VBZ">is</word>
+        <word pos="DPS">my</word>
+        <word pos="NN1">hero</word>
+        <word pos="PUN">,</word>
+        <word pos="DPS">my</word>
+        <word pos="NN2">brothers</word>
+        <word pos="VBB">are</word>
+        <word pos="DPS">my</word>
+        <word pos="NN2">bodyguards</word>
+        <word pos="PUN">,</word>
+        <word pos="CJC">and</word>
+        <word pos="PRP">about</word>
+        <word pos="NN2">sisters</word>
+        <word pos="PUN">,</word>
+        <word pos="VBB">are</word>
+        <word pos="NN2">friends</word>
+        <word pos="PUN">.</word>
+        </body>
+      </text>
+    </corpus>
+  </root>

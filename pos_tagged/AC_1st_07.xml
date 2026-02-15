@@ -1,0 +1,98 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <corpus>
+    <text>
+      <metadata>
+        <Faculty>Arts</Faculty>
+        <Semester>1</Semester>
+        <Age>18</Age>
+        <Time_spent_at_an_EnglishSpeaking_country>none</Time_spent_at_an_EnglishSpeaking_country>
+        <Topic>Home</Topic>
+        <Title>My Home~ The best place~</Title>
+        </metadata>
+      <body>
+        <word pos="PNP">I</word>
+        <word pos="VVB">think</word>
+        <word pos="PNP">I</word>
+        <word pos="VM0">'ll</word>
+        <word pos="VVI">talk</word>
+        <word pos="PRP">about</word>
+        <word pos="AT0">the</word>
+        <word pos="AJS">best</word>
+        <word pos="NN1">place</word>
+        <word pos="PRP">in</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">world</word>
+        <word pos="NN1">home</word>
+        <word pos="PUN">.</word>
+        <word pos="NN1">Home</word>
+        <word pos="VBZ">is</word>
+        <word pos="DT0">that</word>
+        <word pos="AJ0">nice</word>
+        <word pos="PUN">,</word>
+        <word pos="NN1">rest</word>
+        <word pos="CJC">and</word>
+        <word pos="AJ0">comfortable</word>
+        <word pos="NN1">place</word>
+        <word pos="PUN">,</word>
+        <word pos="CJT">that</word>
+        <word pos="PNP">you</word>
+        <word pos="VM0">can</word>
+        <word pos="VVI">stay</word>
+        <word pos="AVP">in</word>
+        <word pos="CJS">as</word>
+        <word pos="PNP">you</word>
+        <word pos="VVB">want</word>
+        <word pos="PUN">.</word>
+        <word pos="AV0">There</word>
+        <word pos="PNP">you</word>
+        <word pos="VM0">can</word>
+        <word pos="VVI">find</word>
+        <word pos="NN1">area</word>
+        <word pos="CJT">that</word>
+        <word pos="PNP">you</word>
+        <word pos="VVB">love</word>
+        <word pos="PRP">for</word>
+        <word pos="AT0">no</word>
+        <word pos="NN1">reason</word>
+        <word pos="PUN">,</word>
+        <word pos="CJC">and</word>
+        <word pos="DPS">your</word>
+        <word pos="AJ0">comfortable</word>
+        <word pos="NN1">bed</word>
+        <word pos="PUN">.</word>
+        <word pos="VVG">Hearing</word>
+        <word pos="AT0">the</word>
+        <word pos="AJ0">loud</word>
+        <word pos="NN1">voice</word>
+        <word pos="PRF">of</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">TV</word>
+        <word pos="PUN">,</word>
+        <word pos="CJC">and</word>
+        <word pos="VVG">screaming</word>
+        <word pos="PRF">of</word>
+        <word pos="DT0">those</word>
+        <word pos="AJ0">noisy</word>
+        <word pos="NN2">children</word>
+        <word pos="PUN">...</word>
+        <word pos="DT0">that</word>
+        <word pos="VBZ">'s</word>
+        <word pos="AJ0">nice</word>
+        <word pos="TO0">to</word>
+        <word pos="VVI">describe</word>
+        <word pos="PUN">,</word>
+        <word pos="CJC">but</word>
+        <word pos="PNP">it</word>
+        <word pos="VBZ">'s</word>
+        <word pos="XX0">not</word>
+        <word pos="PRP">like</word>
+        <word pos="DT0">that</word>
+        <word pos="PUN">,</word>
+        <word pos="PRP">in</word>
+        <word pos="NN1">fact</word>
+        <word pos="PUN">.</word>
+        </body>
+      </text>
+    </corpus>
+  </root>

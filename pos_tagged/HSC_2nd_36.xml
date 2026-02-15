@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <corpus>
+    <text>
+      <metadata>
+        <Faculty>Human Sciences</Faculty>
+        <Semester>2</Semester>
+        <Age>18</Age>
+        <Time_spent_at_an_EnglishSpeaking_country>none</Time_spent_at_an_EnglishSpeaking_country>
+        <Topic>Your best memory</Topic>
+        <Title>your best memory</Title>
+        </metadata>
+      <body>
+        <word pos="DPS">My</word>
+        <word pos="AJS">best</word>
+        <word pos="NN1">memory</word>
+        <word pos="VBD">was</word>
+        <word pos="AVQ">when</word>
+        <word pos="PNP">I</word>
+        <word pos="VVD">graduated</word>
+        <word pos="PRP">from</word>
+        <word pos="AJ0">High</word>
+        <word pos="NN1">school</word>
+        <word pos="PUN">,</word>
+        <word pos="PNP">I</word>
+        <word pos="VVB">feel</word>
+        <word pos="AV0">very</word>
+        <word pos="AJ0">happy</word>
+        <word pos="CJS">when</word>
+        <word pos="VVB">know</word>
+        <word pos="PNP">I</word>
+        <word pos="VBD">was</word>
+        <word pos="VVI">pass</word>
+        <word pos="DT0">this</word>
+        <word pos="NN1">year</word>
+        <word pos="PUN">,</word>
+        <word pos="PNP">It</word>
+        <word pos="VBD">was</word>
+        <word pos="AV0">very</word>
+        <word pos="AJ0">hard</word>
+        <word pos="CJC">and</word>
+        <word pos="PNP">I</word>
+        <word pos="VBD">was</word>
+        <word pos="AJ0">afraid</word>
+        <word pos="PRP">from</word>
+        <word pos="PNP">it</word>
+        <word pos="PUN">.</word>
+        <word pos="CJC">But</word>
+        <word pos="AV0">finally</word>
+        <word pos="PNP">I</word>
+        <word pos="VDN">done</word>
+        <word pos="PNP">it</word>
+        </body>
+      </text>
+    </corpus>
+  </root>

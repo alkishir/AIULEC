@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <corpus>
+    <text>
+      <metadata>
+        <Faculty>Human Sciences</Faculty>
+        <Semester>2</Semester>
+        <Age>19</Age>
+        <Time_spent_at_an_EnglishSpeaking_country>none</Time_spent_at_an_EnglishSpeaking_country>
+        <Topic>none</Topic>
+        <Title>..............</Title>
+        </metadata>
+      <body>
+        <word pos="PNP">I</word>
+        <word pos="VVB">love</word>
+        <word pos="VVI">speak</word>
+        <word pos="NN1">English</word>
+        <word pos="CJC">and</word>
+        <word pos="VVB">study</word>
+        <word pos="PNP">her</word>
+        <word pos="CJC">but</word>
+        <word pos="PNP">I</word>
+        <word pos="VVB">hope</word>
+        <word pos="VVI">speak</word>
+        <word pos="AV0">sometime</word>
+        <word pos="NN1">English</word>
+        <word pos="PNP">I</word>
+        <word pos="VBB">'m</word>
+        <word pos="AJ0">interesting</word>
+        <word pos="PRP">for</word>
+        <word pos="DT0">this</word>
+        </body>
+      </text>
+    </corpus>
+  </root>

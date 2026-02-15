@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <corpus>
+    <text>
+      <metadata>
+        <Faculty>Human Sciences</Faculty>
+        <Semester>8</Semester>
+        <Age>25</Age>
+        <Time_spent_at_an_EnglishSpeaking_country>none</Time_spent_at_an_EnglishSpeaking_country>
+        <Topic>What is the importance of family? </Topic>
+        <Title>Importance of family</Title>
+        </metadata>
+      <body>
+        <word pos="AT0">The</word>
+        <word pos="NN1">family</word>
+        <word pos="VBZ">is</word>
+        <word pos="NN1">relation</word>
+        <word pos="PRP">between</word>
+        <word pos="NN1">family</word>
+        <word pos="NN2">members</word>
+        <word pos="CJS">when</word>
+        <word pos="PNP">we</word>
+        <word pos="VVB">show</word>
+        <word pos="NN2">parents</word>
+        <word pos="CJC">and</word>
+        <word pos="PNP">they</word>
+        <word pos="NN2">children</word>
+        <word pos="PNP">we</word>
+        <word pos="VVB">say</word>
+        <word pos="DT0">this</word>
+        <word pos="VBB">are</word>
+        <word pos="NN1">family</word>
+        <word pos="PUN">.</word>
+        <word pos="AT0">The</word>
+        <word pos="NN1">family</word>
+        <word pos="VBZ">is</word>
+        <word pos="AJ0">important</word>
+        <word pos="PRP">in</word>
+        <word pos="NN2">children</word>
+        <word pos="POS">'s</word>
+        <word pos="VVB">live</word>
+        <word pos="PRP">without</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">family</word>
+        <word pos="PNP">it</word>
+        <word pos="VM0">ca</word>
+        <word pos="XX0">n't</word>
+        <word pos="VBI">be</word>
+        <word pos="AV0">completely</word>
+        <word pos="PUN">.</word>
+        </body>
+      </text>
+    </corpus>
+  </root>

@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <corpus>
+    <text>
+      <metadata>
+        <Faculty>Human Sciences</Faculty>
+        <Semester>4</Semester>
+        <Age>21</Age>
+        <Time_spent_at_an_EnglishSpeaking_country>X</Time_spent_at_an_EnglishSpeaking_country>
+        <Topic>Describing a picture</Topic>
+        <Title>Help the dog</Title>
+        </metadata>
+      <body>
+        <word pos="CRD">One</word>
+        <word pos="NN1">day</word>
+        <word pos="PUN">,</word>
+        <word pos="AT0">a</word>
+        <word pos="AJ0">sad</word>
+        <word pos="NN1">dog</word>
+        <word pos="VBD">was</word>
+        <word pos="VVG">wandering</word>
+        <word pos="AT0">the</word>
+        <word pos="NN2">streets</word>
+        <word pos="VVG">looking</word>
+        <word pos="PRP">for</word>
+        <word pos="NN1">shelter</word>
+        <word pos="PUN">.</word>
+        <word pos="CJS">After</word>
+        <word pos="DT0">some</word>
+        <word pos="NN1">time</word>
+        <word pos="PUN">,</word>
+        <word pos="AT0">a</word>
+        <word pos="NN1">child</word>
+        <word pos="VVD">saw</word>
+        <word pos="PNP">him</word>
+        <word pos="PRP">in</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">garden</word>
+        <word pos="PUN">.</word>
+        <word pos="AV0">So</word>
+        <word pos="PNP">he</word>
+        <word pos="VVD">went</word>
+        <word pos="PRP">to</word>
+        <word pos="PNP">him</word>
+        <word pos="AV0">immediately</word>
+        <word pos="PUN">.</word>
+        <word pos="AT0">The</word>
+        <word pos="NN1">dog</word>
+        <word pos="VBD">was</word>
+        <word pos="AJ0">sad</word>
+        <word pos="CJC">and</word>
+        <word pos="AJ0">lonely</word>
+        <word pos="PUN">,</word>
+        <word pos="XX0">not</word>
+        <word pos="PRP">like</word>
+        <word pos="AJ0">other</word>
+        <word pos="NN1">dog</word>
+        <word pos="PUN">.</word>
+        <word pos="PNP">He</word>
+        <word pos="VVD">took</word>
+        <word pos="PNP">him</word>
+        <word pos="PRP">with</word>
+        <word pos="PNP">him</word>
+        <word pos="PRP">to</word>
+        <word pos="AT0">a</word>
+        <word pos="AJ0">safe</word>
+        <word pos="CJC">and</word>
+        <word pos="AJ0">clean</word>
+        <word pos="NN1">place</word>
+        <word pos="CJC">and</word>
+        <word pos="VVD">built</word>
+        <word pos="AT0">a</word>
+        <word pos="AJ0">small</word>
+        <word pos="PUN">,</word>
+        <word pos="AJ0">beautiful</word>
+        <word pos="NN1">house</word>
+        <word pos="PUN">,</word>
+        <word pos="CJC">and</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">dog</word>
+        <word pos="VVD">lived</word>
+        <word pos="PRP">in</word>
+        <word pos="DT0">this</word>
+        <word pos="NN1">house</word>
+        <word pos="AV0">happily</word>
+        <word pos="CJC">and</word>
+        <word pos="AV0">prosperously</word>
+        <word pos="PUN">.</word>
+        </body>
+      </text>
+    </corpus>
+  </root>

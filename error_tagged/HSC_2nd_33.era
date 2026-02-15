@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<file name="" tagset="uclee-en-2.0.tag">
+Title: <FS corr="My House">My house</FS>                                             
+
+My house is beautiful. It <LSV corr="has">contains</LSV> two <FS corr="bedrooms">bed rooms</FS>, one kitchen, two bathrooms<QM corr=",">\0</QM> and two <FS corr="sitting rooms">sittingrooms</FS>. I like my house a lot. <FS corr="It's">Iis</FS> the best place for me.
+</file>

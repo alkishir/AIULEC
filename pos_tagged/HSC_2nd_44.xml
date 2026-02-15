@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <corpus>
+    <text>
+      <metadata>
+        <Faculty>Human Sciences</Faculty>
+        <Semester>2</Semester>
+        <Age>21</Age>
+        <Time_spent_at_an_EnglishSpeaking_country>X</Time_spent_at_an_EnglishSpeaking_country>
+        <Topic>An event changed your life</Topic>
+        <Title>...............</Title>
+        </metadata>
+      <body>
+        <word pos="AT0">An</word>
+        <word pos="NN1">event</word>
+        <word pos="CJT">that</word>
+        <word pos="VVD">changed</word>
+        <word pos="DPS">your</word>
+        <word pos="NN1">life</word>
+        <word pos="PUN">?</word>
+        <word pos="AT0">An</word>
+        <word pos="NN1">event</word>
+        <word pos="CJT">that</word>
+        <word pos="VVD">changed</word>
+        <word pos="PRP">in</word>
+        <word pos="DPS">my</word>
+        <word pos="NN1">life</word>
+        <word pos="CJS">when</word>
+        <word pos="PNP">I</word>
+        <word pos="VVD">married</word>
+        <word pos="PUN">.</word>
+        <word pos="DPS">My</word>
+        <word pos="NN1">life</word>
+        <word pos="VBZ">is</word>
+        <word pos="VVN">changed</word>
+        <word pos="PUN">,</word>
+        <word pos="VM0">will</word>
+        <word pos="VVI">become</word>
+        <word pos="PRP">in</word>
+        <word pos="XX0">not</word>
+        <word pos="VVG">controlling</word>
+        <word pos="AVP">in</word>
+        <word pos="VVD">started</word>
+        <word pos="PNP">I</word>
+        <word pos="VVD">feeled</word>
+        <word pos="PRP">on</word>
+        <word pos="AJ0">stressed</word>
+        <word pos="CJC">but</word>
+        <word pos="CJS">after</word>
+        <word pos="PNP">I</word>
+        <word pos="VVB">like</word>
+        <word pos="PNP">it</word>
+        <word pos="PRF">of</word>
+        <word pos="DPS">My</word>
+        <word pos="NN1">life</word>
+        <word pos="PUN">.</word>
+        <word pos="DT0">These</word>
+        <word pos="VBZ">is</word>
+        <word pos="AJ0">beautiful</word>
+        <word pos="NN1">life</word>
+        <word pos="CJC">and</word>
+        <word pos="AJ0">interesting</word>
+        <word pos="NN1">life</word>
+        <word pos="PUN">.</word>
+        </body>
+      </text>
+    </corpus>
+  </root>

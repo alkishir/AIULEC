@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <corpus>
+    <text>
+      <metadata>
+        <Faculty>Human Sciences</Faculty>
+        <Semester>5</Semester>
+        <Age>22</Age>
+        <Time_spent_at_an_EnglishSpeaking_country>3 years</Time_spent_at_an_EnglishSpeaking_country>
+        <Topic>Good teachers</Topic>
+        <Title>teacher</Title>
+        </metadata>
+      <body>
+        <word pos="AT0">The</word>
+        <word pos="NN1">teacher</word>
+        <word pos="VBZ">is</word>
+        <word pos="AJ0">important</word>
+        <word pos="PRP">in</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">life</word>
+        <word pos="TO0">to</word>
+        <word pos="VVI">give</word>
+        <word pos="NN1">information</word>
+        <word pos="PRP">about</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">life</word>
+        <word pos="PRP">to</word>
+        <word pos="AT0">the</word>
+        <word pos="VVI">learn</word>
+        <word pos="CJC">and</word>
+        <word pos="VVG">speaking</word>
+        <word pos="CJC">and</word>
+        <word pos="VVN">written</word>
+        </body>
+      </text>
+    </corpus>
+  </root>

@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <corpus>
+    <text>
+      <metadata>
+        <Faculty>Human Sciences</Faculty>
+        <Semester>4</Semester>
+        <Age>22</Age>
+        <Time_spent_at_an_EnglishSpeaking_country>X</Time_spent_at_an_EnglishSpeaking_country>
+        <Topic>Describing a picture</Topic>
+        <Title>Hassane and dog</Title>
+        </metadata>
+      <body>
+        <word pos="PRP">In</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">morning</word>
+        <word pos="PUN">,</word>
+        <word pos="NP0">Hassan</word>
+        <word pos="VVB">go</word>
+        <word pos="PRP">to</word>
+        <word pos="NN1">garden</word>
+        <word pos="PRP">with</word>
+        <word pos="NN1">dog</word>
+        <word pos="TO0">to</word>
+        <word pos="VVI">bring</word>
+        <word pos="NN1">wood</word>
+        <word pos="TO0">to</word>
+        <word pos="VVI">build</word>
+        <word pos="DPS">his</word>
+        <word pos="NN1">home</word>
+        <word pos="PUN">.</word>
+        <word pos="AT0">The</word>
+        <word pos="NN1">dog</word>
+        <word pos="VBD">was</word>
+        <word pos="AV0">very</word>
+        <word pos="AJ0">happy</word>
+        <word pos="PRP">with</word>
+        <word pos="NP0">Hassan</word>
+        <word pos="CJC">and</word>
+        <word pos="PNP">they</word>
+        <word pos="VVB">build</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">home</word>
+        <word pos="CJC">And</word>
+        <word pos="PNP">he</word>
+        <word pos="VDD">did</word>
+        <word pos="XX0">n't</word>
+        <word pos="AJ0">tire</word>
+        <word pos="PUN">,</word>
+        <word pos="CJC">and</word>
+        <word pos="VVN">joined</word>
+        <word pos="CJS">when</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">dog</word>
+        <word pos="VBZ">is</word>
+        <word pos="AJ0">happy</word>
+        <word pos="PUN">.</word>
+        </body>
+      </text>
+    </corpus>
+  </root>

@@ -1,0 +1,132 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <corpus>
+    <text>
+      <metadata>
+        <Faculty>Human Sciences</Faculty>
+        <Semester>5</Semester>
+        <Age>21</Age>
+        <Time_spent_at_an_EnglishSpeaking_country>2 years</Time_spent_at_an_EnglishSpeaking_country>
+        <Topic>Talk about teaching method</Topic>
+        <Title>Teaching method</Title>
+        </metadata>
+      <body>
+        <word pos="NN1">Method</word>
+        <word pos="VBZ">is</word>
+        <word pos="NN1">realization</word>
+        <word pos="PRF">of</word>
+        <word pos="AT0">an</word>
+        <word pos="NN1">approach</word>
+        <word pos="PUN">,</word>
+        <word pos="VVZ">involves</word>
+        <word pos="NN1">procedure</word>
+        <word pos="CJC">and</word>
+        <word pos="NN2">techniques</word>
+        <word pos="PUN">.</word>
+        <word pos="EX0">There</word>
+        <word pos="VBB">are</word>
+        <word pos="DT0">many</word>
+        <word pos="NN2">methods</word>
+        <word pos="TO0">to</word>
+        <word pos="VVI">improve</word>
+        <word pos="VVI">teach</word>
+        <word pos="NN1">language</word>
+        <word pos="PRP">like</word>
+        <word pos="NN1">Grammar</word>
+        <word pos="NN1">Translation</word>
+        <word pos="NN1">Method</word>
+        <word pos="VBZ">is</word>
+        <word pos="AT0">the</word>
+        <word pos="AJS">oldest</word>
+        <word pos="NN1">method</word>
+        <word pos="NN1">teaching</word>
+        <word pos="PRF">of</word>
+        <word pos="NN1">English</word>
+        <word pos="PUN">.</word>
+        <word pos="PRP">In</word>
+        <word pos="DT0">this</word>
+        <word pos="NN1">method</word>
+        <word pos="AT0">every</word>
+        <word pos="NN1">word</word>
+        <word pos="NN1">phrase</word>
+        <word pos="CJC">and</word>
+        <word pos="NN1">sentence</word>
+        <word pos="PNP">it</word>
+        <word pos="VM0">will</word>
+        <word pos="VBI">be</word>
+        <word pos="VVN">translated</word>
+        <word pos="PRP">into</word>
+        <word pos="NN1">mother</word>
+        <word pos="NN1">tongue</word>
+        <word pos="PUN">.</word>
+        <word pos="NN1">Mother</word>
+        <word pos="NN1">tongue</word>
+        <word pos="NN1">control</word>
+        <word pos="PRF">of</word>
+        <word pos="VVG">teaching</word>
+        <word pos="PUN">.</word>
+        <word pos="PNP">It</word>
+        <word pos="VBZ">is</word>
+        <word pos="AJ0">useful</word>
+        <word pos="TO0">to</word>
+        <word pos="VVI">understand</word>
+        <word pos="NN1">grammar</word>
+        <word pos="PUN">,</word>
+        <word pos="CJC">but</word>
+        <word pos="XX0">not</word>
+        <word pos="NN1">usefulness</word>
+        <word pos="TO0">to</word>
+        <word pos="VVI">improve</word>
+        <word pos="NN2">skills</word>
+        <word pos="PUL">(</word>
+        <word pos="VVG">listening</word>
+        <word pos="CJC">and</word>
+        <word pos="VVG">speaking</word>
+        <word pos="PUR">)</word>
+        <word pos="PUN">.</word>
+        <word pos="AVQ">Where</word>
+        <word pos="VBB">are</word>
+        <word pos="NN1">method</word>
+        <word pos="TO0">to</word>
+        <word pos="VVI">improve</word>
+        <word pos="VVG">listening</word>
+        <word pos="CJC">and</word>
+        <word pos="VVG">speaking</word>
+        <word pos="PRP">without</word>
+        <word pos="NN1">use</word>
+        <word pos="NN1">mother</word>
+        <word pos="NN1">tongue</word>
+        <word pos="VBZ">is</word>
+        <word pos="VVN">called</word>
+        <word pos="AJ0">Direct</word>
+        <word pos="NN1">Method</word>
+        <word pos="PUN">.</word>
+        <word pos="EX0">There</word>
+        <word pos="AV0">also</word>
+        <word pos="VBB">are</word>
+        <word pos="AJ0">modern</word>
+        <word pos="NN1">method</word>
+        <word pos="PRP">like</word>
+        <word pos="NN1">Total</word>
+        <word pos="AV0">Physically</word>
+        <word pos="NN1">response</word>
+        <word pos="VBZ">is</word>
+        <word pos="AV0">very</word>
+        <word pos="AJ0">useful</word>
+        <word pos="PRP">for</word>
+        <word pos="NN2">children</word>
+        <word pos="PUN">.</word>
+        <word pos="AT0">Every</word>
+        <word pos="NN1">method</word>
+        <word pos="NN1">help</word>
+        <word pos="NN1">teacher</word>
+        <word pos="PRP">to</word>
+        <word pos="VM0">will</word>
+        <word pos="VBI">be</word>
+        <word pos="AT0">a</word>
+        <word pos="AJ0">good</word>
+        <word pos="NN1">teacher</word>
+        </body>
+      </text>
+    </corpus>
+  </root>

@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <corpus>
+    <text>
+      <metadata>
+        <Faculty>Human Sciences</Faculty>
+        <Semester>5</Semester>
+        <Age>22</Age>
+        <Time_spent_at_an_EnglishSpeaking_country>X</Time_spent_at_an_EnglishSpeaking_country>
+        <Topic>Good teachers</Topic>
+        <Title>good teacher</Title>
+        </metadata>
+      <body>
+        <word pos="NN1">English</word>
+        <word pos="VVG">speaking</word>
+        <word pos="CJC">and</word>
+        <word pos="VVG">learning</word>
+        <word pos="VBZ">is</word>
+        <word pos="VVZ">needs</word>
+        <word pos="PRP">to</word>
+        <word pos="AJ0">good</word>
+        <word pos="NN1">teacher</word>
+        <word pos="CJC">and</word>
+        <word pos="AJ0">famous</word>
+        <word pos="TO0">to</word>
+        <word pos="VVI">learn</word>
+        <word pos="NN2">students</word>
+        <word pos="CJC">and</word>
+        <word pos="VVG">helping</word>
+        <word pos="PRP">in</word>
+        <word pos="NN2">studies</word>
+        <word pos="NN1">teaching</word>
+        <word pos="NN1">method</word>
+        <word pos="CJC">and</word>
+        <word pos="AJ0">like</word>
+        <word pos="NN1">study</word>
+        <word pos="PUN">.</word>
+        </body>
+      </text>
+    </corpus>
+  </root>

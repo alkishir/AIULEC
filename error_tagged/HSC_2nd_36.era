@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<file name="" tagset="uclee-en-2.0.tag">
+Title: <FS corr="Your Best Memory">your best memory</FS>
+
+My best memory was when I <FS corr="graduated">gratuated</FS> from <FS corr="high">High</FS> school<QM corr=".">,</QM> I <GVT corr="felt">feel</GVT> very happy when <GPP corr="I">\0</GPP><GVT corr="knew">know</GVT> I <GVT corr="had paased"><GVM corr="passed">was pass</GVM></GVT> <GDD corr="that">this</GDD> year<QC corr=".">,</QC> <FS corr="It">IT</FS> was very hard<QM corr=",">\0</QM> and I was <XADJPR corr="afraid of">afraid from</XADJPR> it . But finally<QM corr=",">\0</QM> I <GVT corr="did"><GVAUX corr="have done">done</GVAUX></GVT> it<QM corr=".">\0</QM>
+</file>

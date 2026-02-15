@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <corpus>
+    <text>
+      <metadata>
+        <Faculty>Education</Faculty>
+        <Semester>8</Semester>
+        <Age>22</Age>
+        <Time_spent_at_an_EnglishSpeaking_country>X</Time_spent_at_an_EnglishSpeaking_country>
+        <Topic>Honor of My Family</Topic>
+        <Title>The honor of My family</Title>
+        </metadata>
+      <body>
+        <word pos="NN1">Family</word>
+        <word pos="VBZ">is</word>
+        <word pos="AT0">the</word>
+        <word pos="AJ0">basic</word>
+        <word pos="NN1">role</word>
+        <word pos="PRP">for</word>
+        <word pos="VVG">giving</word>
+        <word pos="AT0">the</word>
+        <word pos="AJ0">good</word>
+        <word pos="NN2">generations</word>
+        <word pos="PUN">.</word>
+        <word pos="PNP">It</word>
+        <word pos="VBZ">is</word>
+        <word pos="VVG">making</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">person</word>
+        <word pos="VVI">honor</word>
+        <word pos="PRP">to</word>
+        <word pos="DPS">his</word>
+        <word pos="PUN">/</word>
+        <word pos="DPS">her</word>
+        <word pos="NN1">family</word>
+        <word pos="PUN">.</word>
+        <word pos="PRP">By</word>
+        <word pos="VVG">giving</word>
+        <word pos="PNP">them</word>
+        <word pos="AJ0">strong</word>
+        <word pos="CJC">and</word>
+        <word pos="NN1">support</word>
+        <word pos="PUN">.</word>
+        </body>
+      </text>
+    </corpus>
+  </root>

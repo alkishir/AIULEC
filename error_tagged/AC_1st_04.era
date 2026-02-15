@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<file name="" tagset="uclee-en-2.0.tag">
+Title: <GNN corr="Animals"><FS corr="Animal">Animle</FS></GNN> 
+
+There are a lot of <FS corr="animals">Animles</FS><QM corr=",">\0</QM> <FS corr="like">lik</FS> wildlife <FS corr="animals">animles</FS><QC corr=";">:</QC> <LCLC corr="for example">for examples</LCLC><QM corr=",">\0</QM> <GNN corr="lions">lion</GNN>, <GNN corr="cheetahs"><FS corr="cheetah">cheet</FS></GNN>, and <GNN corr="snakes">snake</GNN>. 
+
+<FS corr="And">and</FS> there are <GNN corr="animals"><FS corr="animal">animle</FS></GNN><GPR corr="that">\0</GPR> <FS corr="live">leave</FS> with people <LSPR corr="at">in</LSPR> home<QM corr=",">\0</QM> like <GNN corr="cats">cat</GNN><QR corr="0">,</QR> and dogs. 
+
+<FS corr="And">and</FS> <FS corr="there">There</FS> are <GNN corr="animals"><FS corr="animal">animle</FS></GNN> <GPR corr="that">\0</GPR><GVM corr="give">given</GVM> <GDO corr="us">our</GDO> meat to eat and milk to drink.
+</file>

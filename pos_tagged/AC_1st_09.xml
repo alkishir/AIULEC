@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <corpus>
+    <text>
+      <metadata>
+        <Faculty>Arts</Faculty>
+        <Semester>1</Semester>
+        <Age>18</Age>
+        <Time_spent_at_an_EnglishSpeaking_country>none</Time_spent_at_an_EnglishSpeaking_country>
+        <Topic>School</Topic>
+        <Title>School</Title>
+        </metadata>
+      <body>
+        <word pos="AT0">The</word>
+        <word pos="NN1">school</word>
+        <word pos="VBZ">is</word>
+        <word pos="AT0">the</word>
+        <word pos="AJS">best</word>
+        <word pos="NN1">place</word>
+        <word pos="PUN">.</word>
+        <word pos="PNP">You</word>
+        <word pos="VVB">learn</word>
+        <word pos="PRP">about</word>
+        <word pos="PNI">anythings</word>
+        <word pos="CJC">or</word>
+        <word pos="NN1">information</word>
+        <word pos="PNP">you</word>
+        <word pos="VVB">need</word>
+        <word pos="PUN">.</word>
+        <word pos="CJC">And</word>
+        <word pos="PNP">it</word>
+        <word pos="VBZ">is</word>
+        <word pos="AT0">the</word>
+        <word pos="AJS">best</word>
+        <word pos="NN1">place</word>
+        <word pos="TO0">to</word>
+        <word pos="VVI">know</word>
+        <word pos="AJ0">different</word>
+        <word pos="NN0">people</word>
+        <word pos="PUN">.</word>
+        <word pos="CJC">and</word>
+        <word pos="VVI">make</word>
+        <word pos="VVZ">loves</word>
+        <word pos="PRP">with</word>
+        <word pos="PNP">them</word>
+        <word pos="PUN">.</word>
+        <word pos="AT0">The</word>
+        <word pos="NN1">school</word>
+        <word pos="VHZ">has</word>
+        <word pos="DT0">many</word>
+        <word pos="NN2">classes</word>
+        <word pos="EX0">there</word>
+        <word pos="VBB">are</word>
+        <word pos="DT0">many</word>
+        <word pos="NN2">students</word>
+        <word pos="PRP">in</word>
+        <word pos="AT0">the</word>
+        <word pos="DT0">same</word>
+        <word pos="NN1">class</word>
+        <word pos="PUN">.</word>
+        <word pos="AT0">The</word>
+        <word pos="NN1">school</word>
+        <word pos="PRP">in</word>
+        <word pos="NP0">Libya</word>
+        <word pos="VVZ">learns</word>
+        <word pos="AT0">a</word>
+        <word pos="NN1">lot</word>
+        <word pos="PRF">of</word>
+        <word pos="NN2">subjects</word>
+        <word pos="VVB">like</word>
+        <word pos="PUN">:</word>
+        <word pos="NN1">math</word>
+        <word pos="PUN">,</word>
+        <word pos="NN1">history</word>
+        <word pos="PUN">,</word>
+        <word pos="NN1">English</word>
+        <word pos="CJC">and</word>
+        <word pos="NN1">Arabic</word>
+        <word pos="PUN">.</word>
+        </body>
+      </text>
+    </corpus>
+  </root>

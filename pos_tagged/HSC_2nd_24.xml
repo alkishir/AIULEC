@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <corpus>
+    <text>
+      <metadata>
+        <Faculty>Human Sciences</Faculty>
+        <Semester>2</Semester>
+        <Age>19</Age>
+        <Time_spent_at_an_EnglishSpeaking_country>X</Time_spent_at_an_EnglishSpeaking_country>
+        <Topic>A special place</Topic>
+        <Title>A special place</Title>
+        </metadata>
+      <body>
+        <word pos="AT0">An</word>
+        <word pos="AJ0">unforgettable</word>
+        <word pos="NN2">memories</word>
+        <word pos="CJT">that</word>
+        <word pos="VVB">happen</word>
+        <word pos="PRP">in</word>
+        <word pos="DPS">my</word>
+        <word pos="NN1">grandmother</word>
+        <word pos="NN1">house</word>
+        <word pos="PNP">it</word>
+        <word pos="VBZ">is</word>
+        <word pos="AT0">the</word>
+        <word pos="AJ0">special</word>
+        <word pos="NN1">place</word>
+        <word pos="PRP">for</word>
+        <word pos="PNP">me</word>
+        <word pos="PNP">I</word>
+        <word pos="VHB">have</word>
+        <word pos="AT0">a</word>
+        <word pos="NN1">lot</word>
+        <word pos="PRF">of</word>
+        <word pos="NN2">memories</word>
+        <word pos="CJC">and</word>
+        <word pos="NN1">experience</word>
+        <word pos="PRP">in</word>
+        <word pos="DT0">this</word>
+        <word pos="NN1">house</word>
+        <word pos="CJC">and</word>
+        <word pos="PNP">I</word>
+        <word pos="VVB">fall</word>
+        <word pos="PRP">in</word>
+        <word pos="NN1">love</word>
+        <word pos="PRP">with</word>
+        <word pos="DPS">my</word>
+        <word pos="NN1">grandmother</word>
+        <word pos="PNP">she</word>
+        <word pos="VBZ">is</word>
+        <word pos="AT0">the</word>
+        <word pos="AJS">best</word>
+        <word pos="NN1">person</word>
+        <word pos="PRP">for</word>
+        <word pos="PNP">me</word>
+        <word pos="PNP">he</word>
+        <word pos="VVB">learn</word>
+        <word pos="PNP">me</word>
+        <word pos="AT0">a</word>
+        <word pos="NN1">lot</word>
+        <word pos="PRF">of</word>
+        <word pos="NN1.">thing</word>
+        <word pos="CJC">and</word>
+        <word pos="PNP">I</word>
+        <word pos="VVB">stay</word>
+        <word pos="PRP">in</word>
+        <word pos="DPS">my</word>
+        <word pos="NN1">grandmother</word>
+        <word pos="NN1">house</word>
+        <word pos="PRP">for</word>
+        <word pos="PRP">along</word>
+        <word pos="NN1">time</word>
+        <word pos="CJC">and</word>
+        <word pos="PNP">it</word>
+        <word pos="VBZ">is</word>
+        <word pos="AT0">a</word>
+        <word pos="AJS">best</word>
+        <word pos="NN1">time</word>
+        <word pos="PNP">I</word>
+        <word pos="VHB">have</word>
+        <word pos="PNP">it</word>
+        <word pos="PRP">in</word>
+        <word pos="DPS">my</word>
+        <word pos="NN1">life</word>
+        <word pos="PUN">.</word>
+        </body>
+      </text>
+    </corpus>
+  </root>

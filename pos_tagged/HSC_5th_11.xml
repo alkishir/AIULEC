@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <corpus>
+    <text>
+      <metadata>
+        <Faculty>Human Sciences</Faculty>
+        <Semester>5</Semester>
+        <Age>21</Age>
+        <Time_spent_at_an_EnglishSpeaking_country>none</Time_spent_at_an_EnglishSpeaking_country>
+        <Topic>none</Topic>
+        <Title>Entertaining the animal</Title>
+        </metadata>
+      <body>
+        <word pos="ORD">Last</word>
+        <word pos="NN1">week</word>
+        <word pos="PUN">,</word>
+        <word pos="CJS">when</word>
+        <word pos="DPS">my</word>
+        <word pos="AJ0">young</word>
+        <word pos="NN1">brother</word>
+        <word pos="VBD">was</word>
+        <word pos="VVG">playing</word>
+        <word pos="PRP">in</word>
+        <word pos="DPS">our</word>
+        <word pos="NN1">garden</word>
+        <word pos="PUN">,</word>
+        <word pos="PNP">He</word>
+        <word pos="VVB">saw</word>
+        <word pos="AT0">a</word>
+        <word pos="AJ0">small</word>
+        <word pos="NN1">dog</word>
+        <word pos="PUN">,</word>
+        <word pos="PNP">it</word>
+        <word pos="VBD">was</word>
+        <word pos="AV0">very</word>
+        <word pos="AJ0">old</word>
+        <word pos="PUN">,</word>
+        <word pos="PNP">He</word>
+        <word pos="VVD">decided</word>
+        <word pos="TO0">to</word>
+        <word pos="VVI">build</word>
+        <word pos="AT0">a</word>
+        <word pos="AJ0">small</word>
+        <word pos="NN1">house</word>
+        <word pos="TO0">to</word>
+        <word pos="VVI">help</word>
+        <word pos="PNP">it</word>
+        <word pos="PUN">.</word>
+        <word pos="PNP">He</word>
+        <word pos="VVB">give</word>
+        <word pos="AT0">the</word>
+        <word pos="NN2">tools</word>
+        <word pos="CJC">and</word>
+        <word pos="AT0">the</word>
+        <word pos="AJ0">wooden</word>
+        <word pos="NN2">pieces</word>
+        <word pos="TO0">to</word>
+        <word pos="VVI">make</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">house</word>
+        <word pos="PRP">to</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">dog</word>
+        <word pos="PUN">.</word>
+        <word pos="AV0">Then</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">dog</word>
+        <word pos="VBD">was</word>
+        <word pos="AV0">very</word>
+        <word pos="AJ0">happy</word>
+        <word pos="AT0">The</word>
+        <word pos="NN1">dog</word>
+        <word pos="VVD">sleeped</word>
+        <word pos="PRP">with</word>
+        <word pos="NN1">bone</word>
+        <word pos="CJT">that</word>
+        <word pos="PNP">it</word>
+        <word pos="VVB">love</word>
+        <word pos="PNP">it</word>
+        <word pos="PRP">in</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">house</word>
+        <word pos="AT0">The</word>
+        <word pos="NN1">end</word>
+        <word pos="PUN">!</word>
+        <word pos="PUN">!</word>
+        </body>
+      </text>
+    </corpus>
+  </root>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<file name="" tagset="uclee-en-2.0.tag">
+Title: <FS corr="My Family">My family</FS> 
+
+My name is Esra<QC corr=".">,</QC> I am eighteen<QM corr=".">\0</QM> I live with<QR corr="0">,</QR> my family is <LSADJ corr="happy?"><Z corr="?">happen</Z></LSADJ> and <Z corr="?">amanna</Z>. 
+
+I have four <GNN corr="brothers">brother</GNN> and one sister. My father is a teacher in <GA corr="0">the</GA> <FS corr="maths">matics</FS>, and my <FS corr="mother">Mother</FS> was <GA corr="a">\0</GA><FS corr="doctor?">dicted</FS> 15 years ago. My father has a great <QR corr="0">,</QR> and very beautiful farm. I live with my family <LP corr="on my own">with all my own</LP><QM corr=",">\0</QM> and<QR corr="0">,</QR> I am happy with my family<QM corr=".">\0</QM>
+</file>

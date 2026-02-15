@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <corpus>
+    <text>
+      <metadata>
+        <Faculty>Human Sciences</Faculty>
+        <Semester>5</Semester>
+        <Age>20</Age>
+        <Time_spent_at_an_EnglishSpeaking_country>X</Time_spent_at_an_EnglishSpeaking_country>
+        <Topic>Famous person</Topic>
+        <Title>.........</Title>
+        </metadata>
+      <body>
+        <word pos="DPS">my</word>
+        <word pos="AJ0">favorite</word>
+        <word pos="NN1">person</word>
+        <word pos="VBZ">is</word>
+        <word pos="NP0">Khabib</word>
+        <word pos="NP0">Noar</word>
+        <word pos="NP0">Mahmodof</word>
+        <word pos="PNP">he</word>
+        <word pos="VBZ">is</word>
+        <word pos="AT0">a</word>
+        <word pos="NN1">champion</word>
+        <word pos="PRP">in</word>
+        <word pos="NP0">UFC</word>
+        <word pos="PNP">he</word>
+        <word pos="VBZ">is</word>
+        <word pos="VVG">beginning</word>
+        <word pos="PRP">as</word>
+        <word pos="AT0">a</word>
+        <word pos="NN1">fighter</word>
+        <word pos="CJC">and</word>
+        <word pos="AV0">now</word>
+        <word pos="PNP">he</word>
+        <word pos="VBZ">is</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">manager</word>
+        <word pos="PRF">of</word>
+        <word pos="NN1">UFC</word>
+        <word pos="PNP">he</word>
+        <word pos="VVD">bought</word>
+        <word pos="PNP">it</word>
+        <word pos="PRP">by</word>
+        <word pos="DPS">his</word>
+        <word pos="DT0">own</word>
+        <word pos="NN1">money</word>
+        <word pos="CJS">when</word>
+        <word pos="PNP">he</word>
+        <word pos="CJS">when</word>
+        <word pos="PRP">in</word>
+        <word pos="CRD">2017</word>
+        <word pos="CJC">but</word>
+        <word pos="AV0">now</word>
+        <word pos="PNP">he</word>
+        <word pos="VBZ">is</word>
+        <word pos="XX0">not</word>
+        <word pos="VVN">employed</word>
+        <word pos="PNP">he</word>
+        <word pos="VVD">quit</word>
+        <word pos="NN1">practice</word>
+        <word pos="DPS">his</word>
+        <word pos="NN1">team</word>
+        <word pos="PNP">he</word>
+        <word pos="VHB">have</word>
+        <word pos="AT0">a</word>
+        <word pos="AJ0">great</word>
+        <word pos="NN1">team</word>
+        <word pos="VVB">contain</word>
+        <word pos="PRP">from</word>
+        <word pos="NP0">Hamza</word>
+        <word pos="PUN">,</word>
+        <word pos="NP0">Ali</word>
+        <word pos="NP0">Muslim</word>
+        <word pos="PUN">,</word>
+        <word pos="NP0">Mohamed</word>
+        <word pos="CJC">and</word>
+        <word pos="DT0">all</word>
+        <word pos="PRF">of</word>
+        <word pos="PNP">them</word>
+        <word pos="VBZ">is</word>
+        <word pos="NN2">Muslims</word>
+        <word pos="CJC">and</word>
+        <word pos="PNP">I</word>
+        <word pos="VVB">like</word>
+        <word pos="PNP">him</word>
+        <word pos="PRP">because</word>
+        <word pos="PRF">of</word>
+        <word pos="PNP">his</word>
+        <word pos="VVD">believed</word>
+        <word pos="PRP">in</word>
+        <word pos="DPS">our</word>
+        <word pos="NN1">god</word>
+        <word pos="NP0">Allah</word>
+        <word pos="CJC">and</word>
+        <word pos="PNP">he</word>
+        <word pos="AV0">always</word>
+        <word pos="VVD">said</word>
+        <word pos="CJT">that</word>
+        <word pos="VBZ">is</word>
+        <word pos="DT0">all</word>
+        <word pos="DPS">his</word>
+        <word pos="NN2">victories</word>
+        <word pos="PRP">from</word>
+        <word pos="NP0">Allah</word>
+        <word pos="PNP">he</word>
+        <word pos="VVD">quit</word>
+        <word pos="VVG">fighting</word>
+        <word pos="CJS">if</word>
+        <word pos="PNP">you</word>
+        <word pos="VVB">want</word>
+        <word pos="TO0">to</word>
+        <word pos="VVI">know</word>
+        <word pos="PNP">him</word>
+        <word pos="UNC">@khabibnourmahmodof</word>
+        <word pos="PUN">.</word>
+        <word pos="NP0">Insta</word>
+        <word pos="PNP">he</word>
+        <word pos="VBZ">is</word>
+        <word pos="AT0">a</word>
+        <word pos="AJ0">great</word>
+        <word pos="NN1">person</word>
+        </body>
+      </text>
+    </corpus>
+  </root>

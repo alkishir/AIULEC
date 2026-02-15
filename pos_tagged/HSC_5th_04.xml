@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <corpus>
+    <text>
+      <metadata>
+        <Faculty>Human Sciences</Faculty>
+        <Semester>5</Semester>
+        <Age>23</Age>
+        <Time_spent_at_an_EnglishSpeaking_country>X</Time_spent_at_an_EnglishSpeaking_country>
+        <Topic>Good teachers</Topic>
+        <Title>good teacher</Title>
+        </metadata>
+      <body>
+        <word pos="PNP">It</word>
+        <word pos="VBZ">is</word>
+        <word pos="AV0">very</word>
+        <word pos="AJ0">nice</word>
+        <word pos="CJS">because</word>
+        <word pos="NN1">teacher</word>
+        <word pos="DPS">his</word>
+        <word pos="AJ0">lovely</word>
+        <word pos="CJC">and</word>
+        <word pos="NN1">comedy</word>
+        <word pos="CJC">and</word>
+        <word pos="VVG">giving</word>
+        <word pos="PNP">me</word>
+        <word pos="NN1">information</word>
+        <word pos="PRP">about</word>
+        <word pos="AVQ">How</word>
+        <word pos="VVG">learning</word>
+        <word pos="NN2">children</word>
+        <word pos="CJC">and</word>
+        <word pos="AVQ">How</word>
+        <word pos="VVG">speaking</word>
+        <word pos="PRP">to</word>
+        <word pos="NN1">language</word>
+        <word pos="AJ0">English</word>
+        <word pos="PUN">,</word>
+        <word pos="CJC">and</word>
+        <word pos="DPS">his</word>
+        <word pos="VVB">help</word>
+        <word pos="PNP">me</word>
+        <word pos="AVQ">how</word>
+        <word pos="VVB">try</word>
+        <word pos="CJC">and</word>
+        <word pos="VVB">try</word>
+        <word pos="CJC">and</word>
+        <word pos="VVB">try</word>
+        <word pos="DT0">any</word>
+        <word pos="AJ0">impossible</word>
+        <word pos="PRP">in</word>
+        <word pos="VVG">speaking</word>
+        <word pos="NN1">English</word>
+        <word pos="CJC">and</word>
+        <word pos="VVG">learning</word>
+        <word pos="NN1">language</word>
+        <word pos="VVB">Thank</word>
+        <word pos="PNP">you</word>
+        <word pos="NN2">teachers</word>
+        </body>
+      </text>
+    </corpus>
+  </root>

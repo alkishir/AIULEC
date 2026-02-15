@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <corpus>
+    <text>
+      <metadata>
+        <Faculty>Education</Faculty>
+        <Semester>1</Semester>
+        <Age>19</Age>
+        <Time_spent_at_an_EnglishSpeaking_country>X</Time_spent_at_an_EnglishSpeaking_country>
+        <Topic>An interesting place</Topic>
+        <Title>An interesting place picnic</Title>
+        </metadata>
+      <body>
+        <word pos="DPS">My</word>
+        <word pos="AJ0">interesting</word>
+        <word pos="DPS">our</word>
+        <word pos="NN1">picnic</word>
+        <word pos="PUN">.</word>
+        <word pos="PNP">I</word>
+        <word pos="VVB">like</word>
+        <word pos="DT0">this</word>
+        <word pos="NN1">place</word>
+        <word pos="AV0">very</word>
+        <word pos="AJ0">wonderful</word>
+        <word pos="PUN">.</word>
+        <word pos="PNP">I</word>
+        <word pos="VVB">go</word>
+        <word pos="PRP">to</word>
+        <word pos="NN1">picnic</word>
+        <word pos="PRP">with</word>
+        <word pos="DPS">my</word>
+        <word pos="NN1">family</word>
+        <word pos="PUN">,</word>
+        <word pos="VVB">feel</word>
+        <word pos="AJ0">happy</word>
+        <word pos="PNP">them</word>
+        <word pos="AJ0">special</word>
+        <word pos="NP0">Friday</word>
+        <word pos="PUN">,</word>
+        <word pos="CJS">because</word>
+        <word pos="PUN">,</word>
+        <word pos="DT0">this</word>
+        <word pos="NN1">day</word>
+        <word pos="AJ0">beautiful</word>
+        <word pos="PUN">,</word>
+        <word pos="CJC">and</word>
+        <word pos="VVB">play</word>
+        <word pos="PRP">with</word>
+        <word pos="DPS">my</word>
+        <word pos="NN2">brothers</word>
+        <word pos="CJC">and</word>
+        <word pos="NN1">sister</word>
+        <word pos="NN1">football</word>
+        <word pos="PRP">in</word>
+        <word pos="NN1">picnic</word>
+        <word pos="PUN">.</word>
+        <word pos="VVB">Restart</word>
+        <word pos="PNX">myself</word>
+        <word pos="CJC">and</word>
+        <word pos="VVB">explain</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">chest</word>
+        <word pos="PUN">.</word>
+        </body>
+      </text>
+    </corpus>
+  </root>

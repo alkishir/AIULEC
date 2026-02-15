@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <corpus>
+    <text>
+      <metadata>
+        <Faculty>Human Sciences</Faculty>
+        <Semester>2</Semester>
+        <Age>19</Age>
+        <Time_spent_at_an_EnglishSpeaking_country>X</Time_spent_at_an_EnglishSpeaking_country>
+        <Topic>An event changes your life</Topic>
+        <Title>An event change my live</Title>
+        </metadata>
+      <body>
+        <word pos="AT0">An</word>
+        <word pos="NN1">event</word>
+        <word pos="CJT">that</word>
+        <word pos="VVD">changed</word>
+        <word pos="PRP">in</word>
+        <word pos="DPS">my</word>
+        <word pos="NN1">life</word>
+        <word pos="VBD">was</word>
+        <word pos="NN1">day</word>
+        <word pos="DPS">my</word>
+        <word pos="NN1">marriage</word>
+        <word pos="PUN">.</word>
+        <word pos="PNP">I</word>
+        <word pos="VM0">will</word>
+        <word pos="VVG">living</word>
+        <word pos="AJ0">new</word>
+        <word pos="NN1">life</word>
+        <word pos="PUN">.</word>
+        <word pos="PNP">I</word>
+        <word pos="VVD">felt</word>
+        <word pos="AJ0">sad</word>
+        <word pos="CJC">and</word>
+        <word pos="NN1">stress</word>
+        <word pos="CJS">because</word>
+        <word pos="AJ0">married</word>
+        <word pos="NN1">age</word>
+        <word pos="AV0">only</word>
+        <word pos="CRD">15</word>
+        <word pos="NN2">years</word>
+        <word pos="AJ0">old</word>
+        <word pos="PUN">.</word>
+        </body>
+      </text>
+    </corpus>
+  </root>

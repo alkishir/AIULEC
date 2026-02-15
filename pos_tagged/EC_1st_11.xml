@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <corpus>
+    <text>
+      <metadata>
+        <Faculty>Education</Faculty>
+        <Semester>1</Semester>
+        <Age>19</Age>
+        <Time_spent_at_an_EnglishSpeaking_country>X</Time_spent_at_an_EnglishSpeaking_country>
+        <Topic>My Family</Topic>
+        <Title>My family</Title>
+        </metadata>
+      <body>
+        <word pos="DPS">My</word>
+        <word pos="NN1">name</word>
+        <word pos="POS">'s</word>
+        <word pos="NP0">Amal</word>
+        <word pos="PUN">,</word>
+        <word pos="PNP">I</word>
+        <word pos="VBB">am</word>
+        <word pos="NN1">student</word>
+        <word pos="PRP">in</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">college</word>
+        <word pos="PUN">,</word>
+        <word pos="PNP">I</word>
+        <word pos="VVB">like</word>
+        <word pos="VVI">learn</word>
+        <word pos="AJ0">English</word>
+        <word pos="NN1">language</word>
+        <word pos="PNP">I</word>
+        <word pos="VVB">live</word>
+        <word pos="PRP">with</word>
+        <word pos="DPS">my</word>
+        <word pos="AJ0">beautiful</word>
+        <word pos="NN1">family</word>
+        <word pos="PUN">,</word>
+        <word pos="PNP">I</word>
+        <word pos="VHB">have</word>
+        <word pos="CRD">three</word>
+        <word pos="NN2">brothers</word>
+        <word pos="CJC">and</word>
+        <word pos="CRD">five</word>
+        <word pos="NN2">sisters</word>
+        <word pos="DPS">My</word>
+        <word pos="NN1">father</word>
+        <word pos="VBZ">is</word>
+        <word pos="NN1">businessman</word>
+        <word pos="CJC">and</word>
+        <word pos="DPS">my</word>
+        <word pos="NN1">mother</word>
+        <word pos="NN1">housewife</word>
+        </body>
+      </text>
+    </corpus>
+  </root>

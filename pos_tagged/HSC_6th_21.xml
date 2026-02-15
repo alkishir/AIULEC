@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <corpus>
+    <text>
+      <metadata>
+        <Faculty>Human Sciences</Faculty>
+        <Semester>6</Semester>
+        <Age>21</Age>
+        <Time_spent_at_an_EnglishSpeaking_country>X</Time_spent_at_an_EnglishSpeaking_country>
+        <Topic>Eating at restaurants with your family is a good way to build family ties</Topic>
+        <Title>Eating at a restaurants with your family is a good way to build family</Title>
+        </metadata>
+      <body>
+        <word pos="VVG">going</word>
+        <word pos="AVP">out</word>
+        <word pos="PRP">with</word>
+        <word pos="DPS">your</word>
+        <word pos="NN1">family</word>
+        <word pos="CJC">and</word>
+        <word pos="VVG">spending</word>
+        <word pos="NN1">time</word>
+        <word pos="AV0">together</word>
+        <word pos="VM0">will</word>
+        <word pos="VVI">build</word>
+        <word pos="AT0">a</word>
+        <word pos="AV0">really</word>
+        <word pos="AJ0">good</word>
+        <word pos="NN1">relationship</word>
+        <word pos="PRP">between</word>
+        <word pos="PNX">each</word>
+        <word pos="PNX">other</word>
+        <word pos="AV0">for</word>
+        <word pos="AV0">example</word>
+        <word pos="CJS">when</word>
+        <word pos="PNP">you</word>
+        <word pos="VVB">go</word>
+        <word pos="AVP">out</word>
+        <word pos="PRP">with</word>
+        <word pos="DPS">your</word>
+        <word pos="NN1">family</word>
+        <word pos="PRP">to</word>
+        <word pos="AT0">a</word>
+        <word pos="NN1">restaurant</word>
+        <word pos="CJC">or</word>
+        <word pos="PRP">to</word>
+        <word pos="AT0">a</word>
+        <word pos="NN1">playground</word>
+        <word pos="PNP">you</word>
+        <word pos="VM0">will</word>
+        <word pos="VVI">spend</word>
+        <word pos="AT0">a</word>
+        <word pos="NN1">lot</word>
+        <word pos="PRF">of</word>
+        <word pos="NN1">time</word>
+        <word pos="PRP">with</word>
+        <word pos="PNP">them</word>
+        <word pos="CJC">and</word>
+        <word pos="VVB">talk</word>
+        <word pos="PRP">with</word>
+        <word pos="PNP">them</word>
+        <word pos="PRP">about</word>
+        <word pos="DPS">your</word>
+        <word pos="NN2">goals</word>
+        <word pos="PUN">,</word>
+        <word pos="NN2">issues</word>
+        <word pos="CJC">and</word>
+        <word pos="NN2">achievements</word>
+        <word pos="CJC">and</word>
+        <word pos="PNP">you</word>
+        <word pos="VM0">can</word>
+        <word pos="VVI">spend</word>
+        <word pos="NN1">time</word>
+        <word pos="PRP">as</word>
+        <word pos="AT0">a</word>
+        <word pos="NN1">family</word>
+        <word pos="PRP">by</word>
+        <word pos="VVG">playing</word>
+        <word pos="CJC">and</word>
+        <word pos="VVG">saying</word>
+        <word pos="NN2">jokes</word>
+        <word pos="CJC">and</word>
+        <word pos="VVG">enjoying</word>
+        <word pos="DPS">your</word>
+        <word pos="NN1">time</word>
+        <word pos="PRP">with</word>
+        <word pos="PNX">each</word>
+        <word pos="PNX">other</word>
+        <word pos="PUN">.</word>
+        </body>
+      </text>
+    </corpus>
+  </root>

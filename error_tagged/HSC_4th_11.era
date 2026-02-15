@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<file name="" tagset="uclee-en-2.0.tag">
+Title: <FS corr="Jack and the Dog">Jack and <GA corr="the">\0</GA>dog</FS>  
+
+<LCLC corr="One day">In one day</LCLC> , Jack was walking in the park<QC corr=".">,</QC> There was <GA corr="a">the</GA> dog <QC corr=".">,</QC>Jack saw <GDD corr="0">that</GDD> the dog and <GVT corr="liked">like</GVT> it <QC corr=".">,</QC> Jack went to the dog and played<WM corr="with">\0</WM> it, and when <GADJO corr="the time was late">late the time<WM corr="was">\0</WM></GADJO> , the dog was <LSADJ corr="lonely?">only</LSADJ><QM corr=".">\0</QM> Jack <GVT corr="took">take</GVT> <GDI corr="some">\0</GDI>wood and <GVM corr="built">builded</GVM> <WO corr="a house for it"><WM corr="for">\0</WM>it <GA corr="a">\0</GA>house</WO>.
+</file>

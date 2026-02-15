@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<file name="" tagset="uclee-en-2.0.tag">
+Title: <FS corr="Your Best Memory">your best meomory</FS>
+
+My best <FS corr="memory">meomory</FS> <WM corr="was">\0</WM> when I was a child<QM corr=",">\0</QM> <LCS corr="from">since</LCS> age 5 <WR corr="0">years</WR> to 12 years<QC corr=".">,</QC> I was really happy and <GVT corr="played">play</GVT> all <GA corr="the">\0</GA>time<QM corr=",">\0</QM> and I <GVM corr="didn't have">have not</GVM> any <FS corr="problems">proplems</FS> in my life<QC corr=".">,</QC> I want to repeat this <FS corr="memory">meomory</FS>, but <GPP corr="this"><FS corr="it">It</FS></GPP> will not happen.
+</file>

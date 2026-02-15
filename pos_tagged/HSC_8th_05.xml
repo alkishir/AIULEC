@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <corpus>
+    <text>
+      <metadata>
+        <Faculty>Human Sciences</Faculty>
+        <Semester>8</Semester>
+        <Age>24</Age>
+        <Time_spent_at_an_EnglishSpeaking_country>X</Time_spent_at_an_EnglishSpeaking_country>
+        <Topic>What is the importance of family? </Topic>
+        <Title>Importance of family</Title>
+        </metadata>
+      <body>
+        <word pos="NN1">Family</word>
+        <word pos="VBZ">is</word>
+        <word pos="AT0">the</word>
+        <word pos="AV0">most</word>
+        <word pos="AJ0">important</word>
+        <word pos="NN1">thing</word>
+        <word pos="PRP">in</word>
+        <word pos="NN1">life</word>
+        <word pos="PUN">,</word>
+        <word pos="PNP">It</word>
+        <word pos="VVZ">gives</word>
+        <word pos="NN1">strength</word>
+        <word pos="PUN">.</word>
+        <word pos="VVZ">Helps</word>
+        <word pos="PNP">you</word>
+        <word pos="VVI">achieve</word>
+        <word pos="DPS">your</word>
+        <word pos="NN2">dreams</word>
+        <word pos="PUN">,</word>
+        <word pos="VVB">Make</word>
+        <word pos="PNP">you</word>
+        <word pos="AJ0">happy</word>
+        <word pos="PRP">in</word>
+        <word pos="DPS">your</word>
+        <word pos="NN1">life</word>
+        <word pos="PUN">,</word>
+        <word pos="AT0">A</word>
+        <word pos="NN1">person</word>
+        <word pos="PRP">without</word>
+        <word pos="DPS">his</word>
+        <word pos="NN1">family</word>
+        <word pos="VVZ">feels</word>
+        <word pos="AJ0">lonely</word>
+        <word pos="PUN">,</word>
+        <word pos="CJC">and</word>
+        <word pos="NN1">weakness</word>
+        <word pos="PUN">.</word>
+        <word pos="PNP">It</word>
+        <word pos="VBZ">'s</word>
+        <word pos="AT0">the</word>
+        <word pos="AV0">most</word>
+        <word pos="AJ0">beautiful</word>
+        <word pos="NN1">thing</word>
+        <word pos="PRP">in</word>
+        <word pos="NN1">life</word>
+        <word pos="PUN">.</word>
+        </body>
+      </text>
+    </corpus>
+  </root>

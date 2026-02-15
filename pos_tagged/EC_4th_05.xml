@@ -1,0 +1,115 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <corpus>
+    <text>
+      <metadata>
+        <Faculty>Education</Faculty>
+        <Semester>4</Semester>
+        <Age>20</Age>
+        <Time_spent_at_an_EnglishSpeaking_country>X</Time_spent_at_an_EnglishSpeaking_country>
+        <Topic>Healthy Food</Topic>
+        <Title>Healthy food</Title>
+        </metadata>
+      <body>
+        <word pos="AJ0">Healthy</word>
+        <word pos="NN1">food</word>
+        <word pos="PNP">it</word>
+        <word pos="VBZ">is</word>
+        <word pos="AJ0">important</word>
+        <word pos="PRP">in</word>
+        <word pos="DPS">our</word>
+        <word pos="NN2">bodies</word>
+        <word pos="CJS">so</word>
+        <word pos="PNP">you</word>
+        <word pos="VM0">must</word>
+        <word pos="VVI">eat</word>
+        <word pos="AJ0">healthy</word>
+        <word pos="NN1">food</word>
+        <word pos="PUN">.</word>
+        <word pos="VVZ">Helps</word>
+        <word pos="TO0">to</word>
+        <word pos="VVI">make</word>
+        <word pos="AJ0">strong</word>
+        <word pos="NN2">bodies</word>
+        <word pos="CJC">and</word>
+        <word pos="VVI">become</word>
+        <word pos="AJ0">fine</word>
+        <word pos="PUN">.</word>
+        <word pos="EX0">There</word>
+        <word pos="VBB">are</word>
+        <word pos="DT0">many</word>
+        <word pos="NN2">types</word>
+        <word pos="PRF">of</word>
+        <word pos="AJ0">healthy</word>
+        <word pos="NN1">food</word>
+        <word pos="PNP">it</word>
+        <word pos="VBZ">is</word>
+        <word pos="PRP">like</word>
+        <word pos="NN1">sea</word>
+        <word pos="NN1">food</word>
+        <word pos="PUN">,</word>
+        <word pos="NN1">vegetable</word>
+        <word pos="PUN">,</word>
+        <word pos="NN2">fruits</word>
+        <word pos="PUN">.</word>
+        <word pos="TO0">to</word>
+        <word pos="VVI">keep</word>
+        <word pos="PRP">on</word>
+        <word pos="NN1">health</word>
+        <word pos="NN1">heart</word>
+        <word pos="CJC">and</word>
+        <word pos="NN1">mind</word>
+        <word pos="NN1">health</word>
+        <word pos="CRD">one</word>
+        <word pos="PRF">of</word>
+        <word pos="NN2">things</word>
+        <word pos="AJ0">important</word>
+        <word pos="VVB">eat</word>
+        <word pos="NN1">health</word>
+        <word pos="NN1">food</word>
+        <word pos="VVB">drink</word>
+        <word pos="AT0">a</word>
+        <word pos="NN1">lot</word>
+        <word pos="PRF">of</word>
+        <word pos="NN1">water</word>
+        <word pos="CJC">and</word>
+        <word pos="VVB">eat</word>
+        <word pos="NN0">fruit</word>
+        <word pos="AV0">etc</word>
+        <word pos="PUN">.</word>
+        <word pos="CJS">because</word>
+        <word pos="VBZ">is</word>
+        <word pos="PRP">including</word>
+        <word pos="NN1">protein</word>
+        <word pos="PUN">,</word>
+        <word pos="NN2">vitamins</word>
+        <word pos="PUN">,</word>
+        <word pos="NN1">calcium</word>
+        <word pos="CJC">and</word>
+        <word pos="NN1">carbohydrate</word>
+        <word pos="PUN">,</word>
+        <word pos="PNP">It</word>
+        <word pos="VVZ">prevents</word>
+        <word pos="DT0">some</word>
+        <word pos="NN2">diseases</word>
+        <word pos="NN1">example</word>
+        <word pos="NN1">diabetes</word>
+        <word pos="PUN">,</word>
+        <word pos="NN1">pressure</word>
+        <word pos="NN1">disease</word>
+        <word pos="AV0">etc</word>
+        <word pos="PUN">.</word>
+        <word pos="PNP">you</word>
+        <word pos="VM0">must</word>
+        <word pos="VVI">realize</word>
+        <word pos="NN1">importance</word>
+        <word pos="AJ0">healthy</word>
+        <word pos="NN1">food</word>
+        <word pos="PRP">in</word>
+        <word pos="DPS">our</word>
+        <word pos="NN1">life</word>
+        <word pos="PUN">.</word>
+        </body>
+      </text>
+    </corpus>
+  </root>

@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <corpus>
+    <text>
+      <metadata>
+        <Faculty>Human Sciences</Faculty>
+        <Semester>1</Semester>
+        <Age>19</Age>
+        <Time_spent_at_an_EnglishSpeaking_country>3 months</Time_spent_at_an_EnglishSpeaking_country>
+        <Topic>family</Topic>
+        <Title>family</Title>
+        </metadata>
+      <body>
+        <word pos="DPS">My</word>
+        <word pos="NN1">family</word>
+        <word pos="VBZ">is</word>
+        <word pos="PNP">it</word>
+        <word pos="CRD">two</word>
+        <word pos="NN2">brothers</word>
+        <word pos="CJC">and</word>
+        <word pos="CRD">five</word>
+        <word pos="NN1">sister</word>
+        <word pos="NN2">names</word>
+        <word pos="PUN">:</word>
+        <word pos="NN2">brothers</word>
+        <word pos="NP0">Mahmed</word>
+        <word pos="CJC">and</word>
+        <word pos="NP0">Ali</word>
+        <word pos="PUN">.</word>
+        <word pos="NN1">Sister</word>
+        <word pos="NN2">names</word>
+        <word pos="PUN">:</word>
+        <word pos="NP0">Alaa</word>
+        <word pos="PUN">,</word>
+        <word pos="NP0">Asma</word>
+        <word pos="PUN">,</word>
+        <word pos="NP0">Abrar</word>
+        <word pos="PUN">,</word>
+        <word pos="NP0">Emtenan</word>
+        <word pos="PUN">.</word>
+        <word pos="AT0">The</word>
+        <word pos="NN1">dad</word>
+        <word pos="PUN">:</word>
+        <word pos="NP0">Fraj</word>
+        <word pos="PUN">.</word>
+        <word pos="AT0">The</word>
+        <word pos="NN1">mum</word>
+        <word pos="PUN">:</word>
+        <word pos="NP0">Amna</word>
+        <word pos="PUN">.</word>
+        <word pos="PNP">I</word>
+        <word pos="VBB">am</word>
+        <word pos="PRP">from</word>
+        <word pos="NP0">Libya</word>
+        <word pos="NN1">City</word>
+        <word pos="NP0">Zliten</word>
+        <word pos="PNP">I</word>
+        <word pos="NN1">life</word>
+        <word pos="NN1">misrata</word>
+        <word pos="NN1">Job</word>
+        <word pos="DPS">my</word>
+        <word pos="NN1">dad</word>
+        <word pos="NN1">hospital</word>
+        <word pos="NN1">Job</word>
+        <word pos="DPS">my</word>
+        <word pos="NN1">mum</word>
+        <word pos="NN1">shef</word>
+        <word pos="PNP">I</word>
+        <word pos="NN1">life</word>
+        <word pos="NN1">sport</word>
+        <word pos="CJC">and</word>
+        <word pos="NN1">music</word>
+        <word pos="PUN">,</word>
+        <word pos="CJC">and</word>
+        <word pos="NN2">games</word>
+        <word pos="PUN">,</word>
+        <word pos="CJC">and</word>
+        <word pos="VVB">read</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">book</word>
+        <word pos="PUN">,</word>
+        <word pos="VVG">listening</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">radio</word>
+        <word pos="PUN">.</word>
+        </body>
+      </text>
+    </corpus>
+  </root>

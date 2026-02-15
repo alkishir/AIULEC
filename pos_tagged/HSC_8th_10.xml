@@ -1,0 +1,122 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <corpus>
+    <text>
+      <metadata>
+        <Faculty>Human Sciences</Faculty>
+        <Semester>8</Semester>
+        <Age>23</Age>
+        <Time_spent_at_an_EnglishSpeaking_country>X</Time_spent_at_an_EnglishSpeaking_country>
+        <Topic>What do you think of climate change and how can we deal with it?</Topic>
+        <Title>Climate Change</Title>
+        </metadata>
+      <body>
+        <word pos="AT0">The</word>
+        <word pos="NN1">world</word>
+        <word pos="AV0">today</word>
+        <word pos="VVZ">becomes</word>
+        <word pos="AV0">more</word>
+        <word pos="AJ0">modern</word>
+        <word pos="CJC">but</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">climate</word>
+        <word pos="NN2">changes</word>
+        <word pos="PRP">in</word>
+        <word pos="AT0">the</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">world</word>
+        <word pos="CJT">that</word>
+        <word pos="VM0">can</word>
+        <word pos="XX0">not</word>
+        <word pos="VVI">suggest</word>
+        <word pos="PNP">it</word>
+        <word pos="NN1">climate</word>
+        <word pos="NN2">changes</word>
+        <word pos="AV0">today</word>
+        <word pos="VBZ">is</word>
+        <word pos="AJ0">quick</word>
+        <word pos="CJC">and</word>
+        <word pos="AJ0">sudden</word>
+        <word pos="CJC">and</word>
+        <word pos="DPS">its</word>
+        <word pos="NN2">effects</word>
+        <word pos="PRP">in</word>
+        <word pos="AJ0">negative</word>
+        <word pos="NN1">way</word>
+        <word pos="PRP">in</word>
+        <word pos="NN2">humans</word>
+        <word pos="NN1">life</word>
+        <word pos="PUN">.</word>
+        <word pos="AT0">A</word>
+        <word pos="CRD">thousands</word>
+        <word pos="PRF">of</word>
+        <word pos="NN0">people</word>
+        <word pos="VVB">die</word>
+        <word pos="CJC">and</word>
+        <word pos="VVD">lost</word>
+        <word pos="DPS">their</word>
+        <word pos="NN2">souls</word>
+        <word pos="CJT">that</word>
+        <word pos="NN1">climate</word>
+        <word pos="NN2">changes</word>
+        <word pos="PUN">.</word>
+        <word pos="AT0">the</word>
+        <word pos="AJ0">whole</word>
+        <word pos="NN1">world</word>
+        <word pos="VBZ">is</word>
+        <word pos="VVG">thinking</word>
+        <word pos="PRP">about</word>
+        <word pos="NN1">disadvantage</word>
+        <word pos="PRF">of</word>
+        <word pos="NN1">climate</word>
+        <word pos="NN1">change</word>
+        <word pos="PUN">.</word>
+        <word pos="PRP">In</word>
+        <word pos="NP0">Libya</word>
+        <word pos="PUN">,</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">storm</word>
+        <word pos="VVZ">causes</word>
+        <word pos="DT0">many</word>
+        <word pos="NN2">pains</word>
+        <word pos="PRF">of</word>
+        <word pos="DT0">that</word>
+        <word pos="NN1">country</word>
+        <word pos="PUN">.</word>
+        <word pos="NP0">Daniel</word>
+        <word pos="NN1">storm</word>
+        <word pos="VBZ">is</word>
+        <word pos="AT0">the</word>
+        <word pos="AJS">worst</word>
+        <word pos="NN1">thing</word>
+        <word pos="VVZ">happens</word>
+        <word pos="PRP">in</word>
+        <word pos="DPS">our</word>
+        <word pos="NN1">country</word>
+        <word pos="CJT">that</word>
+        <word pos="PNP">it</word>
+        <word pos="VVB">cause</word>
+        <word pos="VVI">delete</word>
+        <word pos="PRF">of</word>
+        <word pos="NN2">homes</word>
+        <word pos="CJC">and</word>
+        <word pos="VVD">killed</word>
+        <word pos="AT0">a</word>
+        <word pos="NN1">number</word>
+        <word pos="PRF">of</word>
+        <word pos="NN0">people</word>
+        <word pos="PUN">,</word>
+        <word pos="AV0">actually</word>
+        <word pos="DPS">its</word>
+        <word pos="AT0">a</word>
+        <word pos="AJ0">big</word>
+        <word pos="NN1">number</word>
+        <word pos="PRF">of</word>
+        <word pos="NN0">people</word>
+        <word pos="VBB">are</word>
+        <word pos="VVN">died</word>
+        <word pos="PUN">.</word>
+        </body>
+      </text>
+    </corpus>
+  </root>

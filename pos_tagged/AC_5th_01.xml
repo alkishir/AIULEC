@@ -1,0 +1,148 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <corpus>
+    <text>
+      <metadata>
+        <Faculty>Arts</Faculty>
+        <Semester>5</Semester>
+        <Age>23</Age>
+        <Time_spent_at_an_EnglishSpeaking_country>X</Time_spent_at_an_EnglishSpeaking_country>
+        <Topic>Your Favorite Book</Topic>
+        <Title>My Favourt Book</Title>
+        </metadata>
+      <body>
+        <word pos="DPS">My</word>
+        <word pos="AJ0">favorite</word>
+        <word pos="NN1">book</word>
+        <word pos="PNP">I</word>
+        <word pos="VVD">Missed</word>
+        <word pos="NN1">Prayer</word>
+        <word pos="PRP">by</word>
+        <word pos="NP0">Dr</word>
+        <word pos="NP0">Ayed</word>
+        <word pos="NP0">Al-Qarni</word>
+        <word pos="PUN">,</word>
+        <word pos="VBZ">is</word>
+        <word pos="CRD">one</word>
+        <word pos="PRF">of</word>
+        <word pos="AT0">the</word>
+        <word pos="NN2">books</word>
+        <word pos="CJT">that</word>
+        <word pos="VHZ">has</word>
+        <word pos="AT0">a</word>
+        <word pos="AJ0">deep</word>
+        <word pos="AJ0">spiritual</word>
+        <word pos="NN1">nature</word>
+        <word pos="PUN">,</word>
+        <word pos="CJS">as</word>
+        <word pos="PNP">it</word>
+        <word pos="VVZ">deals</word>
+        <word pos="PRP">with</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">topic</word>
+        <word pos="PRF">of</word>
+        <word pos="AT0">the</word>
+        <word pos="AJ0">important</word>
+        <word pos="PRF">of</word>
+        <word pos="NN1">prayer</word>
+        <word pos="PRP">in</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">life</word>
+        <word pos="PRF">of</word>
+        <word pos="NN1">muslim</word>
+        <word pos="CJC">and</word>
+        <word pos="DPS">its</word>
+        <word pos="NN1">impact</word>
+        <word pos="PRP">on</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">soul</word>
+        <word pos="PRP">through</word>
+        <word pos="PNP">it</word>
+        <word pos="PUN">,</word>
+        <word pos="AT0">the</word>
+        <word pos="AJ0">other</word>
+        <word pos="AJ0">present</word>
+        <word pos="AJ0">personal</word>
+        <word pos="NN2">experiences</word>
+        <word pos="PRP">about</word>
+        <word pos="NN0">people</word>
+        <word pos="PNQ">who</word>
+        <word pos="VVD">lost</word>
+        <word pos="NN1">prayer</word>
+        <word pos="CJC">and</word>
+        <word pos="AVQ">how</word>
+        <word pos="DT0">this</word>
+        <word pos="VVD">affected</word>
+        <word pos="DPS">their</word>
+        <word pos="NN2">lives</word>
+        <word pos="PUN">.</word>
+        <word pos="AT0">The</word>
+        <word pos="NN1">book</word>
+        <word pos="VVZ">calls</word>
+        <word pos="PRP">for</word>
+        <word pos="AT0">a</word>
+        <word pos="NN1">return</word>
+        <word pos="PRP">to</word>
+        <word pos="NP0">Allah</word>
+        <word pos="CJC">and</word>
+        <word pos="NN1">attention</word>
+        <word pos="PRP">to</word>
+        <word pos="NN1">prayer</word>
+        <word pos="PRP">as</word>
+        <word pos="AT0">a</word>
+        <word pos="AJ0">basic</word>
+        <word pos="NN1">pillar</word>
+        <word pos="PRP">in</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">life</word>
+        <word pos="PRF">of</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">believer</word>
+        <word pos="PUN">,</word>
+        <word pos="CJC">and</word>
+        <word pos="VVZ">encourages</word>
+        <word pos="AT0">a</word>
+        <word pos="NN1">sense</word>
+        <word pos="PRF">of</word>
+        <word pos="NN1">reverence</word>
+        <word pos="CJC">and</word>
+        <word pos="NN1">communication</word>
+        <word pos="PRP">with</word>
+        <word pos="NP0">Allah</word>
+        <word pos="PRP">at</word>
+        <word pos="DT0">all</word>
+        <word pos="NN1">time</word>
+        <word pos="PUN">.</word>
+        <word pos="PNP">I</word>
+        <word pos="VVD">Missed</word>
+        <word pos="NN1">Prayer</word>
+        <word pos="VBZ">is</word>
+        <word pos="XX0">not</word>
+        <word pos="AV0">just</word>
+        <word pos="AT0">a</word>
+        <word pos="NN1">book</word>
+        <word pos="PRP">about</word>
+        <word pos="NN1">prayer</word>
+        <word pos="PUN">,</word>
+        <word pos="CJC">but</word>
+        <word pos="AV0">rather</word>
+        <word pos="AT0">a</word>
+        <word pos="NN1">call</word>
+        <word pos="PRP">for</word>
+        <word pos="NN1">reflection</word>
+        <word pos="CJC">and</word>
+        <word pos="AJ0">positive</word>
+        <word pos="NN1">change</word>
+        <word pos="PRP">in</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">life</word>
+        <word pos="PRF">of</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">individual</word>
+        <word pos="CJC">and</word>
+        <word pos="NN1">society</word>
+        <word pos="PUN">.</word>
+        </body>
+      </text>
+    </corpus>
+  </root>

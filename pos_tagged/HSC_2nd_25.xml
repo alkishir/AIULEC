@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <corpus>
+    <text>
+      <metadata>
+        <Faculty>Human Sciences</Faculty>
+        <Semester>2</Semester>
+        <Age>none</Age>
+        <Time_spent_at_an_EnglishSpeaking_country>X</Time_spent_at_an_EnglishSpeaking_country>
+        <Topic>A special place</Topic>
+        <Title>My room</Title>
+        </metadata>
+      <body>
+        <word pos="DPS">My</word>
+        <word pos="NN1">room</word>
+        <word pos="VBZ">is</word>
+        <word pos="AT0">a</word>
+        <word pos="AJ0">special</word>
+        <word pos="NN1">place</word>
+        <word pos="PUN">.</word>
+        <word pos="PNP">I</word>
+        <word pos="VVB">stay</word>
+        <word pos="AT0">a</word>
+        <word pos="NN1">lot</word>
+        <word pos="PRF">of</word>
+        <word pos="NN1">time</word>
+        <word pos="PRP">in</word>
+        <word pos="PNP">it</word>
+        <word pos="PRP">without</word>
+        <word pos="NN1">noise</word>
+        <word pos="PUN">,</word>
+        <word pos="CJC">and</word>
+        <word pos="PNP">I</word>
+        <word pos="VVB">love</word>
+        <word pos="VVG">watching</word>
+        <word pos="NN1">TV</word>
+        <word pos="CJC">and</word>
+        <word pos="VVG">studying</word>
+        <word pos="PUN">.</word>
+        <word pos="CJS">When</word>
+        <word pos="PNP">I</word>
+        <word pos="VVD">watched</word>
+        <word pos="NN1">TV</word>
+        <word pos="CJC">and</word>
+        <word pos="VVB">drink</word>
+        <word pos="AT0">a</word>
+        <word pos="NN1">cup</word>
+        <word pos="PRF">of</word>
+        <word pos="NN1">coffee</word>
+        <word pos="PUN">.</word>
+        </body>
+      </text>
+    </corpus>
+  </root>

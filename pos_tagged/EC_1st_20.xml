@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <corpus>
+    <text>
+      <metadata>
+        <Faculty>Education</Faculty>
+        <Semester>1</Semester>
+        <Age>19</Age>
+        <Time_spent_at_an_EnglishSpeaking_country>X</Time_spent_at_an_EnglishSpeaking_country>
+        <Topic>My Family</Topic>
+        <Title>My family</Title>
+        </metadata>
+      <body>
+        <word pos="DPS">My</word>
+        <word pos="NN1">name</word>
+        <word pos="VBZ">is</word>
+        <word pos="NP0">Maryam</word>
+        <word pos="PUN">,</word>
+        <word pos="PNP">I</word>
+        <word pos="VBB">am</word>
+        <word pos="PRP">from</word>
+        <word pos="NP0">Bani</word>
+        <word pos="NP0">Walid</word>
+        <word pos="PUN">,</word>
+        <word pos="PNP">I</word>
+        <word pos="VVB">live</word>
+        <word pos="PRP">in</word>
+        <word pos="NP0">Zliten</word>
+        <word pos="PUN">,</word>
+        <word pos="NP0">Libya</word>
+        <word pos="PUN">.</word>
+        <word pos="PNP">I</word>
+        <word pos="VHB">have</word>
+        <word pos="CRD">4</word>
+        <word pos="NN2">brothers</word>
+        <word pos="CJC">and</word>
+        <word pos="CRD">3</word>
+        <word pos="NN2">sisters</word>
+        <word pos="PUN">.</word>
+        <word pos="DPS">My</word>
+        <word pos="AJ0">old</word>
+        <word pos="NN1">brother</word>
+        <word pos="VBZ">is</word>
+        <word pos="AJ0">married</word>
+        <word pos="CJC">and</word>
+        <word pos="VHZ">has</word>
+        <word pos="CRD">2</word>
+        <word pos="NN2">daughters</word>
+        <word pos="PUN">.</word>
+        <word pos="DPS">My</word>
+        <word pos="NN1">father</word>
+        <word pos="VVZ">works</word>
+        <word pos="PRP">in</word>
+        <word pos="NN1">teaching</word>
+        <word pos="PUN">.</word>
+        <word pos="DPS">My</word>
+        <word pos="NN1">mother</word>
+        <word pos="VBZ">is</word>
+        <word pos="NN1">housewife</word>
+        <word pos="PRP">with</word>
+        <word pos="AT0">no</word>
+        <word pos="NN1">degree</word>
+        <word pos="PUN">.</word>
+        </body>
+      </text>
+    </corpus>
+  </root>

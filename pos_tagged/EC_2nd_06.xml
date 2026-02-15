@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <corpus>
+    <text>
+      <metadata>
+        <Faculty>Education</Faculty>
+        <Semester>2</Semester>
+        <Age>18</Age>
+        <Time_spent_at_an_EnglishSpeaking_country>none</Time_spent_at_an_EnglishSpeaking_country>
+        <Topic>Visiting a Zoo</Topic>
+        <Title>visited a zoo</Title>
+        </metadata>
+      <body>
+        <word pos="PNP">I</word>
+        <word pos="VVD">visited</word>
+        <word pos="AT0">a</word>
+        <word pos="NN1">zoo</word>
+        <word pos="PRP">with</word>
+        <word pos="DPS">my</word>
+        <word pos="NN2">friends</word>
+        <word pos="NP0">Nadia</word>
+        <word pos="CJC">and</word>
+        <word pos="NP0">Khawla</word>
+        <word pos="ORD">last</word>
+        <word pos="NN1">year</word>
+        <word pos="PUN">.</word>
+        <word pos="PNP">We</word>
+        <word pos="VVN">seen</word>
+        <word pos="AT0">a</word>
+        <word pos="NN2">kangaroos</word>
+        <word pos="PUN">,</word>
+        <word pos="NN2">bears</word>
+        <word pos="PUN">,</word>
+        <word pos="NN1">camel</word>
+        <word pos="PUN">.</word>
+        <word pos="PNP">It</word>
+        <word pos="VBD">was</word>
+        <word pos="AT0">a</word>
+        <word pos="AJ0">huge</word>
+        <word pos="NN1">zoo</word>
+        <word pos="PUN">,</word>
+        <word pos="CJC">and</word>
+        <word pos="EX0">there</word>
+        <word pos="VBB">are</word>
+        <word pos="DT0">many</word>
+        <word pos="NN2">types</word>
+        <word pos="PRP">from</word>
+        <word pos="NN2">animals</word>
+        <word pos="PUN">,</word>
+        <word pos="CJC">but</word>
+        <word pos="PNP">we</word>
+        <word pos="VM0">ca</word>
+        <word pos="XX0">n't</word>
+        <word pos="VVN">seen</word>
+        <word pos="DT0">all</word>
+        <word pos="AT0">the</word>
+        <word pos="NN2">animals</word>
+        <word pos="AV0">there</word>
+        <word pos="CJS">because</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">time</word>
+        <word pos="VBD">was</word>
+        <word pos="XX0">n't</word>
+        <word pos="AV0">enough</word>
+        <word pos="PUN">.</word>
+        <word pos="PNP">we</word>
+        <word pos="VHD">had</word>
+        <word pos="AT0">a</word>
+        <word pos="AV0">very</word>
+        <word pos="AJ0">good</word>
+        <word pos="NN1">time</word>
+        <word pos="PUN">,</word>
+        <word pos="CJS">so</word>
+        <word pos="PNP">we</word>
+        <word pos="VM0">will</word>
+        <word pos="VVI">visit</word>
+        <word pos="PNP">it</word>
+        <word pos="AV0">again</word>
+        <word pos="PUN">.</word>
+        </body>
+      </text>
+    </corpus>
+  </root>

@@ -1,0 +1,104 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <corpus>
+    <text>
+      <metadata>
+        <Faculty>Human Sciences</Faculty>
+        <Semester>3</Semester>
+        <Age>25</Age>
+        <Time_spent_at_an_EnglishSpeaking_country>X</Time_spent_at_an_EnglishSpeaking_country>
+        <Topic>Sport</Topic>
+        <Title>Sports</Title>
+        </metadata>
+      <body>
+        <word pos="NN2">Sports</word>
+        <word pos="VBB">are</word>
+        <word pos="AV0">very</word>
+        <word pos="AJ0">important</word>
+        <word pos="PRP">for</word>
+        <word pos="AJ0">healthy</word>
+        <word pos="NN1">life</word>
+        <word pos="PUN">,</word>
+        <word pos="NN2">sports</word>
+        <word pos="VVB">get</word>
+        <word pos="PNP">you</word>
+        <word pos="NN1">health</word>
+        <word pos="AV0">better</word>
+        <word pos="PUN">,</word>
+        <word pos="VVB">make</word>
+        <word pos="PNP">you</word>
+        <word pos="AJ0">happy</word>
+        <word pos="CJC">and</word>
+        <word pos="DT0">more</word>
+        <word pos="NN1">activity</word>
+        <word pos="PUN">,</word>
+        <word pos="PNP">it</word>
+        <word pos="VVB">make</word>
+        <word pos="DPS">your</word>
+        <word pos="NN1">brain</word>
+        <word pos="DT0">more</word>
+        <word pos="NN1">activity</word>
+        <word pos="CJC">and</word>
+        <word pos="DPS">your</word>
+        <word pos="NN1">heart</word>
+        <word pos="PRP">with</word>
+        <word pos="AJ0">good</word>
+        <word pos="NN1">health</word>
+        <word pos="PUN">,</word>
+        <word pos="NN2">sports</word>
+        <word pos="AV0">very</word>
+        <word pos="AJ0">important</word>
+        <word pos="PRP">for</word>
+        <word pos="PNP">you</word>
+        <word pos="CJS">if</word>
+        <word pos="PNP">you</word>
+        <word pos="VVB">want</word>
+        <word pos="TO0">to</word>
+        <word pos="VVI">get</word>
+        <word pos="AJ0">healthy</word>
+        <word pos="NN1">life</word>
+        <word pos="PUN">.</word>
+        <word pos="PNP">you</word>
+        <word pos="VM0">must</word>
+        <word pos="VVI">play</word>
+        <word pos="NN1">sport</word>
+        <word pos="AV0">at</word>
+        <word pos="AV0">least</word>
+        <word pos="CRD">five</word>
+        <word pos="NN2">hours</word>
+        <word pos="PRP">in</word>
+        <word pos="AT0">a</word>
+        <word pos="AJ0">weak</word>
+        <word pos="PUN">,</word>
+        <word pos="CJS">If</word>
+        <word pos="PNP">you</word>
+        <word pos="AV0">always</word>
+        <word pos="VVB">play</word>
+        <word pos="NN1">sport</word>
+        <word pos="VVB">make</word>
+        <word pos="PNP">you</word>
+        <word pos="DT0">more</word>
+        <word pos="NN1">activity</word>
+        <word pos="PUN">,</word>
+        <word pos="CJC">and</word>
+        <word pos="DPS">your</word>
+        <word pos="NN1">skin</word>
+        <word pos="AJC">younger</word>
+        <word pos="PUN">,</word>
+        <word pos="CJC">and</word>
+        <word pos="VVB">help</word>
+        <word pos="PNP">you</word>
+        <word pos="TO0">to</word>
+        <word pos="AV0">less</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">cholesterol</word>
+        <word pos="CJC">and</word>
+        <word pos="NN1">sugar</word>
+        <word pos="PRP">in</word>
+        <word pos="DPS">your</word>
+        <word pos="NN1">blood</word>
+        <word pos="PUN">,</word>
+        </body>
+      </text>
+    </corpus>
+  </root>

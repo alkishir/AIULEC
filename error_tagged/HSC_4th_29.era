@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<file name="" tagset="uclee-en-2.0.tag">
+Title: <FS corr="Sam and the Dog">sam and the dog</FS> 
+
+<LCLC corr="One day">Sameday</LCLC><QM corr=",">\0</QM> there <GVT corr="was">is</GVT> <GA corr="a">\0</GA>dog playing in the park<QM corr=".">\0</QM> There <GVT corr="was">is</GVT> a little <Z corr="boy?">born</Z> <GPR corr="whose">\0</GPR>name <GVT corr="was">is</GVT> <FS corr="Sam">sam</FS> <LCC corr="with">and</LCC> his friends<QM corr=".">\0</QM> The dog was playing alone<QM corr=",">\0</QM> so <FS corr="Sam">sam</FS> <GVT corr="took"><GVN corr="takes">take</GVN></GVT> it <WR corr="0">a dog</WR> with him <LSPR corr="to">in</LSPR> the house and<XVPR corr="took care of"> <GVT corr="took">take</GVT> care for</XVPR> it through building a dog house and <GVT corr="gave">give</GVT> it <GA corr="0">a</GA> good food.
+</file>

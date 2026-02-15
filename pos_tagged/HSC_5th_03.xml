@@ -1,0 +1,106 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <corpus>
+    <text>
+      <metadata>
+        <Faculty>Human Sciences</Faculty>
+        <Semester>5</Semester>
+        <Age>21</Age>
+        <Time_spent_at_an_EnglishSpeaking_country>X</Time_spent_at_an_EnglishSpeaking_country>
+        <Topic>Good teachers</Topic>
+        <Title>good thitcher</Title>
+        </metadata>
+      <body>
+        <word pos="PNP">I</word>
+        <word pos="VVB">think</word>
+        <word pos="AJ0">good</word>
+        <word pos="NN1">teacher</word>
+        <word pos="AVQ">when</word>
+        <word pos="VBZ">is</word>
+        <word pos="DT0">this</word>
+        <word pos="NN1">person</word>
+        <word pos="AT0">no</word>
+        <word pos="AV0">just</word>
+        <word pos="NN1">success</word>
+        <word pos="PUN">,</word>
+        <word pos="CJS">while</word>
+        <word pos="VBI">be</word>
+        <word pos="AJ0">smart</word>
+        <word pos="CJC">and</word>
+        <word pos="AJ0">fluffy</word>
+        <word pos="CJC">and</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">ship</word>
+        <word pos="PRP">between</word>
+        <word pos="NN1">teacher</word>
+        <word pos="CJC">and</word>
+        <word pos="NN1">student</word>
+        <word pos="VBZ">is</word>
+        <word pos="AJ0">near</word>
+        <word pos="CJC">and</word>
+        <word pos="AJ0">good</word>
+        <word pos="CJC">and</word>
+        <word pos="AJ0">good</word>
+        <word pos="NN1">teacher</word>
+        <word pos="CJS">while</word>
+        <word pos="VBI">be</word>
+        <word pos="NN1">talk</word>
+        <word pos="PRP">with</word>
+        <word pos="NN1">student</word>
+        <word pos="PRP">about</word>
+        <word pos="AVQ">how</word>
+        <word pos="AJ0">good</word>
+        <word pos="NN1">learning</word>
+        <word pos="CJC">and</word>
+        <word pos="AVQ">how</word>
+        <word pos="AJ0">strong</word>
+        <word pos="NN1">student</word>
+        <word pos="CJC">and</word>
+        <word pos="VVB">help</word>
+        <word pos="NN1">student</word>
+        <word pos="PRP">in</word>
+        <word pos="DT0">any</word>
+        <word pos="NN1">problem</word>
+        <word pos="PRP">in</word>
+        <word pos="NN1">class</word>
+        <word pos="CJC">and</word>
+        <word pos="PNP">I</word>
+        <word pos="VVB">think</word>
+        <word pos="AJ0">good</word>
+        <word pos="NN1">teacher</word>
+        <word pos="CJS">while</word>
+        <word pos="VBI">be</word>
+        <word pos="VHB">have</word>
+        <word pos="AT0">a</word>
+        <word pos="NN1">lot</word>
+        <word pos="PRF">of</word>
+        <word pos="NN1">technique</word>
+        <word pos="CJC">and</word>
+        <word pos="AT0">a</word>
+        <word pos="NN1">lot</word>
+        <word pos="NN1">strategy</word>
+        <word pos="TO0">to</word>
+        <word pos="NN1">communication</word>
+        <word pos="NN1">whit</word>
+        <word pos="NN1">student</word>
+        <word pos="CJC">and</word>
+        <word pos="CJS">while</word>
+        <word pos="VBI">be</word>
+        <word pos="VHB">have</word>
+        <word pos="AT0">a</word>
+        <word pos="NN1">lot</word>
+        <word pos="PRF">of</word>
+        <word pos="NN1">system</word>
+        <word pos="CJC">and</word>
+        <word pos="AJ0">other</word>
+        <word pos="TO0">to</word>
+        <word pos="VVI">check</word>
+        <word pos="TO0">to</word>
+        <word pos="VVI">understand</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">student</word>
+        <word pos="PUN">.</word>
+        </body>
+      </text>
+    </corpus>
+  </root>

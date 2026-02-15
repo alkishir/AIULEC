@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <corpus>
+    <text>
+      <metadata>
+        <Faculty>Human Sciences</Faculty>
+        <Semester>7</Semester>
+        <Age>22</Age>
+        <Time_spent_at_an_EnglishSpeaking_country>X</Time_spent_at_an_EnglishSpeaking_country>
+        <Topic>Some people feel that legal age at which people can marry should be at least 21. To what extent do you agree or disagree?</Topic>
+        <Title>some people feel that the legal ege at least 21</Title>
+        </metadata>
+      <body>
+        <word pos="PRP">In</word>
+        <word pos="DPS">my</word>
+        <word pos="NN1">opinion</word>
+        <word pos="AT0">the</word>
+        <word pos="AJ0">legal</word>
+        <word pos="NN1">age</word>
+        <word pos="PRP">at</word>
+        <word pos="DTQ">which</word>
+        <word pos="NN0">people</word>
+        <word pos="VM0">can</word>
+        <word pos="VVI">marry</word>
+        <word pos="VBZ">is</word>
+        <word pos="AJ0">different</word>
+        <word pos="PRP">to</word>
+        <word pos="NN2">men</word>
+        <word pos="CJC">and</word>
+        <word pos="NN2">women</word>
+        <word pos="PUN">.</word>
+        <word pos="PNP">I</word>
+        <word pos="VVB">see</word>
+        <word pos="CJT">that</word>
+        <word pos="AT0">the</word>
+        <word pos="AJS">best</word>
+        <word pos="NN1">age</word>
+        <word pos="PRP">for</word>
+        <word pos="NN2">men</word>
+        <word pos="PRP">to</word>
+        <word pos="NN1">marriage</word>
+        <word pos="VBZ">is</word>
+        <word pos="PRP">between</word>
+        <word pos="CRD">25-30</word>
+        <word pos="CJS">because</word>
+        <word pos="PNP">I</word>
+        <word pos="VVB">think</word>
+        <word pos="AT0">the</word>
+        <word pos="NN2">men</word>
+        <word pos="VBI">be</word>
+        <word pos="DT0">more</word>
+        <word pos="NN1">awareness</word>
+        <word pos="PRP">in</word>
+        <word pos="DT0">this</word>
+        <word pos="NN1">age</word>
+        <word pos="PUN">,</word>
+        <word pos="CJC">and</word>
+        <word pos="AT0">the</word>
+        <word pos="AJS">best</word>
+        <word pos="NN1">age</word>
+        <word pos="PRP">for</word>
+        <word pos="NN2">women</word>
+        <word pos="PRP">to</word>
+        <word pos="NN1">marriage</word>
+        <word pos="VM0">can</word>
+        <word pos="VBI">be</word>
+        <word pos="PRP">between</word>
+        <word pos="CRD">20-30</word>
+        <word pos="CJS">because</word>
+        <word pos="PNP">I</word>
+        <word pos="VVB">think</word>
+        <word pos="CJT">that</word>
+        <word pos="AT0">the</word>
+        <word pos="NN2">women</word>
+        <word pos="VBI">be</word>
+        <word pos="AV0">more</word>
+        <word pos="VVB">strengthen</word>
+        <word pos="TO0">to</word>
+        <word pos="VVI">face</word>
+        <word pos="NN1">life</word>
+        <word pos="NN2">problems</word>
+        <word pos="CJC">and</word>
+        <word pos="DT0">more</word>
+        <word pos="NN1">awareness</word>
+        <word pos="TO0">to</word>
+        <word pos="VBI">be</word>
+        <word pos="NN1">mother</word>
+        <word pos="PUN">.</word>
+        </body>
+      </text>
+    </corpus>
+  </root>

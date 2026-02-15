@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<file name="" tagset="uclee-en-2.0.tag">
+Title: Climate Change 
+
+<GA corr="0">The</GA> climate is <GA corr="an">a</GA> important element <LSPR corr="in">to</LSPR> our <GNN corr="lives">life</GNN>, so <LCS corr="0">when</LCS> climate <GNN corr="change">changes</GNN> <GVN corr="impacts"><XVPR corr="impact">impact on</XVPR></GVN> people in <GDI corr="all countries">any country</GDI>. 
+
+<GA corr="0">The</GA> people don’t like <GADJO corr="weather change">change weather</GADJO> during specific seasons<QC corr=";">,</QC> for example<QM corr=",">\0</QM> summer is sometimes very hot, so they go to <GA corr="the">\0</GA>beach to <GWC corr="enjoy">interesting</GWC> <WR corr="0">by</WR><GA corr="the">\0</GA> time on it because <GPP corr="it">\0</GPP>is colder than at <LSN corr="home">house</LSN>. 
+
+Finally, <GA corr="0">the</GA> climate is necessary to know about <GPP corr="0">it</GPP> to take <Z corr="?">prudence</Z> when weather changes.
+</file>

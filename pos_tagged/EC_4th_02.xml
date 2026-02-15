@@ -1,0 +1,154 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <corpus>
+    <text>
+      <metadata>
+        <Faculty>Education</Faculty>
+        <Semester>4</Semester>
+        <Age>29</Age>
+        <Time_spent_at_an_EnglishSpeaking_country>X</Time_spent_at_an_EnglishSpeaking_country>
+        <Topic>My Beginning in English</Topic>
+        <Title>My Beginning in English</Title>
+        </metadata>
+      <body>
+        <word pos="PNP">I</word>
+        <word pos="VHB">have</word>
+        <word pos="VVN">started</word>
+        <word pos="PRP">in</word>
+        <word pos="NN1">English</word>
+        <word pos="CJS">when</word>
+        <word pos="PNP">I</word>
+        <word pos="VBD">was</word>
+        <word pos="CRD">fifteen</word>
+        <word pos="PRP">by</word>
+        <word pos="VVG">watching</word>
+        <word pos="NN1">TV</word>
+        <word pos="AV0">a</word>
+        <word pos="AV0">lot</word>
+        <word pos="PUN">,</word>
+        <word pos="AV0">Especially</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">cartoon</word>
+        <word pos="NN2">movies</word>
+        <word pos="DT0">those</word>
+        <word pos="VVN">shown</word>
+        <word pos="PRP">on</word>
+        <word pos="NN1">TV</word>
+        <word pos="NN2">channels</word>
+        <word pos="PUN">,</word>
+        <word pos="AV0">In</word>
+        <word pos="AV0">addition</word>
+        <word pos="EX0">There</word>
+        <word pos="VBZ">is</word>
+        <word pos="AT0">an</word>
+        <word pos="NN1">environment</word>
+        <word pos="VVI">surround</word>
+        <word pos="PNP">me</word>
+        <word pos="PRP">like</word>
+        <word pos="DPS">my</word>
+        <word pos="NN1">father</word>
+        <word pos="VBZ">is</word>
+        <word pos="AT0">an</word>
+        <word pos="NN1">architect</word>
+        <word pos="VVZ">works</word>
+        <word pos="PRP">with</word>
+        <word pos="NN2">foreigners</word>
+        <word pos="CJS">when</word>
+        <word pos="PNP">he</word>
+        <word pos="VVZ">calls</word>
+        <word pos="PRP">to</word>
+        <word pos="PNP">them</word>
+        <word pos="PRP">on</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">phone</word>
+        <word pos="PNP">I</word>
+        <word pos="VVB">listen</word>
+        <word pos="PRP">to</word>
+        <word pos="PNP">him</word>
+        <word pos="AV0">carefully</word>
+        <word pos="CJC">but</word>
+        <word pos="AT0">the</word>
+        <word pos="AJ0">main</word>
+        <word pos="NN1">reason</word>
+        <word pos="VVB">make</word>
+        <word pos="PNP">me</word>
+        <word pos="AJ0">good</word>
+        <word pos="PRP">in</word>
+        <word pos="NN1">English</word>
+        <word pos="VBZ">is</word>
+        <word pos="AJ0">English-speaking</word>
+        <word pos="NN1">animation</word>
+        <word pos="PUN">,</word>
+        <word pos="AV0">Moreover</word>
+        <word pos="VVG">practicing</word>
+        <word pos="PRP">with</word>
+        <word pos="PNI">anyone</word>
+        <word pos="VVZ">speaks</word>
+        <word pos="NN1">English</word>
+        <word pos="PUN">,</word>
+        <word pos="AV0">For</word>
+        <word pos="AV0">instance</word>
+        <word pos="DPS">My</word>
+        <word pos="NN1">uncle</word>
+        <word pos="POS">'s</word>
+        <word pos="NN1">wife</word>
+        <word pos="PNP">she</word>
+        <word pos="VBZ">is</word>
+        <word pos="AJ0">British</word>
+        <word pos="PUN">.</word>
+        <word pos="AV0">So</word>
+        <word pos="AT0">the</word>
+        <word pos="AJ0">main</word>
+        <word pos="NN1">cause</word>
+        <word pos="CJC">and</word>
+        <word pos="NN1">influence</word>
+        <word pos="VBZ">is</word>
+        <word pos="VVG">practicing</word>
+        <word pos="PRP">in</word>
+        <word pos="AJ0">everyday</word>
+        <word pos="NN1">life</word>
+        <word pos="PUN">,</word>
+        <word pos="PNP">I</word>
+        <word pos="VVB">think</word>
+        <word pos="DPS">its</word>
+        <word pos="AV0">very</word>
+        <word pos="AJ0">effective</word>
+        <word pos="TO0">to</word>
+        <word pos="VVI">develop</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">language</word>
+        <word pos="PUN">.</word>
+        <word pos="TO0">To</word>
+        <word pos="VVI">improve</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">language</word>
+        <word pos="AV0">quickly</word>
+        <word pos="CJC">and</word>
+        <word pos="AV0">effectively</word>
+        <word pos="VVG">listening</word>
+        <word pos="VBZ">is</word>
+        <word pos="AT0">the</word>
+        <word pos="AV0">most</word>
+        <word pos="AJ0">important</word>
+        <word pos="NN1">skill</word>
+        <word pos="PRP">in</word>
+        <word pos="VVG">acquiring</word>
+        <word pos="NN1">language</word>
+        <word pos="AT0">the</word>
+        <word pos="VVZ">comes</word>
+        <word pos="PRP">after</word>
+        <word pos="AV0">directly</word>
+        <word pos="VVG">speaking</word>
+        <word pos="PRP">without</word>
+        <word pos="DT0">any</word>
+        <word pos="NN1">hesitation</word>
+        <word pos="PUN">.</word>
+        <word pos="PNP">I</word>
+        <word pos="VM0">will</word>
+        <word pos="VVI">add</word>
+        <word pos="AV0">more</word>
+        <word pos="PUN">.</word>
+        </body>
+      </text>
+    </corpus>
+  </root>

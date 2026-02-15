@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <corpus>
+    <text>
+      <metadata>
+        <Faculty>Human Sciences</Faculty>
+        <Semester>1</Semester>
+        <Age>18</Age>
+        <Time_spent_at_an_EnglishSpeaking_country>X</Time_spent_at_an_EnglishSpeaking_country>
+        <Topic>family</Topic>
+        <Title>family</Title>
+        </metadata>
+      <body>
+        <word pos="DPS">My</word>
+        <word pos="NN1">family</word>
+        <word pos="VBZ">is</word>
+        <word pos="DPS">my</word>
+        <word pos="NN1">mother</word>
+        <word pos="CJC">and</word>
+        <word pos="DPS">my</word>
+        <word pos="NN1">father</word>
+        <word pos="CJC">and</word>
+        <word pos="CRD">three</word>
+        <word pos="NN2">brothers</word>
+        <word pos="CJC">and</word>
+        <word pos="CRD">one</word>
+        <word pos="NN1">sister</word>
+        <word pos="CJC">and</word>
+        <word pos="PNP">me</word>
+        <word pos="PUN">.</word>
+        <word pos="DPS">my</word>
+        <word pos="NN1">father</word>
+        <word pos="PNP">He</word>
+        <word pos="VBZ">is</word>
+        <word pos="NN1">work</word>
+        <word pos="NN1">Doctor</word>
+        <word pos="PRP">in</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">hospital</word>
+        <word pos="CJC">and</word>
+        <word pos="DPS">my</word>
+        <word pos="NN1">mother</word>
+        <word pos="PNP">she</word>
+        <word pos="VBZ">is</word>
+        <word pos="NN1">work</word>
+        <word pos="NN1">teacher</word>
+        <word pos="PRP">in</word>
+        <word pos="NN1">school</word>
+        <word pos="CJC">and</word>
+        <word pos="DPS">my</word>
+        <word pos="NN2">brothers</word>
+        <word pos="CJC">and</word>
+        <word pos="DPS">my</word>
+        <word pos="NN1">sister</word>
+        <word pos="PNP">They</word>
+        <word pos="VBB">are</word>
+        <word pos="VVB">study</word>
+        </body>
+      </text>
+    </corpus>
+  </root>

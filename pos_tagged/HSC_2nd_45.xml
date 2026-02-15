@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <corpus>
+    <text>
+      <metadata>
+        <Faculty>Human Sciences</Faculty>
+        <Semester>2</Semester>
+        <Age>19</Age>
+        <Time_spent_at_an_EnglishSpeaking_country>none</Time_spent_at_an_EnglishSpeaking_country>
+        <Topic>An event changed your life</Topic>
+        <Title>An event changed your life</Title>
+        </metadata>
+      <body>
+        <word pos="AT0">An</word>
+        <word pos="NN1">event</word>
+        <word pos="CJT">that</word>
+        <word pos="VVD">changed</word>
+        <word pos="DPS">my</word>
+        <word pos="NN1">life</word>
+        <word pos="VBD">was</word>
+        <word pos="VVG">traveling</word>
+        <word pos="PRP">to</word>
+        <word pos="NP0">Sudia</word>
+        <word pos="NP0">Arabia</word>
+        <word pos="TO0">to</word>
+        <word pos="VVI">perform</word>
+        <word pos="NP0">Umrah</word>
+        <word pos="PUN">.</word>
+        <word pos="CJS">when</word>
+        <word pos="PNP">I</word>
+        <word pos="VVD">saw</word>
+        <word pos="NP0">AlKaaba</word>
+        <word pos="PNP">I</word>
+        <word pos="VVB">feel</word>
+        <word pos="VVI">found</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">life</word>
+        <word pos="AV0">finally</word>
+        <word pos="PUN">.</word>
+        <word pos="AV0">maybe</word>
+        <word pos="PNP">I</word>
+        <word pos="VBD">was</word>
+        <word pos="VVG">living</word>
+        <word pos="PRP">for</word>
+        <word pos="PNI">nothing</word>
+        <word pos="AV0">Just</word>
+        <word pos="PNP">I</word>
+        <word pos="VVB">eat</word>
+        <word pos="CJC">and</word>
+        <word pos="VVB">drink</word>
+        <word pos="PRP">for</word>
+        <word pos="PNI">nothing</word>
+        <word pos="CJC">but</word>
+        <word pos="CJS">when</word>
+        <word pos="VVB">visit</word>
+        <word pos="NP0">AlKaaba</word>
+        <word pos="PNP">I</word>
+        <word pos="AV0">finally</word>
+        <word pos="VVD">found</word>
+        <word pos="NN2">cases</word>
+        <word pos="PRP">for</word>
+        <word pos="DPS">my</word>
+        <word pos="NN1">life</word>
+        <word pos="PUN">.</word>
+        </body>
+      </text>
+    </corpus>
+  </root>

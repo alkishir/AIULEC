@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <corpus>
+    <text>
+      <metadata>
+        <Faculty>Education</Faculty>
+        <Semester>8</Semester>
+        <Age>22</Age>
+        <Time_spent_at_an_EnglishSpeaking_country>X</Time_spent_at_an_EnglishSpeaking_country>
+        <Topic>Honor of My Family</Topic>
+        <Title>Honor of my family</Title>
+        </metadata>
+      <body>
+        <word pos="NN1">Introduction</word>
+        <word pos="PUN">:</word>
+        <word pos="AT0">The</word>
+        <word pos="NN1">family</word>
+        <word pos="VBZ">is</word>
+        <word pos="AT0">a</word>
+        <word pos="NN1">basis</word>
+        <word pos="PRP">for</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">society</word>
+        <word pos="PUN">.</word>
+        <word pos="PNI">Everyone</word>
+        <word pos="VVZ">acts</word>
+        <word pos="DPS">his</word>
+        <word pos="CJC">or</word>
+        <word pos="DPS">her</word>
+        <word pos="NN1">family</word>
+        <word pos="PRP">outside</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">house</word>
+        <word pos="PUN">.</word>
+        <word pos="AT0">A</word>
+        <word pos="NN1">person</word>
+        <word pos="VM0">should</word>
+        <word pos="VHI">have</word>
+        <word pos="AT0">a</word>
+        <word pos="AJ0">good</word>
+        <word pos="NN1">behavior</word>
+        <word pos="TO0">to</word>
+        <word pos="VVI">reflex</word>
+        <word pos="AT0">a</word>
+        <word pos="AJ0">beautiful</word>
+        <word pos="NN1">picture</word>
+        <word pos="PRP">about</word>
+        <word pos="DPS">his</word>
+        <word pos="NN1">family</word>
+        <word pos="PUN">.</word>
+        <word pos="AV0">However</word>
+        <word pos="PUN">,</word>
+        <word pos="AT0">a</word>
+        <word pos="AJ0">strong</word>
+        <word pos="NN1">relationship</word>
+        <word pos="VVD">formed</word>
+        <word pos="AV0">firstly</word>
+        <word pos="PRP">in</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">family</word>
+        <word pos="PUN">.</word>
+        <word pos="AT0">The</word>
+        <word pos="NN1">family</word>
+        <word pos="VVN">considered</word>
+        <word pos="CJS">as</word>
+        <word pos="AV0">only</word>
+        <word pos="AT0">the</word>
+        <word pos="ORD">first</word>
+        <word pos="NN1">support</word>
+        <word pos="PRP">for</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">person</word>
+        <word pos="PUN">.</word>
+        </body>
+      </text>
+    </corpus>
+  </root>

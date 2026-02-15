@@ -1,0 +1,102 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <corpus>
+    <text>
+      <metadata>
+        <Faculty>Education</Faculty>
+        <Semester>4</Semester>
+        <Age>20</Age>
+        <Time_spent_at_an_EnglishSpeaking_country>X</Time_spent_at_an_EnglishSpeaking_country>
+        <Topic>Benefit of Internet</Topic>
+        <Title>Benefit of internet</Title>
+        </metadata>
+      <body>
+        <word pos="EX0">There</word>
+        <word pos="VBB">are</word>
+        <word pos="DT0">several</word>
+        <word pos="NN2">benefits</word>
+        <word pos="PRF">of</word>
+        <word pos="NN1">internet</word>
+        <word pos="PUN">,</word>
+        <word pos="VVD">sped</word>
+        <word pos="PRF">of</word>
+        <word pos="NN1">access</word>
+        <word pos="PRP">to</word>
+        <word pos="DT0">any</word>
+        <word pos="NN1">information</word>
+        <word pos="CJC">and</word>
+        <word pos="VVZ">helps</word>
+        <word pos="VVN">known</word>
+        <word pos="PRP">about</word>
+        <word pos="AJ0">other</word>
+        <word pos="NN1">country</word>
+        <word pos="CJC">and</word>
+        <word pos="AJ0">other</word>
+        <word pos="NN2">cultures</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">internet</word>
+        <word pos="VHZ">has</word>
+        <word pos="VVN">become</word>
+        <word pos="AJ0">essential</word>
+        <word pos="PRP">in</word>
+        <word pos="DT0">this</word>
+        <word pos="NN1">era</word>
+        <word pos="CJS">because</word>
+        <word pos="PNP">it</word>
+        <word pos="VBZ">is</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">age</word>
+        <word pos="PRF">of</word>
+        <word pos="NN1">speed</word>
+        <word pos="PUN">,</word>
+        <word pos="VVB">spend</word>
+        <word pos="DT0">most</word>
+        <word pos="NN0">people</word>
+        <word pos="NN1">time</word>
+        <word pos="PRP">on</word>
+        <word pos="NN1">internet</word>
+        <word pos="CJS">so</word>
+        <word pos="VM0">must</word>
+        <word pos="VVI">use</word>
+        <word pos="NN1">internet</word>
+        <word pos="PRP">in</word>
+        <word pos="AT0">a</word>
+        <word pos="AJ0">good</word>
+        <word pos="NN1">way</word>
+        <word pos="NN1">internet</word>
+        <word pos="VVZ">helps</word>
+        <word pos="PRP">in</word>
+        <word pos="NN1">communication</word>
+        <word pos="PRP">with</word>
+        <word pos="NN0">people</word>
+        <word pos="PRP">in</word>
+        <word pos="DT0">all</word>
+        <word pos="NN2">places</word>
+        <word pos="CJC">and</word>
+        <word pos="VVB">learn</word>
+        <word pos="PNI">anything</word>
+        <word pos="PRP">in</word>
+        <word pos="AT0">a</word>
+        <word pos="AV0">easily</word>
+        <word pos="NN1">way</word>
+        <word pos="PRP">such</word>
+        <word pos="PRP">as</word>
+        <word pos="NN1">language</word>
+        <word pos="CJC">or</word>
+        <word pos="NN1">cooking</word>
+        <word pos="CJC">or</word>
+        <word pos="DT0">any</word>
+        <word pos="NN1">hope</word>
+        <word pos="NN1">development</word>
+        <word pos="PRP">like</word>
+        <word pos="CJC">and</word>
+        <word pos="NN1">study</word>
+        <word pos="PRF">of</word>
+        <word pos="NN1">internet</word>
+        <word pos="VVB">become</word>
+        <word pos="AV0">very</word>
+        <word pos="AJ0">important</word>
+        </body>
+      </text>
+    </corpus>
+  </root>

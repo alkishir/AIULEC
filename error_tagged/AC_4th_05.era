@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<file name="" tagset="uclee-en-2.0.tag">
+Title: <GNC corr="Mark's Dog">Dog’s Mark</GNC> 
+
+Mark has a little white dog. It's very <FS corr="quiet">quit</FS> and nice. He <GVM corr="built">was built</GVM> <GA corr="a">\0</GA><LSADJ corr="small">mini</LSADJ> house in the park for his dog. He <GVT corr="gave"><GVM corr="gives">is give</GVM></GVT> bones to his dog. Mark <GVT corr="went">is going</GVT> with his dog <XPRCO corr="to walk">to walking</XPRCO> <LSPR corr="on">in</LSPR> <GA corr="the">\0</GA>street. The dog <GVT corr="slept">is sleeping</GVT> <LSPR corr="under"><WM corr="in">\0</WM>front</LSPR> the sun. Mark <GVT corr="seemed"><GVM corr="seems">is seems</GVM></GVT> very happy with his dog.
+</file>

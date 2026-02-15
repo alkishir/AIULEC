@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <corpus>
+    <text>
+      <metadata>
+        <Faculty>Arts</Faculty>
+        <Semester>3</Semester>
+        <Age>20</Age>
+        <Time_spent_at_an_EnglishSpeaking_country>X</Time_spent_at_an_EnglishSpeaking_country>
+        <Topic>University study</Topic>
+        <Title>University study</Title>
+        </metadata>
+      <body>
+        <word pos="DPS">your</word>
+        <word pos="AJ0">chosen</word>
+        <word pos="NN1">field</word>
+        <word pos="PUN">.</word>
+        <word pos="PNP">You</word>
+        <word pos="VVB">meet</word>
+        <word pos="AJ0">new</word>
+        <word pos="NN0">people</word>
+        <word pos="CJC">and</word>
+        <word pos="VVB">make</word>
+        <word pos="NN1">career</word>
+        <word pos="PUN">.</word>
+        <word pos="NN1">University</word>
+        <word pos="AV0">also</word>
+        <word pos="VVZ">helps</word>
+        <word pos="PNP">you</word>
+        <word pos="PRP">for</word>
+        <word pos="AT0">a</word>
+        <word pos="AJ0">good</word>
+        <word pos="NN1">job</word>
+        <word pos="CJC">and</word>
+        <word pos="AJ0">successful</word>
+        <word pos="PUN">.</word>
+        <word pos="NN1">University</word>
+        <word pos="AV0">also</word>
+        <word pos="AV0">critically</word>
+        <word pos="CJC">and</word>
+        <word pos="VVB">solve</word>
+        <word pos="NN2">problems</word>
+        <word pos="PUN">.</word>
+        <word pos="AV0">Overall</word>
+        <word pos="PUN">,</word>
+        <word pos="PNP">it</word>
+        <word pos="VVZ">provides</word>
+        <word pos="AJ0">personal</word>
+        <word pos="NN1">growth</word>
+        <word pos="CJC">and</word>
+        <word pos="AJC">better</word>
+        <word pos="NN2">opportunities</word>
+        <word pos="PRP">in</word>
+        <word pos="NN1">life</word>
+        <word pos="PUN">.</word>
+        <word pos="NN1">University</word>
+        <word pos="NN1">study</word>
+        <word pos="VHZ">has</word>
+        <word pos="DT0">many</word>
+        <word pos="NN2">benefits</word>
+        <word pos="PUN">.</word>
+        <word pos="PNP">It</word>
+        <word pos="VVZ">helps</word>
+        <word pos="PNP">you</word>
+        <word pos="VVI">learn</word>
+        <word pos="AJ0">new</word>
+        <word pos="NN2">skills</word>
+        <word pos="CJC">and</word>
+        <word pos="VVI">gain</word>
+        <word pos="NN1">knowledge</word>
+        <word pos="PRP">in</word>
+        </body>
+      </text>
+    </corpus>
+  </root>

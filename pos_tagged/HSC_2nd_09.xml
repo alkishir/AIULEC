@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <corpus>
+    <text>
+      <metadata>
+        <Faculty>Human Sciences</Faculty>
+        <Semester>2</Semester>
+        <Age>19</Age>
+        <Time_spent_at_an_EnglishSpeaking_country>X</Time_spent_at_an_EnglishSpeaking_country>
+        <Topic>a special place</Topic>
+        <Title>a special place</Title>
+        </metadata>
+      <body>
+        <word pos="AT0">A</word>
+        <word pos="AJ0">special</word>
+        <word pos="NN1">place</word>
+        <word pos="PRP">for</word>
+        <word pos="PRP">to</word>
+        <word pos="PNP">me</word>
+        <word pos="PNP">it</word>
+        <word pos="DPS">my</word>
+        <word pos="NN1">house</word>
+        <word pos="DT0">this</word>
+        <word pos="PNI">one</word>
+        <word pos="VVB">place</word>
+        <word pos="PNP">I</word>
+        <word pos="VBB">am</word>
+        <word pos="VVG">taking</word>
+        <word pos="PRP">to</word>
+        <word pos="DPS">my</word>
+        <word pos="NN1">rest</word>
+        <word pos="PUN">.</word>
+        <word pos="CJC">and</word>
+        <word pos="PNP">I</word>
+        <word pos="VVB">drink</word>
+        <word pos="NN1">coffee</word>
+        <word pos="PRP">with</word>
+        <word pos="NN1">mummy</word>
+        <word pos="CJC">and</word>
+        <word pos="PNX">each</word>
+        <word pos="UNC">ehat</word>
+        <word pos="PNX">other</word>
+        <word pos="PUN">.</word>
+        <word pos="PNP">I</word>
+        <word pos="VBB">am</word>
+        <word pos="AJ0">very</word>
+        <word pos="NN1">love</word>
+        <word pos="PRP">in</word>
+        <word pos="DT0">this</word>
+        <word pos="NN1">life</word>
+        <word pos="PRP">in</word>
+        <word pos="DPS">our</word>
+        <word pos="NN1">house</word>
+        <word pos="PUN">.</word>
+        </body>
+      </text>
+    </corpus>
+  </root>

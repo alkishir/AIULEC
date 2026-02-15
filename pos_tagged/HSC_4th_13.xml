@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <corpus>
+    <text>
+      <metadata>
+        <Faculty>Human Sciences</Faculty>
+        <Semester>4</Semester>
+        <Age>22</Age>
+        <Time_spent_at_an_EnglishSpeaking_country>X</Time_spent_at_an_EnglishSpeaking_country>
+        <Topic>Describing a picture</Topic>
+        <Title>...........</Title>
+        </metadata>
+      <body>
+        <word pos="CRD">One</word>
+        <word pos="NN1">day</word>
+        <word pos="PUN">,</word>
+        <word pos="PNP">I</word>
+        <word pos="VBD">was</word>
+        <word pos="AV0">very</word>
+        <word pos="AJ0">sad</word>
+        <word pos="PUN">,</word>
+        <word pos="PRP">after</word>
+        <word pos="DT0">that</word>
+        <word pos="AT0">a</word>
+        <word pos="NN1">boy</word>
+        <word pos="VVD">came</word>
+        <word pos="PRP">next</word>
+        <word pos="PRP">to</word>
+        <word pos="PNP">him</word>
+        <word pos="PUN">.</word>
+        <word pos="PNP">he</word>
+        <word pos="VVD">looked</word>
+        <word pos="PRP">at</word>
+        <word pos="PNP">me</word>
+        <word pos="PUN">,</word>
+        <word pos="AV0">then</word>
+        <word pos="PNP">he</word>
+        <word pos="VVB">run</word>
+        <word pos="AV0">quickly</word>
+        <word pos="PUN">.</word>
+        <word pos="AV0">Then</word>
+        <word pos="PNP">he</word>
+        <word pos="VVD">brought</word>
+        <word pos="DT0">some</word>
+        <word pos="NN2">boards</word>
+        <word pos="CJC">and</word>
+        <word pos="NN1">hammer</word>
+        <word pos="PUN">.</word>
+        <word pos="PRP">After</word>
+        <word pos="DT0">that</word>
+        <word pos="PUN">,</word>
+        <word pos="PNP">he</word>
+        <word pos="VVD">chose</word>
+        <word pos="AJ0">quiet</word>
+        <word pos="NN1">place</word>
+        <word pos="PUN">.</word>
+        <word pos="PNP">He</word>
+        <word pos="VVB">build</word>
+        <word pos="AT0">a</word>
+        <word pos="NN1">home</word>
+        <word pos="PRP">for</word>
+        <word pos="PNP">me</word>
+        <word pos="PUN">.</word>
+        <word pos="AV0">Then</word>
+        <word pos="PNP">I</word>
+        <word pos="VVD">went</word>
+        <word pos="PRP">inside</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">home</word>
+        <word pos="PUN">.</word>
+        <word pos="PNP">I</word>
+        <word pos="VBD">was</word>
+        <word pos="AV0">very</word>
+        <word pos="AJ0">happy</word>
+        <word pos="PUN">.</word>
+        </body>
+      </text>
+    </corpus>
+  </root>

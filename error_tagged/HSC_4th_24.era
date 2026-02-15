@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<file name="" tagset="uclee-en-2.0.tag">
+Title: <FS corr="A House for the Dog"><GA corr="A">\0</GA>house for <GA corr="the">\0</GA>dog</FS> 
+
+On Sunday:  
+
+Ali <LSV corr="was building"><GVAUX corr="was making">making</GVAUX></LSV> <GA corr="a">\0</GA>house <LSPR corr="for">to</LSPR> his dog  .
+
+He <LSV corr="was building"><GVAUX corr="was making">making</GVAUX></LSV> <GA corr="a">\0</GA>house of wood. 
+
+<FS corr="My">my</FS> dog was happy <LSPR corr="because of ">to</LSPR> the house<QM corr=".">\0</QM>
+</file>

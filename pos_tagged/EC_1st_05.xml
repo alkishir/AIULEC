@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <corpus>
+    <text>
+      <metadata>
+        <Faculty>Education</Faculty>
+        <Semester>1</Semester>
+        <Age>19</Age>
+        <Time_spent_at_an_EnglishSpeaking_country>X</Time_spent_at_an_EnglishSpeaking_country>
+        <Topic>An interesting place</Topic>
+        <Title>An interesting place</Title>
+        </metadata>
+      <body>
+        <word pos="PNP">I</word>
+        <word pos="VVD">went</word>
+        <word pos="PRP">to</word>
+        <word pos="AT0">a</word>
+        <word pos="AJ0">beautiful</word>
+        <word pos="NN1">garden</word>
+        <word pos="VHZ">has</word>
+        <word pos="DT0">many</word>
+        <word pos="NN2">flowers</word>
+        <word pos="PRP">with</word>
+        <word pos="DT0">many</word>
+        <word pos="AJ0">different</word>
+        <word pos="NN0">colors.</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">garden</word>
+        <word pos="VBZ">is</word>
+        <word pos="AV0">so</word>
+        <word pos="AJ0">amazing</word>
+        <word pos="PUN">.</word>
+        <word pos="PNP">it</word>
+        <word pos="VHZ">has</word>
+        <word pos="AJ0">huge</word>
+        <word pos="CJC">and</word>
+        <word pos="AV0">very</word>
+        <word pos="NN1">gaiety</word>
+        <word pos="PUN">.</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">garden</word>
+        <word pos="VHZ">has</word>
+        <word pos="DT0">many</word>
+        <word pos="NN2">kinds</word>
+        <word pos="PRF">of</word>
+        <word pos="NN2">trees</word>
+        <word pos="PUN">.</word>
+        <word pos="EX0">there</word>
+        <word pos="VBB">are</word>
+        <word pos="NN2">areas</word>
+        <word pos="PRP">for</word>
+        <word pos="VVG">setting</word>
+        <word pos="NN0">people</word>
+        <word pos="VVI">go</word>
+        <word pos="AV0">there</word>
+        <word pos="TO0">to</word>
+        <word pos="VVI">relax</word>
+        <word pos="CJC">and</word>
+        <word pos="VVI">enjoy</word>
+        <word pos="DPS">their</word>
+        <word pos="NN2">times</word>
+        <word pos="PUN">.</word>
+        </body>
+      </text>
+    </corpus>
+  </root>

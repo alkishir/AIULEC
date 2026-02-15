@@ -1,0 +1,112 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <corpus>
+    <text>
+      <metadata>
+        <Faculty>Human Sciences</Faculty>
+        <Semester>6</Semester>
+        <Age>20</Age>
+        <Time_spent_at_an_EnglishSpeaking_country>X</Time_spent_at_an_EnglishSpeaking_country>
+        <Topic>We should devote most of our lives to being happy</Topic>
+        <Title>Happy</Title>
+        </metadata>
+      <body>
+        <word pos="NN1">Happiness</word>
+        <word pos="VBZ">is</word>
+        <word pos="AV0">very</word>
+        <word pos="AJ0">important</word>
+        <word pos="PRP">in</word>
+        <word pos="NN1">life</word>
+        <word pos="PRP">for</word>
+        <word pos="AT0">a</word>
+        <word pos="NN1">person</word>
+        <word pos="TO0">to</word>
+        <word pos="VBI">be</word>
+        <word pos="AJ0">happy</word>
+        <word pos="PNP">he</word>
+        <word pos="VVZ">makes</word>
+        <word pos="PNP">him</word>
+        <word pos="AV0">more</word>
+        <word pos="AJ0">capable</word>
+        <word pos="PRF">of</word>
+        <word pos="VVG">continuing</word>
+        <word pos="NN1">life</word>
+        <word pos="CJS">so</word>
+        <word pos="PNP">we</word>
+        <word pos="VM0">must</word>
+        <word pos="VVI">devote</word>
+        <word pos="PNX">ourselves</word>
+        <word pos="NN1">happiness</word>
+        <word pos="CJC">and</word>
+        <word pos="VVB">help</word>
+        <word pos="NN2">others</word>
+        <word pos="PUN">,</word>
+        <word pos="AV0">however</word>
+        <word pos="PNP">it</word>
+        <word pos="VBZ">is</word>
+        <word pos="AT0">a</word>
+        <word pos="NN1">condition</word>
+        <word pos="CJT">that</word>
+        <word pos="VVZ">makes</word>
+        <word pos="AT0">a</word>
+        <word pos="NN1">person</word>
+        <word pos="VVI">judge</word>
+        <word pos="DPS">her</word>
+        <word pos="NN1">life</word>
+        <word pos="CJC">and</word>
+        <word pos="DPS">his</word>
+        <word pos="NN2">days</word>
+        <word pos="CJS">as</word>
+        <word pos="AJ0">beautiful</word>
+        <word pos="CJC">and</word>
+        <word pos="AJ0">stable</word>
+        <word pos="PRP">as</word>
+        <word pos="AT0">a</word>
+        <word pos="NN1">result</word>
+        <word pos="PRF">of</word>
+        <word pos="DPS">his</word>
+        <word pos="NN1">feeling</word>
+        <word pos="PRF">of</word>
+        <word pos="NN1">joy</word>
+        <word pos="CJC">and</word>
+        <word pos="NN1">pleasure</word>
+        <word pos="AV0">together</word>
+        <word pos="PUN">.</word>
+        <word pos="PRP">For</word>
+        <word pos="PNI">someone</word>
+        <word pos="PNQ">who</word>
+        <word pos="VVZ">loves</word>
+        <word pos="PNP">him</word>
+        <word pos="NN1">happiness</word>
+        <word pos="VVZ">varies</word>
+        <word pos="PRP">from</word>
+        <word pos="NN1">person</word>
+        <word pos="PRP">to</word>
+        <word pos="NN1">person</word>
+        <word pos="PUN">,</word>
+        <word pos="CJS">as</word>
+        <word pos="PNP">it</word>
+        <word pos="VVZ">carries</word>
+        <word pos="DT0">many</word>
+        <word pos="NN2">meanings</word>
+        <word pos="CJC">and</word>
+        <word pos="DT0">many</word>
+        <word pos="NN2">concepts</word>
+        <word pos="PRP">in</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">end</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">happiness</word>
+        <word pos="VBZ">is</word>
+        <word pos="AV0">very</word>
+        <word pos="AJ0">important</word>
+        <word pos="PRP">in</word>
+        <word pos="NN1">life</word>
+        <word pos="PRP">for</word>
+        <word pos="AT0">a</word>
+        <word pos="NN1">person</word>
+        <word pos="PUN">.</word>
+        </body>
+      </text>
+    </corpus>
+  </root>

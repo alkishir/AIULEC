@@ -1,0 +1,94 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <corpus>
+    <text>
+      <metadata>
+        <Faculty>Arts</Faculty>
+        <Semester>2</Semester>
+        <Age>none</Age>
+        <Time_spent_at_an_EnglishSpeaking_country>none</Time_spent_at_an_EnglishSpeaking_country>
+        <Topic>A special place</Topic>
+        <Title>A special place</Title>
+        </metadata>
+      <body>
+        <word pos="CRD">One</word>
+        <word pos="PRF">of</word>
+        <word pos="DPS">my</word>
+        <word pos="AJ0">favorite</word>
+        <word pos="NN1">place</word>
+        <word pos="VBZ">is</word>
+        <word pos="DPS">my</word>
+        <word pos="NN1">room</word>
+        <word pos="PUN">.</word>
+        <word pos="CJS">where</word>
+        <word pos="PNP">I</word>
+        <word pos="VVB">feel</word>
+        <word pos="AV0">very</word>
+        <word pos="AJ0">cozy</word>
+        <word pos="CJC">and</word>
+        <word pos="AJ0">comfortable</word>
+        <word pos="PUN">.</word>
+        <word pos="DPS">its</word>
+        <word pos="NN1">size</word>
+        <word pos="VBZ">is</word>
+        <word pos="AJ0">medium</word>
+        <word pos="PRP">with</word>
+        <word pos="AT0">the</word>
+        <word pos="AJ0">small</word>
+        <word pos="NN1">bed</word>
+        <word pos="PRP">behind</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">window</word>
+        <word pos="CJS">when</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">sun</word>
+        <word pos="VVD">rised</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">light</word>
+        <word pos="PRF">of</word>
+        <word pos="PNP">it</word>
+        <word pos="VVZ">makes</word>
+        <word pos="PNP">me</word>
+        <word pos="VVB">feel</word>
+        <word pos="AV0">very</word>
+        <word pos="VVI">relax</word>
+        <word pos="CJC">and</word>
+        <word pos="AVQ">when</word>
+        <word pos="PNP">I</word>
+        <word pos="PRP">on</word>
+        <word pos="PNP">it</word>
+        <word pos="PNP">I</word>
+        <word pos="VBI">be</word>
+        <word pos="AJ0">real</word>
+        <word pos="CJC">and</word>
+        <word pos="AJ0">cozy</word>
+        <word pos="PUN">.</word>
+        <word pos="PNP">it</word>
+        <word pos="VBZ">'s</word>
+        <word pos="PRP">like</word>
+        <word pos="PNP">me</word>
+        <word pos="NN1">fall</word>
+        <word pos="PRF">of</word>
+        <word pos="AT0">the</word>
+        <word pos="NN2">books</word>
+        <word pos="CJC">and</word>
+        <word pos="NN1">tree</word>
+        <word pos="NN2">plants</word>
+        <word pos="PUN">.</word>
+        <word pos="DPS">my</word>
+        <word pos="NN1">room</word>
+        <word pos="VBZ">is</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">place</word>
+        <word pos="CJT">that</word>
+        <word pos="PNP">I</word>
+        <word pos="AJ0">real</word>
+        <word pos="VVB">feel</word>
+        <word pos="VVI">relax</word>
+        <word pos="PRP">on</word>
+        <word pos="PNP">it</word>
+        <word pos="PUN">.</word>
+        </body>
+      </text>
+    </corpus>
+  </root>

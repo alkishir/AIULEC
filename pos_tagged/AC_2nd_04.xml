@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <corpus>
+    <text>
+      <metadata>
+        <Faculty>Arts</Faculty>
+        <Semester>2</Semester>
+        <Age>none</Age>
+        <Time_spent_at_an_EnglishSpeaking_country>X</Time_spent_at_an_EnglishSpeaking_country>
+        <Topic>A special place</Topic>
+        <Title>A special place</Title>
+        </metadata>
+      <body>
+        <word pos="DPS">My</word>
+        <word pos="NN1">room</word>
+        <word pos="VBZ">is</word>
+        <word pos="AT0">the</word>
+        <word pos="AJ0">perfect</word>
+        <word pos="NN1">place</word>
+        <word pos="PRP">for</word>
+        <word pos="PNP">me</word>
+        <word pos="PUN">.</word>
+        <word pos="PNP">It</word>
+        <word pos="VBZ">'s</word>
+        <word pos="AJ0">different</word>
+        <word pos="PRP">from</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">rest</word>
+        <word pos="PRF">of</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">house</word>
+        <word pos="PUN">.</word>
+        <word pos="ORD">First</word>
+        <word pos="PUN">,</word>
+        <word pos="PNP">I</word>
+        <word pos="VVB">enjoy</word>
+        <word pos="PRP">by</word>
+        <word pos="VVG">lighting</word>
+        <word pos="DPS">my</word>
+        <word pos="AJ0">colorful</word>
+        <word pos="NN1">room</word>
+        <word pos="PUN">.</word>
+        <word pos="CJS">When</word>
+        <word pos="PNP">it</word>
+        <word pos="VBZ">'s</word>
+        <word pos="NN1">afternoon</word>
+        <word pos="PNP">I</word>
+        <word pos="VVB">drink</word>
+        <word pos="AT0">a</word>
+        <word pos="NN1">cup</word>
+        <word pos="PRF">of</word>
+        <word pos="NN1">coffee</word>
+        <word pos="PRP">in</word>
+        <word pos="PNP">it</word>
+        <word pos="PUN">.</word>
+        <word pos="PRP">In</word>
+        <word pos="NN1">fact</word>
+        <word pos="PUN">,</word>
+        <word pos="PNP">I</word>
+        <word pos="VVB">spend</word>
+        <word pos="NN1">lot</word>
+        <word pos="PRF">of</word>
+        <word pos="NN1">time</word>
+        <word pos="PRP">in</word>
+        <word pos="DPS">my</word>
+        <word pos="NN1">room</word>
+        <word pos="PUN">.</word>
+        </body>
+      </text>
+    </corpus>
+  </root>

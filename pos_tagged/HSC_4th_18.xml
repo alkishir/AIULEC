@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <corpus>
+    <text>
+      <metadata>
+        <Faculty>Human Sciences</Faculty>
+        <Semester>4</Semester>
+        <Age>19</Age>
+        <Time_spent_at_an_EnglishSpeaking_country>X</Time_spent_at_an_EnglishSpeaking_country>
+        <Topic>Describing a picture</Topic>
+        <Title>boy and dog</Title>
+        </metadata>
+      <body>
+        <word pos="EX0">There</word>
+        <word pos="VBD">was</word>
+        <word pos="AT0">a</word>
+        <word pos="AJ0">little</word>
+        <word pos="NN1">boy</word>
+        <word pos="PNQ">who</word>
+        <word pos="VVD">loved</word>
+        <word pos="DPS">his</word>
+        <word pos="NN1">dog</word>
+        <word pos="AV0">very</word>
+        <word pos="DT0">much</word>
+        <word pos="PUN">.</word>
+        <word pos="CRD">one</word>
+        <word pos="NN1">day</word>
+        <word pos="PUN">,</word>
+        <word pos="PNP">he</word>
+        <word pos="VVD">decided</word>
+        <word pos="TO0">to</word>
+        <word pos="VVI">build</word>
+        <word pos="AT0">a</word>
+        <word pos="AJ0">small</word>
+        <word pos="NN1">house</word>
+        <word pos="PRP">for</word>
+        <word pos="DT0">this</word>
+        <word pos="NN1">dog</word>
+        <word pos="PUN">.</word>
+        <word pos="AV0">So</word>
+        <word pos="PNP">it</word>
+        <word pos="VM0">could</word>
+        <word pos="VVI">feel</word>
+        <word pos="AJ0">comfortable</word>
+        <word pos="PUN">.</word>
+        <word pos="PNP">He</word>
+        <word pos="VVD">worked</word>
+        <word pos="AJ0">hard</word>
+        <word pos="CJC">and</word>
+        <word pos="VVD">built</word>
+        <word pos="AT0">a</word>
+        <word pos="AJ0">beautiful</word>
+        <word pos="NN1">house</word>
+        <word pos="PUN">.</word>
+        <word pos="AT0">The</word>
+        <word pos="NN1">dog</word>
+        <word pos="VBD">was</word>
+        <word pos="AJ0">happy</word>
+        <word pos="CJC">and</word>
+        <word pos="VVD">started</word>
+        <word pos="VVG">living</word>
+        <word pos="PRP">in</word>
+        <word pos="DPS">its</word>
+        <word pos="AJ0">new</word>
+        <word pos="NN1">home</word>
+        </body>
+      </text>
+    </corpus>
+  </root>

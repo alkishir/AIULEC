@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <corpus>
+    <text>
+      <metadata>
+        <Faculty>Arts</Faculty>
+        <Semester>1</Semester>
+        <Age>19</Age>
+        <Time_spent_at_an_EnglishSpeaking_country>none</Time_spent_at_an_EnglishSpeaking_country>
+        <Topic>Family </Topic>
+        <Title>Family</Title>
+        </metadata>
+      <body>
+        <word pos="PNP">I</word>
+        <word pos="VHB">have</word>
+        <word pos="CRD">two</word>
+        <word pos="NN2">sisters</word>
+        <word pos="CJC">and</word>
+        <word pos="CRD">seven</word>
+        <word pos="NN2">brothers</word>
+        <word pos="PUN">,</word>
+        <word pos="DPS">My</word>
+        <word pos="NN1">father</word>
+        <word pos="NN1">job</word>
+        <word pos="VBZ">is</word>
+        <word pos="AT0">a</word>
+        <word pos="NN1">engineer</word>
+        <word pos="NN1">electricity</word>
+        <word pos="PUN">.</word>
+        <word pos="DPS">My</word>
+        <word pos="NN1">mother</word>
+        <word pos="NN1">job</word>
+        <word pos="VBZ">is</word>
+        <word pos="AT0">a</word>
+        <word pos="NN1">housewife</word>
+        <word pos="PUN">.</word>
+        <word pos="DPS">My</word>
+        <word pos="ORD">first</word>
+        <word pos="NN1">brother</word>
+        <word pos="VBZ">is</word>
+        <word pos="NP0">Mohmed</word>
+        <word pos="CJC">and</word>
+        <word pos="NN1">study</word>
+        <word pos="VBZ">is</word>
+        <word pos="AT0">a</word>
+        <word pos="NN1">math</word>
+        <word pos="PUN">.</word>
+        </body>
+      </text>
+    </corpus>
+  </root>

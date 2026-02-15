@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<file name="" tagset="uclee-en-2.0.tag">
+Title: <FS corr="The Boy and the Dog">The boy and <GA corr="the">a</GA> dog</FS> 
+
+<LCLC corr="One day">In one day</LCLC>, <GA corr="a"><FS corr="the">The</FS></GA> boy was <GVM corr="playing">play</GVM> in the garden <QC corr=".">,</QC> He <XPRCO corr="decided to build"><XVPR corr="decided to"><FS corr="decided">dieced</FS></XVPR> <FS corr="building">belding</FS></XPRCO> <GA corr="a">the</GA> <LSN corr="house">home</LSN> for a dog <QC corr=".">,</QC> He <GVM corr="took">taked</GVM> some wood and <GVM corr="made">maked</GVM> <GA corr="the">\0</GA><LSN corr="house">home</LSN> beautiful . 
+
+<GA corr="The">\0</GA><FS corr="dog">dag</FS> was very happy and <WM corr="went">\0</WM><FS corr="inside">indsided</FS> the <LSN corr="house">home</LSN> . 
+
+<FS corr="And">and </FS>after,<GA corr="the">\0</GA>boy wanted <GPP corr="0">He</GPP> <LCC corr="0">and</LCC> <GA corr="the">\0</GA>dog <XVPR corr="to play">for playing</XVPR> in the garden .
+</file>

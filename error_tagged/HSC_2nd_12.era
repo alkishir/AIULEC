@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<file name="" tagset="uclee-en-2.0.tag">
+Title: <FS corr="My Timetable for a Day">My timetable for a day</FS>                                              
+
+I wake up early. First, I <FS corr="prepare">prepar</FS> myself and eat my breakfast. Then<QM corr=",">\0</QM> I go to <GA corr="0">the</GA> college. Third, I meet my friends and take my <LSN corr="textbooks">chapters</LSN> to the <GNN corr="lesson"><FS corr="lessons">lessions</FS></GNN>. After that, I <WM corr="go">\0</WM>back <WR corr="0">to</WR> <GA corr="0">the</GA> home and drink some coffee with my mother – <GPD corr="that is">this's</GPD> the best time for me – <QM corr=".">\0</QM>finally, I <XVPR corr="work on">work</XVPR> what I have to do and go to sleep.
+</file>

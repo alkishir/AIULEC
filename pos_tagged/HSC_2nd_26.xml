@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <corpus>
+    <text>
+      <metadata>
+        <Faculty>Human Sciences</Faculty>
+        <Semester>2</Semester>
+        <Age>18</Age>
+        <Time_spent_at_an_EnglishSpeaking_country>X</Time_spent_at_an_EnglishSpeaking_country>
+        <Topic>A special place</Topic>
+        <Title>A special place</Title>
+        </metadata>
+      <body>
+        <word pos="PNP">I</word>
+        <word pos="VVB">prefer</word>
+        <word pos="TO0">to</word>
+        <word pos="VVI">go</word>
+        <word pos="PRP">to</word>
+        <word pos="NP0">Misurata</word>
+        <word pos="CJC">and</word>
+        <word pos="VVG">shopping</word>
+        <word pos="PRP">to</word>
+        <word pos="NN2">malls</word>
+        <word pos="CJC">and</word>
+        <word pos="NN1">park</word>
+        <word pos="AV0">also</word>
+        <word pos="VVD">went</word>
+        <word pos="PRP">to</word>
+        <word pos="NN1">sea</word>
+        <word pos="CJC">and</word>
+        <word pos="NN1">tourist</word>
+        <word pos="NN2">places</word>
+        <word pos="PUN">.</word>
+        <word pos="PNP">I</word>
+        <word pos="VVB">hate</word>
+        <word pos="VVI">go</word>
+        <word pos="PRP">to</word>
+        <word pos="NN1">college</word>
+        <word pos="AJ0">everyday</word>
+        <word pos="PUN">.</word>
+        </body>
+      </text>
+    </corpus>
+  </root>

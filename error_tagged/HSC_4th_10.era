@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<file name="" tagset="uclee-en-2.0.tag">
+Title: <FS corr="Tom and the Dog">Tom and<GA corr="the">\0</GA> dog</FS> 
+
+One day , <FS corr="there">There</FS> <GVT corr="was">is</GVT> a dog <QC corr=".">,</QC> it <GVT corr="lived">lives</GVT> in the wild, and didn’t <GVM corr="have">has</GVM> <GA corr="a">the</GA> house.  
+
+<LCLC corr="One day,">In once day</LCLC><QM corr=",">\0</QM> it watched <GA corr="a">\0</GA>boy <QC corr=".">,</QC> <WO corr="the boy sympathized with the dog">the dog <XVPR corr="sympathized with"><GVT corr="sympathized"><LSN corr="sympathizes"><FS corr="empathizes">empthies</FS></LSN></GVT></XVPR> the boy</WO> <QR corr="0">,</QR>and <GVT corr="took">takes</GVT> <GPP corr="it">\0</GPP>with <GPP corr="him">it</GPP>, and <GPP corr="he">it</GPP> <GVT corr="made">makes</GVT><GA corr="a">\0</GA> small <FS corr="house">hous</FS> for<WM corr="the dog to">\0</WM> <XPRCO corr="live">lives</XPRCO><WM corr="in">\0</WM> it , and it started a beautiful life. 
+
+Finally , <GA corr="0"><FS corr="the">The</FS></GA> kindness to animals is a good thing and <LSPR corr="is">from</LSPR> <GWC corr="humane">humanities</GWC>.
+</file>

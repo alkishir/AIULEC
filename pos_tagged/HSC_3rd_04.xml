@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <corpus>
+    <text>
+      <metadata>
+        <Faculty>Human Sciences</Faculty>
+        <Semester>3</Semester>
+        <Age>20</Age>
+        <Time_spent_at_an_EnglishSpeaking_country>X</Time_spent_at_an_EnglishSpeaking_country>
+        <Topic>Social media</Topic>
+        <Title>Social media</Title>
+        </metadata>
+      <body>
+        <word pos="AT0">The</word>
+        <word pos="AJ0">social</word>
+        <word pos="NN0">media</word>
+        <word pos="VBZ">is</word>
+        <word pos="AV0">more</word>
+        <word pos="AJ0">important</word>
+        <word pos="PRP">in</word>
+        <word pos="DPS">our</word>
+        <word pos="NN1">life</word>
+        <word pos="PUN">.</word>
+        <word pos="PNP">it</word>
+        <word pos="VHZ">has</word>
+        <word pos="DT0">many</word>
+        <word pos="NN1">information</word>
+        <word pos="VM0">can</word>
+        <word pos="PNP">you</word>
+        <word pos="VVI">use</word>
+        <word pos="PRP">in</word>
+        <word pos="DPS">your</word>
+        <word pos="NN1">day</word>
+        <word pos="CJC">and</word>
+        <word pos="DPS">your</word>
+        <word pos="NN1">life</word>
+        <word pos="PUN">.</word>
+        <word pos="AT0">The</word>
+        <word pos="AJ0">social</word>
+        <word pos="NN0">media</word>
+        <word pos="VVB">help</word>
+        <word pos="PNP">us</word>
+        <word pos="PRP">in</word>
+        <word pos="NN1">homework</word>
+        <word pos="PUN">,</word>
+        <word pos="VVI">learn</word>
+        <word pos="NN1">English</word>
+        <word pos="PUN">.</word>
+        <word pos="PNP">it</word>
+        <word pos="VBZ">'s</word>
+        <word pos="VVZ">makes</word>
+        <word pos="PNP">us</word>
+        <word pos="AV0">more</word>
+        <word pos="VVN">understood</word>
+        <word pos="PRP">in</word>
+        <word pos="PNI">everything</word>
+        <word pos="PNP">we</word>
+        <word pos="VBB">are</word>
+        <word pos="NN1">need</word>
+        <word pos="TO0">to</word>
+        <word pos="VVI">learn</word>
+        <word pos="PUN">.</word>
+        <word pos="AT0">The</word>
+        <word pos="NN1">homework</word>
+        <word pos="VBZ">is</word>
+        <word pos="AV0">so</word>
+        <word pos="AJ0">perfect</word>
+        <word pos="PRP">to</word>
+        <word pos="PNP">us</word>
+        <word pos="PUN">.</word>
+        <word pos="PNP">it</word>
+        <word pos="VBZ">'s</word>
+        <word pos="AJ0">useful</word>
+        <word pos="PRP">for</word>
+        <word pos="PNP">us</word>
+        <word pos="CJS">because</word>
+        <word pos="VVZ">makes</word>
+        <word pos="PNP">us</word>
+        <word pos="VVI">search</word>
+        <word pos="PRP">about</word>
+        <word pos="AT0">The</word>
+        <word pos="NN1">topic</word>
+        <word pos="DTQ">which</word>
+        <word pos="AJ0">written</word>
+        <word pos="PUN">.</word>
+        <word pos="CJC">and</word>
+        <word pos="VVZ">makes</word>
+        <word pos="PNP">it</word>
+        <word pos="NN1">information</word>
+        <word pos="TO0">to</word>
+        <word pos="AV0">more</word>
+        <word pos="VVI">learn</word>
+        <word pos="PUN">.</word>
+        <word pos="AT0">The</word>
+        <word pos="AJ0">social</word>
+        <word pos="NN0">media</word>
+        <word pos="PNP">it</word>
+        </body>
+      </text>
+    </corpus>
+  </root>

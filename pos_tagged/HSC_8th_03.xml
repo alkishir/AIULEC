@@ -1,0 +1,99 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <corpus>
+    <text>
+      <metadata>
+        <Faculty>Human Sciences</Faculty>
+        <Semester>8</Semester>
+        <Age>22</Age>
+        <Time_spent_at_an_EnglishSpeaking_country>none</Time_spent_at_an_EnglishSpeaking_country>
+        <Topic>What is the importance of family? </Topic>
+        <Title>Importance of family</Title>
+        </metadata>
+      <body>
+        <word pos="AT0">the</word>
+        <word pos="NN2">families</word>
+        <word pos="VBB">are</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">basis</word>
+        <word pos="PRP">at</word>
+        <word pos="NN1">society</word>
+        <word pos="CJT">that</word>
+        <word pos="VM0">will</word>
+        <word pos="VVI">help</word>
+        <word pos="TO0">to</word>
+        <word pos="VVZ">contains</word>
+        <word pos="DT0">this</word>
+        <word pos="NN1">world</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">family</word>
+        <word pos="VBZ">is</word>
+        <word pos="AV0">very</word>
+        <word pos="AJ0">important</word>
+        <word pos="PRP">for</word>
+        <word pos="DT0">all</word>
+        <word pos="NN0">people</word>
+        <word pos="PRP">in</word>
+        <word pos="AT0">the</word>
+        <word pos="NN1">world</word>
+        <word pos="PUN">.</word>
+        <word pos="NN2">families</word>
+        <word pos="VVB">boost</word>
+        <word pos="DPS">our</word>
+        <word pos="NN1">confidence</word>
+        <word pos="CJC">and</word>
+        <word pos="VVB">make</word>
+        <word pos="PNP">us</word>
+        <word pos="VVI">feel</word>
+        <word pos="VVN">loved</word>
+        <word pos="PNP">They</word>
+        <word pos="VBB">are</word>
+        <word pos="AT0">the</word>
+        <word pos="NN2">pillars</word>
+        <word pos="PRF">of</word>
+        <word pos="DPS">our</word>
+        <word pos="NN1">strength</word>
+        <word pos="PNQ">who</word>
+        <word pos="VBD">were</word>
+        <word pos="NN1">fall</word>
+        <word pos="AV0">instead</word>
+        <word pos="VVB">keep</word>
+        <word pos="PNP">us</word>
+        <word pos="AJ0">strong</word>
+        <word pos="CJS">so</word>
+        <word pos="PNP">we</word>
+        <word pos="VVB">become</word>
+        <word pos="AJC">better</word>
+        <word pos="NN0">people</word>
+        <word pos="PNP">we</word>
+        <word pos="VVB">learn</word>
+        <word pos="AT0">the</word>
+        <word pos="NN2">values</word>
+        <word pos="PRF">of</word>
+        <word pos="NN1">love</word>
+        <word pos="PUN">,</word>
+        <word pos="NN1">respect</word>
+        <word pos="NN1">faith</word>
+        <word pos="PUN">,</word>
+        <word pos="NN1">hope</word>
+        <word pos="PUN">,</word>
+        <word pos="VVG">caring</word>
+        <word pos="PUN">,</word>
+        <word pos="NN2">cultures</word>
+        <word pos="NN2">ethics</word>
+        <word pos="PUN">,</word>
+        <word pos="NN2">traditions</word>
+        <word pos="CJC">and</word>
+        <word pos="PNI">everything</word>
+        <word pos="AV0">else</word>
+        <word pos="CJT">that</word>
+        <word pos="VVZ">concerns</word>
+        <word pos="PNP">us</word>
+        <word pos="PRP">through</word>
+        <word pos="DPS">our</word>
+        <word pos="NN2">families</word>
+        <word pos="PUN">.</word>
+        </body>
+      </text>
+    </corpus>
+  </root>

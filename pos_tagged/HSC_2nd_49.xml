@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <corpus>
+    <text>
+      <metadata>
+        <Faculty>Human Sciences</Faculty>
+        <Semester>2</Semester>
+        <Age>19</Age>
+        <Time_spent_at_an_EnglishSpeaking_country>X</Time_spent_at_an_EnglishSpeaking_country>
+        <Topic>English Language</Topic>
+        <Title>English Language</Title>
+        </metadata>
+      <body>
+        <word pos="AT0">the</word>
+        <word pos="AJ0">English</word>
+        <word pos="NN2">languages</word>
+        <word pos="VBZ">is</word>
+        <word pos="AJ0">important</word>
+        <word pos="CJC">and</word>
+        <word pos="DT0">more</word>
+        <word pos="NN0">people</word>
+        <word pos="VVG">speaking</word>
+        <word pos="AJ0">English</word>
+        <word pos="NN2">languages</word>
+        <word pos="CJC">and</word>
+        <word pos="PNP">I</word>
+        <word pos="VVB">like</word>
+        <word pos="NN1">English</word>
+        <word pos="CJS">because</word>
+        <word pos="PNP">I</word>
+        <word pos="VVB">enjoy</word>
+        <word pos="PNP">it</word>
+        <word pos="PUN">.</word>
+        </body>
+      </text>
+    </corpus>
+  </root>

@@ -36,6 +36,12 @@ AIULEC can be used for:
 - error analysis
 - NLP for learner English (e.g., tagging, classification, GEC)
 
+## Citation
+
+If you use this corpus, please cite:
+
+**Zenodo dataset**: https://doi.org/10.5281/zenodo.18654313
+
 ## Related Publication
 A paper describing the corpus design and methodology has been accepted for presentation at:
 

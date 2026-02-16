@@ -34,13 +34,17 @@ AIULEC can be used for:
 - learner corpus research
 - SLA studies
 - error analysis
-- NLP for learner English (e.g., tagging, classification, GEC)
+- NLP for learner English
 
 ## Citation
 
 If you use this corpus, please cite:
 
 **Zenodo dataset**: https://doi.org/10.5281/zenodo.18654313
+
+## Hugging Face Dataset
+
+**Dataset link:** https://huggingface.co/datasets/alkishir/AIULEC
 
 ## Related Publication
 A paper describing the corpus design and methodology has been accepted for presentation at:

@@ -12,7 +12,7 @@
 ## Contents & Formats
 This repository includes:
 
-- **XML files**: learner texts with embedded **metadata** and **CLAWS C5 POS tags**
+- **XML files**: learner texts [with corrected spelling], with embedded **metadata** and **CLAWS C5 POS tags**
 - **UCLEE error-tagged files**: manually annotated learner errors (UCLEE format)
 - **TXT files**: plain-text versions of the learner writings
 - **CSV file**: combined metadata table for all documents
@@ -50,7 +50,6 @@ If you use this corpus, please cite:
 A paper describing the corpus design and methodology has been accepted for presentation at:
 
 > Alkishir, M., Mohsen, G., & Alzabob, H. (2025). *A corpus-based analysis of lexical, syntactic and error patterns in the Al-asmarya Islamic University Learner English Corpus (AIULEC).* In *Proceedings of the Third Undergraduate and Graduate Students Conference*, Al-asmarya Islamic University.
-
 
 ## License
 This project is licensed under the **Creative Commons Attribution–NonCommercial 4.0 International (CC BY-NC 4.0)** license.  
